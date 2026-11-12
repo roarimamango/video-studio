@@ -1,0 +1,13 @@
+{
+  "extraKnownMarketplaces": {
+    "video-studio": {
+      "source": {
+        "source": "directory",
+        "path": "./"
+      }
+    }
+  },
+  "enabledPlugins": {
+    "growkaz-stickman@video-studio": true
+  }
+}

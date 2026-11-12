@@ -1,0 +1,32 @@
+{
+  "name": "video-studio",
+  "version": "1.0.0",
+  "private": true,
+  "description": "3D animated videos with Three.js + Remotion",
+  "scripts": {
+    "dev": "remotion studio",
+    "render": "remotion render src/index.ts MyVideo out/video.mp4",
+    "still": "remotion still src/index.ts MyVideo out/thumbnail.png --frame=60",
+    "typecheck": "tsc --noEmit"
+  },
+  "dependencies": {
+    "@react-three/drei": "10.7.9",
+    "@react-three/fiber": "9.8.2",
+    "@remotion/captions": "4.0.543",
+    "@remotion/cli": "4.0.543",
+    "@remotion/install-whisper-cpp": "4.0.543",
+    "@remotion/media-utils": "4.0.543",
+    "@remotion/three": "4.0.543",
+    "@remotion/zod-types": "4.0.543",
+    "react": "19.2.0",
+    "react-dom": "19.2.0",
+    "remotion": "4.0.543",
+    "three": "0.187.0",
+    "zod": "4.6.7"
+  },
+  "devDependencies": {
+    "@types/react": "^19.3.0",
+    "@types/three": "^0.187.0",
+    "typescript": "^7.0.2"
+  }
+}

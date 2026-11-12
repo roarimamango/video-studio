@@ -1,0 +1,11 @@
+{
+  "name": "video-studio",
+  "owner": { "name": "video-studio" },
+  "plugins": [
+    {
+      "name": "growkaz-stickman",
+      "source": "./plugins/growkaz-stickman",
+      "description": "Voiceover to cinematic stick-figure video (2D + Three.js), Whisper timestamps, styles, generated music & SFX."
+    }
+  ]
+}
