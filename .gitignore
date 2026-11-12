@@ -5,3 +5,5 @@ whisper.cpp
 growkaz-stickman-studio/node_modules
 growkaz-stickman-studio/projects/*/build
 growkaz-stickman-studio/projects/*/out
+growkaz-stickman-studio/projects/*/shorts/out
+growkaz-stickman-studio/projects/*/shorts/check.png

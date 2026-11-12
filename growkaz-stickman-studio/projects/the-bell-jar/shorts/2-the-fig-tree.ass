@@ -1,0 +1,93 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+WrapStyle: 2
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Title,Fredoka Light,92,&H00FFFFFF,&H00FFFFFF,&H00100A0C,&H96000000,-1,0,0,0,100,100,2,0,1,9,4,8,60,60,250,1
+Style: Title2,Fredoka Light,104,&H0030D2FF,&H0030D2FF,&H00100A0C,&H96000000,-1,0,0,0,100,100,2,0,1,10,4,8,60,60,360,1
+Style: Cap,Fredoka Light,84,&H00FFFFFF,&H00FFFFFF,&H00100A0C,&H96000000,-1,0,0,0,100,100,1,0,1,9,3,2,70,70,420,1
+Style: CTA,Fredoka Light,70,&H00FFFFFF,&H00FFFFFF,&H00100A0C,&H962A20C8,-1,0,0,0,100,100,2,0,3,18,0,5,60,60,0,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 1,0:00:00.00,0:00:30.02,Title,,0,0,0,,{\fad(150,200)}THE FIG TREE
+Dialogue: 1,0:00:00.00,0:00:30.02,Title2,,0,0,0,,{\fad(150,200)}THAT HAUNTS READERS
+Dialogue: 0,0:00:00.45,0:00:00.65,Cap,,0,0,0,,{\c&H0030D2FF&\fscx108\fscy108}IN{\c&H00FFFFFF&\fscx100\fscy100} THE BOOK'S
+Dialogue: 0,0:00:00.65,0:00:00.75,Cap,,0,0,0,,IN {\c&H0030D2FF&\fscx108\fscy108}THE{\c&H00FFFFFF&\fscx100\fscy100} BOOK'S
+Dialogue: 0,0:00:00.75,0:00:01.05,Cap,,0,0,0,,IN THE {\c&H0030D2FF&\fscx108\fscy108}BOOK'S{\c&H00FFFFFF&\fscx100\fscy100}
+Dialogue: 0,0:00:01.05,0:00:01.29,Cap,,0,0,0,,{\c&H0030D2FF&\fscx108\fscy108}MOST{\c&H00FFFFFF&\fscx100\fscy100} FAMOUS IMAGE,
+Dialogue: 0,0:00:01.29,0:00:01.71,Cap,,0,0,0,,MOST {\c&H0030D2FF&\fscx108\fscy108}FAMOUS{\c&H00FFFFFF&\fscx100\fscy100} IMAGE,
+Dialogue: 0,0:00:01.71,0:00:02.15,Cap,,0,0,0,,MOST FAMOUS {\c&H0030D2FF&\fscx108\fscy108}IMAGE,{\c&H00FFFFFF&\fscx100\fscy100}
+Dialogue: 0,0:00:02.15,0:00:02.59,Cap,,0,0,0,,{\c&H0030D2FF&\fscx108\fscy108}SHE{\c&H00FFFFFF&\fscx100\fscy100} SEES HER
+Dialogue: 0,0:00:02.59,0:00:02.87,Cap,,0,0,0,,SHE {\c&H0030D2FF&\fscx108\fscy108}SEES{\c&H00FFFFFF&\fscx100\fscy100} HER
+Dialogue: 0,0:00:02.87,0:00:03.07,Cap,,0,0,0,,SHE SEES {\c&H0030D2FF&\fscx108\fscy108}HER{\c&H00FFFFFF&\fscx100\fscy100}
+Dialogue: 0,0:00:03.07,0:00:03.31,Cap,,0,0,0,,{\c&H0030D2FF&\fscx108\fscy108}LIFE{\c&H00FFFFFF&\fscx100\fscy100} AS A
+Dialogue: 0,0:00:03.31,0:00:03.63,Cap,,0,0,0,,LIFE {\c&H0030D2FF&\fscx108\fscy108}AS{\c&H00FFFFFF&\fscx100\fscy100} A
+Dialogue: 0,0:00:03.63,0:00:03.81,Cap,,0,0,0,,LIFE AS {\c&H0030D2FF&\fscx108\fscy108}A{\c&H00FFFFFF&\fscx100\fscy100}
+Dialogue: 0,0:00:03.81,0:00:03.99,Cap,,0,0,0,,{\c&H0030D2FF&\fscx108\fscy108}FIG{\c&H00FFFFFF&\fscx100\fscy100} TREE.
+Dialogue: 0,0:00:03.99,0:00:05.07,Cap,,0,0,0,,FIG {\c&H0030D2FF&\fscx108\fscy108}TREE.{\c&H00FFFFFF&\fscx100\fscy100}
+Dialogue: 0,0:00:05.07,0:00:05.39,Cap,,0,0,0,,{\c&H0030D2FF&\fscx108\fscy108}EVERY{\c&H00FFFFFF&\fscx100\fscy100} FIG IS
+Dialogue: 0,0:00:05.39,0:00:05.75,Cap,,0,0,0,,EVERY {\c&H0030D2FF&\fscx108\fscy108}FIG{\c&H00FFFFFF&\fscx100\fscy100} IS
+Dialogue: 0,0:00:05.75,0:00:06.05,Cap,,0,0,0,,EVERY FIG {\c&H0030D2FF&\fscx108\fscy108}IS{\c&H00FFFFFF&\fscx100\fscy100}
+Dialogue: 0,0:00:06.05,0:00:06.27,Cap,,0,0,0,,{\c&H0030D2FF&\fscx108\fscy108}A{\c&H00FFFFFF&\fscx100\fscy100} DIFFERENT FUTURE.
+Dialogue: 0,0:00:06.27,0:00:06.55,Cap,,0,0,0,,A {\c&H0030D2FF&\fscx108\fscy108}DIFFERENT{\c&H00FFFFFF&\fscx100\fscy100} FUTURE.
+Dialogue: 0,0:00:06.55,0:00:07.71,Cap,,0,0,0,,A DIFFERENT {\c&H0030D2FF&\fscx108\fscy108}FUTURE.{\c&H00FFFFFF&\fscx100\fscy100}
+Dialogue: 0,0:00:07.71,0:00:07.83,Cap,,0,0,0,,{\c&H0030D2FF&\fscx108\fscy108}A{\c&H00FFFFFF&\fscx100\fscy100} FAMOUS POET.
+Dialogue: 0,0:00:07.83,0:00:08.09,Cap,,0,0,0,,A {\c&H0030D2FF&\fscx108\fscy108}FAMOUS{\c&H00FFFFFF&\fscx100\fscy100} POET.
+Dialogue: 0,0:00:08.09,0:00:08.97,Cap,,0,0,0,,A FAMOUS {\c&H0030D2FF&\fscx108\fscy108}POET.{\c&H00FFFFFF&\fscx100\fscy100}
+Dialogue: 0,0:00:08.97,0:00:09.05,Cap,,0,0,0,,{\c&H0030D2FF&\fscx108\fscy108}A{\c&H00FFFFFF&\fscx100\fscy100} PROFESSOR.
+Dialogue: 0,0:00:09.05,0:00:09.97,Cap,,0,0,0,,A {\c&H0030D2FF&\fscx108\fscy108}PROFESSOR.{\c&H00FFFFFF&\fscx100\fscy100}
+Dialogue: 0,0:00:09.97,0:00:10.13,Cap,,0,0,0,,{\c&H0030D2FF&\fscx108\fscy108}AN{\c&H00FFFFFF&\fscx100\fscy100} EDITOR.
+Dialogue: 0,0:00:10.13,0:00:11.05,Cap,,0,0,0,,AN {\c&H0030D2FF&\fscx108\fscy108}EDITOR.{\c&H00FFFFFF&\fscx100\fscy100}
+Dialogue: 0,0:00:11.05,0:00:11.15,Cap,,0,0,0,,{\c&H0030D2FF&\fscx108\fscy108}A{\c&H00FFFFFF&\fscx100\fscy100} WIFE AND
+Dialogue: 0,0:00:11.15,0:00:11.43,Cap,,0,0,0,,A {\c&H0030D2FF&\fscx108\fscy108}WIFE{\c&H00FFFFFF&\fscx100\fscy100} AND
+Dialogue: 0,0:00:11.43,0:00:11.71,Cap,,0,0,0,,A WIFE {\c&H0030D2FF&\fscx108\fscy108}AND{\c&H00FFFFFF&\fscx100\fscy100}
+Dialogue: 0,0:00:11.71,0:00:12.61,Cap,,0,0,0,,{\c&H0030D2FF&\fscx108\fscy108}MOTHER.{\c&H00FFFFFF&\fscx100\fscy100}
+Dialogue: 0,0:00:12.61,0:00:12.77,Cap,,0,0,0,,{\c&H0030D2FF&\fscx108\fscy108}A{\c&H00FFFFFF&\fscx100\fscy100} LIFE TRAVELING
+Dialogue: 0,0:00:12.77,0:00:13.13,Cap,,0,0,0,,A {\c&H0030D2FF&\fscx108\fscy108}LIFE{\c&H00FFFFFF&\fscx100\fscy100} TRAVELING
+Dialogue: 0,0:00:13.13,0:00:13.61,Cap,,0,0,0,,A LIFE {\c&H0030D2FF&\fscx108\fscy108}TRAVELING{\c&H00FFFFFF&\fscx100\fscy100}
+Dialogue: 0,0:00:13.61,0:00:13.89,Cap,,0,0,0,,{\c&H0030D2FF&\fscx108\fscy108}THE{\c&H00FFFFFF&\fscx100\fscy100} WORLD.
+Dialogue: 0,0:00:13.89,0:00:14.93,Cap,,0,0,0,,THE {\c&H0030D2FF&\fscx108\fscy108}WORLD.{\c&H00FFFFFF&\fscx100\fscy100}
+Dialogue: 0,0:00:14.93,0:00:15.23,Cap,,0,0,0,,{\c&H0030D2FF&\fscx108\fscy108}SHE{\c&H00FFFFFF&\fscx100\fscy100} WANTS ALL
+Dialogue: 0,0:00:15.23,0:00:15.55,Cap,,0,0,0,,SHE {\c&H0030D2FF&\fscx108\fscy108}WANTS{\c&H00FFFFFF&\fscx100\fscy100} ALL
+Dialogue: 0,0:00:15.55,0:00:16.01,Cap,,0,0,0,,SHE WANTS {\c&H0030D2FF&\fscx108\fscy108}ALL{\c&H00FFFFFF&\fscx100\fscy100}
+Dialogue: 0,0:00:16.01,0:00:16.15,Cap,,0,0,0,,{\c&H0030D2FF&\fscx108\fscy108}OF{\c&H00FFFFFF&\fscx100\fscy100} THEM.
+Dialogue: 0,0:00:16.15,0:00:16.63,Cap,,0,0,0,,OF {\c&H0030D2FF&\fscx108\fscy108}THEM.{\c&H00FFFFFF&\fscx100\fscy100}
+Dialogue: 0,0:00:16.63,0:00:16.79,Cap,,0,0,0,,{\c&H0030D2FF&\fscx108\fscy108}BUT{\c&H00FFFFFF&\fscx100\fscy100} CHOOSING ONE
+Dialogue: 0,0:00:16.79,0:00:17.15,Cap,,0,0,0,,BUT {\c&H0030D2FF&\fscx108\fscy108}CHOOSING{\c&H00FFFFFF&\fscx100\fscy100} ONE
+Dialogue: 0,0:00:17.15,0:00:17.63,Cap,,0,0,0,,BUT CHOOSING {\c&H0030D2FF&\fscx108\fscy108}ONE{\c&H00FFFFFF&\fscx100\fscy100}
+Dialogue: 0,0:00:17.63,0:00:18.13,Cap,,0,0,0,,{\c&H0030D2FF&\fscx108\fscy108}MEANS{\c&H00FFFFFF&\fscx100\fscy100} LOSING THE
+Dialogue: 0,0:00:18.13,0:00:18.55,Cap,,0,0,0,,MEANS {\c&H0030D2FF&\fscx108\fscy108}LOSING{\c&H00FFFFFF&\fscx100\fscy100} THE
+Dialogue: 0,0:00:18.55,0:00:18.77,Cap,,0,0,0,,MEANS LOSING {\c&H0030D2FF&\fscx108\fscy108}THE{\c&H00FFFFFF&\fscx100\fscy100}
+Dialogue: 0,0:00:18.77,0:00:19.99,Cap,,0,0,0,,{\c&H0030D2FF&\fscx108\fscy108}REST.{\c&H00FFFFFF&\fscx100\fscy100}
+Dialogue: 0,0:00:19.99,0:00:20.13,Cap,,0,0,0,,{\c&H0030D2FF&\fscx108\fscy108}AND{\c&H00FFFFFF&\fscx100\fscy100} AS SHE
+Dialogue: 0,0:00:20.13,0:00:20.29,Cap,,0,0,0,,AND {\c&H0030D2FF&\fscx108\fscy108}AS{\c&H00FFFFFF&\fscx100\fscy100} SHE
+Dialogue: 0,0:00:20.29,0:00:20.49,Cap,,0,0,0,,AND AS {\c&H0030D2FF&\fscx108\fscy108}SHE{\c&H00FFFFFF&\fscx100\fscy100}
+Dialogue: 0,0:00:20.49,0:00:20.71,Cap,,0,0,0,,{\c&H0030D2FF&\fscx108\fscy108}SITS{\c&H00FFFFFF&\fscx100\fscy100} THERE,
+Dialogue: 0,0:00:20.71,0:00:21.33,Cap,,0,0,0,,SITS {\c&H0030D2FF&\fscx108\fscy108}THERE,{\c&H00FFFFFF&\fscx100\fscy100}
+Dialogue: 0,0:00:21.33,0:00:21.61,Cap,,0,0,0,,{\c&H0030D2FF&\fscx108\fscy108}UNABLE{\c&H00FFFFFF&\fscx100\fscy100} TO DECIDE,
+Dialogue: 0,0:00:21.61,0:00:21.95,Cap,,0,0,0,,UNABLE {\c&H0030D2FF&\fscx108\fscy108}TO{\c&H00FFFFFF&\fscx100\fscy100} DECIDE,
+Dialogue: 0,0:00:21.95,0:00:23.01,Cap,,0,0,0,,UNABLE TO {\c&H0030D2FF&\fscx108\fscy108}DECIDE,{\c&H00FFFFFF&\fscx100\fscy100}
+Dialogue: 0,0:00:23.01,0:00:23.17,Cap,,0,0,0,,{\c&H0030D2FF&\fscx108\fscy108}THE{\c&H00FFFFFF&\fscx100\fscy100} FIGS BEGIN
+Dialogue: 0,0:00:23.17,0:00:23.63,Cap,,0,0,0,,THE {\c&H0030D2FF&\fscx108\fscy108}FIGS{\c&H00FFFFFF&\fscx100\fscy100} BEGIN
+Dialogue: 0,0:00:23.63,0:00:23.83,Cap,,0,0,0,,THE FIGS {\c&H0030D2FF&\fscx108\fscy108}BEGIN{\c&H00FFFFFF&\fscx100\fscy100}
+Dialogue: 0,0:00:23.83,0:00:24.05,Cap,,0,0,0,,{\c&H0030D2FF&\fscx108\fscy108}TO{\c&H00FFFFFF&\fscx100\fscy100} WRINKLE AND
+Dialogue: 0,0:00:24.05,0:00:24.37,Cap,,0,0,0,,TO {\c&H0030D2FF&\fscx108\fscy108}WRINKLE{\c&H00FFFFFF&\fscx100\fscy100} AND
+Dialogue: 0,0:00:24.37,0:00:24.77,Cap,,0,0,0,,TO WRINKLE {\c&H0030D2FF&\fscx108\fscy108}AND{\c&H00FFFFFF&\fscx100\fscy100}
+Dialogue: 0,0:00:24.77,0:00:24.95,Cap,,0,0,0,,{\c&H0030D2FF&\fscx108\fscy108}GO{\c&H00FFFFFF&\fscx100\fscy100} BLACK,
+Dialogue: 0,0:00:24.95,0:00:25.67,Cap,,0,0,0,,GO {\c&H0030D2FF&\fscx108\fscy108}BLACK,{\c&H00FFFFFF&\fscx100\fscy100}
+Dialogue: 0,0:00:25.67,0:00:25.99,Cap,,0,0,0,,{\c&H0030D2FF&\fscx108\fscy108}AND{\c&H00FFFFFF&\fscx100\fscy100} DROP,
+Dialogue: 0,0:00:25.99,0:00:26.35,Cap,,0,0,0,,AND {\c&H0030D2FF&\fscx108\fscy108}DROP,{\c&H00FFFFFF&\fscx100\fscy100}
+Dialogue: 0,0:00:26.35,0:00:26.95,Cap,,0,0,0,,{\c&H0030D2FF&\fscx108\fscy108}ONE{\c&H00FFFFFF&\fscx100\fscy100} BY ONE,
+Dialogue: 0,0:00:26.95,0:00:27.17,Cap,,0,0,0,,ONE {\c&H0030D2FF&\fscx108\fscy108}BY{\c&H00FFFFFF&\fscx100\fscy100} ONE,
+Dialogue: 0,0:00:27.17,0:00:27.59,Cap,,0,0,0,,ONE BY {\c&H0030D2FF&\fscx108\fscy108}ONE,{\c&H00FFFFFF&\fscx100\fscy100}
+Dialogue: 0,0:00:27.59,0:00:27.91,Cap,,0,0,0,,{\c&H0030D2FF&\fscx108\fscy108}TO{\c&H00FFFFFF&\fscx100\fscy100} THE GROUND
+Dialogue: 0,0:00:27.91,0:00:28.05,Cap,,0,0,0,,TO {\c&H0030D2FF&\fscx108\fscy108}THE{\c&H00FFFFFF&\fscx100\fscy100} GROUND
+Dialogue: 0,0:00:28.05,0:00:28.35,Cap,,0,0,0,,TO THE {\c&H0030D2FF&\fscx108\fscy108}GROUND{\c&H00FFFFFF&\fscx100\fscy100}
+Dialogue: 0,0:00:28.35,0:00:28.57,Cap,,0,0,0,,{\c&H0030D2FF&\fscx108\fscy108}AT{\c&H00FFFFFF&\fscx100\fscy100} HER FEET.
+Dialogue: 0,0:00:28.57,0:00:28.73,Cap,,0,0,0,,AT {\c&H0030D2FF&\fscx108\fscy108}HER{\c&H00FFFFFF&\fscx100\fscy100} FEET.
+Dialogue: 0,0:00:28.73,0:00:29.29,Cap,,0,0,0,,AT HER {\c&H0030D2FF&\fscx108\fscy108}FEET.{\c&H00FFFFFF&\fscx100\fscy100}
+Dialogue: 2,0:00:30.02,0:00:31.62,CTA,,0,0,0,,{\fad(200,0)}FULL STORY ON THE CHANNEL

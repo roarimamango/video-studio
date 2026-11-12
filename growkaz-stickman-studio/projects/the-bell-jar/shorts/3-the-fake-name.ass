@@ -1,0 +1,78 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+WrapStyle: 2
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Title,Fredoka Light,92,&H00FFFFFF,&H00FFFFFF,&H00100A0C,&H96000000,-1,0,0,0,100,100,2,0,1,9,4,8,60,60,250,1
+Style: Title2,Fredoka Light,104,&H0030D2FF,&H0030D2FF,&H00100A0C,&H96000000,-1,0,0,0,100,100,2,0,1,10,4,8,60,60,360,1
+Style: Cap,Fredoka Light,84,&H00FFFFFF,&H00FFFFFF,&H00100A0C,&H96000000,-1,0,0,0,100,100,1,0,1,9,3,2,70,70,420,1
+Style: CTA,Fredoka Light,70,&H00FFFFFF,&H00FFFFFF,&H00100A0C,&H962A20C8,-1,0,0,0,100,100,2,0,3,18,0,5,60,60,0,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 1,0:00:00.00,0:00:28.36,Title,,0,0,0,,{\fad(150,200)}SHE PUBLISHED IT
+Dialogue: 1,0:00:00.00,0:00:28.36,Title2,,0,0,0,,{\fad(150,200)}UNDER A FAKE NAME
+Dialogue: 0,0:00:00.45,0:00:00.87,Cap,,0,0,0,,{\c&H0030D2FF&\fscx108\fscy108}BUT{\c&H00FFFFFF&\fscx100\fscy100} SHE ALSO
+Dialogue: 0,0:00:00.87,0:00:01.05,Cap,,0,0,0,,BUT {\c&H0030D2FF&\fscx108\fscy108}SHE{\c&H00FFFFFF&\fscx100\fscy100} ALSO
+Dialogue: 0,0:00:01.05,0:00:01.27,Cap,,0,0,0,,BUT SHE {\c&H0030D2FF&\fscx108\fscy108}ALSO{\c&H00FFFFFF&\fscx100\fscy100}
+Dialogue: 0,0:00:01.27,0:00:01.63,Cap,,0,0,0,,{\c&H0030D2FF&\fscx108\fscy108}KNEW{\c&H00FFFFFF&\fscx100\fscy100} IT WOULD
+Dialogue: 0,0:00:01.63,0:00:01.99,Cap,,0,0,0,,KNEW {\c&H0030D2FF&\fscx108\fscy108}IT{\c&H00FFFFFF&\fscx100\fscy100} WOULD
+Dialogue: 0,0:00:01.99,0:00:02.13,Cap,,0,0,0,,KNEW IT {\c&H0030D2FF&\fscx108\fscy108}WOULD{\c&H00FFFFFF&\fscx100\fscy100}
+Dialogue: 0,0:00:02.13,0:00:02.37,Cap,,0,0,0,,{\c&H0030D2FF&\fscx108\fscy108}HURT{\c&H00FFFFFF&\fscx100\fscy100} PEOPLE.
+Dialogue: 0,0:00:02.37,0:00:03.79,Cap,,0,0,0,,HURT {\c&H0030D2FF&\fscx108\fscy108}PEOPLE.{\c&H00FFFFFF&\fscx100\fscy100}
+Dialogue: 0,0:00:03.79,0:00:04.03,Cap,,0,0,0,,{\c&H0030D2FF&\fscx108\fscy108}ALMOST{\c&H00FFFFFF&\fscx100\fscy100} EVERY CHARACTER
+Dialogue: 0,0:00:04.03,0:00:04.55,Cap,,0,0,0,,ALMOST {\c&H0030D2FF&\fscx108\fscy108}EVERY{\c&H00FFFFFF&\fscx100\fscy100} CHARACTER
+Dialogue: 0,0:00:04.55,0:00:04.99,Cap,,0,0,0,,ALMOST EVERY {\c&H0030D2FF&\fscx108\fscy108}CHARACTER{\c&H00FFFFFF&\fscx100\fscy100}
+Dialogue: 0,0:00:04.99,0:00:05.31,Cap,,0,0,0,,{\c&H0030D2FF&\fscx108\fscy108}WAS{\c&H00FFFFFF&\fscx100\fscy100} A REAL
+Dialogue: 0,0:00:05.31,0:00:05.49,Cap,,0,0,0,,WAS {\c&H0030D2FF&\fscx108\fscy108}A{\c&H00FFFFFF&\fscx100\fscy100} REAL
+Dialogue: 0,0:00:05.49,0:00:05.73,Cap,,0,0,0,,WAS A {\c&H0030D2FF&\fscx108\fscy108}REAL{\c&H00FFFFFF&\fscx100\fscy100}
+Dialogue: 0,0:00:05.73,0:00:06.63,Cap,,0,0,0,,{\c&H0030D2FF&\fscx108\fscy108}PERSON,{\c&H00FFFFFF&\fscx100\fscy100}
+Dialogue: 0,0:00:06.63,0:00:06.97,Cap,,0,0,0,,{\c&H0030D2FF&\fscx108\fscy108}THINLY{\c&H00FFFFFF&\fscx100\fscy100} DISGUISED.
+Dialogue: 0,0:00:06.97,0:00:08.33,Cap,,0,0,0,,THINLY {\c&H0030D2FF&\fscx108\fscy108}DISGUISED.{\c&H00FFFFFF&\fscx100\fscy100}
+Dialogue: 0,0:00:08.33,0:00:08.45,Cap,,0,0,0,,{\c&H0030D2FF&\fscx108\fscy108}HER{\c&H00FFFFFF&\fscx100\fscy100} MOTHER WOULD
+Dialogue: 0,0:00:08.45,0:00:08.73,Cap,,0,0,0,,HER {\c&H0030D2FF&\fscx108\fscy108}MOTHER{\c&H00FFFFFF&\fscx100\fscy100} WOULD
+Dialogue: 0,0:00:08.73,0:00:09.05,Cap,,0,0,0,,HER MOTHER {\c&H0030D2FF&\fscx108\fscy108}WOULD{\c&H00FFFFFF&\fscx100\fscy100}
+Dialogue: 0,0:00:09.05,0:00:09.53,Cap,,0,0,0,,{\c&H0030D2FF&\fscx108\fscy108}RECOGNIZE{\c&H00FFFFFF&\fscx100\fscy100} HERSELF.
+Dialogue: 0,0:00:09.53,0:00:10.81,Cap,,0,0,0,,RECOGNIZE {\c&H0030D2FF&\fscx108\fscy108}HERSELF.{\c&H00FFFFFF&\fscx100\fscy100}
+Dialogue: 0,0:00:10.81,0:00:11.03,Cap,,0,0,0,,{\c&H0030D2FF&\fscx108\fscy108}SO{\c&H00FFFFFF&\fscx100\fscy100} WOULD HER
+Dialogue: 0,0:00:11.03,0:00:11.21,Cap,,0,0,0,,SO {\c&H0030D2FF&\fscx108\fscy108}WOULD{\c&H00FFFFFF&\fscx100\fscy100} HER
+Dialogue: 0,0:00:11.21,0:00:11.35,Cap,,0,0,0,,SO WOULD {\c&H0030D2FF&\fscx108\fscy108}HER{\c&H00FFFFFF&\fscx100\fscy100}
+Dialogue: 0,0:00:11.35,0:00:11.57,Cap,,0,0,0,,{\c&H0030D2FF&\fscx108\fscy108}OLD{\c&H00FFFFFF&\fscx100\fscy100} BOYFRIEND,
+Dialogue: 0,0:00:11.57,0:00:12.53,Cap,,0,0,0,,OLD {\c&H0030D2FF&\fscx108\fscy108}BOYFRIEND,{\c&H00FFFFFF&\fscx100\fscy100}
+Dialogue: 0,0:00:12.53,0:00:12.61,Cap,,0,0,0,,{\c&H0030D2FF&\fscx108\fscy108}HER{\c&H00FFFFFF&\fscx100\fscy100} BENEFACTOR,
+Dialogue: 0,0:00:12.61,0:00:13.21,Cap,,0,0,0,,HER {\c&H0030D2FF&\fscx108\fscy108}BENEFACTOR,{\c&H00FFFFFF&\fscx100\fscy100}
+Dialogue: 0,0:00:13.21,0:00:13.83,Cap,,0,0,0,,{\c&H0030D2FF&\fscx108\fscy108}HER{\c&H00FFFFFF&\fscx100\fscy100} DOCTORS.
+Dialogue: 0,0:00:13.83,0:00:15.39,Cap,,0,0,0,,HER {\c&H0030D2FF&\fscx108\fscy108}DOCTORS.{\c&H00FFFFFF&\fscx100\fscy100}
+Dialogue: 0,0:00:15.39,0:00:15.41,Cap,,0,0,0,,{\c&H0030D2FF&\fscx108\fscy108}SO{\c&H00FFFFFF&\fscx100\fscy100} WHEN THE
+Dialogue: 0,0:00:15.41,0:00:15.55,Cap,,0,0,0,,SO {\c&H0030D2FF&\fscx108\fscy108}WHEN{\c&H00FFFFFF&\fscx100\fscy100} THE
+Dialogue: 0,0:00:15.55,0:00:15.67,Cap,,0,0,0,,SO WHEN {\c&H0030D2FF&\fscx108\fscy108}THE{\c&H00FFFFFF&\fscx100\fscy100}
+Dialogue: 0,0:00:15.67,0:00:15.81,Cap,,0,0,0,,{\c&H0030D2FF&\fscx108\fscy108}BOOK{\c&H00FFFFFF&\fscx100\fscy100} CAME OUT
+Dialogue: 0,0:00:15.81,0:00:16.05,Cap,,0,0,0,,BOOK {\c&H0030D2FF&\fscx108\fscy108}CAME{\c&H00FFFFFF&\fscx100\fscy100} OUT
+Dialogue: 0,0:00:16.05,0:00:16.25,Cap,,0,0,0,,BOOK CAME {\c&H0030D2FF&\fscx108\fscy108}OUT{\c&H00FFFFFF&\fscx100\fscy100}
+Dialogue: 0,0:00:16.25,0:00:16.43,Cap,,0,0,0,,{\c&H0030D2FF&\fscx108\fscy108}IN{\c&H00FFFFFF&\fscx100\fscy100} BRITAIN IN
+Dialogue: 0,0:00:16.43,0:00:16.67,Cap,,0,0,0,,IN {\c&H0030D2FF&\fscx108\fscy108}BRITAIN{\c&H00FFFFFF&\fscx100\fscy100} IN
+Dialogue: 0,0:00:16.67,0:00:17.09,Cap,,0,0,0,,IN BRITAIN {\c&H0030D2FF&\fscx108\fscy108}IN{\c&H00FFFFFF&\fscx100\fscy100}
+Dialogue: 0,0:00:17.09,0:00:17.57,Cap,,0,0,0,,{\c&H0030D2FF&\fscx108\fscy108}JANUARY{\c&H00FFFFFF&\fscx100\fscy100} 1963,
+Dialogue: 0,0:00:17.57,0:00:19.41,Cap,,0,0,0,,JANUARY {\c&H0030D2FF&\fscx108\fscy108}1963,{\c&H00FFFFFF&\fscx100\fscy100}
+Dialogue: 0,0:00:19.41,0:00:19.47,Cap,,0,0,0,,{\c&H0030D2FF&\fscx108\fscy108}THE{\c&H00FFFFFF&\fscx100\fscy100} NAME ON
+Dialogue: 0,0:00:19.47,0:00:19.63,Cap,,0,0,0,,THE {\c&H0030D2FF&\fscx108\fscy108}NAME{\c&H00FFFFFF&\fscx100\fscy100} ON
+Dialogue: 0,0:00:19.63,0:00:19.81,Cap,,0,0,0,,THE NAME {\c&H0030D2FF&\fscx108\fscy108}ON{\c&H00FFFFFF&\fscx100\fscy100}
+Dialogue: 0,0:00:19.81,0:00:19.95,Cap,,0,0,0,,{\c&H0030D2FF&\fscx108\fscy108}THE{\c&H00FFFFFF&\fscx100\fscy100} COVER WASN'T
+Dialogue: 0,0:00:19.95,0:00:20.23,Cap,,0,0,0,,THE {\c&H0030D2FF&\fscx108\fscy108}COVER{\c&H00FFFFFF&\fscx100\fscy100} WASN'T
+Dialogue: 0,0:00:20.23,0:00:20.83,Cap,,0,0,0,,THE COVER {\c&H0030D2FF&\fscx108\fscy108}WASN'T{\c&H00FFFFFF&\fscx100\fscy100}
+Dialogue: 0,0:00:20.83,0:00:21.23,Cap,,0,0,0,,{\c&H0030D2FF&\fscx108\fscy108}SYLVIA{\c&H00FFFFFF&\fscx100\fscy100} PLATH.
+Dialogue: 0,0:00:21.23,0:00:22.23,Cap,,0,0,0,,SYLVIA {\c&H0030D2FF&\fscx108\fscy108}PLATH.{\c&H00FFFFFF&\fscx100\fscy100}
+Dialogue: 0,0:00:22.23,0:00:22.31,Cap,,0,0,0,,{\c&H0030D2FF&\fscx108\fscy108}IT{\c&H00FFFFFF&\fscx100\fscy100} WAS VICTORIA
+Dialogue: 0,0:00:22.31,0:00:22.55,Cap,,0,0,0,,IT {\c&H0030D2FF&\fscx108\fscy108}WAS{\c&H00FFFFFF&\fscx100\fscy100} VICTORIA
+Dialogue: 0,0:00:22.55,0:00:23.13,Cap,,0,0,0,,IT WAS {\c&H0030D2FF&\fscx108\fscy108}VICTORIA{\c&H00FFFFFF&\fscx100\fscy100}
+Dialogue: 0,0:00:23.13,0:00:24.83,Cap,,0,0,0,,{\c&H0030D2FF&\fscx108\fscy108}LUCAS.{\c&H00FFFFFF&\fscx100\fscy100}
+Dialogue: 0,0:00:24.83,0:00:24.99,Cap,,0,0,0,,{\c&H0030D2FF&\fscx108\fscy108}REVIEWS{\c&H00FFFFFF&\fscx100\fscy100} WERE POLITE.
+Dialogue: 0,0:00:24.99,0:00:25.49,Cap,,0,0,0,,REVIEWS {\c&H0030D2FF&\fscx108\fscy108}WERE{\c&H00FFFFFF&\fscx100\fscy100} POLITE.
+Dialogue: 0,0:00:25.49,0:00:26.81,Cap,,0,0,0,,REVIEWS WERE {\c&H0030D2FF&\fscx108\fscy108}POLITE.{\c&H00FFFFFF&\fscx100\fscy100}
+Dialogue: 0,0:00:26.81,0:00:26.81,Cap,,0,0,0,,{\c&H0030D2FF&\fscx108\fscy108}SALES{\c&H00FFFFFF&\fscx100\fscy100} WERE MODEST.
+Dialogue: 0,0:00:26.81,0:00:27.15,Cap,,0,0,0,,SALES {\c&H0030D2FF&\fscx108\fscy108}WERE{\c&H00FFFFFF&\fscx100\fscy100} MODEST.
+Dialogue: 0,0:00:27.15,0:00:27.83,Cap,,0,0,0,,SALES WERE {\c&H0030D2FF&\fscx108\fscy108}MODEST.{\c&H00FFFFFF&\fscx100\fscy100}
+Dialogue: 2,0:00:28.36,0:00:29.96,CTA,,0,0,0,,{\fad(200,0)}FULL STORY ON THE CHANNEL
