@@ -67,6 +67,13 @@ export const STYLES = {
       interiorWarm: { rim: '#ffa0c8', wall: '#5a3448' },
     },
   },
+  collage: {
+    name: 'Shadow Collage', desc: 'Paper, ink and blood red: toon-shaded 3D with hard black shadows, silhouette characters, cut-paper collage with grain and halftone.',
+    ink: '#0c0a0a', inkFar: '#2a2420', feature: '#f2ead8', rimWidth: 3,
+    ui: { ...UI, accent: '#c8202a', gold: '#e0b040', cream: '#f2ead8' },
+    grade: { contrast: 1.08, sat: 1.0, lift: [0.01, 0.0, 0.0], gamma: [1, 1, 1], gain: [1.02, 1.0, 0.97], vignette: 0.45, grain: 0.07, bloom: 0.15 },
+    moods: {},
+  },
   cel: {
     name: 'Anime Cel', desc: 'Flat two-tone cel colour, bold outlines, clean graphic effects; near-neutral grade, minimal grain.',
     ink: '#1a1020', inkFar: '#3a2840', feature: '#ffffff', rimWidth: 3,

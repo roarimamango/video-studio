@@ -1,0 +1,83 @@
+{
+ "title": "Arthur Collage Sampler",
+ "duration": 10,
+ "shots": [
+  {
+   "id": "c01",
+   "start": 0.0,
+   "end": 2.6,
+   "line": "",
+   "scene": "3D: dolly toward a silhouetted Camelot under a red sun; paper fog; torn-paper frame",
+   "set": null,
+   "bars": "none",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "params": {}
+  },
+  {
+   "id": "c02",
+   "start": 2.6,
+   "end": 5.0,
+   "line": "",
+   "scene": "Collage: torn manuscript page (Historia Brittonum, c. 830) slides in; ARTHUR circled in red ink",
+   "set": null,
+   "bars": "none",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "params": {}
+  },
+  {
+   "id": "c03",
+   "start": 5.0,
+   "end": 7.8,
+   "line": "",
+   "scene": "3D: two silhouette knights duel on pale ground, long hard shadows; impact frame on the clash",
+   "set": null,
+   "bars": "none",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "params": {}
+  },
+  {
+   "id": "c04",
+   "start": 7.8,
+   "end": 10.0,
+   "line": "",
+   "scene": "Paper tear reveals red; cut-out ransom-note title THE REAL LORE BEHIND KING ARTHUR",
+   "set": null,
+   "bars": "none",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "params": {}
+  }
+ ],
+ "music": [
+  {
+   "start": 0,
+   "end": 5,
+   "mood": "mystery",
+   "intensity": 0.6
+  },
+  {
+   "start": 5,
+   "end": 7.8,
+   "mood": "action",
+   "intensity": 0.9
+  },
+  {
+   "start": 7.8,
+   "end": 10,
+   "mood": "epic",
+   "intensity": 0.8
+  }
+ ],
+ "sfx": []
+}
