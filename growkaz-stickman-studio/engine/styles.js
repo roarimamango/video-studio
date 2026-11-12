@@ -67,6 +67,13 @@ export const STYLES = {
       interiorWarm: { rim: '#ffa0c8', wall: '#5a3448' },
     },
   },
+  cel: {
+    name: 'Anime Cel', desc: 'Flat two-tone cel colour, bold outlines, clean graphic effects; near-neutral grade, minimal grain.',
+    ink: '#1a1020', inkFar: '#3a2840', feature: '#ffffff', rimWidth: 3,
+    ui: { ...UI, accent: '#ff3d6e', gold: '#ffd23a', cream: '#fff6e8' },
+    grade: { contrast: 1.04, sat: 1.06, lift: [0, 0, 0], gamma: [1, 1, 1], gain: [1, 1, 1], vignette: 0.18, grain: 0.015, bloom: 0.3 },
+    moods: {},
+  },
   neon: {
     name: 'Neon Line', desc: 'Fluid neon line art on near-black: few glowing strokes, electric cyan, magenta and gold, high contrast, almost no grain.',
     ink: '#05030c', inkFar: '#1a1030', feature: '#ffffff', rimWidth: 4,
