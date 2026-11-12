@@ -109,11 +109,11 @@ export function character(g, x, y, s, p, o = {}) {
   } else {
     // hair back
     const back = []; for (let i = 0; i <= 8; i++) { const a = Math.PI * (0.95 + i * 0.13) + (f < 0 ? 0 : 0), rr = i % 2 ? r * 1.05 : r * 1.38; back.push([cx - f * 6 * s + Math.cos(a) * rr * f, cy - 4 * s + Math.sin(a) * rr]); }
-    back.push([cx - f * r * 0.9, cy + r * 0.5]); shape(g, back, C(K.hair), L);
+    back.push([cx - f * r * 0.9, cy + r * 0.5]); if (!o.noHair) shape(g, back, C(K.hair), L);
     disc(g, cx, cy, r, C(K.skin), L);
     if (!sil) { g.save(); g.beginPath(); g.arc(cx, cy, r - 2, 0, 7); g.clip(); disc(g, cx - f * r * 1.15, cy + r * 0.2, r * 0.8, K.skinS, { lw: 0 }); g.restore(); disc(g, cx, cy, r, null, L); }
     // bangs
-    shape(g, [[cx - f * r * 0.9, cy - r * 0.2], [cx - f * r * 0.6, cy - r * 1.05], [cx + f * r * 0.5, cy - r * 1.05], [cx + f * r * 1.05, cy - r * 0.3], [cx + f * r * 0.55, cy - r * 0.55], [cx + f * r * 0.35, cy - r * 0.15], [cx + f * r * 0.05, cy - r * 0.55], [cx - f * r * 0.35, cy - r * 0.1]], C(K.hair), L);
+    if (!o.noHair) shape(g, [[cx - f * r * 0.9, cy - r * 0.2], [cx - f * r * 0.6, cy - r * 1.05], [cx + f * r * 0.5, cy - r * 1.05], [cx + f * r * 1.05, cy - r * 0.3], [cx + f * r * 0.55, cy - r * 0.55], [cx + f * r * 0.35, cy - r * 0.15], [cx + f * r * 0.05, cy - r * 0.55], [cx - f * r * 0.35, cy - r * 0.1]], C(K.hair), L);
     if (!sil) {   // face: two tall anime eyes on the facing side, brows, mouth
       const ex = (k) => cx + f * r * k, ey = cy + r * 0.02, expr = o.expr || 'calm';
       for (const k of [0.18, 0.62]) { g.fillStyle = OUT; g.beginPath(); g.ellipse(ex(k), ey, r * 0.11, expr === 'shout' ? r * 0.12 : r * 0.2, 0, 0, 7); g.fill(); disc(g, ex(k) + f * r * 0.03, ey - r * 0.07, r * 0.05, '#fff', { lw: 0 }); }

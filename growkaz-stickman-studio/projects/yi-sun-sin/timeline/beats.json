@@ -1,0 +1,986 @@
+[
+ {
+  "i": 0,
+  "start": 0.0,
+  "speechStart": 0.0,
+  "speechEnd": 3.6,
+  "text": "In 1597, a Korean admiral wrote to his king.",
+  "end": 4.17
+ },
+ {
+  "i": 1,
+  "start": 4.17,
+  "speechStart": 4.32,
+  "speechEnd": 6.16,
+  "text": "The navy had just been destroyed.",
+  "end": 6.57
+ },
+ {
+  "i": 2,
+  "start": 6.57,
+  "speechStart": 6.72,
+  "speechEnd": 9.56,
+  "text": "Almost every ship was gone. And he wrote:",
+  "end": 10.05
+ },
+ {
+  "i": 3,
+  "start": 10.05,
+  "speechStart": 10.2,
+  "speechEnd": 11.76,
+  "text": "\"I still have twelve ships.\"",
+  "end": 12.55
+ },
+ {
+  "i": 4,
+  "start": 12.55,
+  "speechStart": 12.7,
+  "speechEnd": 18.08,
+  "text": "Weeks later, with thirteen ships, he faced a Japanese fleet of more than a hundred and thirty.",
+  "end": 18.61
+ },
+ {
+  "i": 5,
+  "start": 18.61,
+  "speechStart": 18.76,
+  "speechEnd": 20.62,
+  "text": "He didn't lose a single one.",
+  "end": 21.27
+ },
+ {
+  "i": 6,
+  "start": 21.27,
+  "speechStart": 21.42,
+  "speechEnd": 23.76,
+  "text": "His name was Yi Sun-sin.",
+  "end": 23.61
+ },
+ {
+  "i": 7,
+  "start": 23.61,
+  "speechStart": 23.76,
+  "speechEnd": 28.72,
+  "text": "By the usual count, he fought around twenty-three naval battles, and never lost one.",
+  "end": 29.23
+ },
+ {
+  "i": 8,
+  "start": 29.23,
+  "speechStart": 29.38,
+  "speechEnd": 33.02,
+  "text": "And unlike most legends, we don't have to take anyone's word for it.",
+  "end": 33.29
+ },
+ {
+  "i": 9,
+  "start": 33.29,
+  "speechStart": 33.44,
+  "speechEnd": 34.68,
+  "text": "He wrote it down himself.",
+  "end": 35.55
+ },
+ {
+  "i": 10,
+  "start": 35.55,
+  "speechStart": 35.7,
+  "speechEnd": 39.3,
+  "text": "This is the lore behind Admiral Yi Sun-sin.",
+  "end": 39.15
+ },
+ {
+  "i": 11,
+  "start": 39.15,
+  "speechStart": 39.3,
+  "speechEnd": 45.06,
+  "text": "He was born in 1545, in Seoul, into a noble family that had fallen on hard times.",
+  "end": 45.55
+ },
+ {
+  "i": 12,
+  "start": 45.55,
+  "speechStart": 45.7,
+  "speechEnd": 47.12,
+  "text": "He didn't start out as a sailor.",
+  "end": 47.51
+ },
+ {
+  "i": 13,
+  "start": 47.51,
+  "speechStart": 47.66,
+  "speechEnd": 49.26,
+  "text": "He started out as a soldier.",
+  "end": 49.93
+ },
+ {
+  "i": 14,
+  "start": 49.93,
+  "speechStart": 50.08,
+  "speechEnd": 53.28,
+  "text": "At twenty-seven, he took Korea's military service exam.",
+  "end": 53.69
+ },
+ {
+  "i": 15,
+  "start": 53.69,
+  "speechStart": 53.84,
+  "speechEnd": 58.04,
+  "text": "Halfway through the horseback test, his horse threw him, and he broke his leg.",
+  "end": 58.63
+ },
+ {
+  "i": 16,
+  "start": 58.63,
+  "speechStart": 58.78,
+  "speechEnd": 65.28,
+  "text": "The story goes that he got up, stripped bark from a willow tree, splinted his own leg, and finished the test.",
+  "end": 65.91
+ },
+ {
+  "i": 17,
+  "start": 65.91,
+  "speechStart": 66.06,
+  "speechEnd": 66.84,
+  "text": "He still failed.",
+  "end": 67.49
+ },
+ {
+  "i": 18,
+  "start": 67.49,
+  "speechStart": 67.64,
+  "speechEnd": 70.48,
+  "text": "Four years later, he tried again, and passed.",
+  "end": 71.17
+ },
+ {
+  "i": 19,
+  "start": 71.17,
+  "speechStart": 71.32,
+  "speechEnd": 73.7,
+  "text": "His early career was anything but glorious.",
+  "end": 74.11
+ },
+ {
+  "i": 20,
+  "start": 74.11,
+  "speechStart": 74.26,
+  "speechEnd": 76.24,
+  "text": "He was posted to remote frontiers.",
+  "end": 76.65
+ },
+ {
+  "i": 21,
+  "start": 76.65,
+  "speechStart": 76.8,
+  "speechEnd": 80.28,
+  "text": "He made enemies by refusing to do favors for powerful officials.",
+  "end": 80.99
+ },
+ {
+  "i": 22,
+  "start": 80.99,
+  "speechStart": 81.14,
+  "speechEnd": 84.24,
+  "text": "In 1587, after a raid on the northern border,",
+  "end": 84.57
+ },
+ {
+  "i": 23,
+  "start": 84.57,
+  "speechStart": 84.72,
+  "speechEnd": 89.56,
+  "text": "he was blamed for the losses, stripped of his rank, and made to serve as a common soldier.",
+  "end": 90.19
+ },
+ {
+  "i": 24,
+  "start": 90.19,
+  "speechStart": 90.34,
+  "speechEnd": 91.56,
+  "text": "He worked his way back.",
+  "end": 91.93
+ },
+ {
+  "i": 25,
+  "start": 91.93,
+  "speechStart": 92.08,
+  "speechEnd": 96.46,
+  "text": "And in 1591, a friend in the government got him an unlikely job:",
+  "end": 97.31
+ },
+ {
+  "i": 26,
+  "start": 97.31,
+  "speechStart": 97.46,
+  "speechEnd": 100.74,
+  "text": "commander of the navy in Jeolla, Korea's southwest province.",
+  "end": 101.39
+ },
+ {
+  "i": 27,
+  "start": 101.39,
+  "speechStart": 101.54,
+  "speechEnd": 103.02,
+  "text": "The timing was perfect.",
+  "end": 102.87
+ },
+ {
+  "i": 28,
+  "start": 102.87,
+  "speechStart": 103.02,
+  "speechEnd": 108.7,
+  "text": "Because across the sea, Japan had just been unified after a century of civil war,",
+  "end": 108.83
+ },
+ {
+  "i": 29,
+  "start": 108.83,
+  "speechStart": 108.98,
+  "speechEnd": 111.64,
+  "text": "under a warlord named Toyotomi Hideyoshi.",
+  "end": 112.29
+ },
+ {
+  "i": 30,
+  "start": 112.29,
+  "speechStart": 112.44,
+  "speechEnd": 114.14,
+  "text": "And Hideyoshi wanted more.",
+  "end": 114.65
+ },
+ {
+  "i": 31,
+  "start": 114.65,
+  "speechStart": 114.8,
+  "speechEnd": 117.84,
+  "text": "He planned to march through Korea and conquer China.",
+  "end": 118.59
+ },
+ {
+  "i": 32,
+  "start": 118.59,
+  "speechStart": 118.74,
+  "speechEnd": 120.46,
+  "text": "Yi seemed to sense what was coming.",
+  "end": 120.91
+ },
+ {
+  "i": 33,
+  "start": 120.91,
+  "speechStart": 121.06,
+  "speechEnd": 127.36,
+  "text": "He trained his sailors, stockpiled supplies, and rebuilt an old Korean design: the turtle ship.",
+  "end": 127.83
+ },
+ {
+  "i": 34,
+  "start": 127.83,
+  "speechStart": 127.98,
+  "speechEnd": 132.64,
+  "text": "A warship covered with a roof, studded with sharp spikes so no one could board it,",
+  "end": 132.75
+ },
+ {
+  "i": 35,
+  "start": 132.75,
+  "speechStart": 132.9,
+  "speechEnd": 137.66,
+  "text": "with cannons on every side and a dragon's head at the bow that could pour out smoke.",
+  "end": 138.27
+ },
+ {
+  "i": 36,
+  "start": 138.27,
+  "speechStart": 138.42,
+  "speechEnd": 143.78,
+  "text": "According to his diary, he was test-firing its cannons just days before the invasion began.",
+  "end": 144.39
+ },
+ {
+  "i": 37,
+  "start": 144.39,
+  "speechStart": 144.54,
+  "speechEnd": 149.632,
+  "text": "In the spring of 1592, Japan invaded with an army of more than one hundred",
+  "end": 149.482
+ },
+ {
+  "i": 38,
+  "start": 149.482,
+  "speechStart": 149.632,
+  "speechEnd": 152.5,
+  "text": "and fifty thousand men, landing at Busan.",
+  "end": 153.09
+ },
+ {
+  "i": 39,
+  "start": 153.09,
+  "speechStart": 153.24,
+  "speechEnd": 157.12,
+  "text": "They were veterans of a hundred years of war, armed with muskets.",
+  "end": 157.79
+ },
+ {
+  "i": 40,
+  "start": 157.79,
+  "speechStart": 157.94,
+  "speechEnd": 159.6,
+  "text": "Korea's army collapsed.",
+  "end": 160.35
+ },
+ {
+  "i": 41,
+  "start": 160.35,
+  "speechStart": 160.5,
+  "speechEnd": 162.44,
+  "text": "Seoul fell in less than three weeks.",
+  "end": 162.91
+ },
+ {
+  "i": 42,
+  "start": 162.91,
+  "speechStart": 163.06,
+  "speechEnd": 164.3,
+  "text": "The king fled north.",
+  "end": 165.01
+ },
+ {
+  "i": 43,
+  "start": 165.01,
+  "speechStart": 165.16,
+  "speechEnd": 167.72,
+  "text": "On land, Korea was losing everything.",
+  "end": 168.31
+ },
+ {
+  "i": 44,
+  "start": 168.31,
+  "speechStart": 168.46,
+  "speechEnd": 170.38,
+  "text": "At sea, it was a different story.",
+  "end": 171.09
+ },
+ {
+  "i": 45,
+  "start": 171.09,
+  "speechStart": 171.24,
+  "speechEnd": 175.08,
+  "text": "Yi's fleet sailed out and caught Japanese ships at Okpo. He won.",
+  "end": 175.63
+ },
+ {
+  "i": 46,
+  "start": 175.63,
+  "speechStart": 175.78,
+  "speechEnd": 179.9,
+  "text": "Then at Sacheon, he sent the turtle ship into battle for the first time.",
+  "end": 180.29
+ },
+ {
+  "i": 47,
+  "start": 180.29,
+  "speechStart": 180.44,
+  "speechEnd": 185.12,
+  "text": "It smashed straight into the Japanese line, and musket fire couldn't stop it.",
+  "end": 184.97
+ },
+ {
+  "i": 48,
+  "start": 184.97,
+  "speechStart": 185.12,
+  "speechEnd": 187.56,
+  "text": "Yi himself was shot in the shoulder.",
+  "end": 188.09
+ },
+ {
+  "i": 49,
+  "start": 188.09,
+  "speechStart": 188.24,
+  "speechEnd": 192.74,
+  "text": "He kept fighting, and won again. Then again. And again.",
+  "end": 193.67
+ },
+ {
+  "i": 50,
+  "start": 193.67,
+  "speechStart": 193.82,
+  "speechEnd": 195.26,
+  "text": "Then came Hansan Island.",
+  "end": 195.99
+ },
+ {
+  "i": 51,
+  "start": 195.99,
+  "speechStart": 196.14,
+  "speechEnd": 201.84,
+  "text": "Yi sent a few ships to provoke a large Japanese fleet, then turned and fled into open water.",
+  "end": 202.39
+ },
+ {
+  "i": 52,
+  "start": 202.39,
+  "speechStart": 202.54,
+  "speechEnd": 203.94,
+  "text": "The Japanese chased them.",
+  "end": 204.39
+ },
+ {
+  "i": 53,
+  "start": 204.39,
+  "speechStart": 204.54,
+  "speechEnd": 209.24,
+  "text": "And that's when Yi's whole fleet swung around into a giant half-moon,",
+  "end": 209.09
+ },
+ {
+  "i": 54,
+  "start": 209.09,
+  "speechStart": 209.24,
+  "speechEnd": 212.02,
+  "text": "the crane wing formation, and closed around them.",
+  "end": 212.67
+ },
+ {
+  "i": 55,
+  "start": 212.67,
+  "speechStart": 212.82,
+  "speechEnd": 217.4,
+  "text": "Most of a Japanese fleet of more than seventy ships was destroyed or captured.",
+  "end": 217.95
+ },
+ {
+  "i": 56,
+  "start": 217.95,
+  "speechStart": 218.1,
+  "speechEnd": 219.74,
+  "text": "It was a turning point of the war.",
+  "end": 220.35
+ },
+ {
+  "i": 57,
+  "start": 220.35,
+  "speechStart": 220.5,
+  "speechEnd": 224.76,
+  "text": "Japan's army depended on supplies by sea, and Yi had cut the road.",
+  "end": 225.27
+ },
+ {
+  "i": 58,
+  "start": 225.27,
+  "speechStart": 225.42,
+  "speechEnd": 227.1,
+  "text": "Their advance in the north stalled.",
+  "end": 227.95
+ },
+ {
+  "i": 59,
+  "start": 227.95,
+  "speechStart": 228.1,
+  "speechEnd": 230.8,
+  "text": "So you'd think Korea treated him as a hero.",
+  "end": 231.33
+ },
+ {
+  "i": 60,
+  "start": 231.33,
+  "speechStart": 231.48,
+  "speechEnd": 233.56,
+  "text": "Instead, it nearly killed him.",
+  "end": 234.09
+ },
+ {
+  "i": 61,
+  "start": 234.09,
+  "speechStart": 234.24,
+  "speechEnd": 236.12,
+  "text": "Yi's rivals at court were jealous.",
+  "end": 236.45
+ },
+ {
+  "i": 62,
+  "start": 236.45,
+  "speechStart": 236.6,
+  "speechEnd": 241.08,
+  "text": "And the Japanese fed false intelligence to the Korean government through a double agent:",
+  "end": 241.43
+ },
+ {
+  "i": 63,
+  "start": 241.43,
+  "speechStart": 241.58,
+  "speechEnd": 246.12,
+  "text": "a Japanese fleet would be crossing at a certain spot, and Yi should attack it there.",
+  "end": 246.75
+ },
+ {
+  "i": 64,
+  "start": 246.75,
+  "speechStart": 246.9,
+  "speechEnd": 249.58,
+  "text": "Yi suspected a trap and refused to sail.",
+  "end": 250.17
+ },
+ {
+  "i": 65,
+  "start": 250.17,
+  "speechStart": 250.32,
+  "speechEnd": 252.02,
+  "text": "The king saw it as disobedience.",
+  "end": 252.79
+ },
+ {
+  "i": 66,
+  "start": 252.79,
+  "speechStart": 252.94,
+  "speechEnd": 258.8,
+  "text": "In 1597, Yi Sun-sin was arrested, dragged to the capital in chains, and tortured.",
+  "end": 259.35
+ },
+ {
+  "i": 67,
+  "start": 259.35,
+  "speechStart": 259.5,
+  "speechEnd": 261.26,
+  "text": "He came close to being executed.",
+  "end": 261.89
+ },
+ {
+  "i": 68,
+  "start": 261.89,
+  "speechStart": 262.04,
+  "speechEnd": 268.26,
+  "text": "Instead, for the second time in his life, he was stripped of his rank and sent to serve as a common soldier.",
+  "end": 268.89
+ },
+ {
+  "i": 69,
+  "start": 268.89,
+  "speechStart": 269.04,
+  "speechEnd": 272.52,
+  "text": "His replacement was his rival, an admiral named Won Gyun.",
+  "end": 273.07
+ },
+ {
+  "i": 70,
+  "start": 273.07,
+  "speechStart": 273.22,
+  "speechEnd": 279.04,
+  "text": "Within months, Won Gyun led the fleet straight into a Japanese ambush at Chilcheollyang.",
+  "end": 278.89
+ },
+ {
+  "i": 71,
+  "start": 278.89,
+  "speechStart": 279.04,
+  "speechEnd": 282.78,
+  "text": "The Korean navy was wiped out. Won Gyun was killed.",
+  "end": 283.35
+ },
+ {
+  "i": 72,
+  "start": 283.35,
+  "speechStart": 283.5,
+  "speechEnd": 285.4,
+  "text": "Only about a dozen ships escaped.",
+  "end": 285.95
+ },
+ {
+  "i": 73,
+  "start": 285.95,
+  "speechStart": 286.1,
+  "speechEnd": 289.12,
+  "text": "The king had no choice. He brought Yi back.",
+  "end": 289.41
+ },
+ {
+  "i": 74,
+  "start": 289.41,
+  "speechStart": 289.56,
+  "speechEnd": 294.28,
+  "text": "And he suggested that maybe Yi should give up on the navy, and fight on land instead.",
+  "end": 295.15
+ },
+ {
+  "i": 75,
+  "start": 295.15,
+  "speechStart": 295.3,
+  "speechEnd": 298.9,
+  "text": "Yi's reply became one of the most famous lines in Korean history:",
+  "end": 299.43
+ },
+ {
+  "i": 76,
+  "start": 299.43,
+  "speechStart": 299.58,
+  "speechEnd": 301.48,
+  "text": "\"I still have twelve ships.\"",
+  "end": 302.07
+ },
+ {
+  "i": 77,
+  "start": 302.07,
+  "speechStart": 302.22,
+  "speechEnd": 307.2,
+  "text": "As long as I am alive, he wrote, the enemy will not dare to look down on us.",
+  "end": 307.95
+ },
+ {
+  "i": 78,
+  "start": 307.95,
+  "speechStart": 308.1,
+  "speechEnd": 311.06,
+  "text": "One more ship was found. That made thirteen.",
+  "end": 311.53
+ },
+ {
+  "i": 79,
+  "start": 311.53,
+  "speechStart": 311.68,
+  "speechEnd": 315.86,
+  "text": "In October 1597, a Japanese fleet of more than a hundred",
+  "end": 315.71
+ },
+ {
+  "i": 80,
+  "start": 315.71,
+  "speechStart": 315.86,
+  "speechEnd": 318.7,
+  "text": "and thirty warships came through the Myeongnyang Strait,",
+  "end": 319.03
+ },
+ {
+  "i": 81,
+  "start": 319.03,
+  "speechStart": 319.18,
+  "speechEnd": 324.22,
+  "text": "a narrow channel with one of the strongest tidal currents in Korea. Yi was waiting.",
+  "end": 324.69
+ },
+ {
+  "i": 82,
+  "start": 324.69,
+  "speechStart": 324.84,
+  "speechEnd": 326.78,
+  "text": "The night before, he told his officers:",
+  "end": 327.37
+ },
+ {
+  "i": 83,
+  "start": 327.37,
+  "speechStart": 327.52,
+  "speechEnd": 329.46,
+  "text": "\"Those who seek death shall live.",
+  "end": 329.95
+ },
+ {
+  "i": 84,
+  "start": 329.95,
+  "speechStart": 330.1,
+  "speechEnd": 332.06,
+  "text": "Those who seek life shall die.\"",
+  "end": 332.75
+ },
+ {
+  "i": 85,
+  "start": 332.75,
+  "speechStart": 332.9,
+  "speechEnd": 336.92,
+  "text": "When the battle began, the other Korean captains hesitated and hung back.",
+  "end": 337.45
+ },
+ {
+  "i": 86,
+  "start": 337.45,
+  "speechStart": 337.6,
+  "speechEnd": 343.36,
+  "text": "For a while, Yi's flagship fought almost alone, against wave after wave of enemy ships.",
+  "end": 343.85
+ },
+ {
+  "i": 87,
+  "start": 343.85,
+  "speechStart": 344.0,
+  "speechEnd": 345.52,
+  "text": "Then the others rejoined.",
+  "end": 345.77
+ },
+ {
+  "i": 88,
+  "start": 345.77,
+  "speechStart": 345.92,
+  "speechEnd": 347.78,
+  "text": "And then the current turned.",
+  "end": 347.99
+ },
+ {
+  "i": 89,
+  "start": 347.99,
+  "speechStart": 348.14,
+  "speechEnd": 352.96,
+  "text": "The Japanese ships, packed into the narrow strait, were pushed back into each other.",
+  "end": 353.75
+ },
+ {
+  "i": 90,
+  "start": 353.75,
+  "speechStart": 353.9,
+  "speechEnd": 357.8,
+  "text": "By the end of the day, around thirty Japanese warships had been destroyed.",
+  "end": 358.75
+ },
+ {
+  "i": 91,
+  "start": 358.75,
+  "speechStart": 358.9,
+  "speechEnd": 361.0,
+  "text": "Yi did not lose a single ship.",
+  "end": 361.65
+ },
+ {
+  "i": 92,
+  "start": 361.65,
+  "speechStart": 361.8,
+  "speechEnd": 365.32,
+  "text": "It was one of the most lopsided naval victories ever recorded.",
+  "end": 365.95
+ },
+ {
+  "i": 93,
+  "start": 365.95,
+  "speechStart": 366.1,
+  "speechEnd": 368.46,
+  "text": "And it came at a terrible price.",
+  "end": 369.41
+ },
+ {
+  "i": 94,
+  "start": 369.41,
+  "speechStart": 369.56,
+  "speechEnd": 370.9,
+  "text": "Weeks later, in revenge,",
+  "end": 371.83
+ },
+ {
+  "i": 95,
+  "start": 371.83,
+  "speechStart": 371.98,
+  "speechEnd": 374.14,
+  "text": "Japanese soldiers killed Yi's youngest son.",
+  "end": 374.97
+ },
+ {
+  "i": 96,
+  "start": 374.97,
+  "speechStart": 375.12,
+  "speechEnd": 380.4,
+  "text": "In his diary, Yi wrote that he wanted to die, but had to go on living for his men.",
+  "end": 381.39
+ },
+ {
+  "i": 97,
+  "start": 381.39,
+  "speechStart": 381.54,
+  "speechEnd": 386.54,
+  "text": "In 1598, Hideyoshi died, and the Japanese began pulling out of Korea.",
+  "end": 387.43
+ },
+ {
+  "i": 98,
+  "start": 387.43,
+  "speechStart": 387.58,
+  "speechEnd": 389.96,
+  "text": "Yi wasn't going to let them leave easily.",
+  "end": 390.73
+ },
+ {
+  "i": 99,
+  "start": 390.73,
+  "speechStart": 390.88,
+  "speechEnd": 396.26,
+  "text": "In December, alongside a Chinese fleet, he attacked the retreating Japanese at Noryang.",
+  "end": 396.89
+ },
+ {
+  "i": 100,
+  "start": 396.89,
+  "speechStart": 397.04,
+  "speechEnd": 398.82,
+  "text": "The battle raged through the night.",
+  "end": 399.57
+ },
+ {
+  "i": 101,
+  "start": 399.57,
+  "speechStart": 399.72,
+  "speechEnd": 403.597,
+  "text": "As dawn came, Yi was on the deck of his flagship,",
+  "end": 403.447
+ },
+ {
+  "i": 102,
+  "start": 403.447,
+  "speechStart": 403.597,
+  "speechEnd": 406.58,
+  "text": "urging his men on with the war drum, when a bullet struck him.",
+  "end": 407.25
+ },
+ {
+  "i": 103,
+  "start": 407.25,
+  "speechStart": 407.4,
+  "speechEnd": 410.04,
+  "text": "His last words, according to the records, were:",
+  "end": 410.61
+ },
+ {
+  "i": 104,
+  "start": 410.61,
+  "speechStart": 410.76,
+  "speechEnd": 412.0,
+  "text": "\"The battle is at its height.",
+  "end": 412.37
+ },
+ {
+  "i": 105,
+  "start": 412.37,
+  "speechStart": 412.52,
+  "speechEnd": 413.96,
+  "text": "Do not announce my death.\"",
+  "end": 414.93
+ },
+ {
+  "i": 106,
+  "start": 414.93,
+  "speechStart": 415.08,
+  "speechEnd": 419.16,
+  "text": "His nephew hid his body, took up the drum, and kept beating it.",
+  "end": 419.57
+ },
+ {
+  "i": 107,
+  "start": 419.57,
+  "speechStart": 419.72,
+  "speechEnd": 425.64,
+  "text": "The fleet fought on, never knowing their admiral was gone. Noryang was a victory.",
+  "end": 426.49
+ },
+ {
+  "i": 108,
+  "start": 426.49,
+  "speechStart": 426.64,
+  "speechEnd": 427.42,
+  "text": "His last one.",
+  "end": 427.99
+ },
+ {
+  "i": 109,
+  "start": 427.99,
+  "speechStart": 428.14,
+  "speechEnd": 430.36,
+  "text": "So, is the streak real?",
+  "end": 431.19
+ },
+ {
+  "i": 110,
+  "start": 431.19,
+  "speechStart": 431.34,
+  "speechEnd": 434.18,
+  "text": "The number twenty-three depends on how you count.",
+  "end": 434.77
+ },
+ {
+  "i": 111,
+  "start": 434.77,
+  "speechStart": 434.92,
+  "speechEnd": 440.94,
+  "text": "Some of those were small clashes, and historians argue about where one battle ends and the next begins.",
+  "end": 441.85
+ },
+ {
+  "i": 112,
+  "start": 441.85,
+  "speechStart": 442.0,
+  "speechEnd": 447.68,
+  "text": "But here's what makes Yi different from almost every other undefeated legend: the evidence.",
+  "end": 448.39
+ },
+ {
+  "i": 113,
+  "start": 448.39,
+  "speechStart": 448.54,
+  "speechEnd": 451.78,
+  "text": "He kept a war diary for most of the seven-year war.",
+  "end": 452.47
+ },
+ {
+  "i": 114,
+  "start": 452.47,
+  "speechStart": 452.62,
+  "speechEnd": 456.92,
+  "text": "Today it's recognized by UNESCO as part of the Memory of the World.",
+  "end": 457.65
+ },
+ {
+  "i": 115,
+  "start": 457.65,
+  "speechStart": 457.8,
+  "speechEnd": 461.1,
+  "text": "Together with the Korean court records, it gives us his battles,",
+  "end": 461.39
+ },
+ {
+  "i": 116,
+  "start": 461.39,
+  "speechStart": 461.54,
+  "speechEnd": 465.88,
+  "text": "his doubts, his illnesses, and his grief, in his own hand.",
+  "end": 466.73
+ },
+ {
+  "i": 117,
+  "start": 466.73,
+  "speechStart": 466.88,
+  "speechEnd": 469.96,
+  "text": "By every count, he never lost a battle he commanded.",
+  "end": 470.55
+ },
+ {
+  "i": 118,
+  "start": 470.55,
+  "speechStart": 470.7,
+  "speechEnd": 473.3,
+  "text": "He was jailed by his own king, tortured,",
+  "end": 473.61
+ },
+ {
+  "i": 119,
+  "start": 473.61,
+  "speechStart": 473.76,
+  "speechEnd": 478.08,
+  "text": "demoted twice, lost his son, and kept winning anyway.",
+  "end": 477.93
+ },
+ {
+  "i": 120,
+  "start": 477.93,
+  "speechStart": 478.08,
+  "speechEnd": 485.16,
+  "text": "Thirteen ships against more than a hundred and thirty. Twenty-three battles. Zero defeats.",
+  "end": 485.77
+ },
+ {
+  "i": 121,
+  "start": 485.77,
+  "speechStart": 485.92,
+  "speechEnd": 488.0,
+  "text": "And a man who, even in death,",
+  "end": 488.59
+ },
+ {
+  "i": 122,
+  "start": 488.59,
+  "speechStart": 488.74,
+  "speechEnd": 490.98,
+  "text": "refused to let his side stop fighting.",
+  "end": 492.48
+ }
+]

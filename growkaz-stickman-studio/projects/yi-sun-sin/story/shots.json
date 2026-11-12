@@ -1,0 +1,5126 @@
+{
+ "title": "The Admiral Who Never Lost - Yi Sun-sin",
+ "duration": 492.48,
+ "shots": [
+  {
+   "id": "s001",
+   "start": 0.0,
+   "end": 4.17,
+   "line": "In 1597, a Korean admiral wrote to his king.",
+   "scene": "A brush-written letter, Joseon 1597",
+   "set": null,
+   "bars": "none",
+   "in": {
+    "type": "fade",
+    "dur": 0.6
+   },
+   "sfx": [],
+   "params": {
+    "title": "JOSEON \u00b7 1597",
+    "seal": true,
+    "type": "diary"
+   },
+   "notes": "s001"
+  },
+  {
+   "id": "s002",
+   "start": 4.17,
+   "end": 6.57,
+   "line": "The navy had just been destroyed.",
+   "scene": "Burning Korean warships on a blood-red sea",
+   "set": null,
+   "bars": "none",
+   "in": {
+    "type": "zoom",
+    "dur": 0.5
+   },
+   "sfx": [],
+   "params": {
+    "bg": "dusk",
+    "ground": "sea",
+    "sun": [
+     0.7,
+     0.35,
+     160
+    ],
+    "ships": [
+     {
+      "kind": "panok",
+      "x": 0.3,
+      "s": 1.1,
+      "fire": true
+     },
+     {
+      "kind": "panok",
+      "x": 0.62,
+      "s": 0.8,
+      "fire": true
+     },
+     {
+      "kind": "panok",
+      "x": 0.85,
+      "s": 0.6,
+      "fire": true
+     }
+    ],
+    "fx": [
+     "smoke",
+     "embers"
+    ],
+    "type": "scene"
+   },
+   "notes": "s002"
+  },
+  {
+   "id": "s003",
+   "start": 6.57,
+   "end": 10.05,
+   "line": "Almost every ship was gone. And he wrote:",
+   "scene": "An empty sea; one lonely ship on the horizon",
+   "set": null,
+   "bars": "none",
+   "in": {
+    "type": "zoom",
+    "dur": 0.5
+   },
+   "sfx": [],
+   "params": {
+    "bg": "paper",
+    "ground": "sea",
+    "ships": [
+     {
+      "kind": "panok",
+      "x": 0.66,
+      "s": 0.45
+     }
+    ],
+    "ov": {
+     "labels": [
+      {
+       "str": "ALMOST EVERY SHIP: GONE",
+       "at": 0.3
+      }
+     ]
+    },
+    "type": "scene"
+   },
+   "notes": "s003"
+  },
+  {
+   "id": "s004",
+   "start": 10.05,
+   "end": 12.55,
+   "line": "\"I still have twelve ships.\"",
+   "scene": "The letter: \"I still have twelve ships.\"",
+   "set": null,
+   "bars": "none",
+   "in": {
+    "type": "zoom",
+    "dur": 0.5
+   },
+   "sfx": [],
+   "params": {
+    "title": "LETTER TO THE KING",
+    "quote": "\"I still have twelve ships.\"",
+    "quoteAt": 0.1,
+    "wordRate": 0.3,
+    "seal": true,
+    "seed": 1,
+    "type": "diary"
+   },
+   "notes": "s004"
+  },
+  {
+   "id": "s005",
+   "start": 12.55,
+   "end": 18.61,
+   "line": "Weeks later, with thirteen ships, he faced a Japanese fleet of more than a hundred and thirty.",
+   "scene": "13 red Korean ships vs 133 Japanese ships, counted out",
+   "set": null,
+   "bars": "none",
+   "in": {
+    "type": "zoom",
+    "dur": 0.5
+   },
+   "sfx": [],
+   "params": {
+    "mode": "vs",
+    "a": 13,
+    "b": 133,
+    "bAt": 3.03,
+    "type": "tally"
+   },
+   "notes": "s005"
+  },
+  {
+   "id": "s006",
+   "start": 18.61,
+   "end": 21.27,
+   "line": "He didn't lose a single one.",
+   "scene": "3D: Korean line faces the Japanese fleet",
+   "set": null,
+   "bars": "none",
+   "in": {
+    "type": "zoom",
+    "dur": 0.5
+   },
+   "sfx": [],
+   "params": {
+    "preset": "fleet",
+    "ov": {
+     "labels": [
+      {
+       "str": "SHIPS LOST: 0",
+       "at": 0.6,
+       "red": true
+      }
+     ]
+    },
+    "type": "sea3d"
+   },
+   "notes": "s006"
+  },
+  {
+   "id": "s007",
+   "start": 21.27,
+   "end": 23.61,
+   "line": "His name was Yi Sun-sin.",
+   "scene": "Profile silhouette of Yi Sun-sin before a red sun",
+   "set": null,
+   "bars": "none",
+   "in": {
+    "type": "zoom",
+    "dur": 0.5
+   },
+   "sfx": [],
+   "params": {
+    "who": "YI",
+    "ov": {
+     "labels": [
+      {
+       "str": "ADMIRAL YI SUN-SIN",
+       "at": 0.3,
+       "y": 0.85,
+       "size": 44
+      }
+     ]
+    },
+    "type": "portrait"
+   },
+   "notes": "s007"
+  },
+  {
+   "id": "s008",
+   "start": 23.61,
+   "end": 29.23,
+   "line": "By the usual count, he fought around twenty-three naval battles, and never lost one.",
+   "scene": "23 tally marks, then 0 DEFEATS stamp",
+   "set": null,
+   "bars": "none",
+   "in": {
+    "type": "zoom",
+    "dur": 0.5
+   },
+   "sfx": [],
+   "params": {
+    "mode": "streak",
+    "zeroAt": 3.97,
+    "type": "tally"
+   },
+   "notes": "s008"
+  },
+  {
+   "id": "s009",
+   "start": 29.23,
+   "end": 33.29,
+   "line": "And unlike most legends, we don't have to take anyone's word for it.",
+   "scene": "Officials whisper; legends are hearsay",
+   "set": null,
+   "bars": "none",
+   "in": {
+    "type": "zoom",
+    "dur": 0.5
+   },
+   "sfx": [],
+   "params": {
+    "bg": "paper",
+    "props": [
+     {
+      "k": "palace",
+      "x": 0.5,
+      "s": 0.9,
+      "far": true
+     }
+    ],
+    "figs": [
+     {
+      "who": "OFFICIAL",
+      "x": 0.3,
+      "p": "talk",
+      "f": 1,
+      "s": 1.6
+     },
+     {
+      "who": "OFFICIAL",
+      "x": 0.45,
+      "p": "shrug",
+      "f": -1,
+      "s": 1.6
+     },
+     {
+      "who": "OFFICIAL",
+      "x": 0.7,
+      "p": "think",
+      "f": -1,
+      "s": 1.6
+     }
+    ],
+    "ov": {
+     "labels": [
+      {
+       "str": "MOST LEGENDS: HEARSAY",
+       "at": 0.4
+      }
+     ]
+    },
+    "type": "scene"
+   },
+   "notes": "s009"
+  },
+  {
+   "id": "s010",
+   "start": 33.29,
+   "end": 35.55,
+   "line": "He wrote it down himself.",
+   "scene": "His own war diary",
+   "set": null,
+   "bars": "none",
+   "in": {
+    "type": "zoom",
+    "dur": 0.5
+   },
+   "sfx": [],
+   "params": {
+    "title": "HIS OWN WAR DIARY",
+    "seal": true,
+    "seed": 2,
+    "type": "diary"
+   },
+   "notes": "s010"
+  },
+  {
+   "id": "s011",
+   "start": 35.55,
+   "end": 39.15,
+   "line": "This is the lore behind Admiral Yi Sun-sin.",
+   "scene": "Ransom-note title over a ghost turtle ship",
+   "set": null,
+   "bars": "none",
+   "in": {
+    "type": "zoom",
+    "dur": 0.5
+   },
+   "sfx": [
+    {
+     "at": 0.1,
+     "name": "impact",
+     "gain": -6
+    }
+   ],
+   "params": {
+    "sub": "THE LORE BEHIND YI SUN-SIN",
+    "type": "title"
+   },
+   "notes": "s011"
+  },
+  {
+   "id": "s012",
+   "start": 39.15,
+   "end": 45.55,
+   "line": "He was born in 1545, in Seoul, into a noble family that had fallen on hard times.",
+   "scene": "1545, Seoul",
+   "set": null,
+   "bars": "none",
+   "in": {
+    "type": "zoom",
+    "dur": 0.5
+   },
+   "sfx": [],
+   "params": {
+    "str": "1545",
+    "sub": "SEOUL \u00b7 JOSEON KOREA",
+    "bg": "paper",
+    "type": "date"
+   },
+   "notes": "s012"
+  },
+  {
+   "id": "s013",
+   "start": 45.55,
+   "end": 47.51,
+   "line": "He didn't start out as a sailor.",
+   "scene": "A warship at sea, crossed out",
+   "set": null,
+   "bars": "none",
+   "in": {
+    "type": "zoom",
+    "dur": 0.5
+   },
+   "sfx": [],
+   "params": {
+    "bg": "paper",
+    "ground": "sea",
+    "ships": [
+     {
+      "kind": "panok",
+      "x": 0.5,
+      "s": 1.0
+     }
+    ],
+    "ov": {
+     "labels": [
+      {
+       "str": "SAILOR? NOT YET",
+       "at": 0.3,
+       "red": true
+      }
+     ]
+    },
+    "type": "scene"
+   },
+   "notes": "s013"
+  },
+  {
+   "id": "s014",
+   "start": 47.51,
+   "end": 49.93,
+   "line": "He started out as a soldier.",
+   "scene": "Young Yi with a spear, pines, red sun",
+   "set": null,
+   "bars": "none",
+   "in": {
+    "type": "zoom",
+    "dur": 0.5
+   },
+   "sfx": [],
+   "params": {
+    "figs": [
+     {
+      "who": "YI",
+      "x": 0.42,
+      "p": "ready",
+      "f": 1,
+      "s": 1.6,
+      "spear": true
+     }
+    ],
+    "props": [
+     {
+      "k": "pine",
+      "x": 0.15,
+      "s": 1.2
+     },
+     {
+      "k": "pine",
+      "x": 0.82,
+      "s": 0.9
+     }
+    ],
+    "ov": {
+     "labels": [
+      {
+       "str": "A SOLDIER",
+       "at": 0.2
+      }
+     ]
+    },
+    "type": "scene"
+   },
+   "notes": "s014"
+  },
+  {
+   "id": "s015",
+   "start": 49.93,
+   "end": 53.69,
+   "line": "At twenty-seven, he took Korea's military service exam.",
+   "scene": "Examiners before the palace",
+   "set": null,
+   "bars": "none",
+   "in": {
+    "type": "zoom",
+    "dur": 0.5
+   },
+   "sfx": [],
+   "params": {
+    "props": [
+     {
+      "k": "palace",
+      "x": 0.6,
+      "s": 0.8,
+      "far": true
+     }
+    ],
+    "figs": [
+     {
+      "who": "OFFICIAL",
+      "x": 0.62,
+      "p": "crossArms",
+      "f": -1,
+      "s": 1.3
+     },
+     {
+      "who": "OFFICIAL",
+      "x": 0.74,
+      "p": "crossArms",
+      "f": -1,
+      "s": 1.3
+     },
+     {
+      "who": "YI",
+      "x": 0.3,
+      "p": "stand",
+      "f": 1,
+      "s": 1.6
+     }
+    ],
+    "ov": {
+     "date": "AGE 27 \u00b7 MILITARY EXAM"
+    },
+    "type": "scene"
+   },
+   "notes": "s015"
+  },
+  {
+   "id": "s016",
+   "start": 53.69,
+   "end": 58.63,
+   "line": "Halfway through the horseback test, his horse threw him, and he broke his leg.",
+   "scene": "His horse throws him",
+   "set": null,
+   "bars": "none",
+   "in": {
+    "type": "zoom",
+    "dur": 0.5
+   },
+   "sfx": [
+    {
+     "at": 0.95,
+     "name": "hit",
+     "gain": -8
+    }
+   ],
+   "params": {
+    "figs": [
+     {
+      "who": "YI",
+      "x": 0.5,
+      "p": [
+       [
+        0,
+        "stand"
+       ],
+       [
+        0.9,
+        "fall"
+       ]
+      ],
+      "f": 1,
+      "s": 1.6
+     }
+    ],
+    "props": [
+     {
+      "k": "horse",
+      "x": 0.66,
+      "s": 1.1,
+      "f": 1
+     }
+    ],
+    "extra": "fall",
+    "type": "scene"
+   },
+   "notes": "s016"
+  },
+  {
+   "id": "s017",
+   "start": 58.63,
+   "end": 64.08,
+   "line": "The story goes that he got up, stripped bark from a willow tree, splinted his own leg,",
+   "scene": "He kneels by a willow, stripping bark",
+   "set": null,
+   "bars": "none",
+   "in": {
+    "type": "zoom",
+    "dur": 0.5
+   },
+   "sfx": [],
+   "params": {
+    "figs": [
+     {
+      "who": "YI",
+      "x": 0.42,
+      "p": "kneel",
+      "f": 1,
+      "s": 1.6
+     }
+    ],
+    "props": [
+     {
+      "k": "willow",
+      "x": 0.6,
+      "s": 1.1
+     }
+    ],
+    "extra": "bark",
+    "ov": {
+     "labels": [
+      {
+       "str": "THE STORY GOES...",
+       "at": 0.2
+      }
+     ]
+    },
+    "type": "scene"
+   },
+   "notes": "s017"
+  },
+  {
+   "id": "s018",
+   "start": 64.08,
+   "end": 65.91,
+   "line": "and finished the test.",
+   "scene": "Splinted, he limps on to finish the test",
+   "set": null,
+   "bars": "none",
+   "in": {
+    "type": "zoom",
+    "dur": 0.5
+   },
+   "sfx": [],
+   "params": {
+    "figs": [
+     {
+      "who": "YI",
+      "x": 0.3,
+      "p": "stand",
+      "f": 1,
+      "s": 1.6,
+      "walk": [
+       0.25,
+       0.6,
+       0,
+       2
+      ]
+     }
+    ],
+    "props": [
+     {
+      "k": "willow",
+      "x": 0.82,
+      "s": 0.9,
+      "far": true
+     }
+    ],
+    "type": "scene"
+   },
+   "notes": "s017"
+  },
+  {
+   "id": "s019",
+   "start": 65.91,
+   "end": 67.49,
+   "line": "He still failed.",
+   "scene": "FAILED stamp",
+   "set": null,
+   "bars": "none",
+   "in": {
+    "type": "zoom",
+    "dur": 0.5
+   },
+   "sfx": [
+    {
+     "at": 0.35,
+     "name": "hit",
+     "gain": -10
+    }
+   ],
+   "params": {
+    "figs": [
+     {
+      "who": "YI",
+      "x": 0.4,
+      "p": "sad",
+      "f": 1,
+      "s": 1.6
+     }
+    ],
+    "extra": "fail",
+    "type": "scene"
+   },
+   "notes": "s018"
+  },
+  {
+   "id": "s020",
+   "start": 67.49,
+   "end": 71.17,
+   "line": "Four years later, he tried again, and passed.",
+   "scene": "Four years later: PASSED",
+   "set": null,
+   "bars": "none",
+   "in": {
+    "type": "zoom",
+    "dur": 0.5
+   },
+   "sfx": [
+    {
+     "at": 0.65,
+     "name": "ding",
+     "gain": -10
+    }
+   ],
+   "params": {
+    "figs": [
+     {
+      "who": "YI",
+      "x": 0.4,
+      "p": [
+       [
+        0,
+        "stand"
+       ],
+       [
+        0.5,
+        "cheer"
+       ]
+      ],
+      "f": 1,
+      "s": 1.6
+     }
+    ],
+    "extra": "pass",
+    "ov": {
+     "date": "1576"
+    },
+    "type": "scene"
+   },
+   "notes": "s019"
+  },
+  {
+   "id": "s021",
+   "start": 71.17,
+   "end": 74.11,
+   "line": "His early career was anything but glorious.",
+   "scene": "A lonely soldier on a frontier ridge at dusk",
+   "set": null,
+   "bars": "none",
+   "in": {
+    "type": "zoom",
+    "dur": 0.5
+   },
+   "sfx": [],
+   "params": {
+    "bg": "dusk",
+    "props": [
+     {
+      "k": "mountains",
+      "x": 0.5,
+      "far": true
+     }
+    ],
+    "figs": [
+     {
+      "who": "YI",
+      "x": 0.5,
+      "p": "stand",
+      "f": 1,
+      "s": 1.6,
+      "spear": true
+     }
+    ],
+    "type": "scene"
+   },
+   "notes": "s020"
+  },
+  {
+   "id": "s022",
+   "start": 74.11,
+   "end": 76.65,
+   "line": "He was posted to remote frontiers.",
+   "scene": "Map: posted to the remote northern frontier",
+   "set": null,
+   "bars": "none",
+   "in": {
+    "type": "zoom",
+    "dur": 0.5
+   },
+   "sfx": [],
+   "params": {
+    "focus": [
+     129.5,
+     41.6,
+     1
+    ],
+    "z0": 1.0,
+    "rate": 0.06,
+    "arrows": [
+     {
+      "pts": [
+       "seoul",
+       [
+        127.6,
+        39.6,
+        1
+       ],
+       "frontier"
+      ],
+      "at": 0.2,
+      "dur": 2
+     }
+    ],
+    "pins": [
+     {
+      "place": "frontier",
+      "at": 1.8,
+      "name": "NORTHERN FRONTIER",
+      "dx": -200
+     }
+    ],
+    "type": "map",
+    "from": "seoul"
+   },
+   "notes": "s021"
+  },
+  {
+   "id": "s023",
+   "start": 76.65,
+   "end": 80.99,
+   "line": "He made enemies by refusing to do favors for powerful officials.",
+   "scene": "Powerful officials point; Yi refuses",
+   "set": null,
+   "bars": "none",
+   "in": {
+    "type": "zoom",
+    "dur": 0.5
+   },
+   "sfx": [],
+   "params": {
+    "props": [
+     {
+      "k": "palace",
+      "x": 0.65,
+      "s": 0.7,
+      "far": true
+     }
+    ],
+    "figs": [
+     {
+      "who": "OFFICIAL",
+      "x": 0.65,
+      "p": "point",
+      "f": -1,
+      "s": 1.6
+     },
+     {
+      "who": "OFFICIAL",
+      "x": 0.78,
+      "p": "crossArms",
+      "f": -1,
+      "s": 1.6
+     },
+     {
+      "who": "YI",
+      "x": 0.32,
+      "p": "crossArms",
+      "f": 1,
+      "s": 1.6
+     }
+    ],
+    "type": "scene"
+   },
+   "notes": "s022"
+  },
+  {
+   "id": "s024",
+   "start": 80.99,
+   "end": 84.57,
+   "line": "In 1587, after a raid on the northern border,",
+   "scene": "A border raid at dusk, arrows in the air",
+   "set": null,
+   "bars": "none",
+   "in": {
+    "type": "zoom",
+    "dur": 0.5
+   },
+   "sfx": [],
+   "params": {
+    "bg": "dusk",
+    "props": [
+     {
+      "k": "mountains",
+      "x": 0.5,
+      "far": true
+     }
+    ],
+    "figs": [
+     {
+      "who": "SOLDIER",
+      "x": 0.3,
+      "p": "ready",
+      "f": 1,
+      "s": 1.6,
+      "spear": true
+     },
+     {
+      "who": "SOLDIER",
+      "x": 0.5,
+      "p": "fall",
+      "f": -1,
+      "s": 1.6
+     },
+     {
+      "who": "SOLDIER",
+      "x": 0.7,
+      "p": "ready",
+      "f": -1,
+      "s": 1.6,
+      "spear": true
+     }
+    ],
+    "extra": "arrowsRain",
+    "ov": {
+     "date": "1587 \u00b7 NORTHERN BORDER"
+    },
+    "type": "scene"
+   },
+   "notes": "s023"
+  },
+  {
+   "id": "s025",
+   "start": 84.57,
+   "end": 90.19,
+   "line": "he was blamed for the losses, stripped of his rank, and made to serve as a common soldier.",
+   "scene": "Stripped of rank: Yi kneels as an official points",
+   "set": null,
+   "bars": "none",
+   "in": {
+    "type": "zoom",
+    "dur": 0.5
+   },
+   "sfx": [],
+   "params": {
+    "figs": [
+     {
+      "who": "OFFICIAL",
+      "x": 0.66,
+      "p": "point",
+      "f": -1,
+      "s": 1.6
+     },
+     {
+      "who": "YI",
+      "x": 0.4,
+      "p": "kneel",
+      "f": 1,
+      "s": 1.6
+     }
+    ],
+    "ov": {
+     "labels": [
+      {
+       "str": "DEMOTED TO COMMON SOLDIER",
+       "at": 1.2,
+       "red": true
+      }
+     ]
+    },
+    "type": "scene"
+   },
+   "notes": "s024"
+  },
+  {
+   "id": "s026",
+   "start": 90.19,
+   "end": 91.93,
+   "line": "He worked his way back.",
+   "scene": "He walks back toward the rising sun",
+   "set": null,
+   "bars": "none",
+   "in": {
+    "type": "zoom",
+    "dur": 0.5
+   },
+   "sfx": [],
+   "params": {
+    "bg": "dawn",
+    "sun": [
+     0.75,
+     0.55,
+     160
+    ],
+    "figs": [
+     {
+      "who": "YI",
+      "x": 0.25,
+      "p": "stand",
+      "f": 1,
+      "s": 1.6,
+      "walk": [
+       0.2,
+       0.55,
+       0,
+       1.7
+      ]
+     }
+    ],
+    "type": "scene"
+   },
+   "notes": "s025"
+  },
+  {
+   "id": "s027",
+   "start": 91.93,
+   "end": 97.31,
+   "line": "And in 1591, a friend in the government got him an unlikely job:",
+   "scene": "An official hands him a commission scroll",
+   "set": null,
+   "bars": "none",
+   "in": {
+    "type": "zoom",
+    "dur": 0.5
+   },
+   "sfx": [],
+   "params": {
+    "props": [
+     {
+      "k": "palace",
+      "x": 0.5,
+      "s": 0.8,
+      "far": true
+     }
+    ],
+    "figs": [
+     {
+      "who": "OFFICIAL",
+      "x": 0.6,
+      "p": "holdFront",
+      "f": -1,
+      "s": 1.6
+     },
+     {
+      "who": "YI",
+      "x": 0.4,
+      "p": "stand",
+      "f": 1,
+      "s": 1.6
+     }
+    ],
+    "extra": "scroll",
+    "ov": {
+     "date": "1591"
+    },
+    "type": "scene"
+   },
+   "notes": "s026"
+  },
+  {
+   "id": "s028",
+   "start": 97.31,
+   "end": 101.39,
+   "line": "commander of the navy in Jeolla, Korea's southwest province.",
+   "scene": "Map: Jeolla province glows red",
+   "set": null,
+   "bars": "none",
+   "in": {
+    "type": "zoom",
+    "dur": 0.5
+   },
+   "sfx": [],
+   "params": {
+    "focus": "jeolla",
+    "z0": 1.0,
+    "rate": 0.12,
+    "region": "jeolla",
+    "pins": [
+     {
+      "place": "yeosu",
+      "at": 1.5,
+      "name": "JEOLLA LEFT NAVY",
+      "red": true
+     }
+    ],
+    "type": "map",
+    "from": [
+     127.5,
+     37.0,
+     1
+    ]
+   },
+   "notes": "s027"
+  },
+  {
+   "id": "s029",
+   "start": 101.39,
+   "end": 102.87,
+   "line": "The timing was perfect.",
+   "scene": "Calm water, red sails at anchor",
+   "set": null,
+   "bars": "none",
+   "in": {
+    "type": "zoom",
+    "dur": 0.5
+   },
+   "sfx": [],
+   "params": {
+    "bg": "paper",
+    "ground": "sea",
+    "ships": [
+     {
+      "kind": "panok",
+      "x": 0.3,
+      "s": 0.8
+     },
+     {
+      "kind": "panok",
+      "x": 0.6,
+      "s": 0.6
+     },
+     {
+      "kind": "turtle",
+      "x": 0.82,
+      "s": 0.5
+     }
+    ],
+    "type": "scene"
+   },
+   "notes": "s028"
+  },
+  {
+   "id": "s030",
+   "start": 102.87,
+   "end": 108.83,
+   "line": "Because across the sea, Japan had just been unified after a century of civil war,",
+   "scene": "Map: Japan, newly unified",
+   "set": null,
+   "bars": "none",
+   "in": {
+    "type": "zoom",
+    "dur": 0.5
+   },
+   "sfx": [],
+   "params": {
+    "focus": "japan",
+    "z0": 1.2,
+    "rate": 0.1,
+    "pins": [
+     {
+      "place": "japan",
+      "at": 1.0,
+      "name": "JAPAN \u00b7 UNIFIED",
+      "ink": true,
+      "dx": -60,
+      "dy": -90
+     }
+    ],
+    "type": "map",
+    "from": [
+     129.0,
+     35.0,
+     1
+    ]
+   },
+   "notes": "s029"
+  },
+  {
+   "id": "s031",
+   "start": 108.83,
+   "end": 112.29,
+   "line": "under a warlord named Toyotomi Hideyoshi.",
+   "scene": "Silhouette of Toyotomi Hideyoshi",
+   "set": null,
+   "bars": "none",
+   "in": {
+    "type": "zoom",
+    "dur": 0.5
+   },
+   "sfx": [],
+   "params": {
+    "who": "SAMURAI",
+    "bg": "dusk",
+    "f": -1,
+    "sunX": 0.45,
+    "x": 0.58,
+    "ov": {
+     "labels": [
+      {
+       "str": "TOYOTOMI HIDEYOSHI",
+       "at": 0.3,
+       "y": 0.85,
+       "size": 44
+      }
+     ]
+    },
+    "type": "portrait"
+   },
+   "notes": "s030"
+  },
+  {
+   "id": "s032",
+   "start": 112.29,
+   "end": 114.65,
+   "line": "And Hideyoshi wanted more.",
+   "scene": "Hideyoshi, closer, against red",
+   "set": null,
+   "bars": "none",
+   "in": {
+    "type": "zoom",
+    "dur": 0.5
+   },
+   "sfx": [],
+   "params": {
+    "who": "SAMURAI",
+    "bg": "red",
+    "f": -1,
+    "x": 0.56,
+    "sunX": 0.4,
+    "z0": 1.12,
+    "rate": 0.06,
+    "type": "portrait"
+   },
+   "notes": "s031"
+  },
+  {
+   "id": "s033",
+   "start": 114.65,
+   "end": 118.59,
+   "line": "He planned to march through Korea and conquer China.",
+   "scene": "Map: the plan, Japan \u2192 Korea \u2192 China",
+   "set": null,
+   "bars": "none",
+   "in": {
+    "type": "zoom",
+    "dur": 0.5
+   },
+   "sfx": [],
+   "params": {
+    "focus": [
+     126.5,
+     37.8,
+     1
+    ],
+    "z0": 0.95,
+    "rate": 0.04,
+    "arrows": [
+     {
+      "pts": [
+       "japan",
+       "busan",
+       "seoul",
+       "pyongyang",
+       "china"
+      ],
+      "at": 0.3,
+      "dur": 2.8,
+      "ink": true
+     }
+    ],
+    "type": "map"
+   },
+   "notes": "s032"
+  },
+  {
+   "id": "s034",
+   "start": 118.59,
+   "end": 120.91,
+   "line": "Yi seemed to sense what was coming.",
+   "scene": "Yi at night, watching",
+   "set": null,
+   "bars": "none",
+   "in": {
+    "type": "zoom",
+    "dur": 0.5
+   },
+   "sfx": [],
+   "params": {
+    "who": "YI",
+    "bg": "night",
+    "sunX": 0.62,
+    "type": "portrait"
+   },
+   "notes": "s033"
+  },
+  {
+   "id": "s035",
+   "start": 120.91,
+   "end": 123.88,
+   "line": "He trained his sailors, stockpiled supplies,",
+   "scene": "Yi drills his sailors on deck",
+   "set": null,
+   "bars": "none",
+   "in": {
+    "type": "zoom",
+    "dur": 0.5
+   },
+   "sfx": [],
+   "params": {
+    "ground": "deck",
+    "figs": [
+     {
+      "who": "SAILOR",
+      "x": 0.25,
+      "p": "ready",
+      "f": 1,
+      "s": 1.4,
+      "spear": true
+     },
+     {
+      "who": "SAILOR",
+      "x": 0.4,
+      "p": "ready",
+      "f": 1,
+      "s": 1.4,
+      "spear": true
+     },
+     {
+      "who": "SAILOR",
+      "x": 0.55,
+      "p": "ready",
+      "f": 1,
+      "s": 1.4,
+      "spear": true
+     },
+     {
+      "who": "YI",
+      "x": 0.78,
+      "p": "point",
+      "f": -1,
+      "s": 1.6
+     }
+    ],
+    "type": "scene"
+   },
+   "notes": "s034"
+  },
+  {
+   "id": "s036",
+   "start": 123.88,
+   "end": 127.83,
+   "line": "and rebuilt an old Korean design: the turtle ship.",
+   "scene": "3D: the turtle ship",
+   "set": null,
+   "bars": "none",
+   "in": {
+    "type": "zoom",
+    "dur": 0.5
+   },
+   "sfx": [],
+   "params": {
+    "preset": "turtle",
+    "ov": {
+     "labels": [
+      {
+       "str": "THE TURTLE SHIP",
+       "at": 0.8,
+       "red": true
+      }
+     ]
+    },
+    "type": "sea3d"
+   },
+   "notes": "s034"
+  },
+  {
+   "id": "s037",
+   "start": 127.83,
+   "end": 132.75,
+   "line": "A warship covered with a roof, studded with sharp spikes so no one could board it,",
+   "scene": "The turtle ship: roof and spikes",
+   "set": null,
+   "bars": "none",
+   "in": {
+    "type": "zoom",
+    "dur": 0.5
+   },
+   "sfx": [],
+   "params": {
+    "bg": "paper",
+    "ground": "sea",
+    "ships": [
+     {
+      "kind": "turtle",
+      "x": 0.48,
+      "s": 2.2,
+      "rim": "#c8202a"
+     }
+    ],
+    "ov": {
+     "labels": [
+      {
+       "str": "COVERED ROOF",
+       "at": 0.2,
+       "x": 0.3,
+       "y": 0.2
+      },
+      {
+       "str": "SPIKES: NO BOARDING",
+       "at": 2.13,
+       "x": 0.68,
+       "y": 0.2,
+       "red": true
+      }
+     ]
+    },
+    "type": "scene"
+   },
+   "notes": "s035"
+  },
+  {
+   "id": "s038",
+   "start": 132.75,
+   "end": 138.27,
+   "line": "with cannons on every side and a dragon's head at the bow that could pour out smoke.",
+   "scene": "Cannons and a smoking dragon head",
+   "set": null,
+   "bars": "none",
+   "in": {
+    "type": "zoom",
+    "dur": 0.5
+   },
+   "sfx": [],
+   "params": {
+    "bg": "paper",
+    "ground": "sea",
+    "ships": [
+     {
+      "kind": "turtle",
+      "x": 0.42,
+      "s": 2.2,
+      "smoke": true,
+      "rim": "#c8202a"
+     }
+    ],
+    "ov": {
+     "labels": [
+      {
+       "str": "CANNONS ON EVERY SIDE",
+       "at": 0.1,
+       "x": 0.3,
+       "y": 0.2
+      },
+      {
+       "str": "DRAGON HEAD",
+       "at": 2.45,
+       "x": 0.75,
+       "y": 0.3,
+       "red": true
+      }
+     ]
+    },
+    "type": "scene"
+   },
+   "notes": "s036"
+  },
+  {
+   "id": "s039",
+   "start": 138.27,
+   "end": 144.39,
+   "line": "According to his diary, he was test-firing its cannons just days before the invasion began.",
+   "scene": "His diary: cannon test days before the war",
+   "set": null,
+   "bars": "none",
+   "in": {
+    "type": "zoom",
+    "dur": 0.5
+   },
+   "sfx": [],
+   "params": {
+    "title": "WAR DIARY \u00b7 SPRING 1592",
+    "seed": 3,
+    "quote": "Cannon test. Days before the war.",
+    "quoteAt": 1.2,
+    "wordRate": 0.25,
+    "type": "diary"
+   },
+   "notes": "s037"
+  },
+  {
+   "id": "s040",
+   "start": 144.39,
+   "end": 153.09,
+   "line": "In the spring of 1592, Japan invaded with an army of more than one hundred and fifty thousand men, landing at Busan.",
+   "scene": "3D: a vast Japanese armada nears Busan",
+   "set": null,
+   "bars": "none",
+   "in": {
+    "type": "zoom",
+    "dur": 0.5
+   },
+   "sfx": [],
+   "params": {
+    "preset": "invasion",
+    "n": 60,
+    "ov": {
+     "date": "SPRING 1592",
+     "labels": [
+      {
+       "str": "150,000+ MEN",
+       "at": 1.5,
+       "red": true
+      }
+     ]
+    },
+    "type": "sea3d"
+   },
+   "notes": "s038"
+  },
+  {
+   "id": "s041",
+   "start": 153.09,
+   "end": 157.79,
+   "line": "They were veterans of a hundred years of war, armed with muskets.",
+   "scene": "Rows of samurai: veterans of 100 years of war",
+   "set": null,
+   "bars": "none",
+   "in": {
+    "type": "zoom",
+    "dur": 0.5
+   },
+   "sfx": [],
+   "params": {
+    "mode": "army",
+    "type": "tally"
+   },
+   "notes": "s040"
+  },
+  {
+   "id": "s042",
+   "start": 157.79,
+   "end": 160.35,
+   "line": "Korea's army collapsed.",
+   "scene": "Korea's army collapses in smoke",
+   "set": null,
+   "bars": "none",
+   "in": {
+    "type": "zoom",
+    "dur": 0.5
+   },
+   "sfx": [],
+   "params": {
+    "bg": "dusk",
+    "figs": [
+     {
+      "who": "SOLDIER",
+      "x": 0.6,
+      "p": "stand",
+      "f": -1,
+      "s": 1.6,
+      "walk": [
+       0.6,
+       0.15,
+       0,
+       2.2
+      ]
+     },
+     {
+      "who": "SOLDIER",
+      "x": 0.75,
+      "p": "stand",
+      "f": -1,
+      "s": 1.6,
+      "walk": [
+       0.78,
+       0.3,
+       0,
+       2.2
+      ]
+     }
+    ],
+    "fx": [
+     "smoke",
+     "embers"
+    ],
+    "type": "scene"
+   },
+   "notes": "s041"
+  },
+  {
+   "id": "s043",
+   "start": 160.35,
+   "end": 162.91,
+   "line": "Seoul fell in less than three weeks.",
+   "scene": "Map: Busan to Seoul in under three weeks",
+   "set": null,
+   "bars": "none",
+   "in": {
+    "type": "zoom",
+    "dur": 0.5
+   },
+   "sfx": [],
+   "params": {
+    "focus": "seoul",
+    "z0": 1.3,
+    "rate": 0.08,
+    "arrows": [
+     {
+      "pts": [
+       "busan",
+       [
+        128.4,
+        36.3,
+        1
+       ],
+       "seoul"
+      ],
+      "at": 0.1,
+      "dur": 1.4,
+      "ink": true
+     }
+    ],
+    "cross": [
+     {
+      "place": "seoul",
+      "at": 1.5
+     }
+    ],
+    "pins": [
+     {
+      "place": "seoul",
+      "at": 1.6,
+      "name": "SEOUL FALLS \u00b7 < 3 WEEKS",
+      "ink": true
+     }
+    ],
+    "type": "map",
+    "from": "busan"
+   },
+   "notes": "s042"
+  },
+  {
+   "id": "s044",
+   "start": 162.91,
+   "end": 165.01,
+   "line": "The king fled north.",
+   "scene": "Map: the king flees north",
+   "set": null,
+   "bars": "none",
+   "in": {
+    "type": "zoom",
+    "dur": 0.5
+   },
+   "sfx": [],
+   "params": {
+    "focus": "uiju",
+    "z0": 1.2,
+    "rate": 0.06,
+    "arrows": [
+     {
+      "pts": [
+       "seoul",
+       "pyongyang",
+       "uiju"
+      ],
+      "at": 0.1,
+      "dur": 1.6
+     }
+    ],
+    "pins": [
+     {
+      "place": "uiju",
+      "at": 1.6,
+      "name": "THE KING FLED",
+      "red": true
+     }
+    ],
+    "type": "map",
+    "from": "seoul"
+   },
+   "notes": "s043"
+  },
+  {
+   "id": "s045",
+   "start": 165.01,
+   "end": 168.31,
+   "line": "On land, Korea was losing everything.",
+   "scene": "The palace burns on land",
+   "set": null,
+   "bars": "none",
+   "in": {
+    "type": "zoom",
+    "dur": 0.5
+   },
+   "sfx": [],
+   "params": {
+    "bg": "dusk",
+    "props": [
+     {
+      "k": "palace",
+      "x": 0.5,
+      "s": 1.0
+     }
+    ],
+    "fx": [
+     "smoke",
+     "embers"
+    ],
+    "type": "scene"
+   },
+   "notes": "s044"
+  },
+  {
+   "id": "s046",
+   "start": 168.31,
+   "end": 171.09,
+   "line": "At sea, it was a different story.",
+   "scene": "3D: but at sea, Yi's fleet advances",
+   "set": null,
+   "bars": "none",
+   "in": {
+    "type": "whip",
+    "dur": 0.35
+   },
+   "sfx": [
+    {
+     "at": 0.0,
+     "name": "whoosh",
+     "gain": -8
+    }
+   ],
+   "params": {
+    "preset": "fleet",
+    "type": "sea3d"
+   },
+   "notes": "s045"
+  },
+  {
+   "id": "s047",
+   "start": 171.09,
+   "end": 175.63,
+   "line": "Yi's fleet sailed out and caught Japanese ships at Okpo. He won.",
+   "scene": "Map: Okpo, first victory",
+   "set": null,
+   "bars": "none",
+   "in": {
+    "type": "zoom",
+    "dur": 0.5
+   },
+   "sfx": [],
+   "params": {
+    "focus": "okpo",
+    "z0": 1.6,
+    "rate": 0.1,
+    "tokens": [
+     {
+      "kind": "panok",
+      "to": "okpo",
+      "n": 6,
+      "spread": 60,
+      "at": 0,
+      "dur": 2.6,
+      "from": "yeosu"
+     },
+     {
+      "kind": "jp",
+      "n": 5,
+      "spread": 70,
+      "show": true,
+      "fire": true,
+      "from": "okpo"
+     }
+    ],
+    "pins": [
+     {
+      "place": "okpo",
+      "at": 3.55,
+      "name": "OKPO \u00b7 WIN",
+      "red": true
+     }
+    ],
+    "type": "map",
+    "from": "yeosu"
+   },
+   "notes": "s046"
+  },
+  {
+   "id": "s048",
+   "start": 175.63,
+   "end": 180.29,
+   "line": "Then at Sacheon, he sent the turtle ship into battle for the first time.",
+   "scene": "Map: Sacheon, the turtle ship sails",
+   "set": null,
+   "bars": "none",
+   "in": {
+    "type": "zoom",
+    "dur": 0.5
+   },
+   "sfx": [],
+   "params": {
+    "focus": "sacheon",
+    "z0": 1.8,
+    "rate": 0.1,
+    "tokens": [
+     {
+      "kind": "turtle",
+      "to": "sacheon",
+      "at": 0.2,
+      "dur": 3,
+      "s": 0.22,
+      "from": "yeosu"
+     }
+    ],
+    "pins": [
+     {
+      "place": "sacheon",
+      "at": 2.5,
+      "name": "SACHEON",
+      "red": true
+     }
+    ],
+    "type": "map",
+    "from": "yeosu"
+   },
+   "notes": "s047"
+  },
+  {
+   "id": "s049",
+   "start": 180.29,
+   "end": 184.97,
+   "line": "It smashed straight into the Japanese line, and musket fire couldn't stop it.",
+   "scene": "The turtle ship rams the Japanese line through musket smoke",
+   "set": null,
+   "bars": "none",
+   "in": {
+    "type": "zoom",
+    "dur": 0.5
+   },
+   "sfx": [],
+   "params": {
+    "bg": "paper",
+    "ground": "sea",
+    "ships": [
+     {
+      "kind": "turtle",
+      "x": 0.12,
+      "s": 1.2,
+      "vx": 0.16,
+      "rim": "#c8202a"
+     },
+     {
+      "kind": "jp",
+      "x": 0.62,
+      "s": 1.0,
+      "f": -1
+     },
+     {
+      "kind": "jp",
+      "x": 0.85,
+      "s": 0.8,
+      "f": -1
+     }
+    ],
+    "extra": "muskets",
+    "type": "scene"
+   },
+   "notes": "s048"
+  },
+  {
+   "id": "s050",
+   "start": 184.97,
+   "end": 188.09,
+   "line": "Yi himself was shot in the shoulder.",
+   "scene": "On deck, Yi is struck in the shoulder",
+   "set": null,
+   "bars": "none",
+   "in": {
+    "type": "zoom",
+    "dur": 0.5
+   },
+   "sfx": [
+    {
+     "at": 1.0,
+     "name": "hit",
+     "gain": -8
+    }
+   ],
+   "params": {
+    "ground": "deck",
+    "figs": [
+     {
+      "who": "YI",
+      "x": 0.46,
+      "p": [
+       [
+        0,
+        "point"
+       ],
+       [
+        1.3,
+        "sad"
+       ]
+      ],
+      "f": 1,
+      "s": 1.6,
+      "sword": -0.6
+     }
+    ],
+    "extra": "bullet",
+    "bulletAt": 0.4,
+    "type": "scene"
+   },
+   "notes": "s049"
+  },
+  {
+   "id": "s051",
+   "start": 188.09,
+   "end": 193.67,
+   "line": "He kept fighting, and won again. Then again. And again.",
+   "scene": "Map: win, win, win along the coast",
+   "set": null,
+   "bars": "none",
+   "in": {
+    "type": "zoom",
+    "dur": 0.5
+   },
+   "sfx": [],
+   "params": {
+    "focus": [
+     128.2,
+     34.9,
+     1
+    ],
+    "z0": 1.5,
+    "rate": 0.08,
+    "pins": [
+     {
+      "place": [
+       128.25,
+       34.85,
+       1
+      ],
+      "at": 1.47,
+      "name": "WIN",
+      "red": true
+     },
+     {
+      "place": [
+       127.85,
+       34.8,
+       1
+      ],
+      "at": 2.81,
+      "name": "WIN",
+      "red": true,
+      "dy": 60
+     },
+     {
+      "place": [
+       128.6,
+       34.8,
+       1
+      ],
+      "at": 3.83,
+      "name": "WIN",
+      "red": true,
+      "dy": -120
+     }
+    ],
+    "type": "map"
+   },
+   "notes": "s050"
+  },
+  {
+   "id": "s052",
+   "start": 193.67,
+   "end": 195.99,
+   "line": "Then came Hansan Island.",
+   "scene": "Hansan Island, August 1592",
+   "set": null,
+   "bars": "none",
+   "in": {
+    "type": "zoom",
+    "dur": 0.5
+   },
+   "sfx": [],
+   "params": {
+    "str": "HANSAN ISLAND",
+    "size": 120,
+    "sub": "AUGUST 1592",
+    "bg": "paper",
+    "type": "date"
+   },
+   "notes": "s051"
+  },
+  {
+   "id": "s053",
+   "start": 195.99,
+   "end": 202.39,
+   "line": "Yi sent a few ships to provoke a large Japanese fleet, then turned and fled into open water.",
+   "scene": "Map: bait ships flee to open water",
+   "set": null,
+   "bars": "none",
+   "in": {
+    "type": "zoom",
+    "dur": 0.5
+   },
+   "sfx": [],
+   "params": {
+    "focus": "hansan",
+    "z0": 2.2,
+    "rate": 0.1,
+    "tokens": [
+     {
+      "kind": "panok",
+      "to": [
+       128.4,
+       34.5,
+       1
+      ],
+      "n": 3,
+      "spread": 30,
+      "at": 0.6,
+      "dur": 4.5,
+      "from": [
+       128.5,
+       34.82,
+       1
+      ]
+     },
+     {
+      "kind": "jp",
+      "to": [
+       128.5,
+       34.58,
+       1
+      ],
+      "n": 10,
+      "spread": 60,
+      "at": 2.5,
+      "dur": 3.8,
+      "f": -1,
+      "from": [
+       128.75,
+       34.88,
+       1
+      ]
+     }
+    ],
+    "type": "map"
+   },
+   "notes": "s052"
+  },
+  {
+   "id": "s054",
+   "start": 202.39,
+   "end": 204.39,
+   "line": "The Japanese chased them.",
+   "scene": "Japanese ships give chase",
+   "set": null,
+   "bars": "none",
+   "in": {
+    "type": "whip",
+    "dur": 0.35
+   },
+   "sfx": [
+    {
+     "at": 0.0,
+     "name": "whoosh",
+     "gain": -10
+    }
+   ],
+   "params": {
+    "bg": "paper",
+    "ground": "sea",
+    "ships": [
+     {
+      "kind": "panok",
+      "x": 0.82,
+      "s": 0.7,
+      "vx": 0.08
+     },
+     {
+      "kind": "jp",
+      "x": 0.15,
+      "s": 0.9,
+      "vx": 0.12
+     },
+     {
+      "kind": "jp",
+      "x": 0.38,
+      "s": 0.8,
+      "vx": 0.12
+     }
+    ],
+    "type": "scene"
+   },
+   "notes": "s053"
+  },
+  {
+   "id": "s055",
+   "start": 204.39,
+   "end": 209.09,
+   "line": "And that's when Yi's whole fleet swung around into a giant half-moon,",
+   "scene": "Map: the fleet swings into a half-moon",
+   "set": null,
+   "bars": "none",
+   "in": {
+    "type": "zoom",
+    "dur": 0.5
+   },
+   "sfx": [],
+   "params": {
+    "focus": "hansan",
+    "z0": 2.3,
+    "rate": 0.1,
+    "crane": {
+     "place": [
+      128.45,
+      34.58,
+      1
+     ],
+     "at": 0.4
+    },
+    "tokens": [
+     {
+      "kind": "jp",
+      "n": 8,
+      "spread": 50,
+      "show": true,
+      "f": -1,
+      "from": [
+       128.45,
+       34.66,
+       1
+      ]
+     }
+    ],
+    "type": "map"
+   },
+   "notes": "s054"
+  },
+  {
+   "id": "s056",
+   "start": 209.09,
+   "end": 212.67,
+   "line": "the crane wing formation, and closed around them.",
+   "scene": "Map: the crane wing closes",
+   "set": null,
+   "bars": "none",
+   "in": {
+    "type": "zoom",
+    "dur": 0.5
+   },
+   "sfx": [],
+   "params": {
+    "focus": "hansan",
+    "z0": 2.5,
+    "rate": 0.1,
+    "crane": {
+     "place": [
+      128.45,
+      34.58,
+      1
+     ],
+     "at": -5
+    },
+    "tokens": [
+     {
+      "kind": "jp",
+      "n": 8,
+      "spread": 50,
+      "show": true,
+      "f": -1,
+      "fire": true,
+      "from": [
+       128.45,
+       34.66,
+       1
+      ]
+     }
+    ],
+    "pins": [
+     {
+      "place": [
+       128.45,
+       34.58,
+       1
+      ],
+      "at": 0.3,
+      "name": "CRANE WING FORMATION",
+      "red": true,
+      "dy": -170
+     }
+    ],
+    "type": "map"
+   },
+   "notes": "s055"
+  },
+  {
+   "id": "s057",
+   "start": 212.67,
+   "end": 217.95,
+   "line": "Most of a Japanese fleet of more than seventy ships was destroyed or captured.",
+   "scene": "The Japanese fleet burns",
+   "set": null,
+   "bars": "none",
+   "in": {
+    "type": "zoom",
+    "dur": 0.5
+   },
+   "sfx": [],
+   "params": {
+    "bg": "dusk",
+    "ground": "sea",
+    "ships": [
+     {
+      "kind": "jp",
+      "x": 0.25,
+      "s": 1.0,
+      "fire": true
+     },
+     {
+      "kind": "jp",
+      "x": 0.55,
+      "s": 0.8,
+      "fire": true
+     },
+     {
+      "kind": "jp",
+      "x": 0.8,
+      "s": 0.6,
+      "fire": true
+     }
+    ],
+    "fx": [
+     "smoke",
+     "embers"
+    ],
+    "ov": {
+     "labels": [
+      {
+       "str": "70+ SHIPS DESTROYED OR CAPTURED",
+       "at": 0.6,
+       "red": true
+      }
+     ]
+    },
+    "type": "scene"
+   },
+   "notes": "s056"
+  },
+  {
+   "id": "s058",
+   "start": 217.95,
+   "end": 220.35,
+   "line": "It was a turning point of the war.",
+   "scene": "A turning point",
+   "set": null,
+   "bars": "none",
+   "in": {
+    "type": "zoom",
+    "dur": 0.5
+   },
+   "sfx": [],
+   "params": {
+    "str": "TURNING POINT",
+    "size": 120,
+    "bg": "ink",
+    "type": "date"
+   },
+   "notes": "s057"
+  },
+  {
+   "id": "s059",
+   "start": 220.35,
+   "end": 225.27,
+   "line": "Japan's army depended on supplies by sea, and Yi had cut the road.",
+   "scene": "Map: the sea road cut",
+   "set": null,
+   "bars": "none",
+   "in": {
+    "type": "zoom",
+    "dur": 0.5
+   },
+   "sfx": [],
+   "params": {
+    "focus": [
+     128.0,
+     34.8,
+     1
+    ],
+    "z0": 1.6,
+    "rate": 0.08,
+    "arrows": [
+     {
+      "pts": [
+       "japan",
+       "busan",
+       [
+        128.5,
+        34.6,
+        1
+       ],
+       [
+        127.6,
+        34.5,
+        1
+       ],
+       [
+        126.4,
+        34.45,
+        1
+       ]
+      ],
+      "at": 0.1,
+      "dur": 2.2,
+      "ink": true
+     }
+    ],
+    "cross": [
+     {
+      "place": "hansan",
+      "at": 3.11
+     }
+    ],
+    "type": "map"
+   },
+   "notes": "s058"
+  },
+  {
+   "id": "s060",
+   "start": 225.27,
+   "end": 227.95,
+   "line": "Their advance in the north stalled.",
+   "scene": "Map: the advance stalls at Pyongyang",
+   "set": null,
+   "bars": "none",
+   "in": {
+    "type": "zoom",
+    "dur": 0.5
+   },
+   "sfx": [],
+   "params": {
+    "focus": "pyongyang",
+    "z0": 1.3,
+    "rate": 0.06,
+    "arrows": [
+     {
+      "pts": [
+       "seoul",
+       "pyongyang"
+      ],
+      "at": 0,
+      "dur": 1,
+      "ink": true
+     }
+    ],
+    "pins": [
+     {
+      "place": "pyongyang",
+      "at": 1.2,
+      "name": "STALLED",
+      "ink": true
+     }
+    ],
+    "type": "map",
+    "from": "seoul"
+   },
+   "notes": "s059"
+  },
+  {
+   "id": "s061",
+   "start": 227.95,
+   "end": 231.33,
+   "line": "So you'd think Korea treated him as a hero.",
+   "scene": "Yi walks toward the palace",
+   "set": null,
+   "bars": "none",
+   "in": {
+    "type": "zoom",
+    "dur": 0.5
+   },
+   "sfx": [],
+   "params": {
+    "props": [
+     {
+      "k": "palace",
+      "x": 0.68,
+      "s": 1.0,
+      "far": true
+     }
+    ],
+    "figs": [
+     {
+      "who": "YI",
+      "x": 0.25,
+      "p": "stand",
+      "f": 1,
+      "s": 1.6,
+      "walk": [
+       0.2,
+       0.42,
+       0,
+       3.3
+      ]
+     }
+    ],
+    "type": "scene"
+   },
+   "notes": "s060"
+  },
+  {
+   "id": "s062",
+   "start": 231.33,
+   "end": 234.09,
+   "line": "Instead, it nearly killed him.",
+   "scene": "The palace looms huge over a tiny Yi",
+   "set": null,
+   "bars": "none",
+   "in": {
+    "type": "zoom",
+    "dur": 0.5
+   },
+   "sfx": [],
+   "params": {
+    "bg": "red",
+    "sun": false,
+    "props": [
+     {
+      "k": "palace",
+      "x": 0.55,
+      "s": 1.9
+     }
+    ],
+    "figs": [
+     {
+      "who": "YI",
+      "x": 0.2,
+      "p": "stand",
+      "f": 1,
+      "s": 0.9
+     }
+    ],
+    "type": "scene"
+   },
+   "notes": "s061"
+  },
+  {
+   "id": "s063",
+   "start": 234.09,
+   "end": 236.45,
+   "line": "Yi's rivals at court were jealous.",
+   "scene": "Rivals whisper at court",
+   "set": null,
+   "bars": "none",
+   "in": {
+    "type": "zoom",
+    "dur": 0.5
+   },
+   "sfx": [],
+   "params": {
+    "props": [
+     {
+      "k": "palace",
+      "x": 0.5,
+      "s": 0.9,
+      "far": true
+     }
+    ],
+    "figs": [
+     {
+      "who": "OFFICIAL",
+      "x": 0.35,
+      "p": "talk",
+      "f": 1,
+      "s": 1.6
+     },
+     {
+      "who": "OFFICIAL",
+      "x": 0.5,
+      "p": "think",
+      "f": -1,
+      "s": 1.6
+     },
+     {
+      "who": "OFFICIAL",
+      "x": 0.66,
+      "p": "point",
+      "f": -1,
+      "s": 1.6
+     }
+    ],
+    "ov": {
+     "labels": [
+      {
+       "str": "JEALOUS RIVALS",
+       "at": 0.4
+      }
+     ]
+    },
+    "type": "scene"
+   },
+   "notes": "s062"
+  },
+  {
+   "id": "s064",
+   "start": 236.45,
+   "end": 241.43,
+   "line": "And the Japanese fed false intelligence to the Korean government through a double agent:",
+   "scene": "A double agent passes false intelligence",
+   "set": null,
+   "bars": "none",
+   "in": {
+    "type": "zoom",
+    "dur": 0.5
+   },
+   "sfx": [],
+   "params": {
+    "figs": [
+     {
+      "who": "SAMURAI",
+      "x": 0.38,
+      "p": "holdFront",
+      "f": 1,
+      "s": 1.6
+     },
+     {
+      "who": "OFFICIAL",
+      "x": 0.62,
+      "p": "holdFront",
+      "f": -1,
+      "s": 1.6
+     }
+    ],
+    "extra": "scroll",
+    "ov": {
+     "labels": [
+      {
+       "str": "DOUBLE AGENT",
+       "at": 0.5,
+       "red": true
+      }
+     ]
+    },
+    "type": "scene"
+   },
+   "notes": "s063"
+  },
+  {
+   "id": "s065",
+   "start": 241.43,
+   "end": 246.75,
+   "line": "a Japanese fleet would be crossing at a certain spot, and Yi should attack it there.",
+   "scene": "Map: \"attack them here\" \u2014 a trap",
+   "set": null,
+   "bars": "none",
+   "in": {
+    "type": "zoom",
+    "dur": 0.5
+   },
+   "sfx": [],
+   "params": {
+    "focus": "busan",
+    "z0": 1.8,
+    "rate": 0.1,
+    "tokens": [
+     {
+      "kind": "jp",
+      "n": 8,
+      "spread": 70,
+      "show": true,
+      "f": -1,
+      "from": [
+       129.0,
+       34.85,
+       1
+      ]
+     }
+    ],
+    "arrows": [
+     {
+      "pts": [
+       "hansan",
+       [
+        128.85,
+        34.85,
+        1
+       ]
+      ],
+      "at": 1.2,
+      "dur": 1.6
+     }
+    ],
+    "pins": [
+     {
+      "place": [
+       129.0,
+       34.85,
+       1
+      ],
+      "at": 2.4,
+      "name": "A TRAP?",
+      "ink": true
+     }
+    ],
+    "type": "map",
+    "from": "hansan"
+   },
+   "notes": "s064"
+  },
+  {
+   "id": "s066",
+   "start": 246.75,
+   "end": 250.17,
+   "line": "Yi suspected a trap and refused to sail.",
+   "scene": "Yi refuses to sail",
+   "set": null,
+   "bars": "none",
+   "in": {
+    "type": "zoom",
+    "dur": 0.5
+   },
+   "sfx": [],
+   "params": {
+    "who": "YI",
+    "bg": "paper",
+    "ov": {
+     "labels": [
+      {
+       "str": "REFUSED TO SAIL",
+       "at": 0.6,
+       "y": 0.85,
+       "red": true
+      }
+     ]
+    },
+    "type": "portrait"
+   },
+   "notes": "s065"
+  },
+  {
+   "id": "s067",
+   "start": 250.17,
+   "end": 252.79,
+   "line": "The king saw it as disobedience.",
+   "scene": "The king, offended",
+   "set": null,
+   "bars": "none",
+   "in": {
+    "type": "zoom",
+    "dur": 0.5
+   },
+   "sfx": [],
+   "params": {
+    "who": "KING",
+    "bg": "dusk",
+    "f": -1,
+    "x": 0.56,
+    "sunX": 0.42,
+    "ov": {
+     "labels": [
+      {
+       "str": "\"DISOBEDIENCE\"",
+       "at": 0.5,
+       "y": 0.85,
+       "serif": true
+      }
+     ]
+    },
+    "type": "portrait"
+   },
+   "notes": "s066"
+  },
+  {
+   "id": "s068",
+   "start": 252.79,
+   "end": 256.32,
+   "line": "In 1597, Yi Sun-sin was arrested,",
+   "scene": "Soldiers seize Yi",
+   "set": null,
+   "bars": "none",
+   "in": {
+    "type": "zoom",
+    "dur": 0.5
+   },
+   "sfx": [],
+   "params": {
+    "figs": [
+     {
+      "who": "SOLDIER",
+      "x": 0.32,
+      "p": "reach",
+      "f": 1,
+      "s": 1.6,
+      "spear": true
+     },
+     {
+      "who": "YI",
+      "x": 0.5,
+      "p": "sad",
+      "f": 1,
+      "s": 1.6
+     },
+     {
+      "who": "SOLDIER",
+      "x": 0.68,
+      "p": "reach",
+      "f": -1,
+      "s": 1.6,
+      "spear": true
+     }
+    ],
+    "ov": {
+     "date": "1597 \u00b7 ARRESTED"
+    },
+    "type": "scene"
+   },
+   "notes": "s067"
+  },
+  {
+   "id": "s069",
+   "start": 256.32,
+   "end": 259.35,
+   "line": "dragged to the capital in chains, and tortured.",
+   "scene": "Dragged to the capital in chains",
+   "set": null,
+   "bars": "none",
+   "in": {
+    "type": "zoom",
+    "dur": 0.5
+   },
+   "sfx": [],
+   "params": {
+    "bg": "dusk",
+    "props": [
+     {
+      "k": "palace",
+      "x": 0.8,
+      "s": 0.7,
+      "far": true
+     }
+    ],
+    "figs": [
+     {
+      "who": "SOLDIER",
+      "x": 0.2,
+      "p": "stand",
+      "f": 1,
+      "s": 1.6,
+      "walk": [
+       0.15,
+       0.35,
+       0,
+       3
+      ],
+      "spear": true
+     },
+     {
+      "who": "YI",
+      "x": 0.32,
+      "p": "stand",
+      "f": 1,
+      "s": 1.6,
+      "walk": [
+       0.27,
+       0.47,
+       0,
+       3
+      ]
+     }
+    ],
+    "extra": "chainsWalk",
+    "type": "scene"
+   },
+   "notes": "s067"
+  },
+  {
+   "id": "s070",
+   "start": 259.35,
+   "end": 261.89,
+   "line": "He came close to being executed.",
+   "scene": "Kneeling, a guard behind him: close to execution",
+   "set": null,
+   "bars": "none",
+   "in": {
+    "type": "zoom",
+    "dur": 0.5
+   },
+   "sfx": [],
+   "params": {
+    "bg": "red",
+    "sun": false,
+    "figs": [
+     {
+      "who": "YI",
+      "x": 0.45,
+      "p": "kneel",
+      "f": 1,
+      "s": 1.6
+     },
+     {
+      "who": "SOLDIER",
+      "x": 0.6,
+      "p": "stand",
+      "f": -1,
+      "s": 1.6,
+      "sword": -1.9
+     }
+    ],
+    "ov": {
+     "labels": [
+      {
+       "str": "CLOSE TO EXECUTION",
+       "at": 0.4,
+       "ink": true
+      }
+     ]
+    },
+    "type": "scene"
+   },
+   "notes": "s068"
+  },
+  {
+   "id": "s071",
+   "start": 261.89,
+   "end": 268.89,
+   "line": "Instead, for the second time in his life, he was stripped of his rank and sent to serve as a common soldier.",
+   "scene": "A common soldier again, in the ranks",
+   "set": null,
+   "bars": "none",
+   "in": {
+    "type": "zoom",
+    "dur": 0.5
+   },
+   "sfx": [],
+   "params": {
+    "figs": [
+     {
+      "who": "SOLDIER",
+      "x": 0.25,
+      "p": "stand",
+      "f": 1,
+      "s": 1.6,
+      "spear": true
+     },
+     {
+      "who": "YI",
+      "x": 0.42,
+      "p": "stand",
+      "f": 1,
+      "s": 1.6,
+      "spear": true
+     },
+     {
+      "who": "SOLDIER",
+      "x": 0.59,
+      "p": "stand",
+      "f": 1,
+      "s": 1.6,
+      "spear": true
+     },
+     {
+      "who": "SOLDIER",
+      "x": 0.76,
+      "p": "stand",
+      "f": 1,
+      "s": 1.6,
+      "spear": true
+     }
+    ],
+    "ov": {
+     "labels": [
+      {
+       "str": "DEMOTED \u00b7 AGAIN",
+       "at": 0.8,
+       "red": true
+      }
+     ]
+    },
+    "type": "scene"
+   },
+   "notes": "s069"
+  },
+  {
+   "id": "s072",
+   "start": 268.89,
+   "end": 273.07,
+   "line": "His replacement was his rival, an admiral named Won Gyun.",
+   "scene": "Won Gyun",
+   "set": null,
+   "bars": "none",
+   "in": {
+    "type": "zoom",
+    "dur": 0.5
+   },
+   "sfx": [],
+   "params": {
+    "who": "WON",
+    "bg": "paper",
+    "f": -1,
+    "x": 0.56,
+    "sunX": 0.42,
+    "ov": {
+     "labels": [
+      {
+       "str": "ADMIRAL WON GYUN",
+       "at": 0.3,
+       "y": 0.85,
+       "size": 44
+      }
+     ]
+    },
+    "type": "portrait"
+   },
+   "notes": "s070"
+  },
+  {
+   "id": "s073",
+   "start": 273.07,
+   "end": 278.89,
+   "line": "Within months, Won Gyun led the fleet straight into a Japanese ambush at Chilcheollyang.",
+   "scene": "Map: ambush at Chilcheollyang",
+   "set": null,
+   "bars": "none",
+   "in": {
+    "type": "zoom",
+    "dur": 0.5
+   },
+   "sfx": [],
+   "params": {
+    "focus": "chilcheollyang",
+    "z0": 2.0,
+    "rate": 0.1,
+    "tokens": [
+     {
+      "kind": "panok",
+      "to": "chilcheollyang",
+      "n": 10,
+      "spread": 50,
+      "at": 0,
+      "dur": 2.5,
+      "from": [
+       128.2,
+       34.85,
+       1
+      ]
+     },
+     {
+      "kind": "jp",
+      "to": [
+       128.65,
+       34.88,
+       1
+      ],
+      "n": 14,
+      "spread": 110,
+      "at": 2.5,
+      "dur": 2.5,
+      "f": -1,
+      "from": [
+       128.9,
+       34.7,
+       1
+      ]
+     }
+    ],
+    "pins": [
+     {
+      "place": "chilcheollyang",
+      "at": 3.5,
+      "name": "CHILCHEOLLYANG \u00b7 1597",
+      "ink": true
+     }
+    ],
+    "type": "map"
+   },
+   "notes": "s071"
+  },
+  {
+   "id": "s074",
+   "start": 278.89,
+   "end": 283.35,
+   "line": "The Korean navy was wiped out. Won Gyun was killed.",
+   "scene": "The Korean fleet burns",
+   "set": null,
+   "bars": "none",
+   "in": {
+    "type": "zoom",
+    "dur": 0.5
+   },
+   "sfx": [],
+   "params": {
+    "bg": "dusk",
+    "ground": "sea",
+    "ships": [
+     {
+      "kind": "panok",
+      "x": 0.22,
+      "s": 1.0,
+      "fire": true
+     },
+     {
+      "kind": "turtle",
+      "x": 0.5,
+      "s": 0.8,
+      "fire": true
+     },
+     {
+      "kind": "panok",
+      "x": 0.78,
+      "s": 0.7,
+      "fire": true
+     }
+    ],
+    "fx": [
+     "smoke",
+     "embers"
+    ],
+    "ov": {
+     "labels": [
+      {
+       "str": "THE NAVY: WIPED OUT",
+       "at": 0.3,
+       "red": true
+      }
+     ]
+    },
+    "type": "scene"
+   },
+   "notes": "s072"
+  },
+  {
+   "id": "s075",
+   "start": 283.35,
+   "end": 285.95,
+   "line": "Only about a dozen ships escaped.",
+   "scene": "A dozen survivors flee",
+   "set": null,
+   "bars": "none",
+   "in": {
+    "type": "zoom",
+    "dur": 0.5
+   },
+   "sfx": [],
+   "params": {
+    "bg": "paper",
+    "ground": "sea",
+    "ships": [
+     {
+      "kind": "panok",
+      "x": 0.3,
+      "s": 0.3,
+      "y": 0.78,
+      "vx": -0.05,
+      "f": -1
+     },
+     {
+      "kind": "panok",
+      "x": 0.35,
+      "s": 0.35,
+      "y": 0.81,
+      "vx": -0.05,
+      "f": -1
+     },
+     {
+      "kind": "panok",
+      "x": 0.4,
+      "s": 0.4,
+      "y": 0.78,
+      "vx": -0.05,
+      "f": -1
+     },
+     {
+      "kind": "panok",
+      "x": 0.45,
+      "s": 0.3,
+      "y": 0.81,
+      "vx": -0.05,
+      "f": -1
+     },
+     {
+      "kind": "panok",
+      "x": 0.5,
+      "s": 0.35,
+      "y": 0.78,
+      "vx": -0.05,
+      "f": -1
+     },
+     {
+      "kind": "panok",
+      "x": 0.55,
+      "s": 0.4,
+      "y": 0.81,
+      "vx": -0.05,
+      "f": -1
+     },
+     {
+      "kind": "panok",
+      "x": 0.6000000000000001,
+      "s": 0.3,
+      "y": 0.78,
+      "vx": -0.05,
+      "f": -1
+     },
+     {
+      "kind": "panok",
+      "x": 0.65,
+      "s": 0.35,
+      "y": 0.81,
+      "vx": -0.05,
+      "f": -1
+     },
+     {
+      "kind": "panok",
+      "x": 0.7,
+      "s": 0.4,
+      "y": 0.78,
+      "vx": -0.05,
+      "f": -1
+     },
+     {
+      "kind": "panok",
+      "x": 0.75,
+      "s": 0.3,
+      "y": 0.81,
+      "vx": -0.05,
+      "f": -1
+     },
+     {
+      "kind": "panok",
+      "x": 0.8,
+      "s": 0.35,
+      "y": 0.78,
+      "vx": -0.05,
+      "f": -1
+     },
+     {
+      "kind": "panok",
+      "x": 0.8500000000000001,
+      "s": 0.4,
+      "y": 0.81,
+      "vx": -0.05,
+      "f": -1
+     }
+    ],
+    "ov": {
+     "labels": [
+      {
+       "str": "~12 SHIPS ESCAPED",
+       "at": 0.6
+      }
+     ]
+    },
+    "type": "scene"
+   },
+   "notes": "s073"
+  },
+  {
+   "id": "s076",
+   "start": 285.95,
+   "end": 289.41,
+   "line": "The king had no choice. He brought Yi back.",
+   "scene": "The king summons Yi back",
+   "set": null,
+   "bars": "none",
+   "in": {
+    "type": "zoom",
+    "dur": 0.5
+   },
+   "sfx": [],
+   "params": {
+    "props": [
+     {
+      "k": "palace",
+      "x": 0.6,
+      "s": 0.8,
+      "far": true
+     }
+    ],
+    "figs": [
+     {
+      "who": "KING",
+      "x": 0.62,
+      "p": "stand",
+      "f": -1,
+      "s": 1.6
+     },
+     {
+      "who": "YI",
+      "x": 0.4,
+      "p": [
+       [
+        0,
+        "kneel"
+       ],
+       [
+        1.6,
+        "stand"
+       ]
+      ],
+      "f": 1,
+      "s": 1.6
+     }
+    ],
+    "type": "scene"
+   },
+   "notes": "s074"
+  },
+  {
+   "id": "s077",
+   "start": 289.41,
+   "end": 295.15,
+   "line": "And he suggested that maybe Yi should give up on the navy, and fight on land instead.",
+   "scene": "The king points inland: \"Fight on land\"",
+   "set": null,
+   "bars": "none",
+   "in": {
+    "type": "zoom",
+    "dur": 0.5
+   },
+   "sfx": [],
+   "params": {
+    "props": [
+     {
+      "k": "mountains",
+      "x": 0.5,
+      "far": true
+     }
+    ],
+    "figs": [
+     {
+      "who": "KING",
+      "x": 0.62,
+      "p": "point",
+      "f": -1,
+      "s": 1.6
+     },
+     {
+      "who": "YI",
+      "x": 0.4,
+      "p": "stand",
+      "f": 1,
+      "s": 1.6
+     }
+    ],
+    "ov": {
+     "labels": [
+      {
+       "str": "GIVE UP THE NAVY?",
+       "at": 1.2
+      }
+     ]
+    },
+    "type": "scene"
+   },
+   "notes": "s075"
+  },
+  {
+   "id": "s078",
+   "start": 295.15,
+   "end": 299.43,
+   "line": "Yi's reply became one of the most famous lines in Korean history:",
+   "scene": "His reply, brush on paper",
+   "set": null,
+   "bars": "none",
+   "in": {
+    "type": "zoom",
+    "dur": 0.5
+   },
+   "sfx": [],
+   "params": {
+    "title": "REPLY TO THE KING \u00b7 1597",
+    "seal": true,
+    "seed": 4,
+    "type": "diary"
+   },
+   "notes": "s076"
+  },
+  {
+   "id": "s079",
+   "start": 299.43,
+   "end": 302.07,
+   "line": "\"I still have twelve ships.\"",
+   "scene": "\"I still have twelve ships.\"",
+   "set": null,
+   "bars": "none",
+   "in": {
+    "type": "zoom",
+    "dur": 0.5
+   },
+   "sfx": [],
+   "params": {
+    "title": "REPLY TO THE KING \u00b7 1597",
+    "seal": true,
+    "seed": 4,
+    "quote": "\"I still have twelve ships.\"",
+    "quoteAt": 0.0,
+    "wordRate": 0.28,
+    "qSize": 56,
+    "type": "diary"
+   },
+   "notes": "s077"
+  },
+  {
+   "id": "s080",
+   "start": 302.07,
+   "end": 307.95,
+   "line": "As long as I am alive, he wrote, the enemy will not dare to look down on us.",
+   "scene": "\"The enemy will not dare...\"",
+   "set": null,
+   "bars": "none",
+   "in": {
+    "type": "zoom",
+    "dur": 0.5
+   },
+   "sfx": [],
+   "params": {
+    "who": "YI",
+    "bg": "red",
+    "ov": {
+     "labels": [
+      {
+       "str": "\"THE ENEMY WILL NOT DARE",
+       "at": 0.5,
+       "y": 0.78,
+       "serif": true,
+       "size": 36
+      },
+      {
+       "str": "LOOK DOWN ON US\"",
+       "at": 2.8,
+       "y": 0.87,
+       "serif": true,
+       "size": 36
+      }
+     ]
+    },
+    "type": "portrait"
+   },
+   "notes": "s078"
+  },
+  {
+   "id": "s081",
+   "start": 307.95,
+   "end": 311.53,
+   "line": "One more ship was found. That made thirteen.",
+   "scene": "Twelve ships, plus one: thirteen",
+   "set": null,
+   "bars": "none",
+   "in": {
+    "type": "zoom",
+    "dur": 0.5
+   },
+   "sfx": [],
+   "params": {
+    "mode": "vs",
+    "a": 13,
+    "b": 0,
+    "bAt": 99,
+    "type": "tally"
+   },
+   "notes": "s079"
+  },
+  {
+   "id": "s082",
+   "start": 311.53,
+   "end": 319.03,
+   "line": "In October 1597, a Japanese fleet of more than a hundred and thirty warships came through the Myeongnyang Strait,",
+   "scene": "3D: 130+ warships enter the strait",
+   "set": null,
+   "bars": "none",
+   "in": {
+    "type": "zoom",
+    "dur": 0.5
+   },
+   "sfx": [],
+   "params": {
+    "preset": "strait",
+    "nJ": 26,
+    "vJ": 1.0,
+    "ov": {
+     "date": "OCTOBER 1597",
+     "labels": [
+      {
+       "str": "MYEONGNYANG STRAIT",
+       "at": 1.5,
+       "red": true
+      }
+     ]
+    },
+    "type": "sea3d"
+   },
+   "notes": "s080"
+  },
+  {
+   "id": "s083",
+   "start": 319.03,
+   "end": 324.69,
+   "line": "a narrow channel with one of the strongest tidal currents in Korea. Yi was waiting.",
+   "scene": "Map: the narrow, fast strait",
+   "set": null,
+   "bars": "none",
+   "in": {
+    "type": "zoom",
+    "dur": 0.5
+   },
+   "sfx": [],
+   "params": {
+    "focus": "myeongnyang",
+    "z0": 2.6,
+    "rate": 0.1,
+    "arrows": [
+     {
+      "pts": [
+       [
+        126.15,
+        34.72,
+        1
+       ],
+       [
+        126.31,
+        34.57,
+        1
+       ],
+       [
+        126.45,
+        34.42,
+        1
+       ]
+      ],
+      "at": 0.2,
+      "dur": 1
+     },
+     {
+      "pts": [
+       [
+        126.07,
+        34.7,
+        1
+       ],
+       [
+        126.23,
+        34.55,
+        1
+       ],
+       [
+        126.37,
+        34.4,
+        1
+       ]
+      ],
+      "at": 0.6,
+      "dur": 1
+     },
+     {
+      "pts": [
+       [
+        126.23,
+        34.74,
+        1
+       ],
+       [
+        126.39,
+        34.59,
+        1
+       ],
+       [
+        126.53,
+        34.44,
+        1
+       ]
+      ],
+      "at": 1.0,
+      "dur": 1
+     }
+    ],
+    "pins": [
+     {
+      "place": "myeongnyang",
+      "at": 2.0,
+      "name": "STRONGEST TIDES IN KOREA",
+      "red": true,
+      "dx": -160
+     }
+    ],
+    "tokens": [
+     {
+      "kind": "panok",
+      "n": 1,
+      "show": true,
+      "s": 0.2,
+      "from": [
+       126.2,
+       34.5,
+       1
+      ]
+     }
+    ],
+    "type": "map"
+   },
+   "notes": "s082"
+  },
+  {
+   "id": "s084",
+   "start": 324.69,
+   "end": 327.37,
+   "line": "The night before, he told his officers:",
+   "scene": "Night on deck: Yi addresses his officers",
+   "set": null,
+   "bars": "none",
+   "in": {
+    "type": "zoom",
+    "dur": 0.5
+   },
+   "sfx": [],
+   "params": {
+    "bg": "night",
+    "ground": "deck",
+    "sun": [
+     0.7,
+     0.3,
+     90
+    ],
+    "figs": [
+     {
+      "who": "YI",
+      "x": 0.32,
+      "p": "explain",
+      "f": 1,
+      "s": 1.6
+     },
+     {
+      "who": "SOLDIER",
+      "x": 0.55,
+      "p": "stand",
+      "f": -1,
+      "s": 1.6,
+      "spear": true
+     },
+     {
+      "who": "SOLDIER",
+      "x": 0.68,
+      "p": "stand",
+      "f": -1,
+      "s": 1.6,
+      "spear": true
+     },
+     {
+      "who": "SOLDIER",
+      "x": 0.81,
+      "p": "stand",
+      "f": -1,
+      "s": 1.6,
+      "spear": true
+     }
+    ],
+    "type": "scene"
+   },
+   "notes": "s083"
+  },
+  {
+   "id": "s085",
+   "start": 327.37,
+   "end": 329.95,
+   "line": "\"Those who seek death shall live.",
+   "scene": "\"Those who seek death shall live.\"",
+   "set": null,
+   "bars": "none",
+   "in": {
+    "type": "zoom",
+    "dur": 0.5
+   },
+   "sfx": [],
+   "params": {
+    "who": "YI",
+    "bg": "night",
+    "ov": {
+     "labels": [
+      {
+       "str": "\"THOSE WHO SEEK DEATH SHALL LIVE.",
+       "at": 0.1,
+       "y": 0.85,
+       "serif": true,
+       "size": 36
+      }
+     ]
+    },
+    "type": "portrait"
+   },
+   "notes": "s084"
+  },
+  {
+   "id": "s086",
+   "start": 329.95,
+   "end": 332.75,
+   "line": "Those who seek life shall die.\"",
+   "scene": "\"Those who seek life shall die.\"",
+   "set": null,
+   "bars": "none",
+   "in": {
+    "type": "zoom",
+    "dur": 0.5
+   },
+   "sfx": [],
+   "params": {
+    "who": "YI",
+    "bg": "red",
+    "f": -1,
+    "x": 0.56,
+    "sunX": 0.42,
+    "ov": {
+     "labels": [
+      {
+       "str": "THOSE WHO SEEK LIFE SHALL DIE.\"",
+       "at": 0.1,
+       "y": 0.85,
+       "serif": true,
+       "size": 36
+      }
+     ]
+    },
+    "type": "portrait"
+   },
+   "notes": "s085"
+  },
+  {
+   "id": "s087",
+   "start": 332.75,
+   "end": 337.45,
+   "line": "When the battle began, the other Korean captains hesitated and hung back.",
+   "scene": "Yi's ship ahead; the others hang back",
+   "set": null,
+   "bars": "none",
+   "in": {
+    "type": "zoom",
+    "dur": 0.5
+   },
+   "sfx": [],
+   "params": {
+    "bg": "paper",
+    "ground": "sea",
+    "ships": [
+     {
+      "kind": "panok",
+      "x": 0.48,
+      "s": 1.1,
+      "rim": "#c8202a"
+     },
+     {
+      "kind": "panok",
+      "x": 0.12,
+      "s": 0.4,
+      "y": 0.74
+     },
+     {
+      "kind": "panok",
+      "x": 0.2,
+      "s": 0.35,
+      "y": 0.73
+     },
+     {
+      "kind": "jp",
+      "x": 0.85,
+      "s": 0.9,
+      "f": -1
+     }
+    ],
+    "ov": {
+     "labels": [
+      {
+       "str": "THE OTHERS HUNG BACK",
+       "at": 0.8
+      }
+     ]
+    },
+    "type": "scene"
+   },
+   "notes": "s086"
+  },
+  {
+   "id": "s088",
+   "start": 337.45,
+   "end": 343.85,
+   "line": "For a while, Yi's flagship fought almost alone, against wave after wave of enemy ships.",
+   "scene": "3D: the flagship alone against wave after wave",
+   "set": null,
+   "bars": "none",
+   "in": {
+    "type": "zoom",
+    "dur": 0.5
+   },
+   "sfx": [],
+   "params": {
+    "preset": "strait",
+    "nJ": 26,
+    "vJ": 1.2,
+    "ov": {
+     "labels": [
+      {
+       "str": "ALMOST ALONE",
+       "at": 0.8,
+       "red": true
+      }
+     ]
+    },
+    "type": "sea3d"
+   },
+   "notes": "s087"
+  },
+  {
+   "id": "s089",
+   "start": 343.85,
+   "end": 345.77,
+   "line": "Then the others rejoined.",
+   "scene": "The others rejoin",
+   "set": null,
+   "bars": "none",
+   "in": {
+    "type": "whip",
+    "dur": 0.35
+   },
+   "sfx": [
+    {
+     "at": 0.0,
+     "name": "whoosh",
+     "gain": -10
+    }
+   ],
+   "params": {
+    "bg": "paper",
+    "ground": "sea",
+    "ships": [
+     {
+      "kind": "panok",
+      "x": 0.6,
+      "s": 1.0,
+      "rim": "#c8202a"
+     },
+     {
+      "kind": "panok",
+      "x": 0.1,
+      "s": 0.7,
+      "vx": 0.15
+     },
+     {
+      "kind": "panok",
+      "x": 0.0,
+      "s": 0.6,
+      "vx": 0.16,
+      "y": 0.76
+     }
+    ],
+    "type": "scene"
+   },
+   "notes": "s088"
+  },
+  {
+   "id": "s090",
+   "start": 345.77,
+   "end": 347.99,
+   "line": "And then the current turned.",
+   "scene": "The current turns",
+   "set": null,
+   "bars": "none",
+   "in": {
+    "type": "zoom",
+    "dur": 0.5
+   },
+   "sfx": [],
+   "params": {
+    "bg": "paper",
+    "ground": "sea",
+    "ships": [
+     {
+      "kind": "jp",
+      "x": 0.55,
+      "s": 0.9,
+      "f": -1,
+      "vx": 0.03
+     },
+     {
+      "kind": "jp",
+      "x": 0.78,
+      "s": 0.8,
+      "f": -1,
+      "vx": 0.03
+     }
+    ],
+    "extra": "tide",
+    "tideDir": 1,
+    "ov": {
+     "labels": [
+      {
+       "str": "THE TIDE TURNS",
+       "at": 0.3,
+       "red": true
+      }
+     ]
+    },
+    "type": "scene"
+   },
+   "notes": "s089"
+  },
+  {
+   "id": "s091",
+   "start": 347.99,
+   "end": 353.75,
+   "line": "The Japanese ships, packed into the narrow strait, were pushed back into each other.",
+   "scene": "3D: Japanese ships pushed back into each other",
+   "set": null,
+   "bars": "none",
+   "in": {
+    "type": "zoom",
+    "dur": 0.5
+   },
+   "sfx": [],
+   "params": {
+    "preset": "strait",
+    "nJ": 26,
+    "vJ": 0.6,
+    "push": 0.8,
+    "type": "sea3d"
+   },
+   "notes": "s090"
+  },
+  {
+   "id": "s092",
+   "start": 353.75,
+   "end": 358.75,
+   "line": "By the end of the day, around thirty Japanese warships had been destroyed.",
+   "scene": "Japanese warships burn in the strait",
+   "set": null,
+   "bars": "none",
+   "in": {
+    "type": "zoom",
+    "dur": 0.5
+   },
+   "sfx": [],
+   "params": {
+    "bg": "dusk",
+    "ground": "sea",
+    "ships": [
+     {
+      "kind": "jp",
+      "x": 0.2,
+      "s": 0.9,
+      "fire": true
+     },
+     {
+      "kind": "jp",
+      "x": 0.48,
+      "s": 1.1,
+      "fire": true
+     },
+     {
+      "kind": "jp",
+      "x": 0.78,
+      "s": 0.8,
+      "fire": true
+     }
+    ],
+    "fx": [
+     "smoke",
+     "embers"
+    ],
+    "ov": {
+     "labels": [
+      {
+       "str": "~30 WARSHIPS DESTROYED",
+       "at": 0.8,
+       "red": true
+      }
+     ]
+    },
+    "type": "scene"
+   },
+   "notes": "s091"
+  },
+  {
+   "id": "s093",
+   "start": 358.75,
+   "end": 361.65,
+   "line": "Yi did not lose a single ship.",
+   "scene": "0 ships lost",
+   "set": null,
+   "bars": "none",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.0,
+     "name": "impact",
+     "gain": -4
+    }
+   ],
+   "params": {
+    "str": "0 SHIPS LOST",
+    "size": 150,
+    "bg": "red",
+    "type": "date"
+   },
+   "notes": "s092"
+  },
+  {
+   "id": "s094",
+   "start": 361.65,
+   "end": 365.95,
+   "line": "It was one of the most lopsided naval victories ever recorded.",
+   "scene": "13 vs 133 again, all at once",
+   "set": null,
+   "bars": "none",
+   "in": {
+    "type": "zoom",
+    "dur": 0.5
+   },
+   "sfx": [],
+   "params": {
+    "mode": "vs",
+    "a": 13,
+    "b": 133,
+    "bAt": 0.2,
+    "type": "tally"
+   },
+   "notes": "s093"
+  },
+  {
+   "id": "s095",
+   "start": 365.95,
+   "end": 369.41,
+   "line": "And it came at a terrible price.",
+   "scene": "Night: Yi alone on deck",
+   "set": null,
+   "bars": "none",
+   "in": {
+    "type": "fade",
+    "dur": 0.8
+   },
+   "sfx": [],
+   "params": {
+    "bg": "night",
+    "ground": "deck",
+    "sun": [
+     0.68,
+     0.3,
+     90
+    ],
+    "figs": [
+     {
+      "who": "YI",
+      "x": 0.4,
+      "p": "sad",
+      "f": 1,
+      "s": 1.6
+     }
+    ],
+    "type": "scene"
+   },
+   "notes": "s094"
+  },
+  {
+   "id": "s096",
+   "start": 369.41,
+   "end": 371.83,
+   "line": "Weeks later, in revenge,",
+   "scene": "Japanese soldiers march at dusk",
+   "set": null,
+   "bars": "none",
+   "in": {
+    "type": "fade",
+    "dur": 0.8
+   },
+   "sfx": [],
+   "params": {
+    "bg": "dusk",
+    "props": [
+     {
+      "k": "mountains",
+      "x": 0.5,
+      "far": true
+     }
+    ],
+    "figs": [
+     {
+      "who": "SAMURAI",
+      "x": 0.3,
+      "p": "stand",
+      "f": 1,
+      "s": 1.6,
+      "walk": [
+       0.15,
+       0.45,
+       0,
+       2.4
+      ],
+      "spear": true
+     },
+     {
+      "who": "SAMURAI",
+      "x": 0.45,
+      "p": "stand",
+      "f": 1,
+      "s": 1.6,
+      "walk": [
+       0.3,
+       0.6,
+       0,
+       2.4
+      ],
+      "spear": true
+     }
+    ],
+    "type": "scene"
+   },
+   "notes": "s095"
+  },
+  {
+   "id": "s097",
+   "start": 371.83,
+   "end": 374.97,
+   "line": "Japanese soldiers killed Yi's youngest son.",
+   "scene": "His son fades into the light",
+   "set": null,
+   "bars": "none",
+   "in": {
+    "type": "fade",
+    "dur": 0.8
+   },
+   "sfx": [],
+   "params": {
+    "bg": "paper",
+    "sun": [
+     0.5,
+     0.45,
+     260
+    ],
+    "figs": [
+     {
+      "who": "SON",
+      "x": 0.5,
+      "p": "stand",
+      "f": 1,
+      "s": 1.4,
+      "fadeOut": 1.2
+     }
+    ],
+    "ov": {
+     "labels": [
+      {
+       "str": "HIS YOUNGEST SON, YI MYEON",
+       "at": 0.3
+      }
+     ]
+    },
+    "type": "scene"
+   },
+   "notes": "s096"
+  },
+  {
+   "id": "s098",
+   "start": 374.97,
+   "end": 381.39,
+   "line": "In his diary, Yi wrote that he wanted to die, but had to go on living for his men.",
+   "scene": "Grief in his diary",
+   "set": null,
+   "bars": "none",
+   "in": {
+    "type": "fade",
+    "dur": 0.8
+   },
+   "sfx": [],
+   "params": {
+    "title": "WAR DIARY \u00b7 1597",
+    "seed": 5,
+    "type": "diary"
+   },
+   "notes": "s097"
+  },
+  {
+   "id": "s099",
+   "start": 381.39,
+   "end": 387.43,
+   "line": "In 1598, Hideyoshi died, and the Japanese began pulling out of Korea.",
+   "scene": "Map: the Japanese retreat toward home",
+   "set": null,
+   "bars": "none",
+   "in": {
+    "type": "zoom",
+    "dur": 0.5
+   },
+   "sfx": [],
+   "params": {
+    "focus": [
+     128.3,
+     35.5,
+     1
+    ],
+    "z0": 1.3,
+    "rate": 0.06,
+    "arrows": [
+     {
+      "pts": [
+       "seoul",
+       "busan",
+       "japan"
+      ],
+      "at": 0.2,
+      "dur": 2.6,
+      "ink": true
+     }
+    ],
+    "pins": [
+     {
+      "place": "japan",
+      "at": 0.6,
+      "name": "1598 \u00b7 HIDEYOSHI DIES",
+      "ink": true,
+      "dx": -150,
+      "dy": -100
+     }
+    ],
+    "type": "map"
+   },
+   "notes": "s098"
+  },
+  {
+   "id": "s100",
+   "start": 387.43,
+   "end": 390.73,
+   "line": "Yi wasn't going to let them leave easily.",
+   "scene": "Yi, resolved",
+   "set": null,
+   "bars": "none",
+   "in": {
+    "type": "zoom",
+    "dur": 0.5
+   },
+   "sfx": [],
+   "params": {
+    "who": "YI",
+    "bg": "red",
+    "type": "portrait"
+   },
+   "notes": "s099"
+  },
+  {
+   "id": "s101",
+   "start": 390.73,
+   "end": 396.89,
+   "line": "In December, alongside a Chinese fleet, he attacked the retreating Japanese at Noryang.",
+   "scene": "Map: Joseon and Ming fleets strike at Noryang",
+   "set": null,
+   "bars": "none",
+   "in": {
+    "type": "zoom",
+    "dur": 0.5
+   },
+   "sfx": [],
+   "params": {
+    "focus": "noryang",
+    "z0": 2.2,
+    "rate": 0.1,
+    "tokens": [
+     {
+      "kind": "panok",
+      "to": [
+       127.8,
+       34.88,
+       1
+      ],
+      "n": 8,
+      "spread": 60,
+      "at": 0,
+      "dur": 3,
+      "from": [
+       127.55,
+       34.75,
+       1
+      ]
+     },
+     {
+      "kind": "jp",
+      "to": [
+       128.25,
+       34.85,
+       1
+      ],
+      "n": 8,
+      "spread": 60,
+      "show": true,
+      "at": 0,
+      "dur": 3,
+      "from": [
+       128.05,
+       34.95,
+       1
+      ]
+     }
+    ],
+    "pins": [
+     {
+      "place": "noryang",
+      "at": 2.5,
+      "name": "NORYANG \u00b7 DECEMBER 1598",
+      "red": true,
+      "dx": -60,
+      "dy": -170
+     }
+    ],
+    "type": "map"
+   },
+   "notes": "s100"
+  },
+  {
+   "id": "s102",
+   "start": 396.89,
+   "end": 399.57,
+   "line": "The battle raged through the night.",
+   "scene": "3D: battle through the night, ships burning",
+   "set": null,
+   "bars": "none",
+   "in": {
+    "type": "zoom",
+    "dur": 0.5
+   },
+   "sfx": [],
+   "params": {
+    "preset": "night",
+    "type": "sea3d"
+   },
+   "notes": "s101"
+  },
+  {
+   "id": "s103",
+   "start": 399.57,
+   "end": 403.45,
+   "line": "As dawn came, Yi was on the deck of his flagship,",
+   "scene": "Dawn on the flagship deck; the war drum",
+   "set": null,
+   "bars": "none",
+   "in": {
+    "type": "zoom",
+    "dur": 0.5
+   },
+   "sfx": [],
+   "params": {
+    "bg": "dawn",
+    "ground": "deck",
+    "sun": [
+     0.75,
+     0.5,
+     120
+    ],
+    "props": [
+     {
+      "k": "drum",
+      "x": 0.6
+     }
+    ],
+    "figs": [
+     {
+      "who": "YI",
+      "x": 0.42,
+      "p": "ready",
+      "f": 1,
+      "s": 1.6,
+      "sword": -0.8
+     }
+    ],
+    "type": "scene"
+   },
+   "notes": "s102"
+  },
+  {
+   "id": "s104",
+   "start": 403.45,
+   "end": 407.25,
+   "line": "urging his men on with the war drum, when a bullet struck him.",
+   "scene": "Beating the drum \u2014 a bullet strikes him",
+   "set": null,
+   "bars": "none",
+   "in": {
+    "type": "zoom",
+    "dur": 0.5
+   },
+   "sfx": [
+    {
+     "at": 2.17,
+     "name": "hit",
+     "gain": -6
+    }
+   ],
+   "params": {
+    "bg": "dawn",
+    "ground": "deck",
+    "sun": [
+     0.75,
+     0.5,
+     120
+    ],
+    "props": [
+     {
+      "k": "drum",
+      "x": 0.6
+     }
+    ],
+    "figs": [
+     {
+      "who": "YI",
+      "x": 0.46,
+      "p": [
+       [
+        0,
+        "raise"
+       ],
+       [
+        0.6,
+        "ready"
+       ],
+       [
+        1.2,
+        "raise"
+       ],
+       [
+        1.8,
+        "ready"
+       ],
+       [
+        2.37,
+        "fall"
+       ]
+      ],
+      "f": 1,
+      "s": 1.6,
+      "drum": true
+     }
+    ],
+    "extra": "bullet",
+    "bulletAt": 1.8699999999999999,
+    "type": "scene"
+   },
+   "notes": "s103"
+  },
+  {
+   "id": "s105",
+   "start": 407.25,
+   "end": 410.61,
+   "line": "His last words, according to the records, were:",
+   "scene": "He falls to his knees",
+   "set": null,
+   "bars": "none",
+   "in": {
+    "type": "zoom",
+    "dur": 0.5
+   },
+   "sfx": [],
+   "params": {
+    "bg": "dawn",
+    "ground": "deck",
+    "sun": [
+     0.75,
+     0.5,
+     120
+    ],
+    "props": [
+     {
+      "k": "drum",
+      "x": 0.6
+     }
+    ],
+    "figs": [
+     {
+      "who": "YI",
+      "x": 0.46,
+      "p": "kneel",
+      "f": 1,
+      "s": 1.6
+     }
+    ],
+    "ov": {
+     "labels": [
+      {
+       "str": "HIS LAST WORDS",
+       "at": 0.5
+      }
+     ]
+    },
+    "type": "scene"
+   },
+   "notes": "s104"
+  },
+  {
+   "id": "s106",
+   "start": 410.61,
+   "end": 412.37,
+   "line": "\"The battle is at its height.",
+   "scene": "\"The battle is at its height.\"",
+   "set": null,
+   "bars": "none",
+   "in": {
+    "type": "zoom",
+    "dur": 0.5
+   },
+   "sfx": [],
+   "params": {
+    "who": "YI",
+    "bg": "dawn",
+    "ov": {
+     "labels": [
+      {
+       "str": "\"THE BATTLE IS AT ITS HEIGHT.",
+       "at": 0.1,
+       "y": 0.85,
+       "serif": true,
+       "size": 38
+      }
+     ]
+    },
+    "type": "portrait"
+   },
+   "notes": "s105"
+  },
+  {
+   "id": "s107",
+   "start": 412.37,
+   "end": 414.93,
+   "line": "Do not announce my death.\"",
+   "scene": "\"Do not announce my death.\"",
+   "set": null,
+   "bars": "none",
+   "in": {
+    "type": "zoom",
+    "dur": 0.5
+   },
+   "sfx": [],
+   "params": {
+    "str": "\"DO NOT ANNOUNCE MY DEATH.\"",
+    "size": 72,
+    "bg": "ink",
+    "type": "date"
+   },
+   "notes": "s106"
+  },
+  {
+   "id": "s108",
+   "start": 414.93,
+   "end": 419.57,
+   "line": "His nephew hid his body, took up the drum, and kept beating it.",
+   "scene": "His nephew takes up the drum",
+   "set": null,
+   "bars": "none",
+   "in": {
+    "type": "zoom",
+    "dur": 0.5
+   },
+   "sfx": [],
+   "params": {
+    "bg": "dawn",
+    "ground": "deck",
+    "sun": [
+     0.75,
+     0.5,
+     120
+    ],
+    "props": [
+     {
+      "k": "drum",
+      "x": 0.6
+     }
+    ],
+    "figs": [
+     {
+      "who": "YOUNG",
+      "x": 0.46,
+      "p": [
+       [
+        0,
+        "stand"
+       ],
+       [
+        0.8,
+        "raise"
+       ],
+       [
+        1.4,
+        "ready"
+       ],
+       [
+        2.0,
+        "raise"
+       ],
+       [
+        2.6,
+        "ready"
+       ],
+       [
+        3.2,
+        "raise"
+       ],
+       [
+        3.8,
+        "ready"
+       ]
+      ],
+      "f": 1,
+      "s": 1.6,
+      "drum": true
+     }
+    ],
+    "type": "scene"
+   },
+   "notes": "s107"
+  },
+  {
+   "id": "s109",
+   "start": 419.57,
+   "end": 426.49,
+   "line": "The fleet fought on, never knowing their admiral was gone. Noryang was a victory.",
+   "scene": "3D: the fleet fights on to victory",
+   "set": null,
+   "bars": "none",
+   "in": {
+    "type": "zoom",
+    "dur": 0.5
+   },
+   "sfx": [],
+   "params": {
+    "preset": "fleet",
+    "vK": 1.2,
+    "ov": {
+     "labels": [
+      {
+       "str": "NORYANG \u00b7 VICTORY",
+       "at": 4.87,
+       "red": true
+      }
+     ]
+    },
+    "type": "sea3d"
+   },
+   "notes": "s108"
+  },
+  {
+   "id": "s110",
+   "start": 426.49,
+   "end": 427.99,
+   "line": "His last one.",
+   "scene": "His last one",
+   "set": null,
+   "bars": "none",
+   "in": {
+    "type": "fade",
+    "dur": 0.8
+   },
+   "sfx": [],
+   "params": {
+    "who": "YI",
+    "bg": "dawn",
+    "sunX": 0.62,
+    "type": "portrait"
+   },
+   "notes": "s109"
+  },
+  {
+   "id": "s111",
+   "start": 427.99,
+   "end": 431.19,
+   "line": "So, is the streak real?",
+   "scene": "Is the streak real?",
+   "set": null,
+   "bars": "none",
+   "in": {
+    "type": "zoom",
+    "dur": 0.5
+   },
+   "sfx": [],
+   "params": {
+    "str": "IS IT REAL?",
+    "size": 140,
+    "bg": "paper",
+    "type": "date"
+   },
+   "notes": "s110"
+  },
+  {
+   "id": "s112",
+   "start": 431.19,
+   "end": 434.77,
+   "line": "The number twenty-three depends on how you count.",
+   "scene": "23... depends how you count",
+   "set": null,
+   "bars": "none",
+   "in": {
+    "type": "zoom",
+    "dur": 0.5
+   },
+   "sfx": [],
+   "params": {
+    "mode": "streak",
+    "zeroAt": 99,
+    "ov": {
+     "labels": [
+      {
+       "str": "DEPENDS HOW YOU COUNT",
+       "at": 1.6
+      }
+     ]
+    },
+    "type": "tally"
+   },
+   "notes": "s111"
+  },
+  {
+   "id": "s113",
+   "start": 434.77,
+   "end": 441.85,
+   "line": "Some of those were small clashes, and historians argue about where one battle ends and the next begins.",
+   "scene": "Map: many small clashes along the coast",
+   "set": null,
+   "bars": "none",
+   "in": {
+    "type": "zoom",
+    "dur": 0.5
+   },
+   "sfx": [],
+   "params": {
+    "focus": [
+     128.0,
+     34.85,
+     1
+    ],
+    "z0": 1.8,
+    "rate": 0.06,
+    "pins": [
+     {
+      "place": [
+       127.2,
+       34.8,
+       1
+      ],
+      "at": 0.3,
+      "name": "?",
+      "ink": true
+     },
+     {
+      "place": [
+       127.4,
+       34.849999999999994,
+       1
+      ],
+      "at": 0.7,
+      "name": null,
+      "ink": true
+     },
+     {
+      "place": [
+       127.60000000000001,
+       34.9,
+       1
+      ],
+      "at": 1.1,
+      "name": null,
+      "ink": true
+     },
+     {
+      "place": [
+       127.8,
+       34.8,
+       1
+      ],
+      "at": 1.5000000000000002,
+      "name": "?",
+      "ink": true
+     },
+     {
+      "place": [
+       128.0,
+       34.849999999999994,
+       1
+      ],
+      "at": 1.9000000000000001,
+      "name": null,
+      "ink": true
+     },
+     {
+      "place": [
+       128.2,
+       34.9,
+       1
+      ],
+      "at": 2.3,
+      "name": null,
+      "ink": true
+     },
+     {
+      "place": [
+       128.4,
+       34.8,
+       1
+      ],
+      "at": 2.7,
+      "name": "?",
+      "ink": true
+     },
+     {
+      "place": [
+       128.6,
+       34.849999999999994,
+       1
+      ],
+      "at": 3.1,
+      "name": null,
+      "ink": true
+     },
+     {
+      "place": [
+       128.8,
+       34.9,
+       1
+      ],
+      "at": 3.5,
+      "name": null,
+      "ink": true
+     }
+    ],
+    "type": "map"
+   },
+   "notes": "s112"
+  },
+  {
+   "id": "s114",
+   "start": 441.85,
+   "end": 448.39,
+   "line": "But here's what makes Yi different from almost every other undefeated legend: the evidence.",
+   "scene": "The evidence",
+   "set": null,
+   "bars": "none",
+   "in": {
+    "type": "zoom",
+    "dur": 0.5
+   },
+   "sfx": [],
+   "params": {
+    "title": "THE EVIDENCE",
+    "seal": true,
+    "seed": 6,
+    "ov": {
+     "big": "THE EVIDENCE",
+     "bigAt": 5.23,
+     "bigY": 0.78,
+     "bigRed": true,
+     "bigSize": 64
+    },
+    "type": "diary"
+   },
+   "notes": "s113"
+  },
+  {
+   "id": "s115",
+   "start": 448.39,
+   "end": 452.47,
+   "line": "He kept a war diary for most of the seven-year war.",
+   "scene": "His war diary, 1592\u20131598",
+   "set": null,
+   "bars": "none",
+   "in": {
+    "type": "zoom",
+    "dur": 0.5
+   },
+   "sfx": [],
+   "params": {
+    "title": "NANJUNG ILGI \u00b7 1592-1598",
+    "seed": 7,
+    "type": "diary"
+   },
+   "notes": "s114"
+  },
+  {
+   "id": "s116",
+   "start": 452.47,
+   "end": 457.65,
+   "line": "Today it's recognized by UNESCO as part of the Memory of the World.",
+   "scene": "UNESCO Memory of the World",
+   "set": null,
+   "bars": "none",
+   "in": {
+    "type": "zoom",
+    "dur": 0.5
+   },
+   "sfx": [],
+   "params": {
+    "str": "UNESCO",
+    "size": 150,
+    "sub": "MEMORY OF THE WORLD",
+    "bg": "paper",
+    "type": "date"
+   },
+   "notes": "s115"
+  },
+  {
+   "id": "s117",
+   "start": 457.65,
+   "end": 461.39,
+   "line": "Together with the Korean court records, it gives us his battles,",
+   "scene": "Court records",
+   "set": null,
+   "bars": "none",
+   "in": {
+    "type": "zoom",
+    "dur": 0.5
+   },
+   "sfx": [],
+   "params": {
+    "title": "JOSEON COURT RECORDS",
+    "seed": 8,
+    "type": "diary"
+   },
+   "notes": "s116"
+  },
+  {
+   "id": "s118",
+   "start": 461.39,
+   "end": 466.73,
+   "line": "his doubts, his illnesses, and his grief, in his own hand.",
+   "scene": "Doubts, illness, grief",
+   "set": null,
+   "bars": "none",
+   "in": {
+    "type": "zoom",
+    "dur": 0.5
+   },
+   "sfx": [],
+   "params": {
+    "who": "YI",
+    "bg": "night",
+    "ov": {
+     "labels": [
+      {
+       "str": "DOUBTS",
+       "at": 0.25,
+       "x": 0.22,
+       "y": 0.3
+      },
+      {
+       "str": "ILLNESSES",
+       "at": 1.17,
+       "x": 0.2,
+       "y": 0.5
+      },
+      {
+       "str": "GRIEF",
+       "at": 2.55,
+       "x": 0.24,
+       "y": 0.7,
+       "red": true
+      }
+     ]
+    },
+    "type": "portrait"
+   },
+   "notes": "s117"
+  },
+  {
+   "id": "s119",
+   "start": 466.73,
+   "end": 470.55,
+   "line": "By every count, he never lost a battle he commanded.",
+   "scene": "Never lost a battle he commanded",
+   "set": null,
+   "bars": "none",
+   "in": {
+    "type": "zoom",
+    "dur": 0.5
+   },
+   "sfx": [],
+   "params": {
+    "mode": "streak",
+    "zeroAt": 1.51,
+    "type": "tally"
+   },
+   "notes": "s118"
+  },
+  {
+   "id": "s120",
+   "start": 470.55,
+   "end": 473.61,
+   "line": "He was jailed by his own king, tortured,",
+   "scene": "In chains",
+   "set": null,
+   "bars": "none",
+   "in": {
+    "type": "zoom",
+    "dur": 0.5
+   },
+   "sfx": [],
+   "params": {
+    "props": [
+     {
+      "k": "chains",
+      "x": 0.36,
+      "y": 0.7
+     }
+    ],
+    "figs": [
+     {
+      "who": "YI",
+      "x": 0.5,
+      "p": "kneel",
+      "f": 1,
+      "s": 1.6
+     }
+    ],
+    "ov": {
+     "labels": [
+      {
+       "str": "JAILED \u00b7 TORTURED",
+       "at": 0.3,
+       "red": true
+      }
+     ]
+    },
+    "type": "scene"
+   },
+   "notes": "s119"
+  },
+  {
+   "id": "s121",
+   "start": 473.61,
+   "end": 477.93,
+   "line": "demoted twice, lost his son, and kept winning anyway.",
+   "scene": "He walks on, through it all",
+   "set": null,
+   "bars": "none",
+   "in": {
+    "type": "zoom",
+    "dur": 0.5
+   },
+   "sfx": [],
+   "params": {
+    "bg": "dusk",
+    "figs": [
+     {
+      "who": "YI",
+      "x": 0.3,
+      "p": "stand",
+      "f": 1,
+      "s": 1.6,
+      "walk": [
+       0.2,
+       0.62,
+       0,
+       4.4
+      ]
+     }
+    ],
+    "ov": {
+     "labels": [
+      {
+       "str": "DEMOTED TWICE",
+       "at": 0.1,
+       "x": 0.3,
+       "y": 0.2
+      },
+      {
+       "str": "LOST HIS SON",
+       "at": 1.65,
+       "x": 0.55,
+       "y": 0.28
+      },
+      {
+       "str": "KEPT WINNING",
+       "at": 3.01,
+       "x": 0.75,
+       "y": 0.2,
+       "red": true
+      }
+     ]
+    },
+    "type": "scene"
+   },
+   "notes": "s120"
+  },
+  {
+   "id": "s122",
+   "start": 477.93,
+   "end": 482.69,
+   "line": "Thirteen ships against more than a hundred and thirty.",
+   "scene": "13 vs 133",
+   "set": null,
+   "bars": "none",
+   "in": {
+    "type": "zoom",
+    "dur": 0.5
+   },
+   "sfx": [],
+   "params": {
+    "mode": "vs",
+    "a": 13,
+    "b": 133,
+    "bAt": 2.51,
+    "type": "tally"
+   },
+   "notes": "s121"
+  },
+  {
+   "id": "s123",
+   "start": 482.69,
+   "end": 485.77,
+   "line": "Twenty-three battles. Zero defeats.",
+   "scene": "23 battles, 0 defeats",
+   "set": null,
+   "bars": "none",
+   "in": {
+    "type": "zoom",
+    "dur": 0.5
+   },
+   "sfx": [],
+   "params": {
+    "mode": "streak",
+    "zeroAt": 2.0,
+    "type": "tally"
+   },
+   "notes": "s121"
+  },
+  {
+   "id": "s124",
+   "start": 485.77,
+   "end": 488.59,
+   "line": "And a man who, even in death,",
+   "scene": "Dawn: the drum still beating",
+   "set": null,
+   "bars": "none",
+   "in": {
+    "type": "zoom",
+    "dur": 0.5
+   },
+   "sfx": [],
+   "params": {
+    "bg": "dawn",
+    "ground": "deck",
+    "sun": [
+     0.75,
+     0.5,
+     120
+    ],
+    "props": [
+     {
+      "k": "drum",
+      "x": 0.6
+     }
+    ],
+    "figs": [
+     {
+      "who": "YOUNG",
+      "x": 0.46,
+      "p": [
+       [
+        0,
+        "raise"
+       ],
+       [
+        0.6,
+        "ready"
+       ],
+       [
+        1.2,
+        "raise"
+       ],
+       [
+        1.8,
+        "ready"
+       ],
+       [
+        2.4,
+        "raise"
+       ]
+      ],
+      "f": 1,
+      "s": 1.6,
+      "drum": true
+     }
+    ],
+    "type": "scene"
+   },
+   "notes": "s122"
+  },
+  {
+   "id": "s125",
+   "start": 488.59,
+   "end": 492.48,
+   "line": "refused to let his side stop fighting.",
+   "scene": "Final title card",
+   "set": null,
+   "bars": "none",
+   "in": {
+    "type": "zoom",
+    "dur": 0.5
+   },
+   "sfx": [],
+   "params": {
+    "sub": "YI SUN-SIN \u00b7 1545-1598",
+    "type": "title"
+   },
+   "notes": "s123"
+  }
+ ],
+ "music": [
+  {
+   "start": 0,
+   "end": 39.2,
+   "mood": "mystery",
+   "intensity": 0.45
+  },
+  {
+   "start": 39.2,
+   "end": 101.4,
+   "mood": "calm",
+   "intensity": 0.3
+  },
+  {
+   "start": 101.4,
+   "end": 168.3,
+   "mood": "tension",
+   "intensity": 0.5
+  },
+  {
+   "start": 168.3,
+   "end": 227.9,
+   "mood": "action",
+   "intensity": 0.8
+  },
+  {
+   "start": 227.9,
+   "end": 285.9,
+   "mood": "dark",
+   "intensity": 0.45
+  },
+  {
+   "start": 285.9,
+   "end": 311.5,
+   "mood": "hopeful",
+   "intensity": 0.4
+  },
+  {
+   "start": 311.5,
+   "end": 365.9,
+   "mood": "epic",
+   "intensity": 0.9
+  },
+  {
+   "start": 365.9,
+   "end": 381.4,
+   "mood": "sad",
+   "intensity": 0.4
+  },
+  {
+   "start": 381.4,
+   "end": 428,
+   "mood": "action",
+   "intensity": 0.75
+  },
+  {
+   "start": 428,
+   "end": 492.48,
+   "mood": "triumph",
+   "intensity": 0.45
+  }
+ ],
+ "sfx": []
+}

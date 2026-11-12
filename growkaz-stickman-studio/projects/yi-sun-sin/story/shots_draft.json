@@ -1,0 +1,1729 @@
+{
+ "title": "The Admiral Who Never Lost - Yi Sun-sin",
+ "duration": 492.48,
+ "shots": [
+  {
+   "id": "s001",
+   "start": 0.0,
+   "end": 4.17,
+   "line": "In 1597, a Korean admiral wrote to his king.",
+   "scene": "TODO",
+   "set": null,
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": ""
+  },
+  {
+   "id": "s002",
+   "start": 4.17,
+   "end": 6.57,
+   "line": "The navy had just been destroyed.",
+   "scene": "TODO",
+   "set": null,
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": ""
+  },
+  {
+   "id": "s003",
+   "start": 6.57,
+   "end": 10.05,
+   "line": "Almost every ship was gone. And he wrote:",
+   "scene": "TODO",
+   "set": null,
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": ""
+  },
+  {
+   "id": "s004",
+   "start": 10.05,
+   "end": 12.55,
+   "line": "\"I still have twelve ships.\"",
+   "scene": "TODO",
+   "set": null,
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": ""
+  },
+  {
+   "id": "s005",
+   "start": 12.55,
+   "end": 18.61,
+   "line": "Weeks later, with thirteen ships, he faced a Japanese fleet of more than a hundred and thirty.",
+   "scene": "TODO",
+   "set": null,
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": ""
+  },
+  {
+   "id": "s006",
+   "start": 18.61,
+   "end": 21.27,
+   "line": "He didn't lose a single one.",
+   "scene": "TODO",
+   "set": null,
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": ""
+  },
+  {
+   "id": "s007",
+   "start": 21.27,
+   "end": 23.61,
+   "line": "His name was Yi Sun-sin.",
+   "scene": "TODO",
+   "set": null,
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": ""
+  },
+  {
+   "id": "s008",
+   "start": 23.61,
+   "end": 29.23,
+   "line": "By the usual count, he fought around twenty-three naval battles, and never lost one.",
+   "scene": "TODO",
+   "set": null,
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": ""
+  },
+  {
+   "id": "s009",
+   "start": 29.23,
+   "end": 33.29,
+   "line": "And unlike most legends, we don't have to take anyone's word for it.",
+   "scene": "TODO",
+   "set": null,
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": ""
+  },
+  {
+   "id": "s010",
+   "start": 33.29,
+   "end": 35.55,
+   "line": "He wrote it down himself.",
+   "scene": "TODO",
+   "set": null,
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": ""
+  },
+  {
+   "id": "s011",
+   "start": 35.55,
+   "end": 39.15,
+   "line": "This is the lore behind Admiral Yi Sun-sin.",
+   "scene": "TODO",
+   "set": null,
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": ""
+  },
+  {
+   "id": "s012",
+   "start": 39.15,
+   "end": 45.55,
+   "line": "He was born in 1545, in Seoul, into a noble family that had fallen on hard times.",
+   "scene": "TODO",
+   "set": null,
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": ""
+  },
+  {
+   "id": "s013",
+   "start": 45.55,
+   "end": 47.51,
+   "line": "He didn't start out as a sailor.",
+   "scene": "TODO",
+   "set": null,
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": ""
+  },
+  {
+   "id": "s014",
+   "start": 47.51,
+   "end": 49.93,
+   "line": "He started out as a soldier.",
+   "scene": "TODO",
+   "set": null,
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": ""
+  },
+  {
+   "id": "s015",
+   "start": 49.93,
+   "end": 53.69,
+   "line": "At twenty-seven, he took Korea's military service exam.",
+   "scene": "TODO",
+   "set": null,
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": ""
+  },
+  {
+   "id": "s016",
+   "start": 53.69,
+   "end": 58.63,
+   "line": "Halfway through the horseback test, his horse threw him, and he broke his leg.",
+   "scene": "TODO",
+   "set": null,
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": ""
+  },
+  {
+   "id": "s017",
+   "start": 58.63,
+   "end": 65.91,
+   "line": "The story goes that he got up, stripped bark from a willow tree, splinted his own leg, and finished the test.",
+   "scene": "TODO",
+   "set": null,
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": ""
+  },
+  {
+   "id": "s018",
+   "start": 65.91,
+   "end": 67.49,
+   "line": "He still failed.",
+   "scene": "TODO",
+   "set": null,
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": ""
+  },
+  {
+   "id": "s019",
+   "start": 67.49,
+   "end": 71.17,
+   "line": "Four years later, he tried again, and passed.",
+   "scene": "TODO",
+   "set": null,
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": ""
+  },
+  {
+   "id": "s020",
+   "start": 71.17,
+   "end": 74.11,
+   "line": "His early career was anything but glorious.",
+   "scene": "TODO",
+   "set": null,
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": ""
+  },
+  {
+   "id": "s021",
+   "start": 74.11,
+   "end": 76.65,
+   "line": "He was posted to remote frontiers.",
+   "scene": "TODO",
+   "set": null,
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": ""
+  },
+  {
+   "id": "s022",
+   "start": 76.65,
+   "end": 80.99,
+   "line": "He made enemies by refusing to do favors for powerful officials.",
+   "scene": "TODO",
+   "set": null,
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": ""
+  },
+  {
+   "id": "s023",
+   "start": 80.99,
+   "end": 84.57,
+   "line": "In 1587, after a raid on the northern border,",
+   "scene": "TODO",
+   "set": null,
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": ""
+  },
+  {
+   "id": "s024",
+   "start": 84.57,
+   "end": 90.19,
+   "line": "he was blamed for the losses, stripped of his rank, and made to serve as a common soldier.",
+   "scene": "TODO",
+   "set": null,
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": ""
+  },
+  {
+   "id": "s025",
+   "start": 90.19,
+   "end": 91.93,
+   "line": "He worked his way back.",
+   "scene": "TODO",
+   "set": null,
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": ""
+  },
+  {
+   "id": "s026",
+   "start": 91.93,
+   "end": 97.31,
+   "line": "And in 1591, a friend in the government got him an unlikely job:",
+   "scene": "TODO",
+   "set": null,
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": ""
+  },
+  {
+   "id": "s027",
+   "start": 97.31,
+   "end": 101.39,
+   "line": "commander of the navy in Jeolla, Korea's southwest province.",
+   "scene": "TODO",
+   "set": null,
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": ""
+  },
+  {
+   "id": "s028",
+   "start": 101.39,
+   "end": 102.87,
+   "line": "The timing was perfect.",
+   "scene": "TODO",
+   "set": null,
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": ""
+  },
+  {
+   "id": "s029",
+   "start": 102.87,
+   "end": 108.83,
+   "line": "Because across the sea, Japan had just been unified after a century of civil war,",
+   "scene": "TODO",
+   "set": null,
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": ""
+  },
+  {
+   "id": "s030",
+   "start": 108.83,
+   "end": 112.29,
+   "line": "under a warlord named Toyotomi Hideyoshi.",
+   "scene": "TODO",
+   "set": null,
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": ""
+  },
+  {
+   "id": "s031",
+   "start": 112.29,
+   "end": 114.65,
+   "line": "And Hideyoshi wanted more.",
+   "scene": "TODO",
+   "set": null,
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": ""
+  },
+  {
+   "id": "s032",
+   "start": 114.65,
+   "end": 118.59,
+   "line": "He planned to march through Korea and conquer China.",
+   "scene": "TODO",
+   "set": null,
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": ""
+  },
+  {
+   "id": "s033",
+   "start": 118.59,
+   "end": 120.91,
+   "line": "Yi seemed to sense what was coming.",
+   "scene": "TODO",
+   "set": null,
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": ""
+  },
+  {
+   "id": "s034",
+   "start": 120.91,
+   "end": 127.83,
+   "line": "He trained his sailors, stockpiled supplies, and rebuilt an old Korean design: the turtle ship.",
+   "scene": "TODO",
+   "set": null,
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": ""
+  },
+  {
+   "id": "s035",
+   "start": 127.83,
+   "end": 132.75,
+   "line": "A warship covered with a roof, studded with sharp spikes so no one could board it,",
+   "scene": "TODO",
+   "set": null,
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": ""
+  },
+  {
+   "id": "s036",
+   "start": 132.75,
+   "end": 138.27,
+   "line": "with cannons on every side and a dragon's head at the bow that could pour out smoke.",
+   "scene": "TODO",
+   "set": null,
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": ""
+  },
+  {
+   "id": "s037",
+   "start": 138.27,
+   "end": 144.39,
+   "line": "According to his diary, he was test-firing its cannons just days before the invasion began.",
+   "scene": "TODO",
+   "set": null,
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": ""
+  },
+  {
+   "id": "s038",
+   "start": 144.39,
+   "end": 149.482,
+   "line": "In the spring of 1592, Japan invaded with an army of more than one hundred",
+   "scene": "TODO",
+   "set": null,
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": ""
+  },
+  {
+   "id": "s039",
+   "start": 149.482,
+   "end": 153.09,
+   "line": "and fifty thousand men, landing at Busan.",
+   "scene": "TODO",
+   "set": null,
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": ""
+  },
+  {
+   "id": "s040",
+   "start": 153.09,
+   "end": 157.79,
+   "line": "They were veterans of a hundred years of war, armed with muskets.",
+   "scene": "TODO",
+   "set": null,
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": ""
+  },
+  {
+   "id": "s041",
+   "start": 157.79,
+   "end": 160.35,
+   "line": "Korea's army collapsed.",
+   "scene": "TODO",
+   "set": null,
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": ""
+  },
+  {
+   "id": "s042",
+   "start": 160.35,
+   "end": 162.91,
+   "line": "Seoul fell in less than three weeks.",
+   "scene": "TODO",
+   "set": null,
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": ""
+  },
+  {
+   "id": "s043",
+   "start": 162.91,
+   "end": 165.01,
+   "line": "The king fled north.",
+   "scene": "TODO",
+   "set": null,
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": ""
+  },
+  {
+   "id": "s044",
+   "start": 165.01,
+   "end": 168.31,
+   "line": "On land, Korea was losing everything.",
+   "scene": "TODO",
+   "set": null,
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": ""
+  },
+  {
+   "id": "s045",
+   "start": 168.31,
+   "end": 171.09,
+   "line": "At sea, it was a different story.",
+   "scene": "TODO",
+   "set": null,
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": ""
+  },
+  {
+   "id": "s046",
+   "start": 171.09,
+   "end": 175.63,
+   "line": "Yi's fleet sailed out and caught Japanese ships at Okpo. He won.",
+   "scene": "TODO",
+   "set": null,
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": ""
+  },
+  {
+   "id": "s047",
+   "start": 175.63,
+   "end": 180.29,
+   "line": "Then at Sacheon, he sent the turtle ship into battle for the first time.",
+   "scene": "TODO",
+   "set": null,
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": ""
+  },
+  {
+   "id": "s048",
+   "start": 180.29,
+   "end": 184.97,
+   "line": "It smashed straight into the Japanese line, and musket fire couldn't stop it.",
+   "scene": "TODO",
+   "set": null,
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": ""
+  },
+  {
+   "id": "s049",
+   "start": 184.97,
+   "end": 188.09,
+   "line": "Yi himself was shot in the shoulder.",
+   "scene": "TODO",
+   "set": null,
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": ""
+  },
+  {
+   "id": "s050",
+   "start": 188.09,
+   "end": 193.67,
+   "line": "He kept fighting, and won again. Then again. And again.",
+   "scene": "TODO",
+   "set": null,
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": ""
+  },
+  {
+   "id": "s051",
+   "start": 193.67,
+   "end": 195.99,
+   "line": "Then came Hansan Island.",
+   "scene": "TODO",
+   "set": null,
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": ""
+  },
+  {
+   "id": "s052",
+   "start": 195.99,
+   "end": 202.39,
+   "line": "Yi sent a few ships to provoke a large Japanese fleet, then turned and fled into open water.",
+   "scene": "TODO",
+   "set": null,
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": ""
+  },
+  {
+   "id": "s053",
+   "start": 202.39,
+   "end": 204.39,
+   "line": "The Japanese chased them.",
+   "scene": "TODO",
+   "set": null,
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": ""
+  },
+  {
+   "id": "s054",
+   "start": 204.39,
+   "end": 209.09,
+   "line": "And that's when Yi's whole fleet swung around into a giant half-moon,",
+   "scene": "TODO",
+   "set": null,
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": ""
+  },
+  {
+   "id": "s055",
+   "start": 209.09,
+   "end": 212.67,
+   "line": "the crane wing formation, and closed around them.",
+   "scene": "TODO",
+   "set": null,
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": ""
+  },
+  {
+   "id": "s056",
+   "start": 212.67,
+   "end": 217.95,
+   "line": "Most of a Japanese fleet of more than seventy ships was destroyed or captured.",
+   "scene": "TODO",
+   "set": null,
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": ""
+  },
+  {
+   "id": "s057",
+   "start": 217.95,
+   "end": 220.35,
+   "line": "It was a turning point of the war.",
+   "scene": "TODO",
+   "set": null,
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": ""
+  },
+  {
+   "id": "s058",
+   "start": 220.35,
+   "end": 225.27,
+   "line": "Japan's army depended on supplies by sea, and Yi had cut the road.",
+   "scene": "TODO",
+   "set": null,
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": ""
+  },
+  {
+   "id": "s059",
+   "start": 225.27,
+   "end": 227.95,
+   "line": "Their advance in the north stalled.",
+   "scene": "TODO",
+   "set": null,
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": ""
+  },
+  {
+   "id": "s060",
+   "start": 227.95,
+   "end": 231.33,
+   "line": "So you'd think Korea treated him as a hero.",
+   "scene": "TODO",
+   "set": null,
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": ""
+  },
+  {
+   "id": "s061",
+   "start": 231.33,
+   "end": 234.09,
+   "line": "Instead, it nearly killed him.",
+   "scene": "TODO",
+   "set": null,
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": ""
+  },
+  {
+   "id": "s062",
+   "start": 234.09,
+   "end": 236.45,
+   "line": "Yi's rivals at court were jealous.",
+   "scene": "TODO",
+   "set": null,
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": ""
+  },
+  {
+   "id": "s063",
+   "start": 236.45,
+   "end": 241.43,
+   "line": "And the Japanese fed false intelligence to the Korean government through a double agent:",
+   "scene": "TODO",
+   "set": null,
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": ""
+  },
+  {
+   "id": "s064",
+   "start": 241.43,
+   "end": 246.75,
+   "line": "a Japanese fleet would be crossing at a certain spot, and Yi should attack it there.",
+   "scene": "TODO",
+   "set": null,
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": ""
+  },
+  {
+   "id": "s065",
+   "start": 246.75,
+   "end": 250.17,
+   "line": "Yi suspected a trap and refused to sail.",
+   "scene": "TODO",
+   "set": null,
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": ""
+  },
+  {
+   "id": "s066",
+   "start": 250.17,
+   "end": 252.79,
+   "line": "The king saw it as disobedience.",
+   "scene": "TODO",
+   "set": null,
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": ""
+  },
+  {
+   "id": "s067",
+   "start": 252.79,
+   "end": 259.35,
+   "line": "In 1597, Yi Sun-sin was arrested, dragged to the capital in chains, and tortured.",
+   "scene": "TODO",
+   "set": null,
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": ""
+  },
+  {
+   "id": "s068",
+   "start": 259.35,
+   "end": 261.89,
+   "line": "He came close to being executed.",
+   "scene": "TODO",
+   "set": null,
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": ""
+  },
+  {
+   "id": "s069",
+   "start": 261.89,
+   "end": 268.89,
+   "line": "Instead, for the second time in his life, he was stripped of his rank and sent to serve as a common soldier.",
+   "scene": "TODO",
+   "set": null,
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": ""
+  },
+  {
+   "id": "s070",
+   "start": 268.89,
+   "end": 273.07,
+   "line": "His replacement was his rival, an admiral named Won Gyun.",
+   "scene": "TODO",
+   "set": null,
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": ""
+  },
+  {
+   "id": "s071",
+   "start": 273.07,
+   "end": 278.89,
+   "line": "Within months, Won Gyun led the fleet straight into a Japanese ambush at Chilcheollyang.",
+   "scene": "TODO",
+   "set": null,
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": ""
+  },
+  {
+   "id": "s072",
+   "start": 278.89,
+   "end": 283.35,
+   "line": "The Korean navy was wiped out. Won Gyun was killed.",
+   "scene": "TODO",
+   "set": null,
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": ""
+  },
+  {
+   "id": "s073",
+   "start": 283.35,
+   "end": 285.95,
+   "line": "Only about a dozen ships escaped.",
+   "scene": "TODO",
+   "set": null,
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": ""
+  },
+  {
+   "id": "s074",
+   "start": 285.95,
+   "end": 289.41,
+   "line": "The king had no choice. He brought Yi back.",
+   "scene": "TODO",
+   "set": null,
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": ""
+  },
+  {
+   "id": "s075",
+   "start": 289.41,
+   "end": 295.15,
+   "line": "And he suggested that maybe Yi should give up on the navy, and fight on land instead.",
+   "scene": "TODO",
+   "set": null,
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": ""
+  },
+  {
+   "id": "s076",
+   "start": 295.15,
+   "end": 299.43,
+   "line": "Yi's reply became one of the most famous lines in Korean history:",
+   "scene": "TODO",
+   "set": null,
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": ""
+  },
+  {
+   "id": "s077",
+   "start": 299.43,
+   "end": 302.07,
+   "line": "\"I still have twelve ships.\"",
+   "scene": "TODO",
+   "set": null,
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": ""
+  },
+  {
+   "id": "s078",
+   "start": 302.07,
+   "end": 307.95,
+   "line": "As long as I am alive, he wrote, the enemy will not dare to look down on us.",
+   "scene": "TODO",
+   "set": null,
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": ""
+  },
+  {
+   "id": "s079",
+   "start": 307.95,
+   "end": 311.53,
+   "line": "One more ship was found. That made thirteen.",
+   "scene": "TODO",
+   "set": null,
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": ""
+  },
+  {
+   "id": "s080",
+   "start": 311.53,
+   "end": 315.71,
+   "line": "In October 1597, a Japanese fleet of more than a hundred",
+   "scene": "TODO",
+   "set": null,
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": ""
+  },
+  {
+   "id": "s081",
+   "start": 315.71,
+   "end": 319.03,
+   "line": "and thirty warships came through the Myeongnyang Strait,",
+   "scene": "TODO",
+   "set": null,
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": ""
+  },
+  {
+   "id": "s082",
+   "start": 319.03,
+   "end": 324.69,
+   "line": "a narrow channel with one of the strongest tidal currents in Korea. Yi was waiting.",
+   "scene": "TODO",
+   "set": null,
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": ""
+  },
+  {
+   "id": "s083",
+   "start": 324.69,
+   "end": 327.37,
+   "line": "The night before, he told his officers:",
+   "scene": "TODO",
+   "set": null,
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": ""
+  },
+  {
+   "id": "s084",
+   "start": 327.37,
+   "end": 329.95,
+   "line": "\"Those who seek death shall live.",
+   "scene": "TODO",
+   "set": null,
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": ""
+  },
+  {
+   "id": "s085",
+   "start": 329.95,
+   "end": 332.75,
+   "line": "Those who seek life shall die.\"",
+   "scene": "TODO",
+   "set": null,
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": ""
+  },
+  {
+   "id": "s086",
+   "start": 332.75,
+   "end": 337.45,
+   "line": "When the battle began, the other Korean captains hesitated and hung back.",
+   "scene": "TODO",
+   "set": null,
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": ""
+  },
+  {
+   "id": "s087",
+   "start": 337.45,
+   "end": 343.85,
+   "line": "For a while, Yi's flagship fought almost alone, against wave after wave of enemy ships.",
+   "scene": "TODO",
+   "set": null,
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": ""
+  },
+  {
+   "id": "s088",
+   "start": 343.85,
+   "end": 345.77,
+   "line": "Then the others rejoined.",
+   "scene": "TODO",
+   "set": null,
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": ""
+  },
+  {
+   "id": "s089",
+   "start": 345.77,
+   "end": 347.99,
+   "line": "And then the current turned.",
+   "scene": "TODO",
+   "set": null,
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": ""
+  },
+  {
+   "id": "s090",
+   "start": 347.99,
+   "end": 353.75,
+   "line": "The Japanese ships, packed into the narrow strait, were pushed back into each other.",
+   "scene": "TODO",
+   "set": null,
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": ""
+  },
+  {
+   "id": "s091",
+   "start": 353.75,
+   "end": 358.75,
+   "line": "By the end of the day, around thirty Japanese warships had been destroyed.",
+   "scene": "TODO",
+   "set": null,
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": ""
+  },
+  {
+   "id": "s092",
+   "start": 358.75,
+   "end": 361.65,
+   "line": "Yi did not lose a single ship.",
+   "scene": "TODO",
+   "set": null,
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": ""
+  },
+  {
+   "id": "s093",
+   "start": 361.65,
+   "end": 365.95,
+   "line": "It was one of the most lopsided naval victories ever recorded.",
+   "scene": "TODO",
+   "set": null,
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": ""
+  },
+  {
+   "id": "s094",
+   "start": 365.95,
+   "end": 369.41,
+   "line": "And it came at a terrible price.",
+   "scene": "TODO",
+   "set": null,
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": ""
+  },
+  {
+   "id": "s095",
+   "start": 369.41,
+   "end": 371.83,
+   "line": "Weeks later, in revenge,",
+   "scene": "TODO",
+   "set": null,
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": ""
+  },
+  {
+   "id": "s096",
+   "start": 371.83,
+   "end": 374.97,
+   "line": "Japanese soldiers killed Yi's youngest son.",
+   "scene": "TODO",
+   "set": null,
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": ""
+  },
+  {
+   "id": "s097",
+   "start": 374.97,
+   "end": 381.39,
+   "line": "In his diary, Yi wrote that he wanted to die, but had to go on living for his men.",
+   "scene": "TODO",
+   "set": null,
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": ""
+  },
+  {
+   "id": "s098",
+   "start": 381.39,
+   "end": 387.43,
+   "line": "In 1598, Hideyoshi died, and the Japanese began pulling out of Korea.",
+   "scene": "TODO",
+   "set": null,
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": ""
+  },
+  {
+   "id": "s099",
+   "start": 387.43,
+   "end": 390.73,
+   "line": "Yi wasn't going to let them leave easily.",
+   "scene": "TODO",
+   "set": null,
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": ""
+  },
+  {
+   "id": "s100",
+   "start": 390.73,
+   "end": 396.89,
+   "line": "In December, alongside a Chinese fleet, he attacked the retreating Japanese at Noryang.",
+   "scene": "TODO",
+   "set": null,
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": ""
+  },
+  {
+   "id": "s101",
+   "start": 396.89,
+   "end": 399.57,
+   "line": "The battle raged through the night.",
+   "scene": "TODO",
+   "set": null,
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": ""
+  },
+  {
+   "id": "s102",
+   "start": 399.57,
+   "end": 403.447,
+   "line": "As dawn came, Yi was on the deck of his flagship,",
+   "scene": "TODO",
+   "set": null,
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": ""
+  },
+  {
+   "id": "s103",
+   "start": 403.447,
+   "end": 407.25,
+   "line": "urging his men on with the war drum, when a bullet struck him.",
+   "scene": "TODO",
+   "set": null,
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": ""
+  },
+  {
+   "id": "s104",
+   "start": 407.25,
+   "end": 410.61,
+   "line": "His last words, according to the records, were:",
+   "scene": "TODO",
+   "set": null,
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": ""
+  },
+  {
+   "id": "s105",
+   "start": 410.61,
+   "end": 412.37,
+   "line": "\"The battle is at its height.",
+   "scene": "TODO",
+   "set": null,
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": ""
+  },
+  {
+   "id": "s106",
+   "start": 412.37,
+   "end": 414.93,
+   "line": "Do not announce my death.\"",
+   "scene": "TODO",
+   "set": null,
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": ""
+  },
+  {
+   "id": "s107",
+   "start": 414.93,
+   "end": 419.57,
+   "line": "His nephew hid his body, took up the drum, and kept beating it.",
+   "scene": "TODO",
+   "set": null,
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": ""
+  },
+  {
+   "id": "s108",
+   "start": 419.57,
+   "end": 426.49,
+   "line": "The fleet fought on, never knowing their admiral was gone. Noryang was a victory.",
+   "scene": "TODO",
+   "set": null,
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": ""
+  },
+  {
+   "id": "s109",
+   "start": 426.49,
+   "end": 427.99,
+   "line": "His last one.",
+   "scene": "TODO",
+   "set": null,
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": ""
+  },
+  {
+   "id": "s110",
+   "start": 427.99,
+   "end": 431.19,
+   "line": "So, is the streak real?",
+   "scene": "TODO",
+   "set": null,
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": ""
+  },
+  {
+   "id": "s111",
+   "start": 431.19,
+   "end": 434.77,
+   "line": "The number twenty-three depends on how you count.",
+   "scene": "TODO",
+   "set": null,
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": ""
+  },
+  {
+   "id": "s112",
+   "start": 434.77,
+   "end": 441.85,
+   "line": "Some of those were small clashes, and historians argue about where one battle ends and the next begins.",
+   "scene": "TODO",
+   "set": null,
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": ""
+  },
+  {
+   "id": "s113",
+   "start": 441.85,
+   "end": 448.39,
+   "line": "But here's what makes Yi different from almost every other undefeated legend: the evidence.",
+   "scene": "TODO",
+   "set": null,
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": ""
+  },
+  {
+   "id": "s114",
+   "start": 448.39,
+   "end": 452.47,
+   "line": "He kept a war diary for most of the seven-year war.",
+   "scene": "TODO",
+   "set": null,
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": ""
+  },
+  {
+   "id": "s115",
+   "start": 452.47,
+   "end": 457.65,
+   "line": "Today it's recognized by UNESCO as part of the Memory of the World.",
+   "scene": "TODO",
+   "set": null,
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": ""
+  },
+  {
+   "id": "s116",
+   "start": 457.65,
+   "end": 461.39,
+   "line": "Together with the Korean court records, it gives us his battles,",
+   "scene": "TODO",
+   "set": null,
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": ""
+  },
+  {
+   "id": "s117",
+   "start": 461.39,
+   "end": 466.73,
+   "line": "his doubts, his illnesses, and his grief, in his own hand.",
+   "scene": "TODO",
+   "set": null,
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": ""
+  },
+  {
+   "id": "s118",
+   "start": 466.73,
+   "end": 470.55,
+   "line": "By every count, he never lost a battle he commanded.",
+   "scene": "TODO",
+   "set": null,
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": ""
+  },
+  {
+   "id": "s119",
+   "start": 470.55,
+   "end": 473.61,
+   "line": "He was jailed by his own king, tortured,",
+   "scene": "TODO",
+   "set": null,
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": ""
+  },
+  {
+   "id": "s120",
+   "start": 473.61,
+   "end": 477.93,
+   "line": "demoted twice, lost his son, and kept winning anyway.",
+   "scene": "TODO",
+   "set": null,
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": ""
+  },
+  {
+   "id": "s121",
+   "start": 477.93,
+   "end": 485.77,
+   "line": "Thirteen ships against more than a hundred and thirty. Twenty-three battles. Zero defeats.",
+   "scene": "TODO",
+   "set": null,
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": ""
+  },
+  {
+   "id": "s122",
+   "start": 485.77,
+   "end": 488.59,
+   "line": "And a man who, even in death,",
+   "scene": "TODO",
+   "set": null,
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": ""
+  },
+  {
+   "id": "s123",
+   "start": 488.59,
+   "end": 492.48,
+   "line": "refused to let his side stop fighting.",
+   "scene": "TODO",
+   "set": null,
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": ""
+  }
+ ],
+ "music": []
+}
