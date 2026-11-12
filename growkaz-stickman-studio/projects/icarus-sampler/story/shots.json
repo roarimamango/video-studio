@@ -1,0 +1,125 @@
+{
+ "title": "Icarus Anime Sampler",
+ "duration": 10,
+ "shots": [
+  {
+   "id": "b01",
+   "start": 0.0,
+   "end": 2.0,
+   "line": "",
+   "scene": "Crete clifftop at dawn: Daedalus warns, Icarus spreads his new wings",
+   "set": null,
+   "bars": "none",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "params": {}
+  },
+  {
+   "id": "b02",
+   "start": 2.0,
+   "end": 3.5,
+   "line": "",
+   "scene": "Icarus sprints and leaps off the cliff",
+   "set": null,
+   "bars": "none",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "params": {}
+  },
+  {
+   "id": "b03",
+   "start": 3.5,
+   "end": 5.2,
+   "line": "",
+   "scene": "Soaring over the sea, joyful",
+   "set": null,
+   "bars": "none",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "params": {}
+  },
+  {
+   "id": "b04",
+   "start": 5.2,
+   "end": 6.4,
+   "line": "",
+   "scene": "Climbing into a giant sun; the wax drips, feathers peel away",
+   "set": null,
+   "bars": "none",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "params": {}
+  },
+  {
+   "id": "b05",
+   "start": 6.4,
+   "end": 6.7,
+   "line": "",
+   "scene": "IMPACT FRAME: the wing breaks apart",
+   "set": null,
+   "bars": "none",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "params": {}
+  },
+  {
+   "id": "b06",
+   "start": 6.7,
+   "end": 8.4,
+   "line": "",
+   "scene": "Tumbling down, feathers scattering upward",
+   "set": null,
+   "bars": "none",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "params": {}
+  },
+  {
+   "id": "b07",
+   "start": 8.4,
+   "end": 10.0,
+   "line": "",
+   "scene": "Wide: a tiny splash in the sea; ICARUS title",
+   "set": null,
+   "bars": "none",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "params": {}
+  }
+ ],
+ "music": [
+  {
+   "start": 0,
+   "end": 3.5,
+   "mood": "wonder",
+   "intensity": 0.6
+  },
+  {
+   "start": 3.5,
+   "end": 6.4,
+   "mood": "epic",
+   "intensity": 0.9
+  },
+  {
+   "start": 6.4,
+   "end": 10,
+   "mood": "sad",
+   "intensity": 0.6
+  }
+ ],
+ "sfx": []
+}
