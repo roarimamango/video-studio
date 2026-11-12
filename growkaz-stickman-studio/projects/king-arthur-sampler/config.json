@@ -1,0 +1,16 @@
+{
+ "title": "King Arthur Neon Sampler",
+ "aspect": "16:9",
+ "resolution": "1080p",
+ "fps": 24,
+ "style": "neon",
+ "voiceover": "input/voiceover.wav",
+ "duration": 10,
+ "captions": false,
+ "bars": null,
+ "fadeIn": 0.2,
+ "fadeOut": 0.6,
+ "music": { "enabled": true, "gainDb": -8 },
+ "sfx": { "enabled": true, "gainDb": -2 },
+ "loudness": -14
+}

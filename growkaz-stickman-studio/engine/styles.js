@@ -67,6 +67,13 @@ export const STYLES = {
       interiorWarm: { rim: '#ffa0c8', wall: '#5a3448' },
     },
   },
+  neon: {
+    name: 'Neon Line', desc: 'Fluid neon line art on near-black: few glowing strokes, electric cyan, magenta and gold, high contrast, almost no grain.',
+    ink: '#05030c', inkFar: '#1a1030', feature: '#ffffff', rimWidth: 4,
+    ui: { ...UI, card: 'rgba(10,6,24,.94)', cardLine: 'rgba(0,240,255,.35)', text: '#e8f6ff', sub: '#8a7ab8', accent: '#ff2e88', gold: '#ffd23a', cream: '#f4f8ff', blueprint: '#00e5ff', bpBg: '#05030c', good: '#3affb0' },
+    grade: { contrast: 1.12, sat: 1.25, lift: [0.0, 0.0, 0.01], gamma: [1, 1, 1], gain: [1.02, 1.0, 1.04], vignette: 0.35, grain: 0.025, bloom: 1.0 },
+    moods: { night: { sky: ['#05030c', '#120828', '#2a0c48'], rim: '#00e5ff', practical: '#ff2e88' } },
+  },
   retroVivid: {
     name: 'Retro Vivid', desc: 'Retro Print with richer colour: saturated teal and mustard, warm highlights, deeper contrast, lighter grain.',
     ink: '#1a1410', inkFar: '#4a4036', feature: '#fff4dc', rimWidth: 5.5,
