@@ -4,3 +4,4 @@ whisper.cpp
 .DS_Store
 growkaz-stickman-studio/node_modules
 growkaz-stickman-studio/projects/*/build
+growkaz-stickman-studio/projects/*/out
