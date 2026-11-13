@@ -1,0 +1,227 @@
+{
+ "title": "Eyes Noir Sampler",
+ "duration": 24,
+ "music": [
+  {
+   "start": 0,
+   "end": 13.8,
+   "mood": "mystery",
+   "intensity": 0.7
+  },
+  {
+   "start": 13.8,
+   "end": 24,
+   "mood": "tension",
+   "intensity": 0.9
+  }
+ ],
+ "sfx": [],
+ "shots": [
+  {
+   "id": "n01",
+   "start": 0,
+   "end": 3.6,
+   "line": "",
+   "scene": "Interrogation room; lamp swings; detective cut-out; push onto case file, dive into the eye polaroid",
+   "set": null,
+   "bars": "none",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0,
+     "name": "hum",
+     "gain": -16,
+     "dur": 3.5
+    },
+    {
+     "at": 0.4,
+     "name": "tick",
+     "gain": -10
+    },
+    {
+     "at": 3.0,
+     "name": "whoosh",
+     "gain": -8
+    }
+   ],
+   "params": {}
+  },
+  {
+   "id": "n02",
+   "start": 3.6,
+   "end": 7.0,
+   "line": "",
+   "scene": "Museum at night: dolly between stone busts to a Medusa painting; a visitor turns to stone; dive into her eye",
+   "set": null,
+   "bars": "none",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.6,
+     "name": "stinger",
+     "gain": -12
+    },
+    {
+     "at": 2.8,
+     "name": "whoosh",
+     "gain": -8
+    }
+   ],
+   "params": {}
+  },
+  {
+   "id": "n03",
+   "start": 7.0,
+   "end": 10.4,
+   "line": "",
+   "scene": "Rainy alley; walls papered with evil-eye charms whose pupils all follow; woman under sodium lamp",
+   "set": null,
+   "bars": "none",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0,
+     "name": "rain",
+     "gain": -14,
+     "dur": 3.4
+    },
+    {
+     "at": 1.2,
+     "name": "hit",
+     "gain": -10
+    },
+    {
+     "at": 2.8,
+     "name": "whoosh",
+     "gain": -8
+    }
+   ],
+   "params": {}
+  },
+  {
+   "id": "n04",
+   "start": 10.4,
+   "end": 13.8,
+   "line": "",
+   "scene": "Florence gallery, flashlight sweep; man faints before a swirling painting; paper chart recorder spikes",
+   "set": null,
+   "bars": "none",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0,
+     "name": "heartbeat",
+     "gain": -6,
+     "dur": 3.4,
+     "bpm": 110
+    },
+    {
+     "at": 2.8,
+     "name": "whoosh",
+     "gain": -8
+    }
+   ],
+   "params": {}
+  },
+  {
+   "id": "n05",
+   "start": 13.8,
+   "end": 17.2,
+   "line": "",
+   "scene": "1957 cinema from the back row; hidden frames; audience heads turn; newspaper clipping stamped HOAX",
+   "set": null,
+   "bars": "none",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0,
+     "name": "hum",
+     "gain": -14,
+     "dur": 3.4
+    },
+    {
+     "at": 1.9,
+     "name": "hit",
+     "gain": -6
+    },
+    {
+     "at": 2.8,
+     "name": "whoosh",
+     "gain": -8
+    }
+   ],
+   "params": {}
+  },
+  {
+   "id": "n06",
+   "start": 17.2,
+   "end": 20.6,
+   "line": "",
+   "scene": "Dark bedroom; figure lit by phone; screens multiply across the walls; dive into the phone",
+   "set": null,
+   "bars": "none",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.2,
+     "name": "phonebuzz",
+     "gain": -10
+    },
+    {
+     "at": 1.4,
+     "name": "blip",
+     "gain": -12
+    },
+    {
+     "at": 2.0,
+     "name": "blip",
+     "gain": -12
+    },
+    {
+     "at": 2.8,
+     "name": "whoosh",
+     "gain": -8
+    }
+   ],
+   "params": {}
+  },
+  {
+   "id": "n07",
+   "start": 20.6,
+   "end": 24.0,
+   "line": "",
+   "scene": "Pull back from a giant eye photo to reveal the evidence board with red string; title typed; the eye blinks",
+   "set": null,
+   "bars": "none",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.3,
+     "name": "riser",
+     "gain": -12,
+     "dur": 2.4
+    },
+    {
+     "at": 2.9,
+     "name": "impact",
+     "gain": -6
+    }
+   ],
+   "params": {}
+  }
+ ]
+}
