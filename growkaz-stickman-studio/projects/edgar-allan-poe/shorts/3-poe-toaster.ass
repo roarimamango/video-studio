@@ -1,0 +1,73 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+WrapStyle: 2
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Title,Fredoka Light,92,&H00FFFFFF,&H00FFFFFF,&H00100A0C,&H96000000,-1,0,0,0,100,100,2,0,1,9,4,8,60,60,250,1
+Style: Title2,Fredoka Light,104,&H0030D2FF,&H0030D2FF,&H00100A0C,&H96000000,-1,0,0,0,100,100,2,0,1,10,4,8,60,60,360,1
+Style: Cap,Fredoka Light,84,&H00FFFFFF,&H00FFFFFF,&H00100A0C,&H96000000,-1,0,0,0,100,100,1,0,1,9,3,2,70,70,420,1
+Style: CTA,Fredoka Light,70,&H00FFFFFF,&H00FFFFFF,&H00100A0C,&H962A20C8,-1,0,0,0,100,100,2,0,3,18,0,5,60,60,0,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 1,0:00:00.00,0:00:22.67,Title,,0,0,0,,{\fad(150,200)}A MASKED STRANGER
+Dialogue: 1,0:00:00.00,0:00:22.67,Title2,,0,0,0,,{\fad(150,200)}VISITED HIS GRAVE
+Dialogue: 0,0:00:00.45,0:00:00.61,Cap,,0,0,0,,{\c&H0030D2FF&\fscx108\fscy108}THE{\c&H00FFFFFF&\fscx100\fscy100} LEGEND KEPT
+Dialogue: 0,0:00:00.61,0:00:00.87,Cap,,0,0,0,,THE {\c&H0030D2FF&\fscx108\fscy108}LEGEND{\c&H00FFFFFF&\fscx100\fscy100} KEPT
+Dialogue: 0,0:00:00.87,0:00:01.29,Cap,,0,0,0,,THE LEGEND {\c&H0030D2FF&\fscx108\fscy108}KEPT{\c&H00FFFFFF&\fscx100\fscy100}
+Dialogue: 0,0:00:01.29,0:00:02.09,Cap,,0,0,0,,{\c&H0030D2FF&\fscx108\fscy108}GROWING,{\c&H00FFFFFF&\fscx100\fscy100}
+Dialogue: 0,0:00:02.09,0:00:02.33,Cap,,0,0,0,,{\c&H0030D2FF&\fscx108\fscy108}EVEN{\c&H00FFFFFF&\fscx100\fscy100} AT HIS
+Dialogue: 0,0:00:02.33,0:00:02.51,Cap,,0,0,0,,EVEN {\c&H0030D2FF&\fscx108\fscy108}AT{\c&H00FFFFFF&\fscx100\fscy100} HIS
+Dialogue: 0,0:00:02.51,0:00:02.65,Cap,,0,0,0,,EVEN AT {\c&H0030D2FF&\fscx108\fscy108}HIS{\c&H00FFFFFF&\fscx100\fscy100}
+Dialogue: 0,0:00:02.65,0:00:03.51,Cap,,0,0,0,,{\c&H0030D2FF&\fscx108\fscy108}GRAVE.{\c&H00FFFFFF&\fscx100\fscy100}
+Dialogue: 0,0:00:03.51,0:00:03.77,Cap,,0,0,0,,{\c&H0030D2FF&\fscx108\fscy108}FOR{\c&H00FFFFFF&\fscx100\fscy100} SIXTY YEARS,
+Dialogue: 0,0:00:03.77,0:00:04.17,Cap,,0,0,0,,FOR {\c&H0030D2FF&\fscx108\fscy108}SIXTY{\c&H00FFFFFF&\fscx100\fscy100} YEARS,
+Dialogue: 0,0:00:04.17,0:00:04.85,Cap,,0,0,0,,FOR SIXTY {\c&H0030D2FF&\fscx108\fscy108}YEARS,{\c&H00FFFFFF&\fscx100\fscy100}
+Dialogue: 0,0:00:04.85,0:00:04.99,Cap,,0,0,0,,{\c&H0030D2FF&\fscx108\fscy108}FROM{\c&H00FFFFFF&\fscx100\fscy100} 1949 TO
+Dialogue: 0,0:00:04.99,0:00:05.71,Cap,,0,0,0,,FROM {\c&H0030D2FF&\fscx108\fscy108}1949{\c&H00FFFFFF&\fscx100\fscy100} TO
+Dialogue: 0,0:00:05.71,0:00:06.15,Cap,,0,0,0,,FROM 1949 {\c&H0030D2FF&\fscx108\fscy108}TO{\c&H00FFFFFF&\fscx100\fscy100}
+Dialogue: 0,0:00:06.15,0:00:07.47,Cap,,0,0,0,,{\c&H0030D2FF&\fscx108\fscy108}2009,{\c&H00FFFFFF&\fscx100\fscy100}
+Dialogue: 0,0:00:07.47,0:00:07.77,Cap,,0,0,0,,{\c&H0030D2FF&\fscx108\fscy108}EVERY{\c&H00FFFFFF&\fscx100\fscy100} YEAR ON
+Dialogue: 0,0:00:07.77,0:00:08.03,Cap,,0,0,0,,EVERY {\c&H0030D2FF&\fscx108\fscy108}YEAR{\c&H00FFFFFF&\fscx100\fscy100} ON
+Dialogue: 0,0:00:08.03,0:00:08.39,Cap,,0,0,0,,EVERY YEAR {\c&H0030D2FF&\fscx108\fscy108}ON{\c&H00FFFFFF&\fscx100\fscy100}
+Dialogue: 0,0:00:08.39,0:00:08.61,Cap,,0,0,0,,{\c&H0030D2FF&\fscx108\fscy108}POE'S{\c&H00FFFFFF&\fscx100\fscy100} BIRTHDAY,
+Dialogue: 0,0:00:08.61,0:00:09.37,Cap,,0,0,0,,POE'S {\c&H0030D2FF&\fscx108\fscy108}BIRTHDAY,{\c&H00FFFFFF&\fscx100\fscy100}
+Dialogue: 0,0:00:09.37,0:00:09.51,Cap,,0,0,0,,{\c&H0030D2FF&\fscx108\fscy108}A{\c&H00FFFFFF&\fscx100\fscy100} MYSTERIOUS FIGURE
+Dialogue: 0,0:00:09.51,0:00:09.91,Cap,,0,0,0,,A {\c&H0030D2FF&\fscx108\fscy108}MYSTERIOUS{\c&H00FFFFFF&\fscx100\fscy100} FIGURE
+Dialogue: 0,0:00:09.91,0:00:10.53,Cap,,0,0,0,,A MYSTERIOUS {\c&H0030D2FF&\fscx108\fscy108}FIGURE{\c&H00FFFFFF&\fscx100\fscy100}
+Dialogue: 0,0:00:10.53,0:00:10.81,Cap,,0,0,0,,{\c&H0030D2FF&\fscx108\fscy108}DRESSED{\c&H00FFFFFF&\fscx100\fscy100} IN BLACK
+Dialogue: 0,0:00:10.81,0:00:11.09,Cap,,0,0,0,,DRESSED {\c&H0030D2FF&\fscx108\fscy108}IN{\c&H00FFFFFF&\fscx100\fscy100} BLACK
+Dialogue: 0,0:00:11.09,0:00:11.43,Cap,,0,0,0,,DRESSED IN {\c&H0030D2FF&\fscx108\fscy108}BLACK{\c&H00FFFFFF&\fscx100\fscy100}
+Dialogue: 0,0:00:11.43,0:00:11.81,Cap,,0,0,0,,{\c&H0030D2FF&\fscx108\fscy108}SLIPPED{\c&H00FFFFFF&\fscx100\fscy100} INTO THE
+Dialogue: 0,0:00:11.81,0:00:12.11,Cap,,0,0,0,,SLIPPED {\c&H0030D2FF&\fscx108\fscy108}INTO{\c&H00FFFFFF&\fscx100\fscy100} THE
+Dialogue: 0,0:00:12.11,0:00:12.27,Cap,,0,0,0,,SLIPPED INTO {\c&H0030D2FF&\fscx108\fscy108}THE{\c&H00FFFFFF&\fscx100\fscy100}
+Dialogue: 0,0:00:12.27,0:00:12.61,Cap,,0,0,0,,{\c&H0030D2FF&\fscx108\fscy108}CEMETERY{\c&H00FFFFFF&\fscx100\fscy100} IN BALTIMORE
+Dialogue: 0,0:00:12.61,0:00:12.99,Cap,,0,0,0,,CEMETERY {\c&H0030D2FF&\fscx108\fscy108}IN{\c&H00FFFFFF&\fscx100\fscy100} BALTIMORE
+Dialogue: 0,0:00:12.99,0:00:13.35,Cap,,0,0,0,,CEMETERY IN {\c&H0030D2FF&\fscx108\fscy108}BALTIMORE{\c&H00FFFFFF&\fscx100\fscy100}
+Dialogue: 0,0:00:13.35,0:00:13.91,Cap,,0,0,0,,{\c&H0030D2FF&\fscx108\fscy108}AND{\c&H00FFFFFF&\fscx100\fscy100} LEFT THREE
+Dialogue: 0,0:00:13.91,0:00:14.09,Cap,,0,0,0,,AND {\c&H0030D2FF&\fscx108\fscy108}LEFT{\c&H00FFFFFF&\fscx100\fscy100} THREE
+Dialogue: 0,0:00:14.09,0:00:14.49,Cap,,0,0,0,,AND LEFT {\c&H0030D2FF&\fscx108\fscy108}THREE{\c&H00FFFFFF&\fscx100\fscy100}
+Dialogue: 0,0:00:14.49,0:00:14.85,Cap,,0,0,0,,{\c&H0030D2FF&\fscx108\fscy108}ROSES{\c&H00FFFFFF&\fscx100\fscy100} AND A
+Dialogue: 0,0:00:14.85,0:00:15.23,Cap,,0,0,0,,ROSES {\c&H0030D2FF&\fscx108\fscy108}AND{\c&H00FFFFFF&\fscx100\fscy100} A
+Dialogue: 0,0:00:15.23,0:00:15.37,Cap,,0,0,0,,ROSES AND {\c&H0030D2FF&\fscx108\fscy108}A{\c&H00FFFFFF&\fscx100\fscy100}
+Dialogue: 0,0:00:15.37,0:00:15.85,Cap,,0,0,0,,{\c&H0030D2FF&\fscx108\fscy108}HALF-EMPTY{\c&H00FFFFFF&\fscx100\fscy100} BOTTLE OF
+Dialogue: 0,0:00:15.85,0:00:16.11,Cap,,0,0,0,,HALF-EMPTY {\c&H0030D2FF&\fscx108\fscy108}BOTTLE{\c&H00FFFFFF&\fscx100\fscy100} OF
+Dialogue: 0,0:00:16.11,0:00:16.41,Cap,,0,0,0,,HALF-EMPTY BOTTLE {\c&H0030D2FF&\fscx108\fscy108}OF{\c&H00FFFFFF&\fscx100\fscy100}
+Dialogue: 0,0:00:16.41,0:00:17.35,Cap,,0,0,0,,{\c&H0030D2FF&\fscx108\fscy108}COGNAC.{\c&H00FFFFFF&\fscx100\fscy100}
+Dialogue: 0,0:00:17.35,0:00:17.67,Cap,,0,0,0,,{\c&H0030D2FF&\fscx108\fscy108}PEOPLE{\c&H00FFFFFF&\fscx100\fscy100} STAKED OUT
+Dialogue: 0,0:00:17.67,0:00:18.05,Cap,,0,0,0,,PEOPLE {\c&H0030D2FF&\fscx108\fscy108}STAKED{\c&H00FFFFFF&\fscx100\fscy100} OUT
+Dialogue: 0,0:00:18.05,0:00:18.23,Cap,,0,0,0,,PEOPLE STAKED {\c&H0030D2FF&\fscx108\fscy108}OUT{\c&H00FFFFFF&\fscx100\fscy100}
+Dialogue: 0,0:00:18.23,0:00:18.39,Cap,,0,0,0,,{\c&H0030D2FF&\fscx108\fscy108}THE{\c&H00FFFFFF&\fscx100\fscy100} GRAVE FOR
+Dialogue: 0,0:00:18.39,0:00:18.67,Cap,,0,0,0,,THE {\c&H0030D2FF&\fscx108\fscy108}GRAVE{\c&H00FFFFFF&\fscx100\fscy100} FOR
+Dialogue: 0,0:00:18.67,0:00:18.91,Cap,,0,0,0,,THE GRAVE {\c&H0030D2FF&\fscx108\fscy108}FOR{\c&H00FFFFFF&\fscx100\fscy100}
+Dialogue: 0,0:00:18.91,0:00:20.13,Cap,,0,0,0,,{\c&H0030D2FF&\fscx108\fscy108}DECADES.{\c&H00FFFFFF&\fscx100\fscy100}
+Dialogue: 0,0:00:20.13,0:00:20.35,Cap,,0,0,0,,{\c&H0030D2FF&\fscx108\fscy108}NOBODY{\c&H00FFFFFF&\fscx100\fscy100} EVER UNMASKED
+Dialogue: 0,0:00:20.35,0:00:20.83,Cap,,0,0,0,,NOBODY {\c&H0030D2FF&\fscx108\fscy108}EVER{\c&H00FFFFFF&\fscx100\fscy100} UNMASKED
+Dialogue: 0,0:00:20.83,0:00:21.63,Cap,,0,0,0,,NOBODY EVER {\c&H0030D2FF&\fscx108\fscy108}UNMASKED{\c&H00FFFFFF&\fscx100\fscy100}
+Dialogue: 0,0:00:21.63,0:00:21.77,Cap,,0,0,0,,{\c&H0030D2FF&\fscx108\fscy108}THE{\c&H00FFFFFF&\fscx100\fscy100} POE TOASTER.
+Dialogue: 0,0:00:21.77,0:00:22.07,Cap,,0,0,0,,THE {\c&H0030D2FF&\fscx108\fscy108}POE{\c&H00FFFFFF&\fscx100\fscy100} TOASTER.
+Dialogue: 0,0:00:22.07,0:00:22.67,Cap,,0,0,0,,THE POE {\c&H0030D2FF&\fscx108\fscy108}TOASTER.{\c&H00FFFFFF&\fscx100\fscy100}
+Dialogue: 2,0:00:22.67,0:00:24.27,CTA,,0,0,0,,{\fad(200,0)}FULL STORY ON THE CHANNEL

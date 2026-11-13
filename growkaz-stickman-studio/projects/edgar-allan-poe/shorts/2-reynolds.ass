@@ -1,0 +1,135 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+WrapStyle: 2
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Title,Fredoka Light,92,&H00FFFFFF,&H00FFFFFF,&H00100A0C,&H96000000,-1,0,0,0,100,100,2,0,1,9,4,8,60,60,250,1
+Style: Title2,Fredoka Light,104,&H0030D2FF,&H0030D2FF,&H00100A0C,&H96000000,-1,0,0,0,100,100,2,0,1,10,4,8,60,60,360,1
+Style: Cap,Fredoka Light,84,&H00FFFFFF,&H00FFFFFF,&H00100A0C,&H96000000,-1,0,0,0,100,100,1,0,1,9,3,2,70,70,420,1
+Style: CTA,Fredoka Light,70,&H00FFFFFF,&H00FFFFFF,&H00100A0C,&H962A20C8,-1,0,0,0,100,100,2,0,3,18,0,5,60,60,0,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 1,0:00:00.00,0:00:43.35,Title,,0,0,0,,{\fad(150,200)}HIS LAST WORD
+Dialogue: 1,0:00:00.00,0:00:43.35,Title2,,0,0,0,,{\fad(150,200)}WAS A MYSTERY
+Dialogue: 0,0:00:00.45,0:00:00.59,Cap,,0,0,0,,{\c&H0030D2FF&\fscx108\fscy108}ON{\c&H00FFFFFF&\fscx100\fscy100} SEPTEMBER 27TH,
+Dialogue: 0,0:00:00.59,0:00:00.89,Cap,,0,0,0,,ON {\c&H0030D2FF&\fscx108\fscy108}SEPTEMBER{\c&H00FFFFFF&\fscx100\fscy100} 27TH,
+Dialogue: 0,0:00:00.89,0:00:01.87,Cap,,0,0,0,,ON SEPTEMBER {\c&H0030D2FF&\fscx108\fscy108}27TH,{\c&H00FFFFFF&\fscx100\fscy100}
+Dialogue: 0,0:00:01.87,0:00:03.17,Cap,,0,0,0,,{\c&H0030D2FF&\fscx108\fscy108}1849,{\c&H00FFFFFF&\fscx100\fscy100}
+Dialogue: 0,0:00:03.17,0:00:03.29,Cap,,0,0,0,,{\c&H0030D2FF&\fscx108\fscy108}HE{\c&H00FFFFFF&\fscx100\fscy100} LEFT RICHMOND
+Dialogue: 0,0:00:03.29,0:00:03.53,Cap,,0,0,0,,HE {\c&H0030D2FF&\fscx108\fscy108}LEFT{\c&H00FFFFFF&\fscx100\fscy100} RICHMOND
+Dialogue: 0,0:00:03.53,0:00:03.93,Cap,,0,0,0,,HE LEFT {\c&H0030D2FF&\fscx108\fscy108}RICHMOND{\c&H00FFFFFF&\fscx100\fscy100}
+Dialogue: 0,0:00:03.93,0:00:04.17,Cap,,0,0,0,,{\c&H0030D2FF&\fscx108\fscy108}BY{\c&H00FFFFFF&\fscx100\fscy100} BOAT,
+Dialogue: 0,0:00:04.17,0:00:04.75,Cap,,0,0,0,,BY {\c&H0030D2FF&\fscx108\fscy108}BOAT,{\c&H00FFFFFF&\fscx100\fscy100}
+Dialogue: 0,0:00:04.75,0:00:04.97,Cap,,0,0,0,,{\c&H0030D2FF&\fscx108\fscy108}HEADING{\c&H00FFFFFF&\fscx100\fscy100} NORTH ON
+Dialogue: 0,0:00:04.97,0:00:05.25,Cap,,0,0,0,,HEADING {\c&H0030D2FF&\fscx108\fscy108}NORTH{\c&H00FFFFFF&\fscx100\fscy100} ON
+Dialogue: 0,0:00:05.25,0:00:05.51,Cap,,0,0,0,,HEADING NORTH {\c&H0030D2FF&\fscx108\fscy108}ON{\c&H00FFFFFF&\fscx100\fscy100}
+Dialogue: 0,0:00:05.51,0:00:06.23,Cap,,0,0,0,,{\c&H0030D2FF&\fscx108\fscy108}BUSINESS,{\c&H00FFFFFF&\fscx100\fscy100}
+Dialogue: 0,0:00:06.23,0:00:06.43,Cap,,0,0,0,,{\c&H0030D2FF&\fscx108\fscy108}PLANNING{\c&H00FFFFFF&\fscx100\fscy100} TO COME
+Dialogue: 0,0:00:06.43,0:00:06.67,Cap,,0,0,0,,PLANNING {\c&H0030D2FF&\fscx108\fscy108}TO{\c&H00FFFFFF&\fscx100\fscy100} COME
+Dialogue: 0,0:00:06.67,0:00:06.83,Cap,,0,0,0,,PLANNING TO {\c&H0030D2FF&\fscx108\fscy108}COME{\c&H00FFFFFF&\fscx100\fscy100}
+Dialogue: 0,0:00:06.83,0:00:07.05,Cap,,0,0,0,,{\c&H0030D2FF&\fscx108\fscy108}BACK{\c&H00FFFFFF&\fscx100\fscy100} AND MARRY
+Dialogue: 0,0:00:07.05,0:00:07.21,Cap,,0,0,0,,BACK {\c&H0030D2FF&\fscx108\fscy108}AND{\c&H00FFFFFF&\fscx100\fscy100} MARRY
+Dialogue: 0,0:00:07.21,0:00:07.41,Cap,,0,0,0,,BACK AND {\c&H0030D2FF&\fscx108\fscy108}MARRY{\c&H00FFFFFF&\fscx100\fscy100}
+Dialogue: 0,0:00:07.41,0:00:08.17,Cap,,0,0,0,,{\c&H0030D2FF&\fscx108\fscy108}HER.{\c&H00FFFFFF&\fscx100\fscy100}
+Dialogue: 0,0:00:08.17,0:00:08.33,Cap,,0,0,0,,{\c&H0030D2FF&\fscx108\fscy108}HE{\c&H00FFFFFF&\fscx100\fscy100} NEVER ARRIVED.
+Dialogue: 0,0:00:08.33,0:00:08.55,Cap,,0,0,0,,HE {\c&H0030D2FF&\fscx108\fscy108}NEVER{\c&H00FFFFFF&\fscx100\fscy100} ARRIVED.
+Dialogue: 0,0:00:08.55,0:00:09.63,Cap,,0,0,0,,HE NEVER {\c&H0030D2FF&\fscx108\fscy108}ARRIVED.{\c&H00FFFFFF&\fscx100\fscy100}
+Dialogue: 0,0:00:09.63,0:00:09.79,Cap,,0,0,0,,{\c&H0030D2FF&\fscx108\fscy108}FOR{\c&H00FFFFFF&\fscx100\fscy100} FIVE DAYS,
+Dialogue: 0,0:00:09.79,0:00:10.13,Cap,,0,0,0,,FOR {\c&H0030D2FF&\fscx108\fscy108}FIVE{\c&H00FFFFFF&\fscx100\fscy100} DAYS,
+Dialogue: 0,0:00:10.13,0:00:10.97,Cap,,0,0,0,,FOR FIVE {\c&H0030D2FF&\fscx108\fscy108}DAYS,{\c&H00FFFFFF&\fscx100\fscy100}
+Dialogue: 0,0:00:10.97,0:00:11.15,Cap,,0,0,0,,{\c&H0030D2FF&\fscx108\fscy108}NOBODY{\c&H00FFFFFF&\fscx100\fscy100} KNOWS WHERE
+Dialogue: 0,0:00:11.15,0:00:11.51,Cap,,0,0,0,,NOBODY {\c&H0030D2FF&\fscx108\fscy108}KNOWS{\c&H00FFFFFF&\fscx100\fscy100} WHERE
+Dialogue: 0,0:00:11.51,0:00:11.75,Cap,,0,0,0,,NOBODY KNOWS {\c&H0030D2FF&\fscx108\fscy108}WHERE{\c&H00FFFFFF&\fscx100\fscy100}
+Dialogue: 0,0:00:11.75,0:00:11.89,Cap,,0,0,0,,{\c&H0030D2FF&\fscx108\fscy108}HE{\c&H00FFFFFF&\fscx100\fscy100} WAS.
+Dialogue: 0,0:00:11.89,0:00:12.75,Cap,,0,0,0,,HE {\c&H0030D2FF&\fscx108\fscy108}WAS.{\c&H00FFFFFF&\fscx100\fscy100}
+Dialogue: 0,0:00:12.75,0:00:13.17,Cap,,0,0,0,,{\c&H0030D2FF&\fscx108\fscy108}THEN,{\c&H00FFFFFF&\fscx100\fscy100}
+Dialogue: 0,0:00:13.17,0:00:13.39,Cap,,0,0,0,,{\c&H0030D2FF&\fscx108\fscy108}ON{\c&H00FFFFFF&\fscx100\fscy100} OCTOBER 3RD,
+Dialogue: 0,0:00:13.39,0:00:13.71,Cap,,0,0,0,,ON {\c&H0030D2FF&\fscx108\fscy108}OCTOBER{\c&H00FFFFFF&\fscx100\fscy100} 3RD,
+Dialogue: 0,0:00:13.71,0:00:14.39,Cap,,0,0,0,,ON OCTOBER {\c&H0030D2FF&\fscx108\fscy108}3RD,{\c&H00FFFFFF&\fscx100\fscy100}
+Dialogue: 0,0:00:14.39,0:00:14.63,Cap,,0,0,0,,{\c&H0030D2FF&\fscx108\fscy108}A{\c&H00FFFFFF&\fscx100\fscy100} PRINTER NAMED
+Dialogue: 0,0:00:14.63,0:00:14.91,Cap,,0,0,0,,A {\c&H0030D2FF&\fscx108\fscy108}PRINTER{\c&H00FFFFFF&\fscx100\fscy100} NAMED
+Dialogue: 0,0:00:14.91,0:00:15.21,Cap,,0,0,0,,A PRINTER {\c&H0030D2FF&\fscx108\fscy108}NAMED{\c&H00FFFFFF&\fscx100\fscy100}
+Dialogue: 0,0:00:15.21,0:00:15.63,Cap,,0,0,0,,{\c&H0030D2FF&\fscx108\fscy108}JOSEPH{\c&H00FFFFFF&\fscx100\fscy100} WALKER FOUND
+Dialogue: 0,0:00:15.63,0:00:16.01,Cap,,0,0,0,,JOSEPH {\c&H0030D2FF&\fscx108\fscy108}WALKER{\c&H00FFFFFF&\fscx100\fscy100} FOUND
+Dialogue: 0,0:00:16.01,0:00:16.37,Cap,,0,0,0,,JOSEPH WALKER {\c&H0030D2FF&\fscx108\fscy108}FOUND{\c&H00FFFFFF&\fscx100\fscy100}
+Dialogue: 0,0:00:16.37,0:00:16.59,Cap,,0,0,0,,{\c&H0030D2FF&\fscx108\fscy108}HIM{\c&H00FFFFFF&\fscx100\fscy100} OUTSIDE A
+Dialogue: 0,0:00:16.59,0:00:17.01,Cap,,0,0,0,,HIM {\c&H0030D2FF&\fscx108\fscy108}OUTSIDE{\c&H00FFFFFF&\fscx100\fscy100} A
+Dialogue: 0,0:00:17.01,0:00:17.25,Cap,,0,0,0,,HIM OUTSIDE {\c&H0030D2FF&\fscx108\fscy108}A{\c&H00FFFFFF&\fscx100\fscy100}
+Dialogue: 0,0:00:17.25,0:00:17.63,Cap,,0,0,0,,{\c&H0030D2FF&\fscx108\fscy108}BALTIMORE{\c&H00FFFFFF&\fscx100\fscy100} TAVERN THAT
+Dialogue: 0,0:00:17.63,0:00:18.01,Cap,,0,0,0,,BALTIMORE {\c&H0030D2FF&\fscx108\fscy108}TAVERN{\c&H00FFFFFF&\fscx100\fscy100} THAT
+Dialogue: 0,0:00:18.01,0:00:18.31,Cap,,0,0,0,,BALTIMORE TAVERN {\c&H0030D2FF&\fscx108\fscy108}THAT{\c&H00FFFFFF&\fscx100\fscy100}
+Dialogue: 0,0:00:18.31,0:00:18.43,Cap,,0,0,0,,{\c&H0030D2FF&\fscx108\fscy108}WAS{\c&H00FFFFFF&\fscx100\fscy100} BEING USED
+Dialogue: 0,0:00:18.43,0:00:18.63,Cap,,0,0,0,,WAS {\c&H0030D2FF&\fscx108\fscy108}BEING{\c&H00FFFFFF&\fscx100\fscy100} USED
+Dialogue: 0,0:00:18.63,0:00:18.97,Cap,,0,0,0,,WAS BEING {\c&H0030D2FF&\fscx108\fscy108}USED{\c&H00FFFFFF&\fscx100\fscy100}
+Dialogue: 0,0:00:18.97,0:00:19.13,Cap,,0,0,0,,{\c&H0030D2FF&\fscx108\fscy108}AS{\c&H00FFFFFF&\fscx100\fscy100} A POLLING
+Dialogue: 0,0:00:19.13,0:00:19.27,Cap,,0,0,0,,AS {\c&H0030D2FF&\fscx108\fscy108}A{\c&H00FFFFFF&\fscx100\fscy100} POLLING
+Dialogue: 0,0:00:19.27,0:00:19.51,Cap,,0,0,0,,AS A {\c&H0030D2FF&\fscx108\fscy108}POLLING{\c&H00FFFFFF&\fscx100\fscy100}
+Dialogue: 0,0:00:19.51,0:00:20.75,Cap,,0,0,0,,{\c&H0030D2FF&\fscx108\fscy108}PLACE.{\c&H00FFFFFF&\fscx100\fscy100}
+Dialogue: 0,0:00:20.75,0:00:20.75,Cap,,0,0,0,,{\c&H0030D2FF&\fscx108\fscy108}WALKER{\c&H00FFFFFF&\fscx100\fscy100} WROTE TO
+Dialogue: 0,0:00:20.75,0:00:21.03,Cap,,0,0,0,,WALKER {\c&H0030D2FF&\fscx108\fscy108}WROTE{\c&H00FFFFFF&\fscx100\fscy100} TO
+Dialogue: 0,0:00:21.03,0:00:21.19,Cap,,0,0,0,,WALKER WROTE {\c&H0030D2FF&\fscx108\fscy108}TO{\c&H00FFFFFF&\fscx100\fscy100}
+Dialogue: 0,0:00:21.19,0:00:21.33,Cap,,0,0,0,,{\c&H0030D2FF&\fscx108\fscy108}ONE{\c&H00FFFFFF&\fscx100\fscy100} OF POE'S
+Dialogue: 0,0:00:21.33,0:00:21.59,Cap,,0,0,0,,ONE {\c&H0030D2FF&\fscx108\fscy108}OF{\c&H00FFFFFF&\fscx100\fscy100} POE'S
+Dialogue: 0,0:00:21.59,0:00:21.77,Cap,,0,0,0,,ONE OF {\c&H0030D2FF&\fscx108\fscy108}POE'S{\c&H00FFFFFF&\fscx100\fscy100}
+Dialogue: 0,0:00:21.77,0:00:22.21,Cap,,0,0,0,,{\c&H0030D2FF&\fscx108\fscy108}ACQUAINTANCES{\c&H00FFFFFF&\fscx100\fscy100} THAT THE
+Dialogue: 0,0:00:22.21,0:00:22.61,Cap,,0,0,0,,ACQUAINTANCES {\c&H0030D2FF&\fscx108\fscy108}THAT{\c&H00FFFFFF&\fscx100\fscy100} THE
+Dialogue: 0,0:00:22.61,0:00:22.75,Cap,,0,0,0,,ACQUAINTANCES THAT {\c&H0030D2FF&\fscx108\fscy108}THE{\c&H00FFFFFF&\fscx100\fscy100}
+Dialogue: 0,0:00:22.75,0:00:23.01,Cap,,0,0,0,,{\c&H0030D2FF&\fscx108\fscy108}POET{\c&H00FFFFFF&\fscx100\fscy100} WAS IN
+Dialogue: 0,0:00:23.01,0:00:23.21,Cap,,0,0,0,,POET {\c&H0030D2FF&\fscx108\fscy108}WAS{\c&H00FFFFFF&\fscx100\fscy100} IN
+Dialogue: 0,0:00:23.21,0:00:23.39,Cap,,0,0,0,,POET WAS {\c&H0030D2FF&\fscx108\fscy108}IN{\c&H00FFFFFF&\fscx100\fscy100}
+Dialogue: 0,0:00:23.39,0:00:23.65,Cap,,0,0,0,,{\c&H0030D2FF&\fscx108\fscy108}GREAT{\c&H00FFFFFF&\fscx100\fscy100} DISTRESS,
+Dialogue: 0,0:00:23.65,0:00:24.17,Cap,,0,0,0,,GREAT {\c&H0030D2FF&\fscx108\fscy108}DISTRESS,{\c&H00FFFFFF&\fscx100\fscy100}
+Dialogue: 0,0:00:24.17,0:00:24.61,Cap,,0,0,0,,{\c&H0030D2FF&\fscx108\fscy108}AND{\c&H00FFFFFF&\fscx100\fscy100} NEEDED IMMEDIATE
+Dialogue: 0,0:00:24.61,0:00:24.87,Cap,,0,0,0,,AND {\c&H0030D2FF&\fscx108\fscy108}NEEDED{\c&H00FFFFFF&\fscx100\fscy100} IMMEDIATE
+Dialogue: 0,0:00:24.87,0:00:25.39,Cap,,0,0,0,,AND NEEDED {\c&H0030D2FF&\fscx108\fscy108}IMMEDIATE{\c&H00FFFFFF&\fscx100\fscy100}
+Dialogue: 0,0:00:25.39,0:00:26.41,Cap,,0,0,0,,{\c&H0030D2FF&\fscx108\fscy108}HELP.{\c&H00FFFFFF&\fscx100\fscy100}
+Dialogue: 0,0:00:26.41,0:00:26.43,Cap,,0,0,0,,{\c&H0030D2FF&\fscx108\fscy108}POE{\c&H00FFFFFF&\fscx100\fscy100} WAS TAKEN
+Dialogue: 0,0:00:26.43,0:00:26.67,Cap,,0,0,0,,POE {\c&H0030D2FF&\fscx108\fscy108}WAS{\c&H00FFFFFF&\fscx100\fscy100} TAKEN
+Dialogue: 0,0:00:26.67,0:00:26.85,Cap,,0,0,0,,POE WAS {\c&H0030D2FF&\fscx108\fscy108}TAKEN{\c&H00FFFFFF&\fscx100\fscy100}
+Dialogue: 0,0:00:26.85,0:00:27.09,Cap,,0,0,0,,{\c&H0030D2FF&\fscx108\fscy108}TO{\c&H00FFFFFF&\fscx100\fscy100} A HOSPITAL.
+Dialogue: 0,0:00:27.09,0:00:27.21,Cap,,0,0,0,,TO {\c&H0030D2FF&\fscx108\fscy108}A{\c&H00FFFFFF&\fscx100\fscy100} HOSPITAL.
+Dialogue: 0,0:00:27.21,0:00:28.13,Cap,,0,0,0,,TO A {\c&H0030D2FF&\fscx108\fscy108}HOSPITAL.{\c&H00FFFFFF&\fscx100\fscy100}
+Dialogue: 0,0:00:28.13,0:00:28.25,Cap,,0,0,0,,{\c&H0030D2FF&\fscx108\fscy108}FOR{\c&H00FFFFFF&\fscx100\fscy100} FOUR DAYS,
+Dialogue: 0,0:00:28.25,0:00:28.59,Cap,,0,0,0,,FOR {\c&H0030D2FF&\fscx108\fscy108}FOUR{\c&H00FFFFFF&\fscx100\fscy100} DAYS,
+Dialogue: 0,0:00:28.59,0:00:28.97,Cap,,0,0,0,,FOR FOUR {\c&H0030D2FF&\fscx108\fscy108}DAYS,{\c&H00FFFFFF&\fscx100\fscy100}
+Dialogue: 0,0:00:28.97,0:00:29.25,Cap,,0,0,0,,{\c&H0030D2FF&\fscx108\fscy108}HE{\c&H00FFFFFF&\fscx100\fscy100} DRIFTED IN
+Dialogue: 0,0:00:29.25,0:00:29.53,Cap,,0,0,0,,HE {\c&H0030D2FF&\fscx108\fscy108}DRIFTED{\c&H00FFFFFF&\fscx100\fscy100} IN
+Dialogue: 0,0:00:29.53,0:00:29.93,Cap,,0,0,0,,HE DRIFTED {\c&H0030D2FF&\fscx108\fscy108}IN{\c&H00FFFFFF&\fscx100\fscy100}
+Dialogue: 0,0:00:29.93,0:00:30.05,Cap,,0,0,0,,{\c&H0030D2FF&\fscx108\fscy108}AND{\c&H00FFFFFF&\fscx100\fscy100} OUT OF
+Dialogue: 0,0:00:30.05,0:00:30.23,Cap,,0,0,0,,AND {\c&H0030D2FF&\fscx108\fscy108}OUT{\c&H00FFFFFF&\fscx100\fscy100} OF
+Dialogue: 0,0:00:30.23,0:00:30.39,Cap,,0,0,0,,AND OUT {\c&H0030D2FF&\fscx108\fscy108}OF{\c&H00FFFFFF&\fscx100\fscy100}
+Dialogue: 0,0:00:30.39,0:00:31.23,Cap,,0,0,0,,{\c&H0030D2FF&\fscx108\fscy108}DELIRIUM,{\c&H00FFFFFF&\fscx100\fscy100}
+Dialogue: 0,0:00:31.23,0:00:32.07,Cap,,0,0,0,,{\c&H0030D2FF&\fscx108\fscy108}HALLUCINATING,{\c&H00FFFFFF&\fscx100\fscy100}
+Dialogue: 0,0:00:32.07,0:00:32.37,Cap,,0,0,0,,{\c&H0030D2FF&\fscx108\fscy108}TALKING{\c&H00FFFFFF&\fscx100\fscy100} TO THINGS
+Dialogue: 0,0:00:32.37,0:00:32.59,Cap,,0,0,0,,TALKING {\c&H0030D2FF&\fscx108\fscy108}TO{\c&H00FFFFFF&\fscx100\fscy100} THINGS
+Dialogue: 0,0:00:32.59,0:00:32.83,Cap,,0,0,0,,TALKING TO {\c&H0030D2FF&\fscx108\fscy108}THINGS{\c&H00FFFFFF&\fscx100\fscy100}
+Dialogue: 0,0:00:32.83,0:00:33.03,Cap,,0,0,0,,{\c&H0030D2FF&\fscx108\fscy108}THAT{\c&H00FFFFFF&\fscx100\fscy100} WEREN'T THERE.
+Dialogue: 0,0:00:33.03,0:00:33.25,Cap,,0,0,0,,THAT {\c&H0030D2FF&\fscx108\fscy108}WEREN'T{\c&H00FFFFFF&\fscx100\fscy100} THERE.
+Dialogue: 0,0:00:33.25,0:00:34.13,Cap,,0,0,0,,THAT WEREN'T {\c&H0030D2FF&\fscx108\fscy108}THERE.{\c&H00FFFFFF&\fscx100\fscy100}
+Dialogue: 0,0:00:34.13,0:00:34.31,Cap,,0,0,0,,{\c&H0030D2FF&\fscx108\fscy108}ACCORDING{\c&H00FFFFFF&\fscx100\fscy100} TO HIS
+Dialogue: 0,0:00:34.31,0:00:34.55,Cap,,0,0,0,,ACCORDING {\c&H0030D2FF&\fscx108\fscy108}TO{\c&H00FFFFFF&\fscx100\fscy100} HIS
+Dialogue: 0,0:00:34.55,0:00:34.69,Cap,,0,0,0,,ACCORDING TO {\c&H0030D2FF&\fscx108\fscy108}HIS{\c&H00FFFFFF&\fscx100\fscy100}
+Dialogue: 0,0:00:34.69,0:00:35.39,Cap,,0,0,0,,{\c&H0030D2FF&\fscx108\fscy108}DOCTOR,{\c&H00FFFFFF&\fscx100\fscy100}
+Dialogue: 0,0:00:35.39,0:00:35.49,Cap,,0,0,0,,{\c&H0030D2FF&\fscx108\fscy108}ON{\c&H00FFFFFF&\fscx100\fscy100} HIS LAST
+Dialogue: 0,0:00:35.49,0:00:35.63,Cap,,0,0,0,,ON {\c&H0030D2FF&\fscx108\fscy108}HIS{\c&H00FFFFFF&\fscx100\fscy100} LAST
+Dialogue: 0,0:00:35.63,0:00:35.97,Cap,,0,0,0,,ON HIS {\c&H0030D2FF&\fscx108\fscy108}LAST{\c&H00FFFFFF&\fscx100\fscy100}
+Dialogue: 0,0:00:35.97,0:00:36.57,Cap,,0,0,0,,{\c&H0030D2FF&\fscx108\fscy108}NIGHT,{\c&H00FFFFFF&\fscx100\fscy100}
+Dialogue: 0,0:00:36.57,0:00:36.71,Cap,,0,0,0,,{\c&H0030D2FF&\fscx108\fscy108}HE{\c&H00FFFFFF&\fscx100\fscy100} CALLED OUT
+Dialogue: 0,0:00:36.71,0:00:36.97,Cap,,0,0,0,,HE {\c&H0030D2FF&\fscx108\fscy108}CALLED{\c&H00FFFFFF&\fscx100\fscy100} OUT
+Dialogue: 0,0:00:36.97,0:00:37.19,Cap,,0,0,0,,HE CALLED {\c&H0030D2FF&\fscx108\fscy108}OUT{\c&H00FFFFFF&\fscx100\fscy100}
+Dialogue: 0,0:00:37.19,0:00:37.35,Cap,,0,0,0,,{\c&H0030D2FF&\fscx108\fscy108}A{\c&H00FFFFFF&\fscx100\fscy100} NAME,
+Dialogue: 0,0:00:37.35,0:00:37.69,Cap,,0,0,0,,A {\c&H0030D2FF&\fscx108\fscy108}NAME,{\c&H00FFFFFF&\fscx100\fscy100}
+Dialogue: 0,0:00:37.69,0:00:38.27,Cap,,0,0,0,,{\c&H0030D2FF&\fscx108\fscy108}OVER{\c&H00FFFFFF&\fscx100\fscy100} AND OVER:
+Dialogue: 0,0:00:38.27,0:00:38.67,Cap,,0,0,0,,OVER {\c&H0030D2FF&\fscx108\fscy108}AND{\c&H00FFFFFF&\fscx100\fscy100} OVER:
+Dialogue: 0,0:00:38.67,0:00:40.09,Cap,,0,0,0,,OVER AND {\c&H0030D2FF&\fscx108\fscy108}OVER:{\c&H00FFFFFF&\fscx100\fscy100}
+Dialogue: 0,0:00:40.09,0:00:40.97,Cap,,0,0,0,,{\c&H0030D2FF&\fscx108\fscy108}"REYNOLDS."{\c&H00FFFFFF&\fscx100\fscy100}
+Dialogue: 0,0:00:40.97,0:00:41.13,Cap,,0,0,0,,{\c&H0030D2FF&\fscx108\fscy108}NOBODY{\c&H00FFFFFF&\fscx100\fscy100} KNOWS WHO
+Dialogue: 0,0:00:41.13,0:00:41.51,Cap,,0,0,0,,NOBODY {\c&H0030D2FF&\fscx108\fscy108}KNOWS{\c&H00FFFFFF&\fscx100\fscy100} WHO
+Dialogue: 0,0:00:41.51,0:00:41.87,Cap,,0,0,0,,NOBODY KNOWS {\c&H0030D2FF&\fscx108\fscy108}WHO{\c&H00FFFFFF&\fscx100\fscy100}
+Dialogue: 0,0:00:41.87,0:00:42.15,Cap,,0,0,0,,{\c&H0030D2FF&\fscx108\fscy108}REYNOLDS{\c&H00FFFFFF&\fscx100\fscy100} WAS.
+Dialogue: 0,0:00:42.15,0:00:42.97,Cap,,0,0,0,,REYNOLDS {\c&H0030D2FF&\fscx108\fscy108}WAS.{\c&H00FFFFFF&\fscx100\fscy100}
+Dialogue: 2,0:00:43.35,0:00:44.95,CTA,,0,0,0,,{\fad(200,0)}FULL STORY ON THE CHANNEL
