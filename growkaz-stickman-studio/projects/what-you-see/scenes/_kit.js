@@ -152,6 +152,6 @@ export function actedFigure(g, w, h, t, f) {
   if (f.act === 'faint') { const k = ease.in(prog(t, at, at + 0.9)); g.translate(x, y); g.rotate(-k * 1.35 * (f.facing ?? 1)); g.translate(-x, -y); pose = mixP(pose, poseOf('fall'), k * 0.7); }
   if (f.act === 'punch') { const ph = Math.floor((t - at) * 2.4); if (t > at) pose = poseOf(ph % 2 ? 'lunge' : 'windup'); }
   const q = figure(g, f.who || 'MAN', x, y + breathe, s, pose, { facing: f.facing ?? 1, prop: f.prop, t, blink: (Math.floor(t * 24) + (f.seed || 0) * 7) % 70 < 2 });
-  if (f.act === 'stone') { const k = ease.inOut(prog(t, at, at + 1.6)), top = y - k * h; g.save(); g.beginPath(); g.rect(0, top, w, h); g.clip(); figure(g, f.who || 'MAN', x, y + breathe, s, pose, { facing: f.facing ?? 1, color: K.stone, eyes: false }); g.restore(); }
+  if (f.act === 'stone') { const k = ease.inOut(prog(t, at, at + 1.6)), top = y - k * h; g.save(); g.beginPath(); g.rect(0, top, w, h * 2); g.clip(); figure(g, f.who || 'MAN', x, y + breathe, s, pose, { facing: f.facing ?? 1, color: K.stone, eyes: false }); g.restore(); }
   return q;
 }

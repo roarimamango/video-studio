@@ -1,0 +1,3555 @@
+{
+ "title": "The Lore Behind What You See",
+ "duration": 573.466,
+ "music": [
+  {
+   "start": 0,
+   "end": 191.5,
+   "mood": "mystery",
+   "intensity": 0.55
+  },
+  {
+   "start": 191.5,
+   "end": 325,
+   "mood": "tension",
+   "intensity": 0.6
+  },
+  {
+   "start": 325,
+   "end": 447.5,
+   "mood": "dark",
+   "intensity": 0.6
+  },
+  {
+   "start": 447.5,
+   "end": 523.4,
+   "mood": "tension",
+   "intensity": 0.7
+  },
+  {
+   "start": 523.4,
+   "end": 573.466,
+   "mood": "sad",
+   "intensity": 0.5
+  }
+ ],
+ "sfx": [],
+ "shots": [
+  {
+   "id": "s001",
+   "start": 0.0,
+   "line": "In 2006, a group of researchers at Newcastle University ran a very small experiment.",
+   "params": {
+    "type": "world",
+    "world": "kitchen",
+    "cam": "wide",
+    "ov": [
+     {
+      "k": "evidence",
+      "str": "NEWCASTLE, 2006",
+      "top": "CASE FILE",
+      "at": 0.8
+     }
+    ]
+   },
+   "end": 5.88,
+   "in": {
+    "type": "fade",
+    "dur": 0.6
+   },
+   "sfx": [],
+   "scene": "kitchen",
+   "set": null,
+   "bars": "none"
+  },
+  {
+   "id": "s002",
+   "start": 5.88,
+   "line": "In the staff kitchen, there was an honesty box. Take a coffee, drop some money in. Nobody checks.",
+   "params": {
+    "type": "world",
+    "world": "kitchen",
+    "cam": "box",
+    "figs": [
+     {
+      "who": "MAN",
+      "pos": [
+       -0.2,
+       0,
+       -1.5
+      ],
+      "p": [
+       [
+        0,
+        "stand"
+       ],
+       [
+        1.5,
+        "reach"
+       ],
+       [
+        3.2,
+        "holdFront"
+       ]
+      ],
+      "facing": 1
+     }
+    ]
+   },
+   "end": 12.06,
+   "in": {
+    "type": "fade",
+    "dur": 0.6
+   },
+   "sfx": [],
+   "scene": "kitchen",
+   "set": null,
+   "bars": "none"
+  },
+  {
+   "id": "s003",
+   "start": 12.06,
+   "line": "Every week, they taped a new picture above the price list.",
+   "params": {
+    "type": "world",
+    "world": "kitchen",
+    "cam": "wall",
+    "picSwap": 1000000000.0
+   },
+   "end": 15.42,
+   "in": {
+    "type": "fade",
+    "dur": 0.6
+   },
+   "sfx": [],
+   "scene": "kitchen",
+   "set": null,
+   "bars": "none"
+  },
+  {
+   "id": "s004",
+   "start": 15.42,
+   "line": "Some weeks, it was flowers.",
+   "params": {
+    "type": "photo",
+    "art": "flowers",
+    "cap": "WEEK 1: FLOWERS"
+   },
+   "end": 17.04,
+   "in": {
+    "type": "fade",
+    "dur": 0.6
+   },
+   "sfx": [],
+   "scene": "photo",
+   "set": null,
+   "bars": "none"
+  },
+  {
+   "id": "s005",
+   "start": 17.04,
+   "line": "Other weeks, it was a pair of eyes. Just a photocopy. Just paper.",
+   "params": {
+    "type": "photo",
+    "art": "eyes",
+    "cap": "WEEK 2: EYES",
+    "ov": [
+     {
+      "k": "typed",
+      "str": "JUST PAPER.",
+      "at": 2.4,
+      "y": 0.88
+     }
+    ]
+   },
+   "end": 21.76,
+   "in": {
+    "type": "fade",
+    "dur": 0.6
+   },
+   "sfx": [],
+   "scene": "photo",
+   "set": null,
+   "bars": "none"
+  },
+  {
+   "id": "s006",
+   "start": 21.76,
+   "line": "On the weeks with the eyes, people paid nearly three times as much.",
+   "params": {
+    "type": "stat",
+    "top": "HONESTY BOX PAYMENTS",
+    "num": "\u22483\u00d7",
+    "label": "MORE MONEY WHEN THE EYES WERE UP",
+    "sub": "Bateson, Nettle & Roberts \u00b7 Biology Letters, 2006"
+   },
+   "end": 26.12,
+   "in": {
+    "type": "fade",
+    "dur": 0.6
+   },
+   "sfx": [],
+   "scene": "stat",
+   "set": null,
+   "bars": "none"
+  },
+  {
+   "id": "s007",
+   "start": 26.12,
+   "line": "Nobody was watching. Nobody knew.",
+   "params": {
+    "type": "world",
+    "world": "kitchen",
+    "cam": "wide",
+    "pic": "eyes",
+    "figs": [
+     {
+      "who": "WOMAN",
+      "pos": [
+       0.0,
+       0,
+       -1.4
+      ],
+      "p": [
+       [
+        0,
+        "stand"
+       ],
+       [
+        1.2,
+        "reach"
+       ]
+      ],
+      "facing": 1
+     }
+    ]
+   },
+   "end": 28.64,
+   "in": {
+    "type": "fade",
+    "dur": 0.6
+   },
+   "sfx": [],
+   "scene": "kitchen",
+   "set": null,
+   "bars": "none"
+  },
+  {
+   "id": "s008",
+   "start": 28.64,
+   "line": "A picture of eyes changed what grown adults did with their own money.",
+   "params": {
+    "type": "world",
+    "world": "kitchen",
+    "cam": "wall",
+    "pic": "eyes",
+    "dive": "pic"
+   },
+   "end": 33.44,
+   "in": {
+    "type": "fade",
+    "dur": 0.6
+   },
+   "sfx": [
+    {
+     "at": 3.2,
+     "name": "whoosh",
+     "gain": -10,
+     "dur": 1.4
+    }
+   ],
+   "scene": "kitchen",
+   "set": null,
+   "bars": "none"
+  },
+  {
+   "id": "s009",
+   "start": 33.44,
+   "line": "So here's the question this case is really about.",
+   "params": {
+    "type": "world",
+    "world": "board",
+    "cam": "pan",
+    "irisIn": true
+   },
+   "end": 36.04,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "scene": "board",
+   "set": null,
+   "bars": "none"
+  },
+  {
+   "id": "s010",
+   "start": 36.04,
+   "line": "If a piece of paper can do that... what is your screen doing to you?",
+   "params": {
+    "type": "world",
+    "world": "bedroom",
+    "cam": "close",
+    "figs": [
+     {
+      "who": "MAN",
+      "pos": [
+       0,
+       0.45,
+       -2.75
+      ],
+      "p": "phone",
+      "h": 1.9,
+      "prop": "phone"
+     }
+    ]
+   },
+   "end": 40.78,
+   "in": {
+    "type": "fade",
+    "dur": 0.6
+   },
+   "sfx": [],
+   "scene": "bedroom",
+   "set": null,
+   "bars": "none"
+  },
+  {
+   "id": "s011",
+   "start": 40.78,
+   "line": "This is the lore behind what you see.",
+   "params": {
+    "type": "world",
+    "world": "board",
+    "cam": "wide",
+    "dive": "big",
+    "ov": [
+     {
+      "k": "typed",
+      "str": "THE LORE BEHIND WHAT YOU SEE",
+      "at": 0.3,
+      "y": 0.12,
+      "size": 46
+     }
+    ]
+   },
+   "end": 43.84,
+   "in": {
+    "type": "fade",
+    "dur": 0.6
+   },
+   "sfx": [
+    {
+     "at": 1.46,
+     "name": "whoosh",
+     "gain": -10,
+     "dur": 1.4
+    }
+   ],
+   "scene": "board",
+   "set": null,
+   "bars": "none"
+  },
+  {
+   "id": "s012",
+   "start": 43.84,
+   "line": "Exhibit A. The evil eye.",
+   "params": {
+    "type": "title",
+    "top": "EXHIBIT A",
+    "name": "The Evil Eye",
+    "irisIn": true
+   },
+   "end": 46.3,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.35,
+     "name": "hit",
+     "gain": -12
+    }
+   ],
+   "scene": "title",
+   "set": null,
+   "bars": "none"
+  },
+  {
+   "id": "s013",
+   "start": 46.3,
+   "line": "For thousands of years, across Mesopotamia, Greece, Rome, the Middle East and beyond, people believed a single look could hurt you. A jealous glance could sour milk, sicken a child, kill a crop.",
+   "params": {
+    "type": "world",
+    "world": "alley",
+    "cam": "wide",
+    "ov": [
+     {
+      "k": "typed",
+      "str": "MESOPOTAMIA \u00b7 GREECE \u00b7 ROME",
+      "at": 1.5,
+      "y": 0.88
+     }
+    ],
+    "figs": [
+     {
+      "who": "WOMAN",
+      "pos": [
+       -1.3,
+       0,
+       -9.4
+      ],
+      "p": "stand"
+     }
+    ]
+   },
+   "end": 59.18,
+   "in": {
+    "type": "fade",
+    "dur": 0.6
+   },
+   "sfx": [],
+   "amb": {
+    "name": "rain",
+    "gain": -22
+   },
+   "scene": "alley",
+   "set": null,
+   "bars": "none"
+  },
+  {
+   "id": "s014",
+   "start": 59.18,
+   "line": "So they fought eyes with eyes.",
+   "params": {
+    "type": "photo",
+    "art": "nazar",
+    "cap": "NAZAR: AN EYE AGAINST THE EYE"
+   },
+   "end": 61.62,
+   "in": {
+    "type": "fade",
+    "dur": 0.6
+   },
+   "sfx": [],
+   "scene": "photo",
+   "set": null,
+   "bars": "none"
+  },
+  {
+   "id": "s015",
+   "start": 61.62,
+   "line": "Blue glass charms, painted on boats, hung over doors, pinned to babies. An eye to stare the evil back.",
+   "params": {
+    "type": "world",
+    "world": "alley",
+    "cam": "charm",
+    "snapAt": 2.0,
+    "figs": [
+     {
+      "who": "WOMAN",
+      "pos": [
+       -1.3,
+       0,
+       -9.4
+      ],
+      "p": [
+       [
+        0,
+        "stand"
+       ],
+       [
+        2.0,
+        "handsOnHead"
+       ]
+      ]
+     }
+    ]
+   },
+   "end": 69.0,
+   "in": {
+    "type": "fade",
+    "dur": 0.6
+   },
+   "sfx": [],
+   "amb": {
+    "name": "rain",
+    "gain": -22
+   },
+   "scene": "alley",
+   "set": null,
+   "bars": "none"
+  },
+  {
+   "id": "s016",
+   "start": 69.0,
+   "line": "The Greeks told the darkest version. Medusa. One look at her, and you turned to stone.",
+   "params": {
+    "type": "world",
+    "world": "museum",
+    "cam": "wide",
+    "figs": [
+     {
+      "who": "MAN",
+      "pos": [
+       0.9,
+       0,
+       -7.5
+      ],
+      "p": "stand",
+      "act": "stone",
+      "at": 2.6,
+      "facing": -1
+     }
+    ]
+   },
+   "end": 74.92,
+   "in": {
+    "type": "fade",
+    "dur": 0.6
+   },
+   "sfx": [],
+   "scene": "museum",
+   "set": null,
+   "bars": "none"
+  },
+  {
+   "id": "s017",
+   "start": 74.92,
+   "line": "It sounds like superstition. But underneath it is something every one of those cultures understood.",
+   "params": {
+    "type": "world",
+    "world": "museum",
+    "cam": "near",
+    "figs": [
+     {
+      "who": "MAN",
+      "pos": [
+       0.9,
+       0,
+       -7.5
+      ],
+      "p": "stand",
+      "act": "stone",
+      "at": -5,
+      "facing": -1
+     }
+    ]
+   },
+   "end": 80.56,
+   "in": {
+    "type": "fade",
+    "dur": 0.6
+   },
+   "sfx": [],
+   "scene": "museum",
+   "set": null,
+   "bars": "none"
+  },
+  {
+   "id": "s018",
+   "start": 80.56,
+   "line": "What you look at doesn't just pass through you. It does something.",
+   "params": {
+    "type": "eye",
+    "dive2": [
+     0.5,
+     0.5
+    ]
+   },
+   "end": 85.32,
+   "in": {
+    "type": "fade",
+    "dur": 0.6
+   },
+   "sfx": [
+    {
+     "at": 3.16,
+     "name": "whoosh",
+     "gain": -10,
+     "dur": 1.4
+    }
+   ],
+   "scene": "eye",
+   "set": null,
+   "bars": "none"
+  },
+  {
+   "id": "s019",
+   "start": 85.32,
+   "line": "Exhibit B. Paris, 1780s.",
+   "params": {
+    "type": "title",
+    "top": "EXHIBIT B",
+    "name": "Paris, 1780s",
+    "sub": "FRANZ MESMER",
+    "irisIn": true
+   },
+   "end": 88.52,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.35,
+     "name": "hit",
+     "gain": -12
+    }
+   ],
+   "scene": "title",
+   "set": null,
+   "bars": "none"
+  },
+  {
+   "id": "s020",
+   "start": 88.52,
+   "line": "A doctor named Franz Mesmer is the most talked-about man in the city. He claims there's an invisible force flowing through every body, and that he can control it.",
+   "params": {
+    "type": "world",
+    "world": "salon",
+    "cam": "wide",
+    "figs": [
+     {
+      "who": "MESMER",
+      "pos": [
+       1.6,
+       0,
+       -0.4
+      ],
+      "p": [
+       [
+        0,
+        "stand"
+       ],
+       [
+        2.0,
+        "point"
+       ]
+      ],
+      "facing": -1
+     },
+     {
+      "who": "WOMAN",
+      "pos": [
+       -1.0,
+       0,
+       -0.9
+      ],
+      "p": "stand",
+      "facing": 1
+     },
+     {
+      "who": "GENT",
+      "pos": [
+       -1.6,
+       0,
+       -2.2
+      ],
+      "p": "stand",
+      "facing": 1
+     }
+    ],
+    "ov": [
+     {
+      "k": "evidence",
+      "str": "FRANZ MESMER",
+      "top": "\"ANIMAL MAGNETISM\"",
+      "at": 0.8
+     }
+    ]
+   },
+   "end": 97.86,
+   "in": {
+    "type": "fade",
+    "dur": 0.6
+   },
+   "sfx": [],
+   "scene": "salon",
+   "set": null,
+   "bars": "none"
+  },
+  {
+   "id": "s021",
+   "start": 97.86,
+   "line": "Patients sit in a darkened room. Mesmer stares into their eyes.",
+   "params": {
+    "type": "world",
+    "world": "salon",
+    "cam": "close",
+    "dim": true,
+    "figs": [
+     {
+      "who": "MESMER",
+      "pos": [
+       0.9,
+       0,
+       -1.0
+      ],
+      "p": "point",
+      "facing": -1
+     },
+     {
+      "who": "WOMAN",
+      "pos": [
+       -0.7,
+       0,
+       -1.2
+      ],
+      "p": "sit",
+      "facing": 1,
+      "h": 2.2
+     }
+    ]
+   },
+   "end": 102.04,
+   "in": {
+    "type": "fade",
+    "dur": 0.6
+   },
+   "sfx": [],
+   "scene": "salon",
+   "set": null,
+   "bars": "none"
+  },
+  {
+   "id": "s022",
+   "start": 102.04,
+   "line": "He moves his hands over them. And they shake, scream, faint, and swear they're cured.",
+   "params": {
+    "type": "world",
+    "world": "salon",
+    "cam": "close",
+    "dim": true,
+    "figs": [
+     {
+      "who": "MESMER",
+      "pos": [
+       0.9,
+       0,
+       -1.0
+      ],
+      "p": [
+       [
+        0,
+        "explain"
+       ],
+       [
+        1.0,
+        "reach"
+       ]
+      ],
+      "facing": -1
+     },
+     {
+      "who": "WOMAN",
+      "pos": [
+       -0.7,
+       0,
+       -1.2
+      ],
+      "p": "stand",
+      "facing": 1,
+      "act": "shake",
+      "at": 1.4
+     }
+    ]
+   },
+   "end": 107.76,
+   "in": {
+    "type": "fade",
+    "dur": 0.6
+   },
+   "sfx": [],
+   "scene": "salon",
+   "set": null,
+   "bars": "none"
+  },
+  {
+   "id": "s023",
+   "start": 107.76,
+   "line": "The king orders an investigation. One of the men on the commission is Benjamin Franklin.",
+   "params": {
+    "type": "world",
+    "world": "hall",
+    "cam": "wide",
+    "figs": [
+     {
+      "who": "GENT",
+      "pos": [
+       -2.0,
+       0,
+       -2.3
+      ],
+      "p": "crossArms"
+     },
+     {
+      "who": "GENT",
+      "pos": [
+       -1.0,
+       0,
+       -2.3
+      ],
+      "p": "think"
+     },
+     {
+      "who": "MAN",
+      "pos": [
+       0.0,
+       0,
+       -2.3
+      ],
+      "p": "stand",
+      "h": 2.4
+     },
+     {
+      "who": "GENT",
+      "pos": [
+       1.0,
+       0,
+       -2.3
+      ],
+      "p": "crossArms"
+     },
+     {
+      "who": "GENT",
+      "pos": [
+       2.0,
+       0,
+       -2.3
+      ],
+      "p": "think"
+     }
+    ],
+    "ov": [
+     {
+      "k": "evidence",
+      "str": "BENJAMIN FRANKLIN",
+      "top": "ROYAL COMMISSION, 1784",
+      "at": 2.2
+     }
+    ]
+   },
+   "end": 112.58,
+   "in": {
+    "type": "fade",
+    "dur": 0.6
+   },
+   "sfx": [],
+   "scene": "hall",
+   "set": null,
+   "bars": "none"
+  },
+  {
+   "id": "s024",
+   "start": 112.58,
+   "line": "They run a simple test. They blindfold the patients. They lie about whether Mesmer's force is being used.",
+   "params": {
+    "type": "world",
+    "world": "salon",
+    "cam": "close",
+    "figs": [
+     {
+      "who": "WOMAN",
+      "pos": [
+       -0.3,
+       0,
+       -1.1
+      ],
+      "p": "stand",
+      "prop": "blind",
+      "facing": 1
+     }
+    ],
+    "ov": [
+     {
+      "k": "typed",
+      "str": "THE BLINDFOLD TEST",
+      "at": 0.8
+     }
+    ]
+   },
+   "end": 118.86,
+   "in": {
+    "type": "fade",
+    "dur": 0.6
+   },
+   "sfx": [],
+   "scene": "salon",
+   "set": null,
+   "bars": "none"
+  },
+  {
+   "id": "s025",
+   "start": 118.86,
+   "line": "And the results fall apart. Patients collapse when nothing is being done to them, and feel nothing when it is.",
+   "params": {
+    "type": "world",
+    "world": "salon",
+    "cam": "wide",
+    "figs": [
+     {
+      "who": "WOMAN",
+      "pos": [
+       -0.3,
+       0,
+       -1.1
+      ],
+      "p": "stand",
+      "prop": "blind",
+      "act": "faint",
+      "at": 1.6,
+      "facing": 1,
+      "h": 2.5
+     }
+    ]
+   },
+   "end": 125.32,
+   "in": {
+    "type": "fade",
+    "dur": 0.6
+   },
+   "sfx": [],
+   "scene": "salon",
+   "set": null,
+   "bars": "none"
+  },
+  {
+   "id": "s026",
+   "start": 125.32,
+   "line": "The commission's verdict: there is no force. It's the imagination.",
+   "params": {
+    "type": "doc",
+    "kind": "typed",
+    "title": "REPORT OF THE COMMISSIONERS \u00b7 1784",
+    "lines": [
+     "The fluid has no existence.",
+     "The effects are due to the",
+     "imagination."
+    ],
+    "stamp": "NO FORCE",
+    "stampAt": 2.4
+   },
+   "end": 129.86,
+   "in": {
+    "type": "fade",
+    "dur": 0.6
+   },
+   "sfx": [
+    {
+     "at": 2.4,
+     "name": "hit",
+     "gain": -8
+    }
+   ],
+   "scene": "doc",
+   "set": null,
+   "bars": "none"
+  },
+  {
+   "id": "s027",
+   "start": 129.86,
+   "line": "Mesmer was disgraced. But he'd stumbled onto something real.",
+   "params": {
+    "type": "doc",
+    "kind": "typed",
+    "title": "PARIS \u00b7 AFTER THE REPORT",
+    "lines": [
+     "Mesmer's reputation collapses.",
+     "He leaves the city."
+    ]
+   },
+   "end": 133.56,
+   "in": {
+    "type": "fade",
+    "dur": 0.6
+   },
+   "sfx": [],
+   "scene": "doc",
+   "set": null,
+   "bars": "none"
+  },
+  {
+   "id": "s028",
+   "start": 133.56,
+   "line": "People didn't respond to what was happening. They responded to what they believed they were seeing.",
+   "params": {
+    "type": "eye",
+    "dive2": [
+     0.5,
+     0.5
+    ]
+   },
+   "end": 139.12,
+   "in": {
+    "type": "fade",
+    "dur": 0.6
+   },
+   "sfx": [
+    {
+     "at": 3.96,
+     "name": "whoosh",
+     "gain": -10,
+     "dur": 1.4
+    }
+   ],
+   "scene": "eye",
+   "set": null,
+   "bars": "none"
+  },
+  {
+   "id": "s029",
+   "start": 139.12,
+   "line": "Exhibit C. Florence, 1817.",
+   "params": {
+    "type": "title",
+    "top": "EXHIBIT C",
+    "name": "Florence, 1817",
+    "sub": "BASILICA OF SANTA CROCE",
+    "irisIn": true
+   },
+   "end": 142.82,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.35,
+     "name": "hit",
+     "gain": -12
+    }
+   ],
+   "scene": "title",
+   "set": null,
+   "bars": "none"
+  },
+  {
+   "id": "s030",
+   "start": 142.82,
+   "line": "A French writer who goes by the name Stendhal walks into the Basilica of Santa Croce. Michelangelo is buried there. Galileo.",
+   "params": {
+    "type": "world",
+    "world": "church",
+    "cam": "wide",
+    "figs": [
+     {
+      "who": "GENT",
+      "pos": [
+       0.4,
+       0,
+       -5
+      ],
+      "p": "walkA",
+      "act": "walk",
+      "move": [
+       0,
+       3.2,
+       0,
+       4.5
+      ]
+     }
+    ]
+   },
+   "end": 150.52,
+   "in": {
+    "type": "fade",
+    "dur": 0.6
+   },
+   "sfx": [],
+   "scene": "church",
+   "set": null,
+   "bars": "none"
+  },
+  {
+   "id": "s031",
+   "start": 150.52,
+   "line": "The walls are covered in frescoes. He looks up.",
+   "params": {
+    "type": "world",
+    "world": "church",
+    "cam": "up",
+    "figs": [
+     {
+      "who": "GENT",
+      "pos": [
+       0.6,
+       0,
+       -4.6
+      ],
+      "p": [
+       [
+        0,
+        "stand"
+       ],
+       [
+        0.6,
+        "pointUp"
+       ]
+      ],
+      "facing": -1
+     }
+    ]
+   },
+   "end": 153.9,
+   "in": {
+    "type": "fade",
+    "dur": 0.6
+   },
+   "sfx": [],
+   "scene": "church",
+   "set": null,
+   "bars": "none"
+  },
+  {
+   "id": "s032",
+   "start": 153.9,
+   "line": "His heart starts pounding. He feels the life draining out of him. He has to stumble outside and sit down, afraid he's going to fall.",
+   "params": {
+    "type": "world",
+    "world": "church",
+    "cam": {
+     "from": [
+      1.6,
+      1.6,
+      0.5
+     ],
+     "to": [
+      1.1,
+      1.5,
+      -1.2
+     ],
+     "look0": [
+      0.4,
+      1.2,
+      -4.6
+     ],
+     "look1": [
+      0.4,
+      1.1,
+      -4.6
+     ]
+    },
+    "figs": [
+     {
+      "who": "GENT",
+      "pos": [
+       0.4,
+       0,
+       -4.6
+      ],
+      "p": "handsOnHead",
+      "act": "faint",
+      "at": 2.4,
+      "facing": 1,
+      "h": 2.5
+     }
+    ]
+   },
+   "end": 161.9,
+   "in": {
+    "type": "fade",
+    "dur": 0.6
+   },
+   "sfx": [],
+   "scene": "church",
+   "set": null,
+   "bars": "none"
+  },
+  {
+   "id": "s033",
+   "start": 161.9,
+   "line": "He wrote it all down.",
+   "params": {
+    "type": "doc",
+    "kind": "typed",
+    "title": "STENDHAL \u00b7 \"ROME, NAPLES AND FLORENCE\"",
+    "lines": [
+     "I had palpitations of the heart.",
+     "Life was drained from me.",
+     "I walked with the fear of falling."
+    ]
+   },
+   "end": 163.62,
+   "in": {
+    "type": "fade",
+    "dur": 0.6
+   },
+   "sfx": [],
+   "scene": "doc",
+   "set": null,
+   "bars": "none"
+  },
+  {
+   "id": "s034",
+   "start": 163.62,
+   "line": "And over a hundred and fifty years later, a psychiatrist in Florence noticed tourists turning up at the hospital with the same symptoms.",
+   "params": {
+    "type": "doc",
+    "kind": "typed",
+    "title": "FLORENCE \u00b7 PSYCHIATRY CASE NOTES",
+    "lines": [
+     "Visitors to the city's art,",
+     "admitted with palpitations,",
+     "dizziness and confusion."
+    ]
+   },
+   "end": 170.96,
+   "in": {
+    "type": "fade",
+    "dur": 0.6
+   },
+   "sfx": [],
+   "scene": "doc",
+   "set": null,
+   "bars": "none"
+  },
+  {
+   "id": "s035",
+   "start": 170.96,
+   "line": "Racing hearts. Dizziness. Confusion. All after looking at art.",
+   "params": {
+    "type": "ecg",
+    "words": [
+     [
+      0.1,
+      "RACING HEARTS"
+     ],
+     [
+      1.1,
+      "DIZZINESS"
+     ],
+     [
+      1.9,
+      "CONFUSION"
+     ],
+     [
+      2.8,
+      "ALL AFTER LOOKING AT ART"
+     ]
+    ]
+   },
+   "end": 176.0,
+   "in": {
+    "type": "fade",
+    "dur": 0.6
+   },
+   "sfx": [
+    {
+     "at": 0,
+     "name": "heartbeat",
+     "gain": -8,
+     "dur": 5.039999999999992,
+     "bpm": 110
+    }
+   ],
+   "scene": "ecg",
+   "set": null,
+   "bars": "none"
+  },
+  {
+   "id": "s036",
+   "start": 176.0,
+   "line": "She gave it his name. Stendhal syndrome.",
+   "params": {
+    "type": "doc",
+    "kind": "typed",
+    "title": "DIAGNOSIS",
+    "lines": [
+     "Named for the writer, 1979."
+    ],
+    "stamp": "STENDHAL SYNDROME",
+    "stampAt": 1.4,
+    "stampSize": 70,
+    "sx": 0.5,
+    "sy": 0.58
+   },
+   "end": 179.0,
+   "in": {
+    "type": "fade",
+    "dur": 0.6
+   },
+   "sfx": [
+    {
+     "at": 1.4,
+     "name": "hit",
+     "gain": -8
+    }
+   ],
+   "scene": "doc",
+   "set": null,
+   "bars": "none"
+  },
+  {
+   "id": "s037",
+   "start": 179.0,
+   "line": "Beauty, overwhelming the body. Through the eyes alone.",
+   "params": {
+    "type": "world",
+    "world": "church",
+    "cam": "up",
+    "ceilEye": true,
+    "spin": 0.3,
+    "dive": "ceil"
+   },
+   "end": 183.12,
+   "in": {
+    "type": "fade",
+    "dur": 0.6
+   },
+   "sfx": [
+    {
+     "at": 2.52,
+     "name": "whoosh",
+     "gain": -10,
+     "dur": 1.4
+    }
+   ],
+   "scene": "church",
+   "set": null,
+   "bars": "none"
+  },
+  {
+   "id": "s038",
+   "start": 183.12,
+   "line": "So far, these are accidents. A charm, a showman, a painting. Nobody planned them.",
+   "params": {
+    "type": "world",
+    "world": "board",
+    "cam": "pan",
+    "irisIn": true,
+    "polas": [
+     "eyes",
+     "nazar",
+     "mesmer",
+     "swirl"
+    ],
+    "ov": [
+     {
+      "k": "typed",
+      "str": "NOBODY PLANNED THEM.",
+      "at": 4.0,
+      "y": 0.88
+     }
+    ]
+   },
+   "end": 189.02,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "scene": "board",
+   "set": null,
+   "bars": "none"
+  },
+  {
+   "id": "s039",
+   "start": 189.02,
+   "line": "That was about to change.",
+   "params": {
+    "type": "title",
+    "top": "CASE FILE",
+    "name": "Then it was planned.",
+    "size": 86
+   },
+   "end": 191.6,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.35,
+     "name": "hit",
+     "gain": -12
+    }
+   ],
+   "scene": "title",
+   "set": null,
+   "bars": "none"
+  },
+  {
+   "id": "s040",
+   "start": 191.6,
+   "line": "Exhibit D. New York, Easter Sunday, 1929.",
+   "params": {
+    "type": "title",
+    "top": "EXHIBIT D",
+    "name": "New York, 1929",
+    "sub": "EASTER SUNDAY",
+    "irisIn": true
+   },
+   "end": 195.82,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.35,
+     "name": "hit",
+     "gain": -12
+    }
+   ],
+   "scene": "title",
+   "set": null,
+   "bars": "none"
+  },
+  {
+   "id": "s041",
+   "start": 195.82,
+   "line": "In the 1920s, it's considered scandalous for a woman to smoke in public. For tobacco companies, that's half the market, lost.",
+   "params": {
+    "type": "world",
+    "world": "street",
+    "cam": "low",
+    "figs": [
+     {
+      "who": "WOMAN",
+      "pos": [
+       -0.4,
+       0,
+       -4
+      ],
+      "p": "stand",
+      "prop": "cig"
+     },
+     {
+      "who": "GENT",
+      "pos": [
+       -2.0,
+       0,
+       -5
+      ],
+      "p": "point",
+      "facing": 1
+     },
+     {
+      "who": "MAN",
+      "pos": [
+       1.4,
+       0,
+       -5.5
+      ],
+      "p": "crossArms",
+      "facing": -1
+     }
+    ],
+    "ov": [
+     {
+      "k": "typed",
+      "str": "SCANDALOUS",
+      "at": 1.0,
+      "y": 0.88
+     }
+    ]
+   },
+   "end": 203.96,
+   "in": {
+    "type": "fade",
+    "dur": 0.6
+   },
+   "sfx": [],
+   "amb": {
+    "name": "murmur",
+    "gain": -24
+   },
+   "scene": "street",
+   "set": null,
+   "bars": "none"
+  },
+  {
+   "id": "s042",
+   "start": 203.96,
+   "line": "So the American Tobacco Company hires a man named Edward Bernays. He's the nephew of Sigmund Freud, and he's about to invent modern public relations.",
+   "params": {
+    "type": "world",
+    "world": "office",
+    "cam": "wide",
+    "figs": [
+     {
+      "who": "MAN",
+      "pos": [
+       -0.9,
+       0,
+       -1.2
+      ],
+      "p": [
+       [
+        0,
+        "stand"
+       ],
+       [
+        2.5,
+        "explain"
+       ]
+      ],
+      "facing": 1
+     }
+    ],
+    "ov": [
+     {
+      "k": "evidence",
+      "str": "EDWARD BERNAYS",
+      "top": "NEPHEW OF SIGMUND FREUD",
+      "at": 1.2
+     }
+    ]
+   },
+   "end": 212.96,
+   "in": {
+    "type": "fade",
+    "dur": 0.6
+   },
+   "sfx": [],
+   "scene": "office",
+   "set": null,
+   "bars": "none"
+  },
+  {
+   "id": "s043",
+   "start": 212.96,
+   "line": "Bernays doesn't buy an ad. He stages a scene.",
+   "params": {
+    "type": "doc",
+    "kind": "typed",
+    "title": "TELEGRAM \u00b7 MARCH 1929",
+    "lines": [
+     "WOMEN! LIGHT ANOTHER",
+     "TORCH OF FREEDOM!",
+     "FIGHT ANOTHER SEX TABOO!"
+    ],
+    "stamp": "STAGED",
+    "stampAt": 2.2
+   },
+   "end": 216.26,
+   "in": {
+    "type": "fade",
+    "dur": 0.6
+   },
+   "sfx": [
+    {
+     "at": 2.2,
+     "name": "hit",
+     "gain": -8
+    }
+   ],
+   "scene": "doc",
+   "set": null,
+   "bars": "none"
+  },
+  {
+   "id": "s044",
+   "start": 216.26,
+   "line": "A handful of young women march down Fifth Avenue in the Easter Parade, and on cue, they light cigarettes.",
+   "params": {
+    "type": "world",
+    "world": "street",
+    "cam": "wide",
+    "flashAt": [
+     1.8,
+     3.6
+    ],
+    "figs": [
+     {
+      "who": "WOMAN",
+      "pos": [
+       -0.9,
+       0,
+       -9
+      ],
+      "p": "holdFront",
+      "prop": "cig",
+      "act": "walk",
+      "move": [
+       0,
+       5
+      ]
+     },
+     {
+      "who": "WOMAN",
+      "pos": [
+       0.2,
+       0,
+       -10
+      ],
+      "p": "holdFront",
+      "prop": "cig",
+      "act": "walk",
+      "move": [
+       0,
+       5
+      ]
+     },
+     {
+      "who": "WOMAN",
+      "pos": [
+       1.2,
+       0,
+       -9.5
+      ],
+      "p": "holdFront",
+      "prop": "cig",
+      "act": "walk",
+      "move": [
+       0,
+       5
+      ]
+     }
+    ]
+   },
+   "end": 222.42,
+   "in": {
+    "type": "fade",
+    "dur": 0.6
+   },
+   "sfx": [
+    {
+     "at": 1.8,
+     "name": "flash",
+     "gain": -14
+    },
+    {
+     "at": 3.6,
+     "name": "flash",
+     "gain": -14
+    }
+   ],
+   "amb": {
+    "name": "murmur",
+    "gain": -24
+   },
+   "scene": "street",
+   "set": null,
+   "bars": "none"
+  },
+  {
+   "id": "s045",
+   "start": 222.42,
+   "line": "Bernays has already told the press what to call them. Torches of Freedom.",
+   "params": {
+    "type": "doc",
+    "kind": "news",
+    "mast": "NEW YORK",
+    "date": "APRIL 1, 1929",
+    "head": "GROUP OF GIRLS PUFF AT CIGARETTES AS A GESTURE OF \"FREEDOM\"",
+    "hs": 62
+   },
+   "end": 226.74,
+   "in": {
+    "type": "fade",
+    "dur": 0.6
+   },
+   "sfx": [],
+   "scene": "doc",
+   "set": null,
+   "bars": "none"
+  },
+  {
+   "id": "s046",
+   "start": 226.74,
+   "line": "The photos run. And a taboo starts to look like liberation.",
+   "params": {
+    "type": "photo",
+    "art": "parade",
+    "wide": true,
+    "cap": "FIFTH AVENUE, 1929"
+   },
+   "end": 230.96,
+   "in": {
+    "type": "fade",
+    "dur": 0.6
+   },
+   "sfx": [],
+   "scene": "photo",
+   "set": null,
+   "bars": "none"
+  },
+  {
+   "id": "s047",
+   "start": 230.96,
+   "line": "Over the following decades, smoking among American women climbs.",
+   "params": {
+    "type": "stat",
+    "top": "SMOKING AMONG AMERICAN WOMEN",
+    "chart": true,
+    "label": "IN THE DECADES THAT FOLLOWED"
+   },
+   "end": 235.06,
+   "in": {
+    "type": "fade",
+    "dur": 0.6
+   },
+   "sfx": [],
+   "scene": "stat",
+   "set": null,
+   "bars": "none"
+  },
+  {
+   "id": "s048",
+   "start": 235.06,
+   "line": "Bernays understood something nobody had put into words before. You don't have to convince people. You just have to show them.",
+   "params": {
+    "type": "photo",
+    "art": "cig",
+    "cap": "\"YOU JUST HAVE TO SHOW THEM.\""
+   },
+   "end": 241.74,
+   "in": {
+    "type": "fade",
+    "dur": 0.6
+   },
+   "sfx": [],
+   "scene": "photo",
+   "set": null,
+   "bars": "none"
+  },
+  {
+   "id": "s049",
+   "start": 241.74,
+   "line": "Show it enough, and it stops looking strange. It starts looking normal.",
+   "params": {
+    "type": "world",
+    "world": "street",
+    "cam": "low",
+    "figs": [
+     {
+      "who": "WOMAN",
+      "pos": [
+       -0.6,
+       0,
+       -4
+      ],
+      "p": "holdFront",
+      "prop": "cig"
+     },
+     {
+      "who": "WOMAN",
+      "pos": [
+       0.7,
+       0,
+       -5
+      ],
+      "p": "talk",
+      "prop": "cig",
+      "facing": -1
+     },
+     {
+      "who": "GENT",
+      "pos": [
+       -1.8,
+       0,
+       -5.5
+      ],
+      "p": "stand"
+     }
+    ],
+    "ov": [
+     {
+      "k": "stamp",
+      "str": "NORMAL",
+      "at": 2.2,
+      "x": 0.5,
+      "y": 0.5,
+      "size": 120
+     }
+    ]
+   },
+   "end": 246.56,
+   "in": {
+    "type": "fade",
+    "dur": 0.6
+   },
+   "sfx": [
+    {
+     "at": 2.2,
+     "name": "hit",
+     "gain": -8
+    }
+   ],
+   "amb": {
+    "name": "murmur",
+    "gain": -24
+   },
+   "scene": "street",
+   "set": null,
+   "bars": "none"
+  },
+  {
+   "id": "s050",
+   "start": 246.56,
+   "line": "Exhibit E. Philadelphia, 1947.",
+   "params": {
+    "type": "title",
+    "top": "EXHIBIT E",
+    "name": "Philadelphia, 1947",
+    "sub": "N.W. AYER & SON",
+    "irisIn": true
+   },
+   "end": 250.02,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.35,
+     "name": "hit",
+     "gain": -12
+    }
+   ],
+   "scene": "title",
+   "set": null,
+   "bars": "none"
+  },
+  {
+   "id": "s051",
+   "start": 250.02,
+   "line": "A copywriter named Frances Gerety is working late on an account for the diamond company De Beers.",
+   "params": {
+    "type": "world",
+    "world": "office",
+    "cam": "wide",
+    "figs": [
+     {
+      "who": "WOMAN",
+      "pos": [
+       -0.9,
+       0,
+       -1.25
+      ],
+      "p": "think",
+      "facing": 1
+     }
+    ],
+    "ov": [
+     {
+      "k": "evidence",
+      "str": "FRANCES GERETY",
+      "top": "COPYWRITER",
+      "at": 1.4
+     }
+    ]
+   },
+   "end": 255.44,
+   "in": {
+    "type": "fade",
+    "dur": 0.6
+   },
+   "sfx": [],
+   "scene": "office",
+   "set": null,
+   "bars": "none"
+  },
+  {
+   "id": "s052",
+   "start": 255.44,
+   "line": "She's tired. She scribbles a line, almost as an afterthought.",
+   "params": {
+    "type": "world",
+    "world": "office",
+    "cam": "close",
+    "dive": "page",
+    "figs": [
+     {
+      "who": "WOMAN",
+      "pos": [
+       -0.9,
+       0,
+       -1.25
+      ],
+      "p": [
+       [
+        0,
+        "sad"
+       ],
+       [
+        1.5,
+        "reach"
+       ]
+      ],
+      "facing": 1
+     }
+    ]
+   },
+   "end": 259.38,
+   "in": {
+    "type": "fade",
+    "dur": 0.6
+   },
+   "sfx": [
+    {
+     "at": 2.34,
+     "name": "whoosh",
+     "gain": -10,
+     "dur": 1.4
+    }
+   ],
+   "scene": "office",
+   "set": null,
+   "bars": "none"
+  },
+  {
+   "id": "s053",
+   "start": 259.38,
+   "line": "A diamond is forever.",
+   "params": {
+    "type": "doc",
+    "kind": "slogan",
+    "text": "A diamond is forever.",
+    "size": 70,
+    "irisIn": true
+   },
+   "end": 261.36,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "scene": "doc",
+   "set": null,
+   "bars": "none"
+  },
+  {
+   "id": "s054",
+   "start": 261.36,
+   "line": "Over the next generation, De Beers puts diamonds in films, in magazines, in the hands of movie stars.",
+   "params": {
+    "type": "photo",
+    "art": "ring",
+    "cap": "IN FILMS. IN MAGAZINES. ON MOVIE STARS."
+   },
+   "end": 267.52,
+   "in": {
+    "type": "fade",
+    "dur": 0.6
+   },
+   "sfx": [],
+   "scene": "photo",
+   "set": null,
+   "bars": "none"
+  },
+  {
+   "id": "s055",
+   "start": 267.52,
+   "line": "The diamond engagement ring becomes something it had never been for most people before. Expected. A tradition.",
+   "params": {
+    "type": "doc",
+    "kind": "typed",
+    "title": "N.W. AYER & SON \u00b7 REPORT TO DE BEERS, 1951",
+    "lines": [
+     "Jewelers report: a girl is",
+     "not engaged without",
+     "a diamond ring."
+    ]
+   },
+   "end": 274.12,
+   "in": {
+    "type": "fade",
+    "dur": 0.6
+   },
+   "sfx": [],
+   "scene": "doc",
+   "set": null,
+   "bars": "none"
+  },
+  {
+   "id": "s056",
+   "start": 274.12,
+   "line": "A tradition that was, in large part, written by an ad agency.",
+   "params": {
+    "type": "doc",
+    "kind": "typed",
+    "title": "TRADITION: ORIGIN",
+    "lines": [
+     "Written by an ad agency.",
+     "Philadelphia, 1947."
+    ],
+    "stamp": "MANUFACTURED",
+    "stampAt": 1.6,
+    "stampSize": 80,
+    "dive2": [
+     0.5,
+     0.45
+    ]
+   },
+   "end": 278.92,
+   "in": {
+    "type": "fade",
+    "dur": 0.6
+   },
+   "sfx": [
+    {
+     "at": 3.2,
+     "name": "whoosh",
+     "gain": -10,
+     "dur": 1.4
+    },
+    {
+     "at": 1.6,
+     "name": "hit",
+     "gain": -8
+    }
+   ],
+   "scene": "doc",
+   "set": null,
+   "bars": "none"
+  },
+  {
+   "id": "s057",
+   "start": 278.92,
+   "line": "Exhibit F. Fort Lee, New Jersey, 1957.",
+   "params": {
+    "type": "title",
+    "top": "EXHIBIT F",
+    "name": "Fort Lee, 1957",
+    "sub": "NEW JERSEY",
+    "irisIn": true
+   },
+   "end": 282.44,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.35,
+     "name": "hit",
+     "gain": -12
+    }
+   ],
+   "scene": "title",
+   "set": null,
+   "bars": "none"
+  },
+  {
+   "id": "s058",
+   "start": 282.44,
+   "line": "A market researcher named James Vicary makes an announcement that terrifies the country.",
+   "params": {
+    "type": "doc",
+    "kind": "news",
+    "mast": "THE DAILY RECORD",
+    "date": "SEPTEMBER 1957",
+    "head": "HIDDEN ADS FLASHED IN MOVIE, SAYS RESEARCHER",
+    "hs": 68
+   },
+   "end": 287.68,
+   "in": {
+    "type": "fade",
+    "dur": 0.6
+   },
+   "sfx": [],
+   "scene": "doc",
+   "set": null,
+   "bars": "none"
+  },
+  {
+   "id": "s059",
+   "start": 287.68,
+   "line": "He says that during a movie, he flashed two messages on the screen, too fast for anyone to consciously see.",
+   "params": {
+    "type": "world",
+    "world": "cinema",
+    "cam": "wide",
+    "flash": []
+   },
+   "end": 294.1,
+   "in": {
+    "type": "fade",
+    "dur": 0.6
+   },
+   "sfx": [],
+   "amb": {
+    "name": "murmur",
+    "gain": -24
+   },
+   "scene": "cinema",
+   "set": null,
+   "bars": "none"
+  },
+  {
+   "id": "s060",
+   "start": 294.1,
+   "line": "Eat popcorn. Drink Coca-Cola.",
+   "params": {
+    "type": "world",
+    "world": "cinema",
+    "cam": "front",
+    "flash": [
+     2,
+     5,
+     9,
+     14,
+     20,
+     26
+    ]
+   },
+   "end": 296.5,
+   "in": {
+    "type": "fade",
+    "dur": 0.6
+   },
+   "sfx": [],
+   "amb": {
+    "name": "murmur",
+    "gain": -24
+   },
+   "scene": "cinema",
+   "set": null,
+   "bars": "none"
+  },
+  {
+   "id": "s061",
+   "start": 296.5,
+   "line": "And he says sales went up. Popcorn by more than fifty percent.",
+   "params": {
+    "type": "stat",
+    "top": "POPCORN SALES (CLAIMED)",
+    "to": 57,
+    "pre": "+",
+    "suf": "%",
+    "label": "\"EAT POPCORN\"",
+    "sub": "James Vicary, 1957"
+   },
+   "end": 300.66,
+   "in": {
+    "type": "fade",
+    "dur": 0.6
+   },
+   "sfx": [],
+   "scene": "stat",
+   "set": null,
+   "bars": "none"
+  },
+  {
+   "id": "s062",
+   "start": 300.66,
+   "line": "There's panic. Hidden messages. Mind control through the screen. Networks ban it.",
+   "params": {
+    "type": "doc",
+    "kind": "news",
+    "mast": "THE DAILY RECORD",
+    "date": "1957",
+    "head": "HIDDEN MESSAGES: MIND CONTROL THROUGH THE SCREEN?",
+    "hs": 66,
+    "stamp": "BANNED",
+    "stampAt": 3.4
+   },
+   "end": 306.46,
+   "in": {
+    "type": "fade",
+    "dur": 0.6
+   },
+   "sfx": [
+    {
+     "at": 3.4,
+     "name": "hit",
+     "gain": -8
+    }
+   ],
+   "scene": "doc",
+   "set": null,
+   "bars": "none"
+  },
+  {
+   "id": "s063",
+   "start": 306.46,
+   "line": "And then, five years later, Vicary admits the study was a gimmick. The numbers didn't hold up. Some researchers doubt he ever really ran it.",
+   "params": {
+    "type": "doc",
+    "kind": "typed",
+    "title": "ADVERTISING AGE \u00b7 1962",
+    "lines": [
+     "Vicary: the study was \"a gimmick\".",
+     "The data: \"too small to be meaningful\"."
+    ],
+    "stamp": "HOAX",
+    "stampAt": 3.0,
+    "stampSize": 120
+   },
+   "end": 314.54,
+   "in": {
+    "type": "fade",
+    "dur": 0.6
+   },
+   "sfx": [
+    {
+     "at": 3.0,
+     "name": "hit",
+     "gain": -8
+    }
+   ],
+   "scene": "doc",
+   "set": null,
+   "bars": "none"
+  },
+  {
+   "id": "s064",
+   "start": 314.54,
+   "line": "The experiment was fake. But the fear was real, because people already sensed the truth.",
+   "params": {
+    "type": "world",
+    "world": "cinema",
+    "cam": "faces",
+    "turnAt": 1.5
+   },
+   "end": 320.62,
+   "in": {
+    "type": "fade",
+    "dur": 0.6
+   },
+   "sfx": [],
+   "amb": {
+    "name": "murmur",
+    "gain": -24
+   },
+   "scene": "cinema",
+   "set": null,
+   "bars": "none"
+  },
+  {
+   "id": "s065",
+   "start": 320.62,
+   "line": "The screen wasn't just entertaining them. It was teaching them.",
+   "params": {
+    "type": "world",
+    "world": "cinema",
+    "cam": "front",
+    "dive": "screen"
+   },
+   "end": 324.88,
+   "in": {
+    "type": "fade",
+    "dur": 0.6
+   },
+   "sfx": [
+    {
+     "at": 2.66,
+     "name": "whoosh",
+     "gain": -10,
+     "dur": 1.4
+    }
+   ],
+   "amb": {
+    "name": "murmur",
+    "gain": -24
+   },
+   "scene": "cinema",
+   "set": null,
+   "bars": "none"
+  },
+  {
+   "id": "s066",
+   "start": 324.88,
+   "line": "Exhibit G. Stanford, 1961.",
+   "params": {
+    "type": "title",
+    "top": "EXHIBIT G",
+    "name": "Stanford, 1961",
+    "sub": "ALBERT BANDURA",
+    "irisIn": true
+   },
+   "end": 328.22,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.35,
+     "name": "hit",
+     "gain": -12
+    }
+   ],
+   "scene": "title",
+   "set": null,
+   "bars": "none"
+  },
+  {
+   "id": "s067",
+   "start": 328.22,
+   "line": "A psychologist named Albert Bandura brings children into a room, one at a time.",
+   "params": {
+    "type": "world",
+    "world": "lab",
+    "cam": "wide",
+    "figs": [
+     {
+      "who": "SCI",
+      "pos": [
+       1.2,
+       0,
+       -1.0
+      ],
+      "p": "holdFront",
+      "prop": "clip",
+      "facing": -1
+     },
+     {
+      "who": "KID",
+      "pos": [
+       -0.2,
+       0,
+       -1.2
+      ],
+      "p": "walkA",
+      "act": "walk",
+      "move": [
+       -0.6,
+       -0.2,
+       0,
+       3
+      ],
+      "h": 1.6
+     }
+    ]
+   },
+   "end": 333.28,
+   "in": {
+    "type": "fade",
+    "dur": 0.6
+   },
+   "sfx": [],
+   "scene": "lab",
+   "set": null,
+   "bars": "none"
+  },
+  {
+   "id": "s068",
+   "start": 333.28,
+   "line": "Through a window, they watch an adult attack an inflatable clown called a Bobo doll. Punching it. Hitting it with a mallet. Yelling at it.",
+   "params": {
+    "type": "world",
+    "world": "lab",
+    "cam": "wide",
+    "figs": [
+     {
+      "who": "MAN",
+      "pos": [
+       -0.6,
+       0,
+       -1.3
+      ],
+      "p": "stand",
+      "act": "punch",
+      "at": 1.2,
+      "prop": "mallet"
+     }
+    ],
+    "props": [
+     {
+      "k": "bobo",
+      "pos": [
+       0.3,
+       0,
+       -1.5
+      ],
+      "h": 1.6,
+      "hitAt": 1.4
+     }
+    ]
+   },
+   "end": 341.48,
+   "in": {
+    "type": "fade",
+    "dur": 0.6
+   },
+   "sfx": [],
+   "scene": "lab",
+   "set": null,
+   "bars": "none"
+  },
+  {
+   "id": "s069",
+   "start": 341.48,
+   "line": "Then the children are left alone with the same doll.",
+   "params": {
+    "type": "world",
+    "world": "lab",
+    "cam": "low",
+    "figs": [
+     {
+      "who": "KID",
+      "pos": [
+       -0.7,
+       0,
+       -1.2
+      ],
+      "p": "stand",
+      "h": 1.5
+     }
+    ],
+    "props": [
+     {
+      "k": "bobo",
+      "pos": [
+       0.3,
+       0,
+       -1.5
+      ],
+      "h": 1.6
+     }
+    ]
+   },
+   "end": 344.88,
+   "in": {
+    "type": "fade",
+    "dur": 0.6
+   },
+   "sfx": [],
+   "scene": "lab",
+   "set": null,
+   "bars": "none"
+  },
+  {
+   "id": "s070",
+   "start": 344.88,
+   "line": "Many of them do exactly what they saw. The same punches. The same mallet. Some of them even the same words.",
+   "params": {
+    "type": "world",
+    "world": "lab",
+    "cam": "low",
+    "figs": [
+     {
+      "who": "KID",
+      "pos": [
+       -0.4,
+       0,
+       -1.2
+      ],
+      "p": "stand",
+      "act": "punch",
+      "at": 0.6,
+      "prop": "mallet",
+      "h": 1.5
+     }
+    ],
+    "props": [
+     {
+      "k": "bobo",
+      "pos": [
+       0.3,
+       0,
+       -1.5
+      ],
+      "h": 1.6,
+      "hitAt": 0.8,
+      "down": 4.6
+     }
+    ]
+   },
+   "end": 351.72,
+   "in": {
+    "type": "fade",
+    "dur": 0.6
+   },
+   "sfx": [],
+   "scene": "lab",
+   "set": null,
+   "bars": "none"
+  },
+  {
+   "id": "s071",
+   "start": 351.72,
+   "line": "Nobody told them to. Nobody rewarded them. They just watched.",
+   "params": {
+    "type": "world",
+    "world": "lab",
+    "cam": "wide",
+    "figs": [
+     {
+      "who": "KID",
+      "pos": [
+       -0.4,
+       0,
+       -1.2
+      ],
+      "p": "stand",
+      "h": 1.5
+     }
+    ],
+    "props": [
+     {
+      "k": "bobo",
+      "pos": [
+       0.3,
+       0,
+       -1.5
+      ],
+      "h": 1.6
+     }
+    ],
+    "ov": [
+     {
+      "k": "typed",
+      "str": "NOBODY TOLD THEM TO.",
+      "at": 0.6
+     }
+    ]
+   },
+   "end": 356.08,
+   "in": {
+    "type": "fade",
+    "dur": 0.6
+   },
+   "sfx": [],
+   "scene": "lab",
+   "set": null,
+   "bars": "none"
+  },
+  {
+   "id": "s072",
+   "start": 356.08,
+   "line": "Kids don't do what you say. They do what they see.",
+   "params": {
+    "type": "eye",
+    "refl": "bobo",
+    "dive2": [
+     0.5,
+     0.5
+    ]
+   },
+   "end": 360.64,
+   "in": {
+    "type": "fade",
+    "dur": 0.6
+   },
+   "sfx": [
+    {
+     "at": 2.96,
+     "name": "whoosh",
+     "gain": -10,
+     "dur": 1.4
+    }
+   ],
+   "scene": "eye",
+   "set": null,
+   "bars": "none"
+  },
+  {
+   "id": "s073",
+   "start": 360.64,
+   "line": "Exhibit H. The television years.",
+   "params": {
+    "type": "title",
+    "top": "EXHIBIT H",
+    "name": "The Television Years",
+    "sub": "GEORGE GERBNER, 1970s",
+    "irisIn": true
+   },
+   "end": 363.22,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.35,
+     "name": "hit",
+     "gain": -12
+    }
+   ],
+   "scene": "title",
+   "set": null,
+   "bars": "none"
+  },
+  {
+   "id": "s074",
+   "start": 363.22,
+   "line": "In the 1970s, a researcher named George Gerbner starts asking a strange question. Not \"what's on TV,\" but \"what does TV make people believe about the world?\"",
+   "params": {
+    "type": "world",
+    "world": "living",
+    "cam": "wide",
+    "tv": "news",
+    "figs": [
+     {
+      "who": "MAN",
+      "pos": [
+       -1.4,
+       0,
+       -2.2
+      ],
+      "p": "sit",
+      "facing": 1,
+      "h": 2.2
+     },
+     {
+      "who": "WOMAN",
+      "pos": [
+       -0.3,
+       0,
+       -2.2
+      ],
+      "p": "sit",
+      "facing": 1,
+      "h": 2.2
+     }
+    ],
+    "ov": [
+     {
+      "k": "evidence",
+      "str": "GEORGE GERBNER",
+      "top": "RESEARCHER",
+      "at": 1.5
+     }
+    ]
+   },
+   "end": 374.08,
+   "in": {
+    "type": "fade",
+    "dur": 0.6
+   },
+   "sfx": [],
+   "amb": {
+    "name": "hum",
+    "gain": -26
+   },
+   "scene": "living",
+   "set": null,
+   "bars": "none"
+  },
+  {
+   "id": "s075",
+   "start": 374.08,
+   "line": "What he finds is this. The more television people watch, the more dangerous they think the world is.",
+   "params": {
+    "type": "world",
+    "world": "living",
+    "cam": "tv",
+    "tv": "crime"
+   },
+   "end": 380.42,
+   "in": {
+    "type": "fade",
+    "dur": 0.6
+   },
+   "sfx": [],
+   "amb": {
+    "name": "hum",
+    "gain": -26
+   },
+   "scene": "living",
+   "set": null,
+   "bars": "none"
+  },
+  {
+   "id": "s076",
+   "start": 380.42,
+   "line": "Heavy viewers overestimate violence. They're more afraid.",
+   "params": {
+    "type": "stat",
+    "top": "HEAVY TV VIEWERS",
+    "num": "MORE AFRAID",
+    "ns": 130,
+    "label": "OVERESTIMATE VIOLENCE \u00b7 DISTRUST STRANGERS"
+   },
+   "end": 384.06,
+   "in": {
+    "type": "fade",
+    "dur": 0.6
+   },
+   "sfx": [],
+   "scene": "stat",
+   "set": null,
+   "bars": "none"
+  },
+  {
+   "id": "s077",
+   "start": 384.06,
+   "line": "More suspicious of strangers.",
+   "params": {
+    "type": "world",
+    "world": "living",
+    "cam": "window",
+    "stranger": true
+   },
+   "end": 386.02,
+   "in": {
+    "type": "fade",
+    "dur": 0.6
+   },
+   "sfx": [],
+   "amb": {
+    "name": "hum",
+    "gain": -26
+   },
+   "scene": "living",
+   "set": null,
+   "bars": "none"
+  },
+  {
+   "id": "s078",
+   "start": 386.02,
+   "line": "He called it mean world syndrome.",
+   "params": {
+    "type": "doc",
+    "kind": "typed",
+    "title": "DIAGNOSIS",
+    "lines": [
+     "Cultivation theory, 1970s."
+    ],
+    "stamp": "MEAN WORLD SYNDROME",
+    "stampAt": 0.9,
+    "stampSize": 64,
+    "sx": 0.5,
+    "sy": 0.58
+   },
+   "end": 388.46,
+   "in": {
+    "type": "fade",
+    "dur": 0.6
+   },
+   "sfx": [
+    {
+     "at": 0.9,
+     "name": "hit",
+     "gain": -8
+    }
+   ],
+   "scene": "doc",
+   "set": null,
+   "bars": "none"
+  },
+  {
+   "id": "s079",
+   "start": 388.46,
+   "line": "The screen doesn't just show you the world. It quietly replaces it.",
+   "params": {
+    "type": "world",
+    "world": "living",
+    "cam": "tv",
+    "tv": "news",
+    "dive": "tv"
+   },
+   "end": 393.58,
+   "in": {
+    "type": "fade",
+    "dur": 0.6
+   },
+   "sfx": [
+    {
+     "at": 3.52,
+     "name": "whoosh",
+     "gain": -10,
+     "dur": 1.4
+    }
+   ],
+   "amb": {
+    "name": "hum",
+    "gain": -26
+   },
+   "scene": "living",
+   "set": null,
+   "bars": "none"
+  },
+  {
+   "id": "s080",
+   "start": 393.58,
+   "line": "Exhibit I. Fiji, 1995.",
+   "params": {
+    "type": "title",
+    "top": "EXHIBIT I",
+    "name": "Fiji, 1995",
+    "sub": "NADROGA PROVINCE",
+    "irisIn": true
+   },
+   "end": 396.59,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.35,
+     "name": "hit",
+     "gain": -12
+    }
+   ],
+   "scene": "title",
+   "set": null,
+   "bars": "none"
+  },
+  {
+   "id": "s081",
+   "start": 396.59,
+   "line": "On the main island of Fiji, in a rural province, there is almost no television. And in traditional Fijian culture, a full, strong body is admired. Telling someone they've gained weight can be a compliment.",
+   "params": {
+    "type": "world",
+    "world": "island",
+    "cam": "wide",
+    "figs": [
+     {
+      "who": "WOMAN",
+      "pos": [
+       0.6,
+       0,
+       -0.8
+      ],
+      "p": "stand",
+      "facing": -1
+     },
+     {
+      "who": "WOMAN",
+      "pos": [
+       1.6,
+       0,
+       -1.4
+      ],
+      "p": "talk",
+      "facing": -1
+     },
+     {
+      "who": "MAN",
+      "pos": [
+       -0.6,
+       0,
+       -1.0
+      ],
+      "p": "wave",
+      "facing": 1
+     }
+    ],
+    "ov": [
+     {
+      "k": "typed",
+      "str": "NO TELEVISION",
+      "at": 1.0,
+      "y": 0.88
+     }
+    ]
+   },
+   "end": 408.72,
+   "in": {
+    "type": "fade",
+    "dur": 0.6
+   },
+   "sfx": [],
+   "scene": "island",
+   "set": null,
+   "bars": "none"
+  },
+  {
+   "id": "s082",
+   "start": 408.72,
+   "line": "Then television arrives.",
+   "params": {
+    "type": "world",
+    "world": "island",
+    "cam": "hut",
+    "tv": true,
+    "antenna": true,
+    "figs": [
+     {
+      "who": "GIRL",
+      "pos": [
+       -1.6,
+       0,
+       0.2
+      ],
+      "p": "stand",
+      "facing": -1,
+      "h": 2.2
+     },
+     {
+      "who": "GIRL",
+      "pos": [
+       -0.6,
+       0,
+       0.4
+      ],
+      "p": "stand",
+      "facing": -1,
+      "h": 2.2
+     }
+    ]
+   },
+   "end": 410.78,
+   "in": {
+    "type": "fade",
+    "dur": 0.6
+   },
+   "sfx": [],
+   "scene": "island",
+   "set": null,
+   "bars": "none"
+  },
+  {
+   "id": "s083",
+   "start": 410.78,
+   "line": "American shows. Thin actresses. Glossy lives.",
+   "params": {
+    "type": "world",
+    "world": "living",
+    "cam": "tv",
+    "tv": "thin"
+   },
+   "end": 414.56,
+   "in": {
+    "type": "fade",
+    "dur": 0.6
+   },
+   "sfx": [],
+   "amb": {
+    "name": "hum",
+    "gain": -26
+   },
+   "scene": "living",
+   "set": null,
+   "bars": "none"
+  },
+  {
+   "id": "s084",
+   "start": 414.56,
+   "line": "A Harvard researcher named Anne Becker is there to measure what happens next.",
+   "params": {
+    "type": "doc",
+    "kind": "typed",
+    "title": "HARVARD MEDICAL SCHOOL \u00b7 1995\u20131998",
+    "lines": [
+     "Study: ethnic Fijian adolescent girls.",
+     "Before television, and three years after."
+    ]
+   },
+   "end": 418.98,
+   "in": {
+    "type": "fade",
+    "dur": 0.6
+   },
+   "sfx": [],
+   "scene": "doc",
+   "set": null,
+   "bars": "none"
+  },
+  {
+   "id": "s085",
+   "start": 418.98,
+   "line": "Three years later, she surveys teenage girls again. Before TV, none of them reported making themselves vomit to lose weight. Now, eleven percent do.",
+   "params": {
+    "type": "stat",
+    "top": "GIRLS WHO MADE THEMSELVES VOMIT TO LOSE WEIGHT",
+    "fromTxt": "0%",
+    "toTxt": "11%",
+    "label": "BEFORE TV  \u2192  THREE YEARS LATER",
+    "sub": "Becker et al., British Journal of Psychiatry, 2002",
+    "ls": 30
+   },
+   "end": 428.9,
+   "in": {
+    "type": "fade",
+    "dur": 0.6
+   },
+   "sfx": [],
+   "scene": "stat",
+   "set": null,
+   "bars": "none"
+  },
+  {
+   "id": "s086",
+   "start": 428.9,
+   "line": "The share showing signs of disordered eating has more than doubled.",
+   "params": {
+    "type": "stat",
+    "top": "SIGNS OF DISORDERED EATING",
+    "num": "\u00d72",
+    "label": "MORE THAN DOUBLED"
+   },
+   "end": 432.56,
+   "in": {
+    "type": "fade",
+    "dur": 0.6
+   },
+   "sfx": [],
+   "scene": "stat",
+   "set": null,
+   "bars": "none"
+  },
+  {
+   "id": "s087",
+   "start": 432.56,
+   "line": "And the girls tell her, in their own words, that they want to look like the women on the screen.",
+   "params": {
+    "type": "eye",
+    "refl": "figure"
+   },
+   "end": 437.8,
+   "in": {
+    "type": "fade",
+    "dur": 0.6
+   },
+   "sfx": [],
+   "scene": "eye",
+   "set": null,
+   "bars": "none"
+  },
+  {
+   "id": "s088",
+   "start": 437.8,
+   "line": "Three years. That's how long it took for a picture on a screen to become a girl's idea of her own body.",
+   "params": {
+    "type": "world",
+    "world": "island",
+    "cam": "hut",
+    "tv": true,
+    "antenna": true,
+    "figs": [
+     {
+      "who": "GIRL",
+      "pos": [
+       -1.6,
+       0,
+       0.2
+      ],
+      "p": "sad",
+      "facing": -1,
+      "h": 2.2
+     }
+    ],
+    "ov": [
+     {
+      "k": "typed",
+      "str": "THREE YEARS.",
+      "at": 0.3
+     }
+    ]
+   },
+   "end": 444.7,
+   "in": {
+    "type": "fade",
+    "dur": 0.6
+   },
+   "sfx": [],
+   "scene": "island",
+   "set": null,
+   "bars": "none"
+  },
+  {
+   "id": "s089",
+   "start": 444.7,
+   "line": "From the screen... to the norm.",
+   "params": {
+    "type": "title",
+    "top": "CASE FILE",
+    "name": "From the screen\u2026 to the norm.",
+    "size": 74,
+    "dive2": [
+     0.5,
+     0.5
+    ]
+   },
+   "end": 447.5,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 1.2,
+     "name": "whoosh",
+     "gain": -10,
+     "dur": 1.4
+    },
+    {
+     "at": 0.35,
+     "name": "hit",
+     "gain": -12
+    }
+   ],
+   "scene": "title",
+   "set": null,
+   "bars": "none"
+  },
+  {
+   "id": "s090",
+   "start": 447.5,
+   "line": "Final exhibit. Now.",
+   "params": {
+    "type": "title",
+    "top": "FINAL EXHIBIT",
+    "name": "Now",
+    "irisIn": true
+   },
+   "end": 449.46,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.35,
+     "name": "hit",
+     "gain": -12
+    }
+   ],
+   "scene": "title",
+   "set": null,
+   "bars": "none"
+  },
+  {
+   "id": "s091",
+   "start": 449.46,
+   "line": "Everything in this file used to need a canvas, a parade, a cinema, a living room television.",
+   "params": {
+    "type": "world",
+    "world": "board",
+    "cam": "pan",
+    "polas": [
+     "swirl",
+     "cig",
+     "film",
+     "tv",
+     "phone"
+    ],
+    "ov": [
+     {
+      "k": "typed",
+      "str": "A CANVAS. A PARADE. A CINEMA. A TV.",
+      "at": 0.8,
+      "y": 0.88
+     }
+    ]
+   },
+   "end": 455.22,
+   "in": {
+    "type": "fade",
+    "dur": 0.6
+   },
+   "sfx": [],
+   "scene": "board",
+   "set": null,
+   "bars": "none"
+  },
+  {
+   "id": "s092",
+   "start": 455.22,
+   "line": "Now it lives in your pocket. And it never turns off.",
+   "params": {
+    "type": "world",
+    "world": "bedroom",
+    "cam": "wide",
+    "figs": [
+     {
+      "who": "MAN",
+      "pos": [
+       0,
+       0.45,
+       -2.75
+      ],
+      "p": "phone",
+      "h": 1.9,
+      "prop": "phone"
+     }
+    ]
+   },
+   "end": 459.28,
+   "in": {
+    "type": "fade",
+    "dur": 0.6
+   },
+   "sfx": [],
+   "scene": "bedroom",
+   "set": null,
+   "bars": "none"
+  },
+  {
+   "id": "s093",
+   "start": 459.28,
+   "line": "In 2006, a designer named Aza Raskin invented infinite scroll. No more pages. No more bottom. No natural place to stop.",
+   "params": {
+    "type": "world",
+    "world": "scroll",
+    "cam": "glide",
+    "ov": [
+     {
+      "k": "evidence",
+      "str": "AZA RASKIN, 2006",
+      "top": "INVENTED INFINITE SCROLL",
+      "at": 1.0
+     }
+    ]
+   },
+   "end": 468.46,
+   "in": {
+    "type": "fade",
+    "dur": 0.6
+   },
+   "sfx": [],
+   "scene": "scroll",
+   "set": null,
+   "bars": "none"
+  },
+  {
+   "id": "s094",
+   "start": 468.46,
+   "line": "Years later, he said he regretted it. His own rough guess: two hundred thousand human lifetimes, scrolled away, every single day.",
+   "params": {
+    "type": "stat",
+    "top": "HIS OWN ROUGH GUESS",
+    "to": 200000,
+    "label": "HUMAN LIFETIMES SCROLLED AWAY \u00b7 EVERY DAY",
+    "ns": 180
+   },
+   "end": 476.74,
+   "in": {
+    "type": "fade",
+    "dur": 0.6
+   },
+   "sfx": [],
+   "scene": "stat",
+   "set": null,
+   "bars": "none"
+  },
+  {
+   "id": "s095",
+   "start": 476.74,
+   "line": "In 2014, it came out that a social network had quietly run an experiment on almost seven hundred thousand of its users. For one week, it changed what they saw in their feeds.",
+   "params": {
+    "type": "doc",
+    "kind": "typed",
+    "title": "PNAS \u00b7 2014 \u00b7 \"EMOTIONAL CONTAGION\"",
+    "lines": [
+     "Participants: 689,003 users.",
+     "Duration: one week.",
+     "Users told: no."
+    ]
+   },
+   "end": 488.22,
+   "in": {
+    "type": "fade",
+    "dur": 0.6
+   },
+   "sfx": [],
+   "scene": "doc",
+   "set": null,
+   "bars": "none"
+  },
+  {
+   "id": "s096",
+   "start": 488.22,
+   "line": "Some people saw fewer happy posts. Others saw fewer sad ones.",
+   "params": {
+    "type": "phones"
+   },
+   "end": 492.74,
+   "in": {
+    "type": "fade",
+    "dur": 0.6
+   },
+   "sfx": [],
+   "scene": "phones",
+   "set": null,
+   "bars": "none"
+  },
+  {
+   "id": "s097",
+   "start": 492.74,
+   "line": "And people's moods followed. They started writing the way their feed felt. They didn't know they were in an experiment. They just looked.",
+   "params": {
+    "type": "world",
+    "world": "bedroom",
+    "cam": "close",
+    "figs": [
+     {
+      "who": "MAN",
+      "pos": [
+       0,
+       0.45,
+       -2.75
+      ],
+      "p": [
+       [
+        0,
+        "phone"
+       ],
+       [
+        2.2,
+        "sad"
+       ]
+      ],
+      "h": 1.9,
+      "prop": "phone"
+     }
+    ],
+    "ov": [
+     {
+      "k": "typed",
+      "str": "THEY JUST LOOKED.",
+      "at": 2.6
+     }
+    ]
+   },
+   "end": 500.64,
+   "in": {
+    "type": "fade",
+    "dur": 0.6
+   },
+   "sfx": [],
+   "scene": "bedroom",
+   "set": null,
+   "bars": "none"
+  },
+  {
+   "id": "s098",
+   "start": 500.64,
+   "line": "And now, the screen has turned the camera around. Filters smooth your skin, slim your face, brighten your eyes.",
+   "params": {
+    "type": "face",
+    "mode": "split"
+   },
+   "end": 508.62,
+   "in": {
+    "type": "fade",
+    "dur": 0.6
+   },
+   "sfx": [],
+   "scene": "face",
+   "set": null,
+   "bars": "none"
+  },
+  {
+   "id": "s099",
+   "start": 508.62,
+   "line": "Plastic surgeons started reporting something new. Patients weren't bringing in photos of celebrities anymore.",
+   "params": {
+    "type": "doc",
+    "kind": "typed",
+    "title": "FACIAL PLASTIC SURGERY \u00b7 2018",
+    "lines": [
+     "New trend: patients bring in",
+     "filtered selfies of themselves."
+    ],
+    "stamp": "\"SNAPCHAT DYSMORPHIA\"",
+    "stampAt": 2.6,
+    "stampSize": 56,
+    "sx": 0.5,
+    "sy": 0.72
+   },
+   "end": 514.16,
+   "in": {
+    "type": "fade",
+    "dur": 0.6
+   },
+   "sfx": [
+    {
+     "at": 2.6,
+     "name": "hit",
+     "gain": -8
+    }
+   ],
+   "scene": "doc",
+   "set": null,
+   "bars": "none"
+  },
+  {
+   "id": "s100",
+   "start": 514.16,
+   "line": "They were bringing in filtered photos of themselves.",
+   "params": {
+    "type": "photo",
+    "art": "selfie",
+    "cap": "THE NORM: YOU. EDITED."
+   },
+   "end": 517.6,
+   "in": {
+    "type": "fade",
+    "dur": 0.6
+   },
+   "sfx": [],
+   "scene": "photo",
+   "set": null,
+   "bars": "none"
+  },
+  {
+   "id": "s101",
+   "start": 517.6,
+   "line": "The norm isn't a movie star now. The norm is you. Edited.",
+   "params": {
+    "type": "face",
+    "mode": "filtered",
+    "ov": [
+     {
+      "k": "stamp",
+      "str": "EDITED",
+      "at": 4.2,
+      "x": 0.72,
+      "y": 0.78
+     }
+    ]
+   },
+   "end": 523.34,
+   "in": {
+    "type": "fade",
+    "dur": 0.6
+   },
+   "sfx": [
+    {
+     "at": 4.2,
+     "name": "hit",
+     "gain": -8
+    }
+   ],
+   "scene": "face",
+   "set": null,
+   "bars": "none"
+  },
+  {
+   "id": "s102",
+   "start": 523.34,
+   "line": "Think about the Newcastle kitchen. A photocopy of two eyes, and people changed their behaviour without even noticing.",
+   "params": {
+    "type": "world",
+    "world": "kitchen",
+    "cam": "wall",
+    "pic": "eyes"
+   },
+   "end": 530.36,
+   "in": {
+    "type": "fade",
+    "dur": 0.6
+   },
+   "sfx": [],
+   "scene": "kitchen",
+   "set": null,
+   "bars": "none"
+  },
+  {
+   "id": "s103",
+   "start": 530.36,
+   "line": "Now think about how many hours you look at a screen every day. How many faces. How many bodies.",
+   "params": {
+    "type": "world",
+    "world": "scroll",
+    "cam": "glide",
+    "ov": [
+     {
+      "k": "typed",
+      "str": "HOW MANY FACES. HOW MANY BODIES.",
+      "at": 1.5,
+      "y": 0.88
+     }
+    ]
+   },
+   "end": 536.58,
+   "in": {
+    "type": "fade",
+    "dur": 0.6
+   },
+   "sfx": [],
+   "scene": "scroll",
+   "set": null,
+   "bars": "none"
+  },
+  {
+   "id": "s104",
+   "start": 536.58,
+   "line": "How many opinions, outrages, products, lifestyles. All of it, quietly telling you what normal is.",
+   "params": {
+    "type": "world",
+    "world": "scroll",
+    "cam": "glide",
+    "fov": 55
+   },
+   "end": 544.22,
+   "in": {
+    "type": "fade",
+    "dur": 0.6
+   },
+   "sfx": [],
+   "scene": "scroll",
+   "set": null,
+   "bars": "none"
+  },
+  {
+   "id": "s105",
+   "start": 544.22,
+   "line": "There's an experiment you can do tonight. An Italian psychologist made it famous. Sit in front of a mirror in a dim room. Stare into your own eyes for ten minutes.",
+   "params": {
+    "type": "world",
+    "world": "mirror",
+    "cam": "wide",
+    "figs": [
+     {
+      "who": "MAN",
+      "pos": [
+       0.45,
+       0,
+       -0.9
+      ],
+      "p": "stand",
+      "facing": -1
+     }
+    ],
+    "ov": [
+     {
+      "k": "evidence",
+      "str": "THE STRANGE-FACE ILLUSION",
+      "top": "CAPUTO, 2010",
+      "at": 1.5
+     }
+    ]
+   },
+   "end": 554.08,
+   "in": {
+    "type": "fade",
+    "dur": 0.6
+   },
+   "sfx": [],
+   "scene": "mirror",
+   "set": null,
+   "bars": "none"
+  },
+  {
+   "id": "s106",
+   "start": 554.08,
+   "line": "Most people start to see their face change. It stretches. It warps. Some see a stranger.",
+   "params": {
+    "type": "face",
+    "mode": "mirror"
+   },
+   "end": 560.5,
+   "in": {
+    "type": "fade",
+    "dur": 0.6
+   },
+   "sfx": [],
+   "scene": "face",
+   "set": null,
+   "bars": "none"
+  },
+  {
+   "id": "s107",
+   "start": 560.5,
+   "line": "Because even your own reflection isn't something you just see. It's something your mind builds. So who's building it now?",
+   "params": {
+    "type": "eye",
+    "refl": "phone"
+   },
+   "end": 568.64,
+   "in": {
+    "type": "fade",
+    "dur": 0.6
+   },
+   "sfx": [],
+   "scene": "eye",
+   "set": null,
+   "bars": "none"
+  },
+  {
+   "id": "s108",
+   "start": 568.64,
+   "line": "Every norm you have, you saw first. Be wary of your eyes.",
+   "params": {
+    "type": "world",
+    "world": "board",
+    "cam": "pull",
+    "blinkAt": 4.6,
+    "ov": [
+     {
+      "k": "typed",
+      "str": "BE WARY OF YOUR EYES.",
+      "at": 3.0,
+      "y": 0.12,
+      "size": 48
+     }
+    ]
+   },
+   "end": 573.466,
+   "in": {
+    "type": "fade",
+    "dur": 0.6
+   },
+   "sfx": [],
+   "scene": "board",
+   "set": null,
+   "bars": "none"
+  }
+ ]
+}

@@ -67,7 +67,7 @@ const WORLDS = {
     for (const z of [2, -6]) spot(T, st, '#c8d4e6', 26, [0, 7, z], [0, 0, z - 1], { angle: 0.9 });
     const med = frameArt(T, st, 3.7, 2.7, 0, 2.4, -14.05, 0, medusa, { px: 760, frame: '#6a4e1a' }); lives.push(med);
     spot(T, st, '#ffd9a0', 24, [0, 6.5, -10], [0, 2.4, -14], { angle: 0.5 });
-    return { lives, anchors: { eye: [-0.177, 2.42, -13.95, 0, 0, 1] }, cams: { wide: { from: [-0.6, 1.7, 6.5], to: [-0.2, 2.0, -1], look0: [0, 1.9, -14], look1: [0, 2.3, -14] }, near: { from: [0.8, 1.8, -4], to: [0.2, 2.2, -8.5], look0: [0, 2.2, -14], look1: [-0.1, 2.4, -14] } } };
+    return { lives, anchors: { eye: [-0.177, 2.42, -13.95, 0, 0, 1] }, cams: { wide: { from: [-0.6, 1.7, 6.5], to: [-0.2, 2.0, -1], look0: [0, 1.9, -14], look1: [0, 2.3, -14] }, near: { from: [-1.0, 1.8, -3], to: [-0.6, 2.1, -8.8], look0: [0, 2.2, -14], look1: [-0.1, 2.4, -14] } } };
   },
   salon(T, st, p) {   // Mesmer's parlour, Paris 1780s
     const { THREE } = T, lives = [];
@@ -77,7 +77,7 @@ const WORLDS = {
     const ch = new THREE.Group(); ch.position.set(0, 5, -1.5); st.add(ch); for (let i = 0; i < 8; i++) { const a = (i / 8) * Math.PI * 2; ch.add(T.sphere(0.07, glowMat(T, '#ffd890'), Math.cos(a) * 0.7, 0, Math.sin(a) * 0.7)); } ch.add(T.cyl(0.02, 0.02, 2, '#b08a3a', 0, 1, 0));
     pointL(T, st, '#ffcf8a', p.dim ? 2 : 6, [0, 4.6, -1.5], 12);
     const win = T.plane(1.6, 2.6, glowMat(T, '#6a7c98'), -3, 3, -4.95); st.add(win); st.add(T.box(1.8, 0.1, 0.1, '#2a1a12', -3, 3, -4.93)); st.add(T.box(0.1, 2.7, 0.1, '#2a1a12', -3, 3, -4.93));
-    return { lives, anchors: {}, cams: { wide: { from: [3.4, 2.4, 5.2], to: [2.4, 2.1, 3.6], look0: [0, 1.3, -1.5], look1: [0, 1.4, -1.8] }, close: { from: [1.6, 1.7, 2.2], to: [1.1, 1.65, 1.2], look0: [0, 1.5, -1], look1: [0, 1.55, -1] } } };
+    return { lives, anchors: {}, cams: { wide: { from: [3.4, 2.4, 5.2], to: [2.4, 2.1, 3.6], look0: [0, 1.3, -1.5], look1: [0, 1.4, -1.8] }, close: { from: [2.6, 1.9, 4.0], to: [2.0, 1.8, 3.0], look0: [0, 1.4, -1], look1: [0, 1.45, -1] } } };
   },
   hall(T, st, p) {   // the royal commission
     const lives = [];
@@ -140,11 +140,11 @@ const WORLDS = {
     st.add(T.box(3, 0.5, 1, '#8a5a2a', -0.6, 0.4, -2.4)); st.add(T.box(3, 0.8, 0.25, '#8a5a2a', -0.6, 0.95, -2.85)); for (const x of [-2.1, 0.9]) st.add(T.box(0.25, 0.7, 1, '#7a4a20', x, 0.6, -2.4));
     st.add(T.box(1.3, 1.0, 0.9, '#4a3020', 1.0, 0.5, 1.0)); st.add(T.box(1.1, 0.8, 0.05, '#111', 1.0, 0.55, 0.53));
     const scr = livePlane(T, 0.9, 0.62, 320, (g, w, h, t) => { const ch = p.tv || 'news'; g.fillStyle = '#8aa0b4'; g.fillRect(0, 0, w, h); if (ch === 'news') { g.fillStyle = '#2a3040'; g.fillRect(0, h * 0.7, w, h * 0.3); g.fillStyle = '#c8102e'; g.fillRect(w * 0.05, h * 0.74, w * 0.3, h * 0.1); figure(g, 'MAN', w * 0.5, h * 0.98, h / 320, poseOf('talk')); } else if (ch === 'crime') { g.fillStyle = '#1a1e28'; g.fillRect(0, 0, w, h); figure(g, 'DET', w * 0.3 + Math.sin(t) * 10, h * 0.98, h / 300, poseOf('point')); figure(g, 'MAN', w * 0.75, h * 0.98, h / 300, poseOf('handsOnHead'), { facing: -1 }); } else if (ch === 'thin') { g.fillStyle = '#e8d8c8'; g.fillRect(0, 0, w, h); figure(g, 'WOMAN', w * 0.5, h * 0.98, h / 280, poseOf('wave'), { color: '#2a2a32' }); } g.fillStyle = 'rgba(255,255,255,.06)'; for (let y = 0; y < h; y += 4) g.fillRect(0, y, w, 1); });
-    scr.mesh.position.set(1.0, 0.56, 0.52); scr.mesh.rotation.y = Math.PI; st.add(scr.mesh); lives.push(scr);
+    scr.mesh.position.set(1.0, 0.56, 0.495); scr.mesh.rotation.y = Math.PI; st.add(scr.mesh); lives.push(scr);
     pointL(T, st, '#9fc4e8', 5, [1.0, 0.7, 0.2], 6); pointL(T, st, '#ffcf8a', 1.5, [-3, 2.5, -1], 6);
     const win = livePlane(T, 1.6, 1.8, 240, (g, w, h, t) => { g.fillStyle = '#1a2230'; g.fillRect(0, 0, w, h); if (p.stranger) { figure(g, 'DET', w * 0.5, h * 0.98, h / 330, poseOf('stand'), { edge: '#3a4250', d: 3 }); } g.strokeStyle = '#2a1a10'; g.lineWidth = 12; g.strokeRect(0, 0, w, h); g.beginPath(); g.moveTo(w / 2, 0); g.lineTo(w / 2, h); g.stroke(); });
     win.mesh.position.set(-3.98, 2.2, -1.2); win.mesh.rotation.y = Math.PI / 2; st.add(win.mesh); lives.push(win);
-    return { lives, anchors: { tv: [1.0, 0.56, 0.52, 0, 0, -1] }, cams: { wide: { from: [2.6, 1.8, 3.2], to: [2.2, 1.6, 2.2], look0: [-0.6, 0.9, -2.4], look1: [-0.6, 0.95, -2.4] }, tv: { from: [-0.4, 1.0, -1.4], to: [0.3, 0.8, -0.6], look0: [1.0, 0.56, 0.52], look1: [1.0, 0.56, 0.52] }, window: { from: [-1.4, 1.8, 0.8], to: [-2.2, 2.0, 0.2], look0: [-4, 2.1, -1.2], look1: [-4, 2.2, -1.2] } } };
+    return { lives, anchors: { tv: [1.0, 0.56, 0.52, 0, 0, -1] }, cams: { wide: { from: [-2.6, 1.7, 2.6], to: [-2.0, 1.5, 1.6], look0: [-0.6, 0.9, -2.4], look1: [-0.4, 0.95, -2.4] }, tv: { from: [-0.4, 1.0, -1.4], to: [0.3, 0.8, -0.6], look0: [1.0, 0.56, 0.52], look1: [1.0, 0.56, 0.52] }, window: { from: [-1.4, 1.8, 0.8], to: [-2.2, 2.0, 0.2], look0: [-4, 2.1, -1.2], look1: [-4, 2.2, -1.2] } } };
   },
   island(T, st, p) {   // rural Fiji village, dusk
     const { THREE } = T, lives = [];
@@ -154,7 +154,7 @@ const WORLDS = {
     const hut = (x, z, ry, tvOn) => { const g = new THREE.Group(); g.position.set(x, 0, z); g.rotation.y = ry; g.add(T.box(3, 1.8, 2.4, '#8a6a44', 0, 0.9, 0)); const roof = T.cone(2.4, 1.6, '#6a5a3a', 0, 2.6, 0, 4); roof.rotation.y = Math.PI / 4; g.add(roof); g.add(T.box(0.8, 1.3, 0.05, tvOn ? '#9fc4e8' : '#2a1a10', 0, 0.65, 1.21)); st.add(g); if (tvOn) { const l = pointL(T, st, '#9fc4e8', 3, [x, 0.8, z + 1.6], 5); } };
     hut(-2.5, -3, 0.2, !!p.tv); hut(3.5, -5, -0.3, false);
     if (p.antenna) { st.add(T.cyl(0.03, 0.03, 3, '#222', -1.8, 3.4, -3)); st.add(T.box(1.2, 0.03, 0.03, '#222', -1.8, 4.6, -3)); st.add(T.box(0.8, 0.03, 0.03, '#222', -1.8, 4.3, -3)); }
-    return { lives, anchors: { door: [-2.36, 0.65, -1.8, 0.2, 0, 1] }, cams: { wide: { from: [1.5, 1.7, 7], to: [0.8, 1.7, 5], look0: [0, 1.6, -6], look1: [-0.4, 1.6, -6] }, hut: { from: [0.8, 1.4, 3], to: [0, 1.3, 1.6], look0: [-2.4, 1, -2], look1: [-2.4, 0.9, -2] } } };
+    return { lives, anchors: { door: [-2.36, 0.65, -1.8, 0.2, 0, 1] }, cams: { wide: { from: [1.5, 1.7, 7], to: [0.8, 1.7, 5], look0: [0, 1.6, -6], look1: [-0.4, 1.6, -6] }, hut: { from: [1.6, 1.6, 5.2], to: [0.9, 1.5, 3.8], look0: [-2.0, 1.1, -2], look1: [-2.0, 1.0, -2] } } };
   },
   bedroom(T, st, p) {
     const { THREE } = T, lives = [];
@@ -192,7 +192,7 @@ function makeWorld(shot) {
       const st = T.stage({ sky: skies[p.world] || '#14161c', fog: p.fog || [10, 45], fogColor: p.world === 'island' ? '#d8b890' : '#14161c', fov: p.fov || 42, ambient: p.ambient ?? lite, keyIntensity: p.key ?? 0.8, keyColor: p.keyColor || '#f2e6d0', keyPos: [-4, 9, 6], bloom: 0.35 });
       st.sun.castShadow = false;
       const w = WORLDS[p.world](T, st, p);
-      const figs = (p.figs || []).map((f) => { const hgt = f.h ?? 2.5, wide = f.act === 'faint' || f.wide ? 1.0 : 0.62; const F = livePlane(T, hgt * wide * 1.7, hgt, 380, (g, ww, hh, t) => actedFigure(g, ww, hh, t, { ...f, cx: 0.5, s: (f.s ?? 2.0) * (hgt * wide * 1.7 > hgt ? 1 : 1) }), { lit: false, tint: f.tint || '#ffffff' });
+      const figs = (p.figs || []).map((f) => { const hgt = f.h ?? 2.5, wide = f.act === 'faint' || f.wide ? 1.0 : 0.62; const F = livePlane(T, hgt * wide * 1.7, hgt, 380, (g, ww, hh, t) => actedFigure(g, ww, hh, t, { ...f, cx: 0.5, s: (f.s ?? 1) * hh / 245 }), { lit: false, tint: f.tint || '#ffffff' });
         F.mesh.position.set(f.pos[0], hgt / 2 + (f.pos[1] || 0), f.pos[2]); F.mesh.rotation.y = f.ry || 0; st.add(F.mesh); if (!f.noBlob) st.add(blob(T, f.pos[0], f.pos[2], 0.45)); return { ...F, f, base: [...F.mesh.position.toArray()] }; });
       // 2D props as cut-out planes in 3D: {k:'bobo'|..., pos, h}
       const props = (p.props || []).map((o) => { const P = livePlane(T, o.h * 0.8, o.h, 260, (g, ww, hh, t) => { if (o.k === 'bobo') { const tilt = o.hitAt != null && t > o.hitAt ? Math.sin((t - o.hitAt) * 6) * 0.25 * Math.exp(-(t - o.hitAt) * 1.5) + (o.down && t > o.down ? -0.9 * ease.out(prog(t, o.down, o.down + 0.5)) : 0) : 0; cut(g, () => bobo(g, ww / 2, hh * 0.97, hh / 340, t, { tilt })); } }, { tint: '#ffffff' }); P.mesh.position.set(o.pos[0], o.h / 2, o.pos[2]); P.mesh.rotation.y = o.ry || 0; st.add(P.mesh); st.add(blob(T, o.pos[0], o.pos[2], 0.4)); return P; });
@@ -254,7 +254,7 @@ const T2 = {
     if (p.kind === 'news') { g.font = `900 52px ${SERIF}`; g.fillText(p.mast || 'THE DAILY RECORD', 0, -h / 2 + 90); g.fillRect(-w / 2 + 50, -h / 2 + 112, w - 100, 4); mono(g, 20, 400); g.fillText(p.date || '', 0, -h / 2 + 145); g.fillRect(-w / 2 + 50, -h / 2 + 162, w - 100, 2);
       const words = (p.head || '').split(' '), n = Math.floor(clamp((t - 0.3) / 1.0) * words.length + 0.0001); g.font = `900 ${p.hs || 78}px ${SERIF}`; const lines = []; let ln = ''; for (const wd of words.slice(0, n)) { const tst = ln ? ln + ' ' + wd : wd; if (g.measureText(tst).width > w - 140 && ln) { lines.push(ln); ln = wd; } else ln = tst; } if (ln) lines.push(ln); lines.forEach((l, i) => g.fillText(l, 0, -h / 2 + 260 + i * (p.hs || 78) * 1.1));
       g.fillStyle = 'rgba(13,13,16,.55)'; for (let c = 0; c < 3; c++) for (let i = 0; i < 9; i++) g.fillRect(-w / 2 + 60 + c * (w - 120) / 3, 80 + i * 26, (w - 120) / 3 - 30 - (i === 8 ? 80 : 0), 9); }
-    else if (p.kind === 'typed') { g.textAlign = 'left'; mono(g, 30); g.fillText(p.title || '', -w / 2 + 70, -h / 2 + 100); g.fillRect(-w / 2 + 70, -h / 2 + 120, w - 140, 2); mono(g, 30, 400); let total = 0; (p.lines || []).forEach((l, i) => { const st = 0.5 + total / 16; total += l.length; const n = Math.floor(clamp((t - st) * 16 / Math.max(1, l.length)) * l.length); g.fillText(l.slice(0, n), -w / 2 + 70, -h / 2 + 190 + i * 52); }); }
+    else if (p.kind === 'typed') { g.textAlign = 'left'; mono(g, 34); g.fillText(p.title || '', -w / 2 + 70, -h / 2 + 100); g.fillRect(-w / 2 + 70, -h / 2 + 124, w - 140, 3); mono(g, 42, 700); let total = 0; (p.lines || []).forEach((l, i) => { const st = 0.4 + total / 22; total += l.length; const n = Math.floor(clamp((t - st) * 22 / Math.max(1, l.length)) * l.length); g.fillText(l.slice(0, n), -w / 2 + 70, -h / 2 + 210 + i * 66); }); }
     else if (p.kind === 'slogan') { mono(g, p.size || 64); const s = p.text || '', n = Math.min(s.length, Math.floor(Math.max(0, t - 0.4) * 10)); g.fillText(s.slice(0, n), 0, 18); }
     g.restore(); if (p.stamp) stamp(g, t, p.stampAt ?? 2, W() * (p.sx ?? 0.66), H() * (p.sy ?? 0.66), p.stamp, { size: p.stampSize || 96, rot: -0.14 });
   },
