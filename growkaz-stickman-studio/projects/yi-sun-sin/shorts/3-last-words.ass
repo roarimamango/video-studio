@@ -1,0 +1,110 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+WrapStyle: 2
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Title,Fredoka Light,92,&H00FFFFFF,&H00FFFFFF,&H00100A0C,&H96000000,-1,0,0,0,100,100,2,0,1,9,4,8,60,60,250,1
+Style: Title2,Fredoka Light,104,&H0030D2FF,&H0030D2FF,&H00100A0C,&H96000000,-1,0,0,0,100,100,2,0,1,10,4,8,60,60,360,1
+Style: Cap,Fredoka Light,84,&H00FFFFFF,&H00FFFFFF,&H00100A0C,&H96000000,-1,0,0,0,100,100,1,0,1,9,3,2,70,70,420,1
+Style: CTA,Fredoka Light,70,&H00FFFFFF,&H00FFFFFF,&H00100A0C,&H962A20C8,-1,0,0,0,100,100,2,0,3,18,0,5,60,60,0,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 1,0:00:00.00,0:00:37.37,Title,,0,0,0,,{\fad(150,200)}HIS LAST WORDS
+Dialogue: 1,0:00:00.00,0:00:37.37,Title2,,0,0,0,,{\fad(150,200)}WON THE BATTLE
+Dialogue: 0,0:00:00.45,0:00:00.61,Cap,,0,0,0,,{\c&H0030D2FF&\fscx108\fscy108}IN{\c&H00FFFFFF&\fscx100\fscy100} DECEMBER,
+Dialogue: 0,0:00:00.61,0:00:01.45,Cap,,0,0,0,,IN {\c&H0030D2FF&\fscx108\fscy108}DECEMBER,{\c&H00FFFFFF&\fscx100\fscy100}
+Dialogue: 0,0:00:01.45,0:00:01.63,Cap,,0,0,0,,{\c&H0030D2FF&\fscx108\fscy108}ALONGSIDE{\c&H00FFFFFF&\fscx100\fscy100} A CHINESE
+Dialogue: 0,0:00:01.63,0:00:02.07,Cap,,0,0,0,,ALONGSIDE {\c&H0030D2FF&\fscx108\fscy108}A{\c&H00FFFFFF&\fscx100\fscy100} CHINESE
+Dialogue: 0,0:00:02.07,0:00:02.43,Cap,,0,0,0,,ALONGSIDE A {\c&H0030D2FF&\fscx108\fscy108}CHINESE{\c&H00FFFFFF&\fscx100\fscy100}
+Dialogue: 0,0:00:02.43,0:00:03.29,Cap,,0,0,0,,{\c&H0030D2FF&\fscx108\fscy108}FLEET,{\c&H00FFFFFF&\fscx100\fscy100}
+Dialogue: 0,0:00:03.29,0:00:03.39,Cap,,0,0,0,,{\c&H0030D2FF&\fscx108\fscy108}HE{\c&H00FFFFFF&\fscx100\fscy100} ATTACKED THE
+Dialogue: 0,0:00:03.39,0:00:03.81,Cap,,0,0,0,,HE {\c&H0030D2FF&\fscx108\fscy108}ATTACKED{\c&H00FFFFFF&\fscx100\fscy100} THE
+Dialogue: 0,0:00:03.81,0:00:04.05,Cap,,0,0,0,,HE ATTACKED {\c&H0030D2FF&\fscx108\fscy108}THE{\c&H00FFFFFF&\fscx100\fscy100}
+Dialogue: 0,0:00:04.05,0:00:04.39,Cap,,0,0,0,,{\c&H0030D2FF&\fscx108\fscy108}RETREATING{\c&H00FFFFFF&\fscx100\fscy100} JAPANESE AT
+Dialogue: 0,0:00:04.39,0:00:05.03,Cap,,0,0,0,,RETREATING {\c&H0030D2FF&\fscx108\fscy108}JAPANESE{\c&H00FFFFFF&\fscx100\fscy100} AT
+Dialogue: 0,0:00:05.03,0:00:05.35,Cap,,0,0,0,,RETREATING JAPANESE {\c&H0030D2FF&\fscx108\fscy108}AT{\c&H00FFFFFF&\fscx100\fscy100}
+Dialogue: 0,0:00:05.35,0:00:06.61,Cap,,0,0,0,,{\c&H0030D2FF&\fscx108\fscy108}NORYANG.{\c&H00FFFFFF&\fscx100\fscy100}
+Dialogue: 0,0:00:06.61,0:00:06.85,Cap,,0,0,0,,{\c&H0030D2FF&\fscx108\fscy108}THE{\c&H00FFFFFF&\fscx100\fscy100} BATTLE RAGED
+Dialogue: 0,0:00:06.85,0:00:07.19,Cap,,0,0,0,,THE {\c&H0030D2FF&\fscx108\fscy108}BATTLE{\c&H00FFFFFF&\fscx100\fscy100} RAGED
+Dialogue: 0,0:00:07.19,0:00:07.67,Cap,,0,0,0,,THE BATTLE {\c&H0030D2FF&\fscx108\fscy108}RAGED{\c&H00FFFFFF&\fscx100\fscy100}
+Dialogue: 0,0:00:07.67,0:00:08.01,Cap,,0,0,0,,{\c&H0030D2FF&\fscx108\fscy108}THROUGH{\c&H00FFFFFF&\fscx100\fscy100} THE NIGHT.
+Dialogue: 0,0:00:08.01,0:00:08.19,Cap,,0,0,0,,THROUGH {\c&H0030D2FF&\fscx108\fscy108}THE{\c&H00FFFFFF&\fscx100\fscy100} NIGHT.
+Dialogue: 0,0:00:08.19,0:00:09.29,Cap,,0,0,0,,THROUGH THE {\c&H0030D2FF&\fscx108\fscy108}NIGHT.{\c&H00FFFFFF&\fscx100\fscy100}
+Dialogue: 0,0:00:09.29,0:00:09.53,Cap,,0,0,0,,{\c&H0030D2FF&\fscx108\fscy108}AS{\c&H00FFFFFF&\fscx100\fscy100} DAWN CAME,
+Dialogue: 0,0:00:09.53,0:00:09.79,Cap,,0,0,0,,AS {\c&H0030D2FF&\fscx108\fscy108}DAWN{\c&H00FFFFFF&\fscx100\fscy100} CAME,
+Dialogue: 0,0:00:09.79,0:00:10.63,Cap,,0,0,0,,AS DAWN {\c&H0030D2FF&\fscx108\fscy108}CAME,{\c&H00FFFFFF&\fscx100\fscy100}
+Dialogue: 0,0:00:10.63,0:00:10.69,Cap,,0,0,0,,{\c&H0030D2FF&\fscx108\fscy108}YI{\c&H00FFFFFF&\fscx100\fscy100} WAS ON
+Dialogue: 0,0:00:10.69,0:00:10.89,Cap,,0,0,0,,YI {\c&H0030D2FF&\fscx108\fscy108}WAS{\c&H00FFFFFF&\fscx100\fscy100} ON
+Dialogue: 0,0:00:10.89,0:00:11.03,Cap,,0,0,0,,YI WAS {\c&H0030D2FF&\fscx108\fscy108}ON{\c&H00FFFFFF&\fscx100\fscy100}
+Dialogue: 0,0:00:11.03,0:00:11.17,Cap,,0,0,0,,{\c&H0030D2FF&\fscx108\fscy108}THE{\c&H00FFFFFF&\fscx100\fscy100} DECK OF
+Dialogue: 0,0:00:11.17,0:00:11.37,Cap,,0,0,0,,THE {\c&H0030D2FF&\fscx108\fscy108}DECK{\c&H00FFFFFF&\fscx100\fscy100} OF
+Dialogue: 0,0:00:11.37,0:00:13.05,Cap,,0,0,0,,THE DECK {\c&H0030D2FF&\fscx108\fscy108}OF{\c&H00FFFFFF&\fscx100\fscy100}
+Dialogue: 0,0:00:13.05,0:00:13.15,Cap,,0,0,0,,{\c&H0030D2FF&\fscx108\fscy108}HIS{\c&H00FFFFFF&\fscx100\fscy100} FLAGSHIP,
+Dialogue: 0,0:00:13.15,0:00:13.17,Cap,,0,0,0,,HIS {\c&H0030D2FF&\fscx108\fscy108}FLAGSHIP,{\c&H00FFFFFF&\fscx100\fscy100}
+Dialogue: 0,0:00:13.17,0:00:13.18,Cap,,0,0,0,,{\c&H0030D2FF&\fscx108\fscy108}URGING{\c&H00FFFFFF&\fscx100\fscy100} HIS MEN
+Dialogue: 0,0:00:13.18,0:00:13.15,Cap,,0,0,0,,URGING {\c&H0030D2FF&\fscx108\fscy108}HIS{\c&H00FFFFFF&\fscx100\fscy100} MEN
+Dialogue: 0,0:00:13.15,0:00:13.31,Cap,,0,0,0,,URGING HIS {\c&H0030D2FF&\fscx108\fscy108}MEN{\c&H00FFFFFF&\fscx100\fscy100}
+Dialogue: 0,0:00:13.31,0:00:13.59,Cap,,0,0,0,,{\c&H0030D2FF&\fscx108\fscy108}ON{\c&H00FFFFFF&\fscx100\fscy100} WITH THE
+Dialogue: 0,0:00:13.59,0:00:13.79,Cap,,0,0,0,,ON {\c&H0030D2FF&\fscx108\fscy108}WITH{\c&H00FFFFFF&\fscx100\fscy100} THE
+Dialogue: 0,0:00:13.79,0:00:13.93,Cap,,0,0,0,,ON WITH {\c&H0030D2FF&\fscx108\fscy108}THE{\c&H00FFFFFF&\fscx100\fscy100}
+Dialogue: 0,0:00:13.93,0:00:14.15,Cap,,0,0,0,,{\c&H0030D2FF&\fscx108\fscy108}WAR{\c&H00FFFFFF&\fscx100\fscy100} DRUM,
+Dialogue: 0,0:00:14.15,0:00:14.41,Cap,,0,0,0,,WAR {\c&H0030D2FF&\fscx108\fscy108}DRUM,{\c&H00FFFFFF&\fscx100\fscy100}
+Dialogue: 0,0:00:14.41,0:00:15.03,Cap,,0,0,0,,{\c&H0030D2FF&\fscx108\fscy108}WHEN{\c&H00FFFFFF&\fscx100\fscy100} A BULLET
+Dialogue: 0,0:00:15.03,0:00:15.19,Cap,,0,0,0,,WHEN {\c&H0030D2FF&\fscx108\fscy108}A{\c&H00FFFFFF&\fscx100\fscy100} BULLET
+Dialogue: 0,0:00:15.19,0:00:15.45,Cap,,0,0,0,,WHEN A {\c&H0030D2FF&\fscx108\fscy108}BULLET{\c&H00FFFFFF&\fscx100\fscy100}
+Dialogue: 0,0:00:15.45,0:00:15.81,Cap,,0,0,0,,{\c&H0030D2FF&\fscx108\fscy108}STRUCK{\c&H00FFFFFF&\fscx100\fscy100} HIM.
+Dialogue: 0,0:00:15.81,0:00:16.97,Cap,,0,0,0,,STRUCK {\c&H0030D2FF&\fscx108\fscy108}HIM.{\c&H00FFFFFF&\fscx100\fscy100}
+Dialogue: 0,0:00:16.97,0:00:17.13,Cap,,0,0,0,,{\c&H0030D2FF&\fscx108\fscy108}HIS{\c&H00FFFFFF&\fscx100\fscy100} LAST WORDS,
+Dialogue: 0,0:00:17.13,0:00:17.39,Cap,,0,0,0,,HIS {\c&H0030D2FF&\fscx108\fscy108}LAST{\c&H00FFFFFF&\fscx100\fscy100} WORDS,
+Dialogue: 0,0:00:17.39,0:00:18.11,Cap,,0,0,0,,HIS LAST {\c&H0030D2FF&\fscx108\fscy108}WORDS,{\c&H00FFFFFF&\fscx100\fscy100}
+Dialogue: 0,0:00:18.11,0:00:18.37,Cap,,0,0,0,,{\c&H0030D2FF&\fscx108\fscy108}ACCORDING{\c&H00FFFFFF&\fscx100\fscy100} TO THE
+Dialogue: 0,0:00:18.37,0:00:18.61,Cap,,0,0,0,,ACCORDING {\c&H0030D2FF&\fscx108\fscy108}TO{\c&H00FFFFFF&\fscx100\fscy100} THE
+Dialogue: 0,0:00:18.61,0:00:18.73,Cap,,0,0,0,,ACCORDING TO {\c&H0030D2FF&\fscx108\fscy108}THE{\c&H00FFFFFF&\fscx100\fscy100}
+Dialogue: 0,0:00:18.73,0:00:19.41,Cap,,0,0,0,,{\c&H0030D2FF&\fscx108\fscy108}RECORDS,{\c&H00FFFFFF&\fscx100\fscy100}
+Dialogue: 0,0:00:19.41,0:00:20.33,Cap,,0,0,0,,{\c&H0030D2FF&\fscx108\fscy108}WERE:{\c&H00FFFFFF&\fscx100\fscy100}
+Dialogue: 0,0:00:20.33,0:00:20.43,Cap,,0,0,0,,{\c&H0030D2FF&\fscx108\fscy108}"THE{\c&H00FFFFFF&\fscx100\fscy100} BATTLE IS
+Dialogue: 0,0:00:20.43,0:00:20.69,Cap,,0,0,0,,"THE {\c&H0030D2FF&\fscx108\fscy108}BATTLE{\c&H00FFFFFF&\fscx100\fscy100} IS
+Dialogue: 0,0:00:20.69,0:00:20.99,Cap,,0,0,0,,"THE BATTLE {\c&H0030D2FF&\fscx108\fscy108}IS{\c&H00FFFFFF&\fscx100\fscy100}
+Dialogue: 0,0:00:20.99,0:00:21.13,Cap,,0,0,0,,{\c&H0030D2FF&\fscx108\fscy108}AT{\c&H00FFFFFF&\fscx100\fscy100} ITS HEIGHT.
+Dialogue: 0,0:00:21.13,0:00:21.31,Cap,,0,0,0,,AT {\c&H0030D2FF&\fscx108\fscy108}ITS{\c&H00FFFFFF&\fscx100\fscy100} HEIGHT.
+Dialogue: 0,0:00:21.31,0:00:22.09,Cap,,0,0,0,,AT ITS {\c&H0030D2FF&\fscx108\fscy108}HEIGHT.{\c&H00FFFFFF&\fscx100\fscy100}
+Dialogue: 0,0:00:22.09,0:00:22.25,Cap,,0,0,0,,{\c&H0030D2FF&\fscx108\fscy108}DO{\c&H00FFFFFF&\fscx100\fscy100} NOT ANNOUNCE
+Dialogue: 0,0:00:22.25,0:00:22.59,Cap,,0,0,0,,DO {\c&H0030D2FF&\fscx108\fscy108}NOT{\c&H00FFFFFF&\fscx100\fscy100} ANNOUNCE
+Dialogue: 0,0:00:22.59,0:00:23.01,Cap,,0,0,0,,DO NOT {\c&H0030D2FF&\fscx108\fscy108}ANNOUNCE{\c&H00FFFFFF&\fscx100\fscy100}
+Dialogue: 0,0:00:23.01,0:00:23.25,Cap,,0,0,0,,{\c&H0030D2FF&\fscx108\fscy108}MY{\c&H00FFFFFF&\fscx100\fscy100} DEATH."
+Dialogue: 0,0:00:23.25,0:00:24.65,Cap,,0,0,0,,MY {\c&H0030D2FF&\fscx108\fscy108}DEATH."{\c&H00FFFFFF&\fscx100\fscy100}
+Dialogue: 0,0:00:24.65,0:00:24.89,Cap,,0,0,0,,{\c&H0030D2FF&\fscx108\fscy108}HIS{\c&H00FFFFFF&\fscx100\fscy100} NEPHEW HID
+Dialogue: 0,0:00:24.89,0:00:25.29,Cap,,0,0,0,,HIS {\c&H0030D2FF&\fscx108\fscy108}NEPHEW{\c&H00FFFFFF&\fscx100\fscy100} HID
+Dialogue: 0,0:00:25.29,0:00:25.61,Cap,,0,0,0,,HIS NEPHEW {\c&H0030D2FF&\fscx108\fscy108}HID{\c&H00FFFFFF&\fscx100\fscy100}
+Dialogue: 0,0:00:25.61,0:00:25.83,Cap,,0,0,0,,{\c&H0030D2FF&\fscx108\fscy108}HIS{\c&H00FFFFFF&\fscx100\fscy100} BODY,
+Dialogue: 0,0:00:25.83,0:00:26.45,Cap,,0,0,0,,HIS {\c&H0030D2FF&\fscx108\fscy108}BODY,{\c&H00FFFFFF&\fscx100\fscy100}
+Dialogue: 0,0:00:26.45,0:00:26.65,Cap,,0,0,0,,{\c&H0030D2FF&\fscx108\fscy108}TOOK{\c&H00FFFFFF&\fscx100\fscy100} UP THE
+Dialogue: 0,0:00:26.65,0:00:26.81,Cap,,0,0,0,,TOOK {\c&H0030D2FF&\fscx108\fscy108}UP{\c&H00FFFFFF&\fscx100\fscy100} THE
+Dialogue: 0,0:00:26.81,0:00:26.97,Cap,,0,0,0,,TOOK UP {\c&H0030D2FF&\fscx108\fscy108}THE{\c&H00FFFFFF&\fscx100\fscy100}
+Dialogue: 0,0:00:26.97,0:00:27.53,Cap,,0,0,0,,{\c&H0030D2FF&\fscx108\fscy108}DRUM,{\c&H00FFFFFF&\fscx100\fscy100}
+Dialogue: 0,0:00:27.53,0:00:27.71,Cap,,0,0,0,,{\c&H0030D2FF&\fscx108\fscy108}AND{\c&H00FFFFFF&\fscx100\fscy100} KEPT BEATING
+Dialogue: 0,0:00:27.71,0:00:27.97,Cap,,0,0,0,,AND {\c&H0030D2FF&\fscx108\fscy108}KEPT{\c&H00FFFFFF&\fscx100\fscy100} BEATING
+Dialogue: 0,0:00:27.97,0:00:28.33,Cap,,0,0,0,,AND KEPT {\c&H0030D2FF&\fscx108\fscy108}BEATING{\c&H00FFFFFF&\fscx100\fscy100}
+Dialogue: 0,0:00:28.33,0:00:29.29,Cap,,0,0,0,,{\c&H0030D2FF&\fscx108\fscy108}IT.{\c&H00FFFFFF&\fscx100\fscy100}
+Dialogue: 0,0:00:29.29,0:00:29.51,Cap,,0,0,0,,{\c&H0030D2FF&\fscx108\fscy108}THE{\c&H00FFFFFF&\fscx100\fscy100} FLEET FOUGHT
+Dialogue: 0,0:00:29.51,0:00:29.75,Cap,,0,0,0,,THE {\c&H0030D2FF&\fscx108\fscy108}FLEET{\c&H00FFFFFF&\fscx100\fscy100} FOUGHT
+Dialogue: 0,0:00:29.75,0:00:30.11,Cap,,0,0,0,,THE FLEET {\c&H0030D2FF&\fscx108\fscy108}FOUGHT{\c&H00FFFFFF&\fscx100\fscy100}
+Dialogue: 0,0:00:30.11,0:00:30.89,Cap,,0,0,0,,{\c&H0030D2FF&\fscx108\fscy108}ON,{\c&H00FFFFFF&\fscx100\fscy100}
+Dialogue: 0,0:00:30.89,0:00:31.09,Cap,,0,0,0,,{\c&H0030D2FF&\fscx108\fscy108}NEVER{\c&H00FFFFFF&\fscx100\fscy100} KNOWING THEIR
+Dialogue: 0,0:00:31.09,0:00:31.43,Cap,,0,0,0,,NEVER {\c&H0030D2FF&\fscx108\fscy108}KNOWING{\c&H00FFFFFF&\fscx100\fscy100} THEIR
+Dialogue: 0,0:00:31.43,0:00:31.73,Cap,,0,0,0,,NEVER KNOWING {\c&H0030D2FF&\fscx108\fscy108}THEIR{\c&H00FFFFFF&\fscx100\fscy100}
+Dialogue: 0,0:00:31.73,0:00:32.19,Cap,,0,0,0,,{\c&H0030D2FF&\fscx108\fscy108}ADMIRAL{\c&H00FFFFFF&\fscx100\fscy100} WAS GONE.
+Dialogue: 0,0:00:32.19,0:00:32.45,Cap,,0,0,0,,ADMIRAL {\c&H0030D2FF&\fscx108\fscy108}WAS{\c&H00FFFFFF&\fscx100\fscy100} GONE.
+Dialogue: 0,0:00:32.45,0:00:34.01,Cap,,0,0,0,,ADMIRAL WAS {\c&H0030D2FF&\fscx108\fscy108}GONE.{\c&H00FFFFFF&\fscx100\fscy100}
+Dialogue: 0,0:00:34.01,0:00:34.33,Cap,,0,0,0,,{\c&H0030D2FF&\fscx108\fscy108}NORYANG{\c&H00FFFFFF&\fscx100\fscy100} WAS A
+Dialogue: 0,0:00:34.33,0:00:34.77,Cap,,0,0,0,,NORYANG {\c&H0030D2FF&\fscx108\fscy108}WAS{\c&H00FFFFFF&\fscx100\fscy100} A
+Dialogue: 0,0:00:34.77,0:00:34.93,Cap,,0,0,0,,NORYANG WAS {\c&H0030D2FF&\fscx108\fscy108}A{\c&H00FFFFFF&\fscx100\fscy100}
+Dialogue: 0,0:00:34.93,0:00:36.21,Cap,,0,0,0,,{\c&H0030D2FF&\fscx108\fscy108}VICTORY.{\c&H00FFFFFF&\fscx100\fscy100}
+Dialogue: 0,0:00:36.21,0:00:36.41,Cap,,0,0,0,,{\c&H0030D2FF&\fscx108\fscy108}HIS{\c&H00FFFFFF&\fscx100\fscy100} LAST ONE.
+Dialogue: 0,0:00:36.41,0:00:36.67,Cap,,0,0,0,,HIS {\c&H0030D2FF&\fscx108\fscy108}LAST{\c&H00FFFFFF&\fscx100\fscy100} ONE.
+Dialogue: 0,0:00:36.67,0:00:37.29,Cap,,0,0,0,,HIS LAST {\c&H0030D2FF&\fscx108\fscy108}ONE.{\c&H00FFFFFF&\fscx100\fscy100}
+Dialogue: 2,0:00:37.37,0:00:38.97,CTA,,0,0,0,,{\fad(200,0)}FULL STORY ON THE CHANNEL

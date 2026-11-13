@@ -1,0 +1,141 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+WrapStyle: 2
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Title,Fredoka Light,92,&H00FFFFFF,&H00FFFFFF,&H00100A0C,&H96000000,-1,0,0,0,100,100,2,0,1,9,4,8,60,60,250,1
+Style: Title2,Fredoka Light,104,&H0030D2FF,&H0030D2FF,&H00100A0C,&H96000000,-1,0,0,0,100,100,2,0,1,10,4,8,60,60,360,1
+Style: Cap,Fredoka Light,84,&H00FFFFFF,&H00FFFFFF,&H00100A0C,&H96000000,-1,0,0,0,100,100,1,0,1,9,3,2,70,70,420,1
+Style: CTA,Fredoka Light,70,&H00FFFFFF,&H00FFFFFF,&H00100A0C,&H962A20C8,-1,0,0,0,100,100,2,0,3,18,0,5,60,60,0,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 1,0:00:00.00,0:00:50.27,Title,,0,0,0,,{\fad(150,200)}13 SHIPS VS 133
+Dialogue: 1,0:00:00.00,0:00:50.27,Title2,,0,0,0,,{\fad(150,200)}HE DIDN'T LOSE ONE
+Dialogue: 0,0:00:00.45,0:00:00.65,Cap,,0,0,0,,{\c&H0030D2FF&\fscx108\fscy108}IN{\c&H00FFFFFF&\fscx100\fscy100} OCTOBER 1597,
+Dialogue: 0,0:00:00.65,0:00:01.07,Cap,,0,0,0,,IN {\c&H0030D2FF&\fscx108\fscy108}OCTOBER{\c&H00FFFFFF&\fscx100\fscy100} 1597,
+Dialogue: 0,0:00:01.07,0:00:02.53,Cap,,0,0,0,,IN OCTOBER {\c&H0030D2FF&\fscx108\fscy108}1597,{\c&H00FFFFFF&\fscx100\fscy100}
+Dialogue: 0,0:00:02.53,0:00:02.77,Cap,,0,0,0,,{\c&H0030D2FF&\fscx108\fscy108}A{\c&H00FFFFFF&\fscx100\fscy100} JAPANESE FLEET
+Dialogue: 0,0:00:02.77,0:00:03.17,Cap,,0,0,0,,A {\c&H0030D2FF&\fscx108\fscy108}JAPANESE{\c&H00FFFFFF&\fscx100\fscy100} FLEET
+Dialogue: 0,0:00:03.17,0:00:03.53,Cap,,0,0,0,,A JAPANESE {\c&H0030D2FF&\fscx108\fscy108}FLEET{\c&H00FFFFFF&\fscx100\fscy100}
+Dialogue: 0,0:00:03.53,0:00:03.79,Cap,,0,0,0,,{\c&H0030D2FF&\fscx108\fscy108}OF{\c&H00FFFFFF&\fscx100\fscy100} MORE THAN
+Dialogue: 0,0:00:03.79,0:00:03.99,Cap,,0,0,0,,OF {\c&H0030D2FF&\fscx108\fscy108}MORE{\c&H00FFFFFF&\fscx100\fscy100} THAN
+Dialogue: 0,0:00:03.99,0:00:04.15,Cap,,0,0,0,,OF MORE {\c&H0030D2FF&\fscx108\fscy108}THAN{\c&H00FFFFFF&\fscx100\fscy100}
+Dialogue: 0,0:00:04.15,0:00:04.27,Cap,,0,0,0,,{\c&H0030D2FF&\fscx108\fscy108}A{\c&H00FFFFFF&\fscx100\fscy100} HUNDRED AND
+Dialogue: 0,0:00:04.27,0:00:04.63,Cap,,0,0,0,,A {\c&H0030D2FF&\fscx108\fscy108}HUNDRED{\c&H00FFFFFF&\fscx100\fscy100} AND
+Dialogue: 0,0:00:04.63,0:00:04.83,Cap,,0,0,0,,A HUNDRED {\c&H0030D2FF&\fscx108\fscy108}AND{\c&H00FFFFFF&\fscx100\fscy100}
+Dialogue: 0,0:00:04.83,0:00:05.19,Cap,,0,0,0,,{\c&H0030D2FF&\fscx108\fscy108}THIRTY{\c&H00FFFFFF&\fscx100\fscy100} WARSHIPS CAME
+Dialogue: 0,0:00:05.19,0:00:05.71,Cap,,0,0,0,,THIRTY {\c&H0030D2FF&\fscx108\fscy108}WARSHIPS{\c&H00FFFFFF&\fscx100\fscy100} CAME
+Dialogue: 0,0:00:05.71,0:00:06.13,Cap,,0,0,0,,THIRTY WARSHIPS {\c&H0030D2FF&\fscx108\fscy108}CAME{\c&H00FFFFFF&\fscx100\fscy100}
+Dialogue: 0,0:00:06.13,0:00:06.45,Cap,,0,0,0,,{\c&H0030D2FF&\fscx108\fscy108}THROUGH{\c&H00FFFFFF&\fscx100\fscy100} THE MYEONGNYANG
+Dialogue: 0,0:00:06.45,0:00:06.63,Cap,,0,0,0,,THROUGH {\c&H0030D2FF&\fscx108\fscy108}THE{\c&H00FFFFFF&\fscx100\fscy100} MYEONGNYANG
+Dialogue: 0,0:00:06.63,0:00:07.15,Cap,,0,0,0,,THROUGH THE {\c&H0030D2FF&\fscx108\fscy108}MYEONGNYANG{\c&H00FFFFFF&\fscx100\fscy100}
+Dialogue: 0,0:00:07.15,0:00:07.95,Cap,,0,0,0,,{\c&H0030D2FF&\fscx108\fscy108}STRAIT,{\c&H00FFFFFF&\fscx100\fscy100}
+Dialogue: 0,0:00:07.95,0:00:08.09,Cap,,0,0,0,,{\c&H0030D2FF&\fscx108\fscy108}A{\c&H00FFFFFF&\fscx100\fscy100} NARROW CHANNEL
+Dialogue: 0,0:00:08.09,0:00:08.29,Cap,,0,0,0,,A {\c&H0030D2FF&\fscx108\fscy108}NARROW{\c&H00FFFFFF&\fscx100\fscy100} CHANNEL
+Dialogue: 0,0:00:08.29,0:00:08.71,Cap,,0,0,0,,A NARROW {\c&H0030D2FF&\fscx108\fscy108}CHANNEL{\c&H00FFFFFF&\fscx100\fscy100}
+Dialogue: 0,0:00:08.71,0:00:09.01,Cap,,0,0,0,,{\c&H0030D2FF&\fscx108\fscy108}WITH{\c&H00FFFFFF&\fscx100\fscy100} ONE OF
+Dialogue: 0,0:00:09.01,0:00:09.17,Cap,,0,0,0,,WITH {\c&H0030D2FF&\fscx108\fscy108}ONE{\c&H00FFFFFF&\fscx100\fscy100} OF
+Dialogue: 0,0:00:09.17,0:00:09.29,Cap,,0,0,0,,WITH ONE {\c&H0030D2FF&\fscx108\fscy108}OF{\c&H00FFFFFF&\fscx100\fscy100}
+Dialogue: 0,0:00:09.29,0:00:09.39,Cap,,0,0,0,,{\c&H0030D2FF&\fscx108\fscy108}THE{\c&H00FFFFFF&\fscx100\fscy100} STRONGEST TIDAL
+Dialogue: 0,0:00:09.39,0:00:09.89,Cap,,0,0,0,,THE {\c&H0030D2FF&\fscx108\fscy108}STRONGEST{\c&H00FFFFFF&\fscx100\fscy100} TIDAL
+Dialogue: 0,0:00:09.89,0:00:10.33,Cap,,0,0,0,,THE STRONGEST {\c&H0030D2FF&\fscx108\fscy108}TIDAL{\c&H00FFFFFF&\fscx100\fscy100}
+Dialogue: 0,0:00:10.33,0:00:10.71,Cap,,0,0,0,,{\c&H0030D2FF&\fscx108\fscy108}CURRENTS{\c&H00FFFFFF&\fscx100\fscy100} IN KOREA.
+Dialogue: 0,0:00:10.71,0:00:10.95,Cap,,0,0,0,,CURRENTS {\c&H0030D2FF&\fscx108\fscy108}IN{\c&H00FFFFFF&\fscx100\fscy100} KOREA.
+Dialogue: 0,0:00:10.95,0:00:12.25,Cap,,0,0,0,,CURRENTS IN {\c&H0030D2FF&\fscx108\fscy108}KOREA.{\c&H00FFFFFF&\fscx100\fscy100}
+Dialogue: 0,0:00:12.25,0:00:12.31,Cap,,0,0,0,,{\c&H0030D2FF&\fscx108\fscy108}YI{\c&H00FFFFFF&\fscx100\fscy100} WAS WAITING.
+Dialogue: 0,0:00:12.31,0:00:12.61,Cap,,0,0,0,,YI {\c&H0030D2FF&\fscx108\fscy108}WAS{\c&H00FFFFFF&\fscx100\fscy100} WAITING.
+Dialogue: 0,0:00:12.61,0:00:13.61,Cap,,0,0,0,,YI WAS {\c&H0030D2FF&\fscx108\fscy108}WAITING.{\c&H00FFFFFF&\fscx100\fscy100}
+Dialogue: 0,0:00:13.61,0:00:13.79,Cap,,0,0,0,,{\c&H0030D2FF&\fscx108\fscy108}THE{\c&H00FFFFFF&\fscx100\fscy100} NIGHT BEFORE,
+Dialogue: 0,0:00:13.79,0:00:13.93,Cap,,0,0,0,,THE {\c&H0030D2FF&\fscx108\fscy108}NIGHT{\c&H00FFFFFF&\fscx100\fscy100} BEFORE,
+Dialogue: 0,0:00:13.93,0:00:14.67,Cap,,0,0,0,,THE NIGHT {\c&H0030D2FF&\fscx108\fscy108}BEFORE,{\c&H00FFFFFF&\fscx100\fscy100}
+Dialogue: 0,0:00:14.67,0:00:14.73,Cap,,0,0,0,,{\c&H0030D2FF&\fscx108\fscy108}HE{\c&H00FFFFFF&\fscx100\fscy100} TOLD HIS
+Dialogue: 0,0:00:14.73,0:00:14.95,Cap,,0,0,0,,HE {\c&H0030D2FF&\fscx108\fscy108}TOLD{\c&H00FFFFFF&\fscx100\fscy100} HIS
+Dialogue: 0,0:00:14.95,0:00:15.17,Cap,,0,0,0,,HE TOLD {\c&H0030D2FF&\fscx108\fscy108}HIS{\c&H00FFFFFF&\fscx100\fscy100}
+Dialogue: 0,0:00:15.17,0:00:16.29,Cap,,0,0,0,,{\c&H0030D2FF&\fscx108\fscy108}OFFICERS:{\c&H00FFFFFF&\fscx100\fscy100}
+Dialogue: 0,0:00:16.29,0:00:16.57,Cap,,0,0,0,,{\c&H0030D2FF&\fscx108\fscy108}"THOSE{\c&H00FFFFFF&\fscx100\fscy100} WHO SEEK
+Dialogue: 0,0:00:16.57,0:00:16.83,Cap,,0,0,0,,"THOSE {\c&H0030D2FF&\fscx108\fscy108}WHO{\c&H00FFFFFF&\fscx100\fscy100} SEEK
+Dialogue: 0,0:00:16.83,0:00:17.11,Cap,,0,0,0,,"THOSE WHO {\c&H0030D2FF&\fscx108\fscy108}SEEK{\c&H00FFFFFF&\fscx100\fscy100}
+Dialogue: 0,0:00:17.11,0:00:17.47,Cap,,0,0,0,,{\c&H0030D2FF&\fscx108\fscy108}DEATH{\c&H00FFFFFF&\fscx100\fscy100} SHALL LIVE.
+Dialogue: 0,0:00:17.47,0:00:17.89,Cap,,0,0,0,,DEATH {\c&H0030D2FF&\fscx108\fscy108}SHALL{\c&H00FFFFFF&\fscx100\fscy100} LIVE.
+Dialogue: 0,0:00:17.89,0:00:18.87,Cap,,0,0,0,,DEATH SHALL {\c&H0030D2FF&\fscx108\fscy108}LIVE.{\c&H00FFFFFF&\fscx100\fscy100}
+Dialogue: 0,0:00:18.87,0:00:19.01,Cap,,0,0,0,,{\c&H0030D2FF&\fscx108\fscy108}THOSE{\c&H00FFFFFF&\fscx100\fscy100} WHO SEEK
+Dialogue: 0,0:00:19.01,0:00:19.23,Cap,,0,0,0,,THOSE {\c&H0030D2FF&\fscx108\fscy108}WHO{\c&H00FFFFFF&\fscx100\fscy100} SEEK
+Dialogue: 0,0:00:19.23,0:00:19.47,Cap,,0,0,0,,THOSE WHO {\c&H0030D2FF&\fscx108\fscy108}SEEK{\c&H00FFFFFF&\fscx100\fscy100}
+Dialogue: 0,0:00:19.47,0:00:19.87,Cap,,0,0,0,,{\c&H0030D2FF&\fscx108\fscy108}LIFE{\c&H00FFFFFF&\fscx100\fscy100} SHALL DIE."
+Dialogue: 0,0:00:19.87,0:00:20.45,Cap,,0,0,0,,LIFE {\c&H0030D2FF&\fscx108\fscy108}SHALL{\c&H00FFFFFF&\fscx100\fscy100} DIE."
+Dialogue: 0,0:00:20.45,0:00:21.67,Cap,,0,0,0,,LIFE SHALL {\c&H0030D2FF&\fscx108\fscy108}DIE."{\c&H00FFFFFF&\fscx100\fscy100}
+Dialogue: 0,0:00:21.67,0:00:21.89,Cap,,0,0,0,,{\c&H0030D2FF&\fscx108\fscy108}WHEN{\c&H00FFFFFF&\fscx100\fscy100} THE BATTLE
+Dialogue: 0,0:00:21.89,0:00:22.01,Cap,,0,0,0,,WHEN {\c&H0030D2FF&\fscx108\fscy108}THE{\c&H00FFFFFF&\fscx100\fscy100} BATTLE
+Dialogue: 0,0:00:22.01,0:00:22.23,Cap,,0,0,0,,WHEN THE {\c&H0030D2FF&\fscx108\fscy108}BATTLE{\c&H00FFFFFF&\fscx100\fscy100}
+Dialogue: 0,0:00:22.23,0:00:23.07,Cap,,0,0,0,,{\c&H0030D2FF&\fscx108\fscy108}BEGAN,{\c&H00FFFFFF&\fscx100\fscy100}
+Dialogue: 0,0:00:23.07,0:00:23.13,Cap,,0,0,0,,{\c&H0030D2FF&\fscx108\fscy108}THE{\c&H00FFFFFF&\fscx100\fscy100} OTHER KOREAN
+Dialogue: 0,0:00:23.13,0:00:23.41,Cap,,0,0,0,,THE {\c&H0030D2FF&\fscx108\fscy108}OTHER{\c&H00FFFFFF&\fscx100\fscy100} KOREAN
+Dialogue: 0,0:00:23.41,0:00:23.77,Cap,,0,0,0,,THE OTHER {\c&H0030D2FF&\fscx108\fscy108}KOREAN{\c&H00FFFFFF&\fscx100\fscy100}
+Dialogue: 0,0:00:23.77,0:00:24.17,Cap,,0,0,0,,{\c&H0030D2FF&\fscx108\fscy108}CAPTAINS{\c&H00FFFFFF&\fscx100\fscy100} HESITATED AND
+Dialogue: 0,0:00:24.17,0:00:24.77,Cap,,0,0,0,,CAPTAINS {\c&H0030D2FF&\fscx108\fscy108}HESITATED{\c&H00FFFFFF&\fscx100\fscy100} AND
+Dialogue: 0,0:00:24.77,0:00:25.19,Cap,,0,0,0,,CAPTAINS HESITATED {\c&H0030D2FF&\fscx108\fscy108}AND{\c&H00FFFFFF&\fscx100\fscy100}
+Dialogue: 0,0:00:25.19,0:00:25.35,Cap,,0,0,0,,{\c&H0030D2FF&\fscx108\fscy108}HUNG{\c&H00FFFFFF&\fscx100\fscy100} BACK.
+Dialogue: 0,0:00:25.35,0:00:26.37,Cap,,0,0,0,,HUNG {\c&H0030D2FF&\fscx108\fscy108}BACK.{\c&H00FFFFFF&\fscx100\fscy100}
+Dialogue: 0,0:00:26.37,0:00:26.49,Cap,,0,0,0,,{\c&H0030D2FF&\fscx108\fscy108}FOR{\c&H00FFFFFF&\fscx100\fscy100} A WHILE,
+Dialogue: 0,0:00:26.49,0:00:26.63,Cap,,0,0,0,,FOR {\c&H0030D2FF&\fscx108\fscy108}A{\c&H00FFFFFF&\fscx100\fscy100} WHILE,
+Dialogue: 0,0:00:26.63,0:00:27.29,Cap,,0,0,0,,FOR A {\c&H0030D2FF&\fscx108\fscy108}WHILE,{\c&H00FFFFFF&\fscx100\fscy100}
+Dialogue: 0,0:00:27.29,0:00:27.55,Cap,,0,0,0,,{\c&H0030D2FF&\fscx108\fscy108}YI'S{\c&H00FFFFFF&\fscx100\fscy100} FLAGSHIP FOUGHT
+Dialogue: 0,0:00:27.55,0:00:27.85,Cap,,0,0,0,,YI'S {\c&H0030D2FF&\fscx108\fscy108}FLAGSHIP{\c&H00FFFFFF&\fscx100\fscy100} FOUGHT
+Dialogue: 0,0:00:27.85,0:00:28.33,Cap,,0,0,0,,YI'S FLAGSHIP {\c&H0030D2FF&\fscx108\fscy108}FOUGHT{\c&H00FFFFFF&\fscx100\fscy100}
+Dialogue: 0,0:00:28.33,0:00:28.77,Cap,,0,0,0,,{\c&H0030D2FF&\fscx108\fscy108}ALMOST{\c&H00FFFFFF&\fscx100\fscy100} ALONE,
+Dialogue: 0,0:00:28.77,0:00:29.31,Cap,,0,0,0,,ALMOST {\c&H0030D2FF&\fscx108\fscy108}ALONE,{\c&H00FFFFFF&\fscx100\fscy100}
+Dialogue: 0,0:00:29.31,0:00:29.93,Cap,,0,0,0,,{\c&H0030D2FF&\fscx108\fscy108}AGAINST{\c&H00FFFFFF&\fscx100\fscy100} WAVE AFTER
+Dialogue: 0,0:00:29.93,0:00:30.45,Cap,,0,0,0,,AGAINST {\c&H0030D2FF&\fscx108\fscy108}WAVE{\c&H00FFFFFF&\fscx100\fscy100} AFTER
+Dialogue: 0,0:00:30.45,0:00:30.69,Cap,,0,0,0,,AGAINST WAVE {\c&H0030D2FF&\fscx108\fscy108}AFTER{\c&H00FFFFFF&\fscx100\fscy100}
+Dialogue: 0,0:00:30.69,0:00:31.23,Cap,,0,0,0,,{\c&H0030D2FF&\fscx108\fscy108}WAVE{\c&H00FFFFFF&\fscx100\fscy100} OF ENEMY
+Dialogue: 0,0:00:31.23,0:00:31.45,Cap,,0,0,0,,WAVE {\c&H0030D2FF&\fscx108\fscy108}OF{\c&H00FFFFFF&\fscx100\fscy100} ENEMY
+Dialogue: 0,0:00:31.45,0:00:31.71,Cap,,0,0,0,,WAVE OF {\c&H0030D2FF&\fscx108\fscy108}ENEMY{\c&H00FFFFFF&\fscx100\fscy100}
+Dialogue: 0,0:00:31.71,0:00:32.77,Cap,,0,0,0,,{\c&H0030D2FF&\fscx108\fscy108}SHIPS.{\c&H00FFFFFF&\fscx100\fscy100}
+Dialogue: 0,0:00:32.77,0:00:33.07,Cap,,0,0,0,,{\c&H0030D2FF&\fscx108\fscy108}THEN{\c&H00FFFFFF&\fscx100\fscy100} THE OTHERS
+Dialogue: 0,0:00:33.07,0:00:33.31,Cap,,0,0,0,,THEN {\c&H0030D2FF&\fscx108\fscy108}THE{\c&H00FFFFFF&\fscx100\fscy100} OTHERS
+Dialogue: 0,0:00:33.31,0:00:33.65,Cap,,0,0,0,,THEN THE {\c&H0030D2FF&\fscx108\fscy108}OTHERS{\c&H00FFFFFF&\fscx100\fscy100}
+Dialogue: 0,0:00:33.65,0:00:34.69,Cap,,0,0,0,,{\c&H0030D2FF&\fscx108\fscy108}REJOINED.{\c&H00FFFFFF&\fscx100\fscy100}
+Dialogue: 0,0:00:34.69,0:00:34.99,Cap,,0,0,0,,{\c&H0030D2FF&\fscx108\fscy108}AND{\c&H00FFFFFF&\fscx100\fscy100} THEN THE
+Dialogue: 0,0:00:34.99,0:00:35.33,Cap,,0,0,0,,AND {\c&H0030D2FF&\fscx108\fscy108}THEN{\c&H00FFFFFF&\fscx100\fscy100} THE
+Dialogue: 0,0:00:35.33,0:00:35.67,Cap,,0,0,0,,AND THEN {\c&H0030D2FF&\fscx108\fscy108}THE{\c&H00FFFFFF&\fscx100\fscy100}
+Dialogue: 0,0:00:35.67,0:00:36.05,Cap,,0,0,0,,{\c&H0030D2FF&\fscx108\fscy108}CURRENT{\c&H00FFFFFF&\fscx100\fscy100} TURNED.
+Dialogue: 0,0:00:36.05,0:00:36.91,Cap,,0,0,0,,CURRENT {\c&H0030D2FF&\fscx108\fscy108}TURNED.{\c&H00FFFFFF&\fscx100\fscy100}
+Dialogue: 0,0:00:36.91,0:00:37.07,Cap,,0,0,0,,{\c&H0030D2FF&\fscx108\fscy108}THE{\c&H00FFFFFF&\fscx100\fscy100} JAPANESE SHIPS,
+Dialogue: 0,0:00:37.07,0:00:37.51,Cap,,0,0,0,,THE {\c&H0030D2FF&\fscx108\fscy108}JAPANESE{\c&H00FFFFFF&\fscx100\fscy100} SHIPS,
+Dialogue: 0,0:00:37.51,0:00:38.23,Cap,,0,0,0,,THE JAPANESE {\c&H0030D2FF&\fscx108\fscy108}SHIPS,{\c&H00FFFFFF&\fscx100\fscy100}
+Dialogue: 0,0:00:38.23,0:00:38.53,Cap,,0,0,0,,{\c&H0030D2FF&\fscx108\fscy108}PACKED{\c&H00FFFFFF&\fscx100\fscy100} INTO THE
+Dialogue: 0,0:00:38.53,0:00:38.85,Cap,,0,0,0,,PACKED {\c&H0030D2FF&\fscx108\fscy108}INTO{\c&H00FFFFFF&\fscx100\fscy100} THE
+Dialogue: 0,0:00:38.85,0:00:39.01,Cap,,0,0,0,,PACKED INTO {\c&H0030D2FF&\fscx108\fscy108}THE{\c&H00FFFFFF&\fscx100\fscy100}
+Dialogue: 0,0:00:39.01,0:00:39.29,Cap,,0,0,0,,{\c&H0030D2FF&\fscx108\fscy108}NARROW{\c&H00FFFFFF&\fscx100\fscy100} STRAIT,
+Dialogue: 0,0:00:39.29,0:00:40.07,Cap,,0,0,0,,NARROW {\c&H0030D2FF&\fscx108\fscy108}STRAIT,{\c&H00FFFFFF&\fscx100\fscy100}
+Dialogue: 0,0:00:40.07,0:00:40.19,Cap,,0,0,0,,{\c&H0030D2FF&\fscx108\fscy108}WERE{\c&H00FFFFFF&\fscx100\fscy100} PUSHED BACK
+Dialogue: 0,0:00:40.19,0:00:40.51,Cap,,0,0,0,,WERE {\c&H0030D2FF&\fscx108\fscy108}PUSHED{\c&H00FFFFFF&\fscx100\fscy100} BACK
+Dialogue: 0,0:00:40.51,0:00:40.91,Cap,,0,0,0,,WERE PUSHED {\c&H0030D2FF&\fscx108\fscy108}BACK{\c&H00FFFFFF&\fscx100\fscy100}
+Dialogue: 0,0:00:40.91,0:00:41.29,Cap,,0,0,0,,{\c&H0030D2FF&\fscx108\fscy108}INTO{\c&H00FFFFFF&\fscx100\fscy100} EACH OTHER.
+Dialogue: 0,0:00:41.29,0:00:41.51,Cap,,0,0,0,,INTO {\c&H0030D2FF&\fscx108\fscy108}EACH{\c&H00FFFFFF&\fscx100\fscy100} OTHER.
+Dialogue: 0,0:00:41.51,0:00:42.67,Cap,,0,0,0,,INTO EACH {\c&H0030D2FF&\fscx108\fscy108}OTHER.{\c&H00FFFFFF&\fscx100\fscy100}
+Dialogue: 0,0:00:42.67,0:00:42.79,Cap,,0,0,0,,{\c&H0030D2FF&\fscx108\fscy108}BY{\c&H00FFFFFF&\fscx100\fscy100} THE END
+Dialogue: 0,0:00:42.79,0:00:42.91,Cap,,0,0,0,,BY {\c&H0030D2FF&\fscx108\fscy108}THE{\c&H00FFFFFF&\fscx100\fscy100} END
+Dialogue: 0,0:00:42.91,0:00:43.07,Cap,,0,0,0,,BY THE {\c&H0030D2FF&\fscx108\fscy108}END{\c&H00FFFFFF&\fscx100\fscy100}
+Dialogue: 0,0:00:43.07,0:00:43.21,Cap,,0,0,0,,{\c&H0030D2FF&\fscx108\fscy108}OF{\c&H00FFFFFF&\fscx100\fscy100} THE DAY,
+Dialogue: 0,0:00:43.21,0:00:43.29,Cap,,0,0,0,,OF {\c&H0030D2FF&\fscx108\fscy108}THE{\c&H00FFFFFF&\fscx100\fscy100} DAY,
+Dialogue: 0,0:00:43.29,0:00:43.91,Cap,,0,0,0,,OF THE {\c&H0030D2FF&\fscx108\fscy108}DAY,{\c&H00FFFFFF&\fscx100\fscy100}
+Dialogue: 0,0:00:43.91,0:00:44.09,Cap,,0,0,0,,{\c&H0030D2FF&\fscx108\fscy108}AROUND{\c&H00FFFFFF&\fscx100\fscy100} THIRTY JAPANESE
+Dialogue: 0,0:00:44.09,0:00:44.61,Cap,,0,0,0,,AROUND {\c&H0030D2FF&\fscx108\fscy108}THIRTY{\c&H00FFFFFF&\fscx100\fscy100} JAPANESE
+Dialogue: 0,0:00:44.61,0:00:45.21,Cap,,0,0,0,,AROUND THIRTY {\c&H0030D2FF&\fscx108\fscy108}JAPANESE{\c&H00FFFFFF&\fscx100\fscy100}
+Dialogue: 0,0:00:45.21,0:00:45.65,Cap,,0,0,0,,{\c&H0030D2FF&\fscx108\fscy108}WARSHIPS{\c&H00FFFFFF&\fscx100\fscy100} HAD BEEN
+Dialogue: 0,0:00:45.65,0:00:45.93,Cap,,0,0,0,,WARSHIPS {\c&H0030D2FF&\fscx108\fscy108}HAD{\c&H00FFFFFF&\fscx100\fscy100} BEEN
+Dialogue: 0,0:00:45.93,0:00:46.09,Cap,,0,0,0,,WARSHIPS HAD {\c&H0030D2FF&\fscx108\fscy108}BEEN{\c&H00FFFFFF&\fscx100\fscy100}
+Dialogue: 0,0:00:46.09,0:00:47.67,Cap,,0,0,0,,{\c&H0030D2FF&\fscx108\fscy108}DESTROYED.{\c&H00FFFFFF&\fscx100\fscy100}
+Dialogue: 0,0:00:47.67,0:00:47.67,Cap,,0,0,0,,{\c&H0030D2FF&\fscx108\fscy108}YI{\c&H00FFFFFF&\fscx100\fscy100} DID NOT
+Dialogue: 0,0:00:47.67,0:00:48.03,Cap,,0,0,0,,YI {\c&H0030D2FF&\fscx108\fscy108}DID{\c&H00FFFFFF&\fscx100\fscy100} NOT
+Dialogue: 0,0:00:48.03,0:00:48.35,Cap,,0,0,0,,YI DID {\c&H0030D2FF&\fscx108\fscy108}NOT{\c&H00FFFFFF&\fscx100\fscy100}
+Dialogue: 0,0:00:48.35,0:00:48.65,Cap,,0,0,0,,{\c&H0030D2FF&\fscx108\fscy108}LOSE{\c&H00FFFFFF&\fscx100\fscy100} A SINGLE
+Dialogue: 0,0:00:48.65,0:00:49.07,Cap,,0,0,0,,LOSE {\c&H0030D2FF&\fscx108\fscy108}A{\c&H00FFFFFF&\fscx100\fscy100} SINGLE
+Dialogue: 0,0:00:49.07,0:00:49.41,Cap,,0,0,0,,LOSE A {\c&H0030D2FF&\fscx108\fscy108}SINGLE{\c&H00FFFFFF&\fscx100\fscy100}
+Dialogue: 0,0:00:49.41,0:00:50.07,Cap,,0,0,0,,{\c&H0030D2FF&\fscx108\fscy108}SHIP.{\c&H00FFFFFF&\fscx100\fscy100}
+Dialogue: 2,0:00:50.27,0:00:51.87,CTA,,0,0,0,,{\fad(200,0)}FULL STORY ON THE CHANNEL
