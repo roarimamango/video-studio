@@ -1,0 +1,890 @@
+[
+ {
+  "i": 0,
+  "start": 0.0,
+  "speechStart": 0.0,
+  "speechEnd": 6.82,
+  "text": "On October 3rd, 1849, a man was found slumped outside a tavern in Baltimore. It was election day.",
+  "end": 7.15
+ },
+ {
+  "i": 1,
+  "start": 7.15,
+  "speechStart": 7.3,
+  "speechEnd": 12.0,
+  "text": "He was delirious, he couldn't explain where he'd been, and he was wearing someone else's clothes.",
+  "end": 12.53
+ },
+ {
+  "i": 2,
+  "start": 12.53,
+  "speechStart": 12.68,
+  "speechEnd": 14.4,
+  "text": "He had been missing for five days.",
+  "end": 14.89
+ },
+ {
+  "i": 3,
+  "start": 14.89,
+  "speechStart": 15.04,
+  "speechEnd": 16.7,
+  "text": "Four days later, he was dead.",
+  "end": 17.19
+ },
+ {
+  "i": 4,
+  "start": 17.19,
+  "speechStart": 17.34,
+  "speechEnd": 19.18,
+  "text": "His name was Edgar Allan Poe.",
+  "end": 19.63
+ },
+ {
+  "i": 5,
+  "start": 19.63,
+  "speechStart": 19.78,
+  "speechEnd": 21.52,
+  "text": "He invented the detective story.",
+  "end": 21.65
+ },
+ {
+  "i": 6,
+  "start": 21.65,
+  "speechStart": 21.8,
+  "speechEnd": 25.26,
+  "text": "And he left behind the one mystery nobody has ever solved.",
+  "end": 25.59
+ },
+ {
+  "i": 7,
+  "start": 25.59,
+  "speechStart": 25.74,
+  "speechEnd": 28.26,
+  "text": "This is the lore behind Edgar Allan Poe.",
+  "end": 28.73
+ },
+ {
+  "i": 8,
+  "start": 28.73,
+  "speechStart": 28.88,
+  "speechEnd": 33.06,
+  "text": "He was born in Boston in 1809, to a family of traveling actors.",
+  "end": 33.49
+ },
+ {
+  "i": 9,
+  "start": 33.49,
+  "speechStart": 33.64,
+  "speechEnd": 35.36,
+  "text": "His father walked out when he was a baby.",
+  "end": 35.75
+ },
+ {
+  "i": 10,
+  "start": 35.75,
+  "speechStart": 35.9,
+  "speechEnd": 40.64,
+  "text": "When Edgar was two, his mother died of tuberculosis in a rented room in Richmond, Virginia.",
+  "end": 40.99
+ },
+ {
+  "i": 11,
+  "start": 40.99,
+  "speechStart": 41.14,
+  "speechEnd": 45.52,
+  "text": "A wealthy tobacco merchant named John Allan and his wife Frances took the boy in.",
+  "end": 45.71
+ },
+ {
+  "i": 12,
+  "start": 45.71,
+  "speechStart": 45.86,
+  "speechEnd": 47.42,
+  "text": "They never formally adopted him.",
+  "end": 47.49
+ },
+ {
+  "i": 13,
+  "start": 47.49,
+  "speechStart": 47.64,
+  "speechEnd": 55.66,
+  "text": "But they gave him a home, an education, and a new middle name. Allan. A-L-L-A-N.",
+  "end": 55.51
+ },
+ {
+  "i": 14,
+  "start": 55.51,
+  "speechStart": 55.66,
+  "speechEnd": 56.3,
+  "text": "Not Allen.",
+  "end": 56.15
+ },
+ {
+  "i": 15,
+  "start": 56.15,
+  "speechStart": 56.3,
+  "speechEnd": 59.58,
+  "text": "That middle name is the only thing of John Allan's that Poe would keep.",
+  "end": 59.87
+ },
+ {
+  "i": 16,
+  "start": 59.87,
+  "speechStart": 60.02,
+  "speechEnd": 61.86,
+  "text": "Because the two of them hated each other.",
+  "end": 62.35
+ },
+ {
+  "i": 17,
+  "start": 62.35,
+  "speechStart": 62.5,
+  "speechEnd": 63.82,
+  "text": "John Allan wanted a businessman.",
+  "end": 64.39
+ },
+ {
+  "i": 18,
+  "start": 64.39,
+  "speechStart": 64.54,
+  "speechEnd": 65.78,
+  "text": "Edgar wanted to be a poet.",
+  "end": 66.25
+ },
+ {
+  "i": 19,
+  "start": 66.25,
+  "speechStart": 66.4,
+  "speechEnd": 70.86,
+  "text": "When Poe went to the University of Virginia, Allan sent him barely enough money to survive.",
+  "end": 71.07
+ },
+ {
+  "i": 20,
+  "start": 71.07,
+  "speechStart": 71.22,
+  "speechEnd": 74.04,
+  "text": "So Poe gambled to cover the difference, and lost.",
+  "end": 74.43
+ },
+ {
+  "i": 21,
+  "start": 74.43,
+  "speechStart": 74.58,
+  "speechEnd": 79.28,
+  "text": "He left after one year, buried in debt, and Allan refused to pay it.",
+  "end": 79.43
+ },
+ {
+  "i": 22,
+  "start": 79.43,
+  "speechStart": 79.58,
+  "speechEnd": 83.14,
+  "text": "At eighteen, broke and furious, Poe did something strange.",
+  "end": 83.49
+ },
+ {
+  "i": 23,
+  "start": 83.49,
+  "speechStart": 83.64,
+  "speechEnd": 87.9,
+  "text": "He joined the United States Army under a fake name: Edgar A. Perry.",
+  "end": 88.37
+ },
+ {
+  "i": 24,
+  "start": 88.37,
+  "speechStart": 88.52,
+  "speechEnd": 91.1,
+  "text": "That same year, he published his first book of poems.",
+  "end": 91.49
+ },
+ {
+  "i": 25,
+  "start": 91.49,
+  "speechStart": 91.64,
+  "speechEnd": 93.68,
+  "text": "It didn't say Edgar Allan Poe on the cover.",
+  "end": 93.85
+ },
+ {
+  "i": 26,
+  "start": 93.85,
+  "speechStart": 94.0,
+  "speechEnd": 95.84,
+  "text": "It said, \"by a Bostonian.\"",
+  "end": 96.17
+ },
+ {
+  "i": 27,
+  "start": 96.17,
+  "speechStart": 96.32,
+  "speechEnd": 99.1,
+  "text": "Almost nobody bought it. He made it to West Point.",
+  "end": 99.39
+ },
+ {
+  "i": 28,
+  "start": 99.39,
+  "speechStart": 99.54,
+  "speechEnd": 104.46,
+  "text": "Then, when John Allan finally cut him off for good, Poe got himself thrown out on purpose.",
+  "end": 104.31
+ },
+ {
+  "i": 29,
+  "start": 104.31,
+  "speechStart": 104.46,
+  "speechEnd": 107.54,
+  "text": "He simply stopped showing up to class, to drills,",
+  "end": 107.77
+ },
+ {
+  "i": 30,
+  "start": 107.77,
+  "speechStart": 107.92,
+  "speechEnd": 111.4,
+  "text": "to church, until the academy had no choice but to expel him.",
+  "end": 111.57
+ },
+ {
+  "i": 31,
+  "start": 111.57,
+  "speechStart": 111.72,
+  "speechEnd": 115.54,
+  "text": "He was twenty-two, with no money, no family, and no name.",
+  "end": 115.87
+ },
+ {
+  "i": 32,
+  "start": 115.87,
+  "speechStart": 116.02,
+  "speechEnd": 117.58,
+  "text": "All he had was his writing.",
+  "end": 118.09
+ },
+ {
+  "i": 33,
+  "start": 118.09,
+  "speechStart": 118.24,
+  "speechEnd": 122.64,
+  "text": "In Baltimore, he moved in with his aunt, Maria Clemm, and her young daughter, Virginia.",
+  "end": 123.11
+ },
+ {
+  "i": 34,
+  "start": 123.11,
+  "speechStart": 123.26,
+  "speechEnd": 125.58,
+  "text": "In 1836, Poe married Virginia.",
+  "end": 125.87
+ },
+ {
+  "i": 35,
+  "start": 125.87,
+  "speechStart": 126.02,
+  "speechEnd": 127.38,
+  "text": "He was twenty-seven.",
+  "end": 127.23
+ },
+ {
+  "i": 36,
+  "start": 127.23,
+  "speechStart": 127.38,
+  "speechEnd": 129.0,
+  "text": "She was thirteen.",
+  "end": 128.85
+ },
+ {
+  "i": 37,
+  "start": 128.85,
+  "speechStart": 129.0,
+  "speechEnd": 132.52,
+  "text": "On the marriage bond, her age was listed as twenty-one.",
+  "end": 132.37
+ },
+ {
+  "i": 38,
+  "start": 132.37,
+  "speechStart": 132.52,
+  "speechEnd": 133.76,
+  "text": "They were desperately poor.",
+  "end": 134.33
+ },
+ {
+  "i": 39,
+  "start": 134.33,
+  "speechStart": 134.48,
+  "speechEnd": 139.44,
+  "text": "Poe worked as an editor, wrote reviews, and made enemies everywhere with his vicious criticism.",
+  "end": 139.79
+ },
+ {
+  "i": 40,
+  "start": 139.79,
+  "speechStart": 139.94,
+  "speechEnd": 143.58,
+  "text": "And in between, he wrote stories nobody had ever written before.",
+  "end": 143.95
+ },
+ {
+  "i": 41,
+  "start": 143.95,
+  "speechStart": 144.1,
+  "speechEnd": 147.5,
+  "text": "In 1841, he published \"The Murders in the Rue Morgue.\"",
+  "end": 147.77
+ },
+ {
+  "i": 42,
+  "start": 147.77,
+  "speechStart": 147.92,
+  "speechEnd": 152.64,
+  "text": "A brilliant amateur named Dupin solves an impossible crime using nothing but logic.",
+  "end": 152.99
+ },
+ {
+  "i": 43,
+  "start": 152.99,
+  "speechStart": 153.14,
+  "speechEnd": 155.96,
+  "text": "It's widely considered the first modern detective story.",
+  "end": 156.21
+ },
+ {
+  "i": 44,
+  "start": 156.21,
+  "speechStart": 156.36,
+  "speechEnd": 162.16,
+  "text": "Decades later, Arthur Conan Doyle would admit that Sherlock Holmes owed everything to Dupin.",
+  "end": 162.01
+ },
+ {
+  "i": 45,
+  "start": 162.01,
+  "speechStart": 162.16,
+  "speechEnd": 166.0,
+  "text": "Poe wrote about premature burial, about a man walled up alive,",
+  "end": 166.33
+ },
+ {
+  "i": 46,
+  "start": 166.33,
+  "speechStart": 166.48,
+  "speechEnd": 171.98,
+  "text": "about a murderer driven mad by the sound of his victim's heart, still beating beneath the floorboards.",
+  "end": 172.55
+ },
+ {
+  "i": 47,
+  "start": 172.55,
+  "speechStart": 172.7,
+  "speechEnd": 174.38,
+  "text": "Where did all that darkness come from?",
+  "end": 174.77
+ },
+ {
+  "i": 48,
+  "start": 174.77,
+  "speechStart": 174.92,
+  "speechEnd": 176.3,
+  "text": "Some of it came from home.",
+  "end": 176.81
+ },
+ {
+  "i": 49,
+  "start": 176.81,
+  "speechStart": 176.96,
+  "speechEnd": 181.54,
+  "text": "In 1842, Virginia was singing for friends when she began to cough up blood.",
+  "end": 181.39
+ },
+ {
+  "i": 50,
+  "start": 181.39,
+  "speechStart": 181.54,
+  "speechEnd": 182.92,
+  "text": "It was tuberculosis,",
+  "end": 183.47
+ },
+ {
+  "i": 51,
+  "start": 183.47,
+  "speechStart": 183.62,
+  "speechEnd": 185.76,
+  "text": "the same disease that had killed Poe's mother.",
+  "end": 186.17
+ },
+ {
+  "i": 52,
+  "start": 186.17,
+  "speechStart": 186.32,
+  "speechEnd": 189.94,
+  "text": "For five years, she got better, then worse, then better again.",
+  "end": 190.27
+ },
+ {
+  "i": 53,
+  "start": 190.27,
+  "speechStart": 190.42,
+  "speechEnd": 191.78,
+  "text": "And Poe watched it happen.",
+  "end": 192.23
+ },
+ {
+  "i": 54,
+  "start": 192.23,
+  "speechStart": 192.38,
+  "speechEnd": 194.18,
+  "text": "In January 1845,",
+  "end": 194.49
+ },
+ {
+  "i": 55,
+  "start": 194.49,
+  "speechStart": 194.64,
+  "speechEnd": 199.72,
+  "text": "he published a poem about a grieving man visited by a raven that will only say one word.",
+  "end": 200.13
+ },
+ {
+  "i": 56,
+  "start": 200.13,
+  "speechStart": 200.28,
+  "speechEnd": 203.2,
+  "text": "\"The Raven\" made Edgar Allan Poe famous overnight.",
+  "end": 203.57
+ },
+ {
+  "i": 57,
+  "start": 203.57,
+  "speechStart": 203.72,
+  "speechEnd": 205.52,
+  "text": "It was reprinted across the country.",
+  "end": 205.79
+ },
+ {
+  "i": 58,
+  "start": 205.79,
+  "speechStart": 205.94,
+  "speechEnd": 207.3,
+  "text": "People recited it in theaters.",
+  "end": 207.97
+ },
+ {
+  "i": 59,
+  "start": 207.97,
+  "speechStart": 208.12,
+  "speechEnd": 210.1,
+  "text": "Strangers called him \"The Raven\" in the street.",
+  "end": 209.95
+ },
+ {
+  "i": 60,
+  "start": 209.95,
+  "speechStart": 210.1,
+  "speechEnd": 214.98,
+  "text": "He was reportedly paid about nine dollars for it. Fame didn't make him rich.",
+  "end": 215.29
+ },
+ {
+  "i": 61,
+  "start": 215.29,
+  "speechStart": 215.44,
+  "speechEnd": 216.7,
+  "text": "And it couldn't save Virginia.",
+  "end": 217.13
+ },
+ {
+  "i": 62,
+  "start": 217.13,
+  "speechStart": 217.28,
+  "speechEnd": 222.3,
+  "text": "In January 1847, in a freezing cottage outside New York, she died.",
+  "end": 222.65
+ },
+ {
+  "i": 63,
+  "start": 222.65,
+  "speechStart": 222.8,
+  "speechEnd": 224.28,
+  "text": "She was twenty-four.",
+  "end": 224.13
+ },
+ {
+  "i": 64,
+  "start": 224.13,
+  "speechStart": 224.28,
+  "speechEnd": 229.58,
+  "text": "They were so poor that, as she lay dying, her husband's old military coat served as her blanket.",
+  "end": 230.07
+ },
+ {
+  "i": 65,
+  "start": 230.07,
+  "speechStart": 230.22,
+  "speechEnd": 234.38,
+  "text": "After Virginia's death, Poe fell apart. He drank. He traveled.",
+  "end": 234.69
+ },
+ {
+  "i": 66,
+  "start": 234.69,
+  "speechStart": 234.84,
+  "speechEnd": 236.5,
+  "text": "He proposed to more than one woman.",
+  "end": 236.71
+ },
+ {
+  "i": 67,
+  "start": 236.71,
+  "speechStart": 236.86,
+  "speechEnd": 239.44,
+  "text": "And in 1849, he went back to Richmond",
+  "end": 239.29
+ },
+ {
+  "i": 68,
+  "start": 239.29,
+  "speechStart": 239.44,
+  "speechEnd": 244.86,
+  "text": "and found his childhood sweetheart, Elmira Shelton, now a widow. They became engaged.",
+  "end": 245.33
+ },
+ {
+  "i": 69,
+  "start": 245.33,
+  "speechStart": 245.48,
+  "speechEnd": 248.98,
+  "text": "For a moment, it looked like Edgar Allan Poe might get a happy ending.",
+  "end": 249.35
+ },
+ {
+  "i": 70,
+  "start": 249.35,
+  "speechStart": 249.5,
+  "speechEnd": 253.56,
+  "text": "On September 27th, 1849, he left Richmond by boat,",
+  "end": 253.65
+ },
+ {
+  "i": 71,
+  "start": 253.65,
+  "speechStart": 253.8,
+  "speechEnd": 258.14,
+  "text": "heading north on business, planning to come back and marry her. He never arrived.",
+  "end": 258.53
+ },
+ {
+  "i": 72,
+  "start": 258.53,
+  "speechStart": 258.68,
+  "speechEnd": 261.26,
+  "text": "For five days, nobody knows where he was.",
+  "end": 261.65
+ },
+ {
+  "i": 73,
+  "start": 261.65,
+  "speechStart": 261.8,
+  "speechEnd": 263.44,
+  "text": "Then, on October 3rd,",
+  "end": 263.29
+ },
+ {
+  "i": 74,
+  "start": 263.29,
+  "speechStart": 263.44,
+  "speechEnd": 269.08,
+  "text": "a printer named Joseph Walker found him outside a Baltimore tavern that was being used as a polling place.",
+  "end": 269.65
+ },
+ {
+  "i": 75,
+  "start": 269.65,
+  "speechStart": 269.8,
+  "speechEnd": 274.82,
+  "text": "Walker wrote to one of Poe's acquaintances that the poet was in great distress, and needed immediate help.",
+  "end": 275.31
+ },
+ {
+  "i": 76,
+  "start": 275.31,
+  "speechStart": 275.46,
+  "speechEnd": 276.66,
+  "text": "Poe was taken to a hospital.",
+  "end": 277.03
+ },
+ {
+  "i": 77,
+  "start": 277.03,
+  "speechStart": 277.18,
+  "speechEnd": 282.64,
+  "text": "For four days, he drifted in and out of delirium, hallucinating, talking to things that weren't there.",
+  "end": 283.03
+ },
+ {
+  "i": 78,
+  "start": 283.03,
+  "speechStart": 283.18,
+  "speechEnd": 289.14,
+  "text": "According to his doctor, on his last night, he called out a name, over and over: \"Reynolds.\"",
+  "end": 289.87
+ },
+ {
+  "i": 79,
+  "start": 289.87,
+  "speechStart": 290.02,
+  "speechEnd": 291.72,
+  "text": "Nobody knows who Reynolds was.",
+  "end": 292.25
+ },
+ {
+  "i": 80,
+  "start": 292.25,
+  "speechStart": 292.4,
+  "speechEnd": 297.86,
+  "text": "On October 7th, 1849, Edgar Allan Poe died. He was forty years old.",
+  "end": 298.15
+ },
+ {
+  "i": 81,
+  "start": 298.15,
+  "speechStart": 298.3,
+  "speechEnd": 302.1,
+  "text": "His death certificate has never been found. So what killed him?",
+  "end": 302.33
+ },
+ {
+  "i": 82,
+  "start": 302.33,
+  "speechStart": 302.48,
+  "speechEnd": 304.76,
+  "text": "The most famous theory is called cooping.",
+  "end": 304.97
+ },
+ {
+  "i": 83,
+  "start": 304.97,
+  "speechStart": 305.12,
+  "speechEnd": 310.18,
+  "text": "In nineteenth-century Baltimore, gangs would kidnap strangers on election day, get them drunk,",
+  "end": 310.39
+ },
+ {
+  "i": 84,
+  "start": 310.39,
+  "speechStart": 310.54,
+  "speechEnd": 315.7,
+  "text": "change their clothes, and drag them from polling place to polling place to vote again and again.",
+  "end": 316.11
+ },
+ {
+  "i": 85,
+  "start": 316.11,
+  "speechStart": 316.26,
+  "speechEnd": 323.3,
+  "text": "Poe was found at a polling place, on election day, in clothes that weren't his. But there are other theories. Alcohol.",
+  "end": 323.85
+ },
+ {
+  "i": 86,
+  "start": 323.85,
+  "speechStart": 324.0,
+  "speechEnd": 327.42,
+  "text": "A beating. A brain tumor. Carbon monoxide. Flu.",
+  "end": 327.97
+ },
+ {
+  "i": 87,
+  "start": 327.97,
+  "speechStart": 328.12,
+  "speechEnd": 334.66,
+  "text": "In 1996, a doctor reviewing his symptoms argued that Poe died of rabies. None of them can be proven.",
+  "end": 335.13
+ },
+ {
+  "i": 88,
+  "start": 335.13,
+  "speechStart": 335.28,
+  "speechEnd": 337.48,
+  "text": "And then the lore gets even darker.",
+  "end": 337.77
+ },
+ {
+  "i": 89,
+  "start": 337.77,
+  "speechStart": 337.92,
+  "speechEnd": 341.56,
+  "text": "Because after Poe died, his reputation was murdered too.",
+  "end": 342.01
+ },
+ {
+  "i": 90,
+  "start": 342.01,
+  "speechStart": 342.16,
+  "speechEnd": 348.14,
+  "text": "A rival editor named Rufus Griswold, a man Poe had once criticized, published an obituary that began:",
+  "end": 348.65
+ },
+ {
+  "i": 91,
+  "start": 348.65,
+  "speechStart": 348.8,
+  "speechEnd": 350.32,
+  "text": "\"Edgar Allan Poe is dead.",
+  "end": 350.71
+ },
+ {
+  "i": 92,
+  "start": 350.71,
+  "speechStart": 350.86,
+  "speechEnd": 354.34,
+  "text": "This announcement will startle many, but few will be grieved by it.\"",
+  "end": 354.69
+ },
+ {
+  "i": 93,
+  "start": 354.69,
+  "speechStart": 354.84,
+  "speechEnd": 358.22,
+  "text": "Then Griswold somehow became Poe's literary executor.",
+  "end": 358.43
+ },
+ {
+  "i": 94,
+  "start": 358.43,
+  "speechStart": 358.58,
+  "speechEnd": 362.04,
+  "text": "He wrote a biography that painted Poe as a drunk, a madman,",
+  "end": 362.05
+ },
+ {
+  "i": 95,
+  "start": 362.05,
+  "speechStart": 362.2,
+  "speechEnd": 366.82,
+  "text": "and a man without friends, and he forged letters to prove it. It backfired.",
+  "end": 367.33
+ },
+ {
+  "i": 96,
+  "start": 367.33,
+  "speechStart": 367.48,
+  "speechEnd": 374.24,
+  "text": "Griswold's lies made Poe sound exactly like one of his own characters. The tortured genius. The madman in the dark.",
+  "end": 374.65
+ },
+ {
+  "i": 97,
+  "start": 374.65,
+  "speechStart": 374.8,
+  "speechEnd": 376.22,
+  "text": "And readers couldn't get enough.",
+  "end": 376.73
+ },
+ {
+  "i": 98,
+  "start": 376.73,
+  "speechStart": 376.88,
+  "speechEnd": 379.48,
+  "text": "The legend kept growing, even at his grave.",
+  "end": 379.79
+ },
+ {
+  "i": 99,
+  "start": 379.79,
+  "speechStart": 379.94,
+  "speechEnd": 385.46,
+  "text": "For sixty years, from 1949 to 2009, every year on Poe's birthday,",
+  "end": 385.65
+ },
+ {
+  "i": 100,
+  "start": 385.65,
+  "speechStart": 385.8,
+  "speechEnd": 389.78,
+  "text": "a mysterious figure dressed in black slipped into the cemetery in Baltimore",
+  "end": 389.63
+ },
+ {
+  "i": 101,
+  "start": 389.63,
+  "speechStart": 389.78,
+  "speechEnd": 393.24,
+  "text": "and left three roses and a half-empty bottle of cognac.",
+  "end": 393.63
+ },
+ {
+  "i": 102,
+  "start": 393.63,
+  "speechStart": 393.78,
+  "speechEnd": 395.8,
+  "text": "People staked out the grave for decades.",
+  "end": 396.41
+ },
+ {
+  "i": 103,
+  "start": 396.41,
+  "speechStart": 396.56,
+  "speechEnd": 399.0,
+  "text": "Nobody ever unmasked the Poe Toaster.",
+  "end": 399.01
+ },
+ {
+  "i": 104,
+  "start": 399.01,
+  "speechStart": 399.16,
+  "speechEnd": 401.92,
+  "text": "So here's the lore of Edgar Allan Poe.",
+  "end": 402.43
+ },
+ {
+  "i": 105,
+  "start": 402.43,
+  "speechStart": 402.58,
+  "speechEnd": 405.58,
+  "text": "An orphan who took his name from a man who rejected him.",
+  "end": 405.83
+ },
+ {
+  "i": 106,
+  "start": 405.83,
+  "speechStart": 405.98,
+  "speechEnd": 409.28,
+  "text": "A poet who sold his most famous poem for almost nothing.",
+  "end": 409.65
+ },
+ {
+  "i": 107,
+  "start": 409.65,
+  "speechStart": 409.8,
+  "speechEnd": 413.06,
+  "text": "A husband who lost everyone he loved to the same disease.",
+  "end": 413.61
+ },
+ {
+  "i": 108,
+  "start": 413.61,
+  "speechStart": 413.76,
+  "speechEnd": 416.2,
+  "text": "A man who invented the detective story, and",
+  "end": 416.05
+ },
+ {
+  "i": 109,
+  "start": 416.05,
+  "speechStart": 416.2,
+  "speechEnd": 422.48,
+  "text": "then disappeared into a mystery that the greatest detectives in history still can't solve. Quoth the raven:",
+  "end": 423.09
+ },
+ {
+  "i": 110,
+  "start": 423.09,
+  "speechStart": 423.24,
+  "speechEnd": 423.82,
+  "text": "nevermore.",
+  "end": 425.32
+ }
+]

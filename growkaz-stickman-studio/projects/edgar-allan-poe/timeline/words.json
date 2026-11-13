@@ -1,0 +1,5690 @@
+{
+ "source": "whisper:small.en+script",
+ "words": [
+  {
+   "word": "On",
+   "start": 0.0,
+   "end": 0.2
+  },
+  {
+   "word": "October",
+   "start": 0.2,
+   "end": 0.52
+  },
+  {
+   "word": "3rd,",
+   "start": 0.52,
+   "end": 1.22
+  },
+  {
+   "word": "1849,",
+   "start": 1.26,
+   "end": 2.18
+  },
+  {
+   "word": "a",
+   "start": 2.62,
+   "end": 2.66
+  },
+  {
+   "word": "man",
+   "start": 2.66,
+   "end": 2.84
+  },
+  {
+   "word": "was",
+   "start": 2.84,
+   "end": 3.0
+  },
+  {
+   "word": "found",
+   "start": 3.0,
+   "end": 3.28
+  },
+  {
+   "word": "slumped",
+   "start": 3.28,
+   "end": 3.68
+  },
+  {
+   "word": "outside",
+   "start": 3.68,
+   "end": 4.12
+  },
+  {
+   "word": "a",
+   "start": 4.12,
+   "end": 4.34
+  },
+  {
+   "word": "tavern",
+   "start": 4.34,
+   "end": 4.64
+  },
+  {
+   "word": "in",
+   "start": 4.64,
+   "end": 4.9
+  },
+  {
+   "word": "Baltimore.",
+   "start": 4.9,
+   "end": 5.26
+  },
+  {
+   "word": "It",
+   "start": 5.88,
+   "end": 6.0
+  },
+  {
+   "word": "was",
+   "start": 6.0,
+   "end": 6.14
+  },
+  {
+   "word": "election",
+   "start": 6.14,
+   "end": 6.46
+  },
+  {
+   "word": "day.",
+   "start": 6.46,
+   "end": 6.82
+  },
+  {
+   "word": "He",
+   "start": 7.3,
+   "end": 7.44
+  },
+  {
+   "word": "was",
+   "start": 7.44,
+   "end": 7.56
+  },
+  {
+   "word": "delirious,",
+   "start": 7.56,
+   "end": 8.18
+  },
+  {
+   "word": "he",
+   "start": 8.54,
+   "end": 8.66
+  },
+  {
+   "word": "couldn't",
+   "start": 8.66,
+   "end": 8.86
+  },
+  {
+   "word": "explain",
+   "start": 8.86,
+   "end": 9.28
+  },
+  {
+   "word": "where",
+   "start": 9.28,
+   "end": 9.52
+  },
+  {
+   "word": "he'd",
+   "start": 9.52,
+   "end": 9.74
+  },
+  {
+   "word": "been,",
+   "start": 9.74,
+   "end": 10.04
+  },
+  {
+   "word": "and",
+   "start": 10.32,
+   "end": 10.46
+  },
+  {
+   "word": "he",
+   "start": 10.46,
+   "end": 10.56
+  },
+  {
+   "word": "was",
+   "start": 10.56,
+   "end": 10.66
+  },
+  {
+   "word": "wearing",
+   "start": 10.66,
+   "end": 10.96
+  },
+  {
+   "word": "someone",
+   "start": 10.96,
+   "end": 11.34
+  },
+  {
+   "word": "else's",
+   "start": 11.34,
+   "end": 11.7
+  },
+  {
+   "word": "clothes.",
+   "start": 11.7,
+   "end": 12.0
+  },
+  {
+   "word": "He",
+   "start": 12.68,
+   "end": 12.8
+  },
+  {
+   "word": "had",
+   "start": 12.8,
+   "end": 12.88
+  },
+  {
+   "word": "been",
+   "start": 12.88,
+   "end": 13.02
+  },
+  {
+   "word": "missing",
+   "start": 13.02,
+   "end": 13.36
+  },
+  {
+   "word": "for",
+   "start": 13.36,
+   "end": 13.6
+  },
+  {
+   "word": "five",
+   "start": 13.6,
+   "end": 13.96
+  },
+  {
+   "word": "days.",
+   "start": 13.96,
+   "end": 14.4
+  },
+  {
+   "word": "Four",
+   "start": 15.04,
+   "end": 15.18
+  },
+  {
+   "word": "days",
+   "start": 15.18,
+   "end": 15.36
+  },
+  {
+   "word": "later,",
+   "start": 15.36,
+   "end": 15.74
+  },
+  {
+   "word": "he",
+   "start": 16.0,
+   "end": 16.26
+  },
+  {
+   "word": "was",
+   "start": 16.26,
+   "end": 16.42
+  },
+  {
+   "word": "dead.",
+   "start": 16.42,
+   "end": 16.7
+  },
+  {
+   "word": "His",
+   "start": 17.34,
+   "end": 17.5
+  },
+  {
+   "word": "name",
+   "start": 17.5,
+   "end": 17.78
+  },
+  {
+   "word": "was",
+   "start": 17.78,
+   "end": 18.16
+  },
+  {
+   "word": "Edgar",
+   "start": 18.16,
+   "end": 18.58
+  },
+  {
+   "word": "Allan",
+   "start": 18.58,
+   "end": 18.94
+  },
+  {
+   "word": "Poe.",
+   "start": 18.94,
+   "end": 19.18
+  },
+  {
+   "word": "He",
+   "start": 19.78,
+   "end": 19.96
+  },
+  {
+   "word": "invented",
+   "start": 19.96,
+   "end": 20.38
+  },
+  {
+   "word": "the",
+   "start": 20.38,
+   "end": 20.68
+  },
+  {
+   "word": "detective",
+   "start": 20.68,
+   "end": 21.04
+  },
+  {
+   "word": "story.",
+   "start": 21.04,
+   "end": 21.52
+  },
+  {
+   "word": "And",
+   "start": 21.8,
+   "end": 22.04
+  },
+  {
+   "word": "he",
+   "start": 22.04,
+   "end": 22.16
+  },
+  {
+   "word": "left",
+   "start": 22.16,
+   "end": 22.34
+  },
+  {
+   "word": "behind",
+   "start": 22.34,
+   "end": 22.76
+  },
+  {
+   "word": "the",
+   "start": 22.76,
+   "end": 22.98
+  },
+  {
+   "word": "one",
+   "start": 22.98,
+   "end": 23.2
+  },
+  {
+   "word": "mystery",
+   "start": 23.2,
+   "end": 23.64
+  },
+  {
+   "word": "nobody",
+   "start": 23.64,
+   "end": 24.02
+  },
+  {
+   "word": "has",
+   "start": 24.02,
+   "end": 24.4
+  },
+  {
+   "word": "ever",
+   "start": 24.4,
+   "end": 24.76
+  },
+  {
+   "word": "solved.",
+   "start": 24.76,
+   "end": 25.26
+  },
+  {
+   "word": "This",
+   "start": 25.74,
+   "end": 26.0
+  },
+  {
+   "word": "is",
+   "start": 26.0,
+   "end": 26.28
+  },
+  {
+   "word": "the",
+   "start": 26.28,
+   "end": 26.48
+  },
+  {
+   "word": "lore",
+   "start": 26.48,
+   "end": 26.74
+  },
+  {
+   "word": "behind",
+   "start": 26.74,
+   "end": 27.22
+  },
+  {
+   "word": "Edgar",
+   "start": 27.22,
+   "end": 27.64
+  },
+  {
+   "word": "Allan",
+   "start": 27.64,
+   "end": 27.98
+  },
+  {
+   "word": "Poe.",
+   "start": 27.98,
+   "end": 28.26
+  },
+  {
+   "word": "He",
+   "start": 28.88,
+   "end": 29.4
+  },
+  {
+   "word": "was",
+   "start": 29.4,
+   "end": 29.52
+  },
+  {
+   "word": "born",
+   "start": 29.52,
+   "end": 29.74
+  },
+  {
+   "word": "in",
+   "start": 29.74,
+   "end": 29.98
+  },
+  {
+   "word": "Boston",
+   "start": 29.98,
+   "end": 30.32
+  },
+  {
+   "word": "in",
+   "start": 30.32,
+   "end": 30.56
+  },
+  {
+   "word": "1809,",
+   "start": 30.56,
+   "end": 31.32
+  },
+  {
+   "word": "to",
+   "start": 31.32,
+   "end": 31.6
+  },
+  {
+   "word": "a",
+   "start": 31.6,
+   "end": 31.74
+  },
+  {
+   "word": "family",
+   "start": 31.74,
+   "end": 32.02
+  },
+  {
+   "word": "of",
+   "start": 32.02,
+   "end": 32.24
+  },
+  {
+   "word": "traveling",
+   "start": 32.24,
+   "end": 32.62
+  },
+  {
+   "word": "actors.",
+   "start": 32.62,
+   "end": 33.06
+  },
+  {
+   "word": "His",
+   "start": 33.64,
+   "end": 33.72
+  },
+  {
+   "word": "father",
+   "start": 33.72,
+   "end": 34.0
+  },
+  {
+   "word": "walked",
+   "start": 34.0,
+   "end": 34.36
+  },
+  {
+   "word": "out",
+   "start": 34.36,
+   "end": 34.62
+  },
+  {
+   "word": "when",
+   "start": 34.62,
+   "end": 34.78
+  },
+  {
+   "word": "he",
+   "start": 34.78,
+   "end": 34.86
+  },
+  {
+   "word": "was",
+   "start": 34.86,
+   "end": 34.98
+  },
+  {
+   "word": "a",
+   "start": 34.98,
+   "end": 35.1
+  },
+  {
+   "word": "baby.",
+   "start": 35.1,
+   "end": 35.36
+  },
+  {
+   "word": "When",
+   "start": 35.9,
+   "end": 36.04
+  },
+  {
+   "word": "Edgar",
+   "start": 36.04,
+   "end": 36.24
+  },
+  {
+   "word": "was",
+   "start": 36.24,
+   "end": 36.46
+  },
+  {
+   "word": "two,",
+   "start": 36.46,
+   "end": 36.82
+  },
+  {
+   "word": "his",
+   "start": 37.14,
+   "end": 37.24
+  },
+  {
+   "word": "mother",
+   "start": 37.24,
+   "end": 37.5
+  },
+  {
+   "word": "died",
+   "start": 37.5,
+   "end": 37.8
+  },
+  {
+   "word": "of",
+   "start": 37.8,
+   "end": 37.96
+  },
+  {
+   "word": "tuberculosis",
+   "start": 37.96,
+   "end": 38.5
+  },
+  {
+   "word": "in",
+   "start": 38.5,
+   "end": 38.96
+  },
+  {
+   "word": "a",
+   "start": 38.96,
+   "end": 39.06
+  },
+  {
+   "word": "rented",
+   "start": 39.06,
+   "end": 39.3
+  },
+  {
+   "word": "room",
+   "start": 39.3,
+   "end": 39.64
+  },
+  {
+   "word": "in",
+   "start": 39.64,
+   "end": 39.82
+  },
+  {
+   "word": "Richmond,",
+   "start": 39.82,
+   "end": 40.16
+  },
+  {
+   "word": "Virginia.",
+   "start": 40.3,
+   "end": 40.64
+  },
+  {
+   "word": "A",
+   "start": 41.14,
+   "end": 41.34
+  },
+  {
+   "word": "wealthy",
+   "start": 41.34,
+   "end": 41.64
+  },
+  {
+   "word": "tobacco",
+   "start": 41.64,
+   "end": 42.1
+  },
+  {
+   "word": "merchant",
+   "start": 42.1,
+   "end": 42.5
+  },
+  {
+   "word": "named",
+   "start": 42.5,
+   "end": 42.78
+  },
+  {
+   "word": "John",
+   "start": 42.78,
+   "end": 43.14
+  },
+  {
+   "word": "Allan",
+   "start": 43.14,
+   "end": 43.48
+  },
+  {
+   "word": "and",
+   "start": 43.48,
+   "end": 43.72
+  },
+  {
+   "word": "his",
+   "start": 43.72,
+   "end": 43.84
+  },
+  {
+   "word": "wife",
+   "start": 43.84,
+   "end": 44.06
+  },
+  {
+   "word": "Frances",
+   "start": 44.06,
+   "end": 44.52
+  },
+  {
+   "word": "took",
+   "start": 44.52,
+   "end": 44.86
+  },
+  {
+   "word": "the",
+   "start": 44.86,
+   "end": 45.04
+  },
+  {
+   "word": "boy",
+   "start": 45.04,
+   "end": 45.24
+  },
+  {
+   "word": "in.",
+   "start": 45.24,
+   "end": 45.52
+  },
+  {
+   "word": "They",
+   "start": 45.86,
+   "end": 46.04
+  },
+  {
+   "word": "never",
+   "start": 46.04,
+   "end": 46.26
+  },
+  {
+   "word": "formally",
+   "start": 46.26,
+   "end": 46.74
+  },
+  {
+   "word": "adopted",
+   "start": 46.74,
+   "end": 47.12
+  },
+  {
+   "word": "him.",
+   "start": 47.12,
+   "end": 47.42
+  },
+  {
+   "word": "But",
+   "start": 47.64,
+   "end": 47.84
+  },
+  {
+   "word": "they",
+   "start": 47.84,
+   "end": 47.98
+  },
+  {
+   "word": "gave",
+   "start": 47.98,
+   "end": 48.14
+  },
+  {
+   "word": "him",
+   "start": 48.14,
+   "end": 48.26
+  },
+  {
+   "word": "a",
+   "start": 48.26,
+   "end": 48.38
+  },
+  {
+   "word": "home,",
+   "start": 48.38,
+   "end": 48.64
+  },
+  {
+   "word": "an",
+   "start": 48.94,
+   "end": 49.04
+  },
+  {
+   "word": "education,",
+   "start": 49.04,
+   "end": 49.5
+  },
+  {
+   "word": "and",
+   "start": 49.94,
+   "end": 50.1
+  },
+  {
+   "word": "a",
+   "start": 50.1,
+   "end": 50.24
+  },
+  {
+   "word": "new",
+   "start": 50.24,
+   "end": 50.48
+  },
+  {
+   "word": "middle",
+   "start": 50.48,
+   "end": 50.72
+  },
+  {
+   "word": "name.",
+   "start": 50.72,
+   "end": 51.1
+  },
+  {
+   "word": "Allan.",
+   "start": 51.1,
+   "end": 51.98
+  },
+  {
+   "word": "A-L-L-A-N.",
+   "start": 55.1,
+   "end": 55.66
+  },
+  {
+   "word": "Not",
+   "start": 55.66,
+   "end": 55.98
+  },
+  {
+   "word": "Allen.",
+   "start": 55.98,
+   "end": 56.3
+  },
+  {
+   "word": "That",
+   "start": 56.3,
+   "end": 56.42
+  },
+  {
+   "word": "middle",
+   "start": 56.42,
+   "end": 56.68
+  },
+  {
+   "word": "name",
+   "start": 56.68,
+   "end": 56.96
+  },
+  {
+   "word": "is",
+   "start": 56.96,
+   "end": 57.14
+  },
+  {
+   "word": "the",
+   "start": 57.14,
+   "end": 57.28
+  },
+  {
+   "word": "only",
+   "start": 57.28,
+   "end": 57.58
+  },
+  {
+   "word": "thing",
+   "start": 57.58,
+   "end": 57.9
+  },
+  {
+   "word": "of",
+   "start": 57.9,
+   "end": 58.04
+  },
+  {
+   "word": "John",
+   "start": 58.04,
+   "end": 58.3
+  },
+  {
+   "word": "Allan's",
+   "start": 58.3,
+   "end": 58.76
+  },
+  {
+   "word": "that",
+   "start": 58.76,
+   "end": 58.9
+  },
+  {
+   "word": "Poe",
+   "start": 58.9,
+   "end": 59.08
+  },
+  {
+   "word": "would",
+   "start": 59.08,
+   "end": 59.28
+  },
+  {
+   "word": "keep.",
+   "start": 59.28,
+   "end": 59.58
+  },
+  {
+   "word": "Because",
+   "start": 60.02,
+   "end": 60.24
+  },
+  {
+   "word": "the",
+   "start": 60.24,
+   "end": 60.42
+  },
+  {
+   "word": "two",
+   "start": 60.42,
+   "end": 60.62
+  },
+  {
+   "word": "of",
+   "start": 60.62,
+   "end": 60.76
+  },
+  {
+   "word": "them",
+   "start": 60.76,
+   "end": 60.92
+  },
+  {
+   "word": "hated",
+   "start": 60.92,
+   "end": 61.32
+  },
+  {
+   "word": "each",
+   "start": 61.32,
+   "end": 61.64
+  },
+  {
+   "word": "other.",
+   "start": 61.64,
+   "end": 61.86
+  },
+  {
+   "word": "John",
+   "start": 62.5,
+   "end": 62.6
+  },
+  {
+   "word": "Allan",
+   "start": 62.6,
+   "end": 62.88
+  },
+  {
+   "word": "wanted",
+   "start": 62.88,
+   "end": 63.16
+  },
+  {
+   "word": "a",
+   "start": 63.16,
+   "end": 63.36
+  },
+  {
+   "word": "businessman.",
+   "start": 63.36,
+   "end": 63.82
+  },
+  {
+   "word": "Edgar",
+   "start": 64.54,
+   "end": 64.68
+  },
+  {
+   "word": "wanted",
+   "start": 64.68,
+   "end": 65.14
+  },
+  {
+   "word": "to",
+   "start": 65.14,
+   "end": 65.28
+  },
+  {
+   "word": "be",
+   "start": 65.28,
+   "end": 65.4
+  },
+  {
+   "word": "a",
+   "start": 65.4,
+   "end": 65.56
+  },
+  {
+   "word": "poet.",
+   "start": 65.56,
+   "end": 65.78
+  },
+  {
+   "word": "When",
+   "start": 66.4,
+   "end": 66.5
+  },
+  {
+   "word": "Poe",
+   "start": 66.5,
+   "end": 66.72
+  },
+  {
+   "word": "went",
+   "start": 66.72,
+   "end": 66.9
+  },
+  {
+   "word": "to",
+   "start": 66.9,
+   "end": 67.04
+  },
+  {
+   "word": "the",
+   "start": 67.04,
+   "end": 67.12
+  },
+  {
+   "word": "University",
+   "start": 67.12,
+   "end": 67.5
+  },
+  {
+   "word": "of",
+   "start": 67.5,
+   "end": 67.78
+  },
+  {
+   "word": "Virginia,",
+   "start": 67.78,
+   "end": 68.2
+  },
+  {
+   "word": "Allan",
+   "start": 68.76,
+   "end": 68.86
+  },
+  {
+   "word": "sent",
+   "start": 68.86,
+   "end": 69.12
+  },
+  {
+   "word": "him",
+   "start": 69.12,
+   "end": 69.32
+  },
+  {
+   "word": "barely",
+   "start": 69.32,
+   "end": 69.62
+  },
+  {
+   "word": "enough",
+   "start": 69.62,
+   "end": 69.92
+  },
+  {
+   "word": "money",
+   "start": 69.92,
+   "end": 70.2
+  },
+  {
+   "word": "to",
+   "start": 70.2,
+   "end": 70.4
+  },
+  {
+   "word": "survive.",
+   "start": 70.4,
+   "end": 70.86
+  },
+  {
+   "word": "So",
+   "start": 71.22,
+   "end": 71.5
+  },
+  {
+   "word": "Poe",
+   "start": 71.5,
+   "end": 71.76
+  },
+  {
+   "word": "gambled",
+   "start": 71.76,
+   "end": 72.2
+  },
+  {
+   "word": "to",
+   "start": 72.2,
+   "end": 72.38
+  },
+  {
+   "word": "cover",
+   "start": 72.38,
+   "end": 72.58
+  },
+  {
+   "word": "the",
+   "start": 72.58,
+   "end": 72.74
+  },
+  {
+   "word": "difference,",
+   "start": 72.74,
+   "end": 73.1
+  },
+  {
+   "word": "and",
+   "start": 73.1,
+   "end": 73.7
+  },
+  {
+   "word": "lost.",
+   "start": 73.7,
+   "end": 74.04
+  },
+  {
+   "word": "He",
+   "start": 74.58,
+   "end": 74.7
+  },
+  {
+   "word": "left",
+   "start": 74.7,
+   "end": 74.94
+  },
+  {
+   "word": "after",
+   "start": 74.94,
+   "end": 75.22
+  },
+  {
+   "word": "one",
+   "start": 75.22,
+   "end": 75.58
+  },
+  {
+   "word": "year,",
+   "start": 75.58,
+   "end": 75.94
+  },
+  {
+   "word": "buried",
+   "start": 75.94,
+   "end": 76.42
+  },
+  {
+   "word": "in",
+   "start": 76.42,
+   "end": 76.72
+  },
+  {
+   "word": "debt,",
+   "start": 76.72,
+   "end": 77.0
+  },
+  {
+   "word": "and",
+   "start": 77.4,
+   "end": 77.48
+  },
+  {
+   "word": "Allan",
+   "start": 77.48,
+   "end": 77.8
+  },
+  {
+   "word": "refused",
+   "start": 77.8,
+   "end": 78.28
+  },
+  {
+   "word": "to",
+   "start": 78.28,
+   "end": 78.56
+  },
+  {
+   "word": "pay",
+   "start": 78.56,
+   "end": 78.78
+  },
+  {
+   "word": "it.",
+   "start": 78.78,
+   "end": 79.28
+  },
+  {
+   "word": "At",
+   "start": 79.58,
+   "end": 79.58
+  },
+  {
+   "word": "eighteen,",
+   "start": 79.58,
+   "end": 80.4
+  },
+  {
+   "word": "broke",
+   "start": 80.4,
+   "end": 80.62
+  },
+  {
+   "word": "and",
+   "start": 80.62,
+   "end": 80.94
+  },
+  {
+   "word": "furious,",
+   "start": 80.94,
+   "end": 81.46
+  },
+  {
+   "word": "Poe",
+   "start": 82.04,
+   "end": 82.04
+  },
+  {
+   "word": "did",
+   "start": 82.04,
+   "end": 82.24
+  },
+  {
+   "word": "something",
+   "start": 82.24,
+   "end": 82.6
+  },
+  {
+   "word": "strange.",
+   "start": 82.6,
+   "end": 83.14
+  },
+  {
+   "word": "He",
+   "start": 83.64,
+   "end": 83.78
+  },
+  {
+   "word": "joined",
+   "start": 83.78,
+   "end": 84.06
+  },
+  {
+   "word": "the",
+   "start": 84.06,
+   "end": 84.22
+  },
+  {
+   "word": "United",
+   "start": 84.22,
+   "end": 84.46
+  },
+  {
+   "word": "States",
+   "start": 84.46,
+   "end": 84.88
+  },
+  {
+   "word": "Army",
+   "start": 84.88,
+   "end": 85.22
+  },
+  {
+   "word": "under",
+   "start": 85.22,
+   "end": 85.56
+  },
+  {
+   "word": "a",
+   "start": 85.56,
+   "end": 85.72
+  },
+  {
+   "word": "fake",
+   "start": 85.72,
+   "end": 86.02
+  },
+  {
+   "word": "name:",
+   "start": 86.02,
+   "end": 86.44
+  },
+  {
+   "word": "Edgar",
+   "start": 87.22,
+   "end": 87.22
+  },
+  {
+   "word": "A.",
+   "start": 87.22,
+   "end": 87.54
+  },
+  {
+   "word": "Perry.",
+   "start": 87.86,
+   "end": 87.9
+  },
+  {
+   "word": "That",
+   "start": 88.52,
+   "end": 88.7
+  },
+  {
+   "word": "same",
+   "start": 88.7,
+   "end": 88.98
+  },
+  {
+   "word": "year,",
+   "start": 88.98,
+   "end": 89.28
+  },
+  {
+   "word": "he",
+   "start": 89.4,
+   "end": 89.48
+  },
+  {
+   "word": "published",
+   "start": 89.48,
+   "end": 89.82
+  },
+  {
+   "word": "his",
+   "start": 89.82,
+   "end": 90.06
+  },
+  {
+   "word": "first",
+   "start": 90.06,
+   "end": 90.3
+  },
+  {
+   "word": "book",
+   "start": 90.3,
+   "end": 90.56
+  },
+  {
+   "word": "of",
+   "start": 90.56,
+   "end": 90.76
+  },
+  {
+   "word": "poems.",
+   "start": 90.76,
+   "end": 91.1
+  },
+  {
+   "word": "It",
+   "start": 91.64,
+   "end": 91.74
+  },
+  {
+   "word": "didn't",
+   "start": 91.74,
+   "end": 92.0
+  },
+  {
+   "word": "say",
+   "start": 92.0,
+   "end": 92.22
+  },
+  {
+   "word": "Edgar",
+   "start": 92.22,
+   "end": 92.56
+  },
+  {
+   "word": "Allan",
+   "start": 92.56,
+   "end": 92.84
+  },
+  {
+   "word": "Poe",
+   "start": 92.84,
+   "end": 93.12
+  },
+  {
+   "word": "on",
+   "start": 93.12,
+   "end": 93.28
+  },
+  {
+   "word": "the",
+   "start": 93.28,
+   "end": 93.4
+  },
+  {
+   "word": "cover.",
+   "start": 93.4,
+   "end": 93.68
+  },
+  {
+   "word": "It",
+   "start": 94.0,
+   "end": 94.16
+  },
+  {
+   "word": "said,",
+   "start": 94.16,
+   "end": 94.48
+  },
+  {
+   "word": "\"by",
+   "start": 94.48,
+   "end": 94.98
+  },
+  {
+   "word": "a",
+   "start": 94.98,
+   "end": 95.16
+  },
+  {
+   "word": "Bostonian.\"",
+   "start": 95.16,
+   "end": 95.84
+  },
+  {
+   "word": "Almost",
+   "start": 96.32,
+   "end": 96.58
+  },
+  {
+   "word": "nobody",
+   "start": 96.58,
+   "end": 97.06
+  },
+  {
+   "word": "bought",
+   "start": 97.06,
+   "end": 97.4
+  },
+  {
+   "word": "it.",
+   "start": 97.4,
+   "end": 97.6
+  },
+  {
+   "word": "He",
+   "start": 97.96,
+   "end": 98.18
+  },
+  {
+   "word": "made",
+   "start": 98.18,
+   "end": 98.36
+  },
+  {
+   "word": "it",
+   "start": 98.36,
+   "end": 98.5
+  },
+  {
+   "word": "to",
+   "start": 98.5,
+   "end": 98.62
+  },
+  {
+   "word": "West",
+   "start": 98.62,
+   "end": 98.84
+  },
+  {
+   "word": "Point.",
+   "start": 98.84,
+   "end": 99.1
+  },
+  {
+   "word": "Then,",
+   "start": 99.54,
+   "end": 99.82
+  },
+  {
+   "word": "when",
+   "start": 99.94,
+   "end": 100.14
+  },
+  {
+   "word": "John",
+   "start": 100.14,
+   "end": 100.38
+  },
+  {
+   "word": "Allan",
+   "start": 100.38,
+   "end": 100.64
+  },
+  {
+   "word": "finally",
+   "start": 100.64,
+   "end": 101.02
+  },
+  {
+   "word": "cut",
+   "start": 101.02,
+   "end": 101.32
+  },
+  {
+   "word": "him",
+   "start": 101.32,
+   "end": 101.44
+  },
+  {
+   "word": "off",
+   "start": 101.44,
+   "end": 101.58
+  },
+  {
+   "word": "for",
+   "start": 101.58,
+   "end": 101.8
+  },
+  {
+   "word": "good,",
+   "start": 101.8,
+   "end": 102.04
+  },
+  {
+   "word": "Poe",
+   "start": 102.42,
+   "end": 102.66
+  },
+  {
+   "word": "got",
+   "start": 102.66,
+   "end": 102.86
+  },
+  {
+   "word": "himself",
+   "start": 102.86,
+   "end": 103.16
+  },
+  {
+   "word": "thrown",
+   "start": 103.16,
+   "end": 103.52
+  },
+  {
+   "word": "out",
+   "start": 103.52,
+   "end": 103.84
+  },
+  {
+   "word": "on",
+   "start": 103.84,
+   "end": 104.08
+  },
+  {
+   "word": "purpose.",
+   "start": 104.08,
+   "end": 104.46
+  },
+  {
+   "word": "He",
+   "start": 104.46,
+   "end": 105.12
+  },
+  {
+   "word": "simply",
+   "start": 105.12,
+   "end": 105.4
+  },
+  {
+   "word": "stopped",
+   "start": 105.4,
+   "end": 105.76
+  },
+  {
+   "word": "showing",
+   "start": 105.76,
+   "end": 106.08
+  },
+  {
+   "word": "up",
+   "start": 106.08,
+   "end": 106.24
+  },
+  {
+   "word": "to",
+   "start": 106.24,
+   "end": 106.4
+  },
+  {
+   "word": "class,",
+   "start": 106.4,
+   "end": 106.8
+  },
+  {
+   "word": "to",
+   "start": 107.16,
+   "end": 107.18
+  },
+  {
+   "word": "drills,",
+   "start": 107.18,
+   "end": 107.54
+  },
+  {
+   "word": "to",
+   "start": 107.92,
+   "end": 108.0
+  },
+  {
+   "word": "church,",
+   "start": 108.0,
+   "end": 108.36
+  },
+  {
+   "word": "until",
+   "start": 108.66,
+   "end": 108.96
+  },
+  {
+   "word": "the",
+   "start": 108.96,
+   "end": 109.1
+  },
+  {
+   "word": "academy",
+   "start": 109.1,
+   "end": 109.44
+  },
+  {
+   "word": "had",
+   "start": 109.44,
+   "end": 109.76
+  },
+  {
+   "word": "no",
+   "start": 109.76,
+   "end": 110.04
+  },
+  {
+   "word": "choice",
+   "start": 110.04,
+   "end": 110.38
+  },
+  {
+   "word": "but",
+   "start": 110.38,
+   "end": 110.64
+  },
+  {
+   "word": "to",
+   "start": 110.64,
+   "end": 110.78
+  },
+  {
+   "word": "expel",
+   "start": 110.78,
+   "end": 111.12
+  },
+  {
+   "word": "him.",
+   "start": 111.12,
+   "end": 111.4
+  },
+  {
+   "word": "He",
+   "start": 111.72,
+   "end": 111.84
+  },
+  {
+   "word": "was",
+   "start": 111.84,
+   "end": 111.98
+  },
+  {
+   "word": "twenty-two,",
+   "start": 111.98,
+   "end": 112.86
+  },
+  {
+   "word": "with",
+   "start": 112.86,
+   "end": 113.04
+  },
+  {
+   "word": "no",
+   "start": 113.04,
+   "end": 113.34
+  },
+  {
+   "word": "money,",
+   "start": 113.34,
+   "end": 113.62
+  },
+  {
+   "word": "no",
+   "start": 113.94,
+   "end": 114.16
+  },
+  {
+   "word": "family,",
+   "start": 114.16,
+   "end": 114.54
+  },
+  {
+   "word": "and",
+   "start": 114.84,
+   "end": 115.0
+  },
+  {
+   "word": "no",
+   "start": 115.0,
+   "end": 115.26
+  },
+  {
+   "word": "name.",
+   "start": 115.26,
+   "end": 115.54
+  },
+  {
+   "word": "All",
+   "start": 116.02,
+   "end": 116.24
+  },
+  {
+   "word": "he",
+   "start": 116.24,
+   "end": 116.44
+  },
+  {
+   "word": "had",
+   "start": 116.44,
+   "end": 116.8
+  },
+  {
+   "word": "was",
+   "start": 116.8,
+   "end": 117.1
+  },
+  {
+   "word": "his",
+   "start": 117.1,
+   "end": 117.26
+  },
+  {
+   "word": "writing.",
+   "start": 117.26,
+   "end": 117.58
+  },
+  {
+   "word": "In",
+   "start": 118.24,
+   "end": 118.46
+  },
+  {
+   "word": "Baltimore,",
+   "start": 118.46,
+   "end": 118.82
+  },
+  {
+   "word": "he",
+   "start": 119.12,
+   "end": 119.2
+  },
+  {
+   "word": "moved",
+   "start": 119.2,
+   "end": 119.4
+  },
+  {
+   "word": "in",
+   "start": 119.4,
+   "end": 119.58
+  },
+  {
+   "word": "with",
+   "start": 119.58,
+   "end": 119.72
+  },
+  {
+   "word": "his",
+   "start": 119.72,
+   "end": 119.88
+  },
+  {
+   "word": "aunt,",
+   "start": 119.88,
+   "end": 120.16
+  },
+  {
+   "word": "Maria",
+   "start": 120.52,
+   "end": 120.64
+  },
+  {
+   "word": "Clemm,",
+   "start": 120.64,
+   "end": 121.3
+  },
+  {
+   "word": "and",
+   "start": 121.3,
+   "end": 121.48
+  },
+  {
+   "word": "her",
+   "start": 121.48,
+   "end": 121.58
+  },
+  {
+   "word": "young",
+   "start": 121.58,
+   "end": 121.82
+  },
+  {
+   "word": "daughter,",
+   "start": 121.82,
+   "end": 122.16
+  },
+  {
+   "word": "Virginia.",
+   "start": 122.36,
+   "end": 122.64
+  },
+  {
+   "word": "In",
+   "start": 123.26,
+   "end": 123.4
+  },
+  {
+   "word": "1836,",
+   "start": 123.4,
+   "end": 124.32
+  },
+  {
+   "word": "Poe",
+   "start": 124.78,
+   "end": 124.78
+  },
+  {
+   "word": "married",
+   "start": 124.78,
+   "end": 125.16
+  },
+  {
+   "word": "Virginia.",
+   "start": 125.16,
+   "end": 125.58
+  },
+  {
+   "word": "He",
+   "start": 126.02,
+   "end": 126.22
+  },
+  {
+   "word": "was",
+   "start": 126.22,
+   "end": 126.38
+  },
+  {
+   "word": "twenty-seven.",
+   "start": 126.38,
+   "end": 127.38
+  },
+  {
+   "word": "She",
+   "start": 127.38,
+   "end": 127.62
+  },
+  {
+   "word": "was",
+   "start": 127.62,
+   "end": 127.92
+  },
+  {
+   "word": "thirteen.",
+   "start": 127.92,
+   "end": 129.0
+  },
+  {
+   "word": "On",
+   "start": 129.0,
+   "end": 129.14
+  },
+  {
+   "word": "the",
+   "start": 129.14,
+   "end": 129.24
+  },
+  {
+   "word": "marriage",
+   "start": 129.24,
+   "end": 129.5
+  },
+  {
+   "word": "bond,",
+   "start": 129.5,
+   "end": 129.84
+  },
+  {
+   "word": "her",
+   "start": 129.84,
+   "end": 130.22
+  },
+  {
+   "word": "age",
+   "start": 130.22,
+   "end": 130.54
+  },
+  {
+   "word": "was",
+   "start": 130.54,
+   "end": 130.74
+  },
+  {
+   "word": "listed",
+   "start": 130.74,
+   "end": 131.06
+  },
+  {
+   "word": "as",
+   "start": 131.06,
+   "end": 131.34
+  },
+  {
+   "word": "twenty-one.",
+   "start": 131.34,
+   "end": 132.52
+  },
+  {
+   "word": "They",
+   "start": 132.52,
+   "end": 132.6
+  },
+  {
+   "word": "were",
+   "start": 132.6,
+   "end": 132.72
+  },
+  {
+   "word": "desperately",
+   "start": 132.72,
+   "end": 133.28
+  },
+  {
+   "word": "poor.",
+   "start": 133.28,
+   "end": 133.76
+  },
+  {
+   "word": "Poe",
+   "start": 134.48,
+   "end": 134.48
+  },
+  {
+   "word": "worked",
+   "start": 134.48,
+   "end": 134.8
+  },
+  {
+   "word": "as",
+   "start": 134.8,
+   "end": 134.96
+  },
+  {
+   "word": "an",
+   "start": 134.96,
+   "end": 135.1
+  },
+  {
+   "word": "editor,",
+   "start": 135.1,
+   "end": 135.44
+  },
+  {
+   "word": "wrote",
+   "start": 135.74,
+   "end": 135.9
+  },
+  {
+   "word": "reviews,",
+   "start": 135.9,
+   "end": 136.42
+  },
+  {
+   "word": "and",
+   "start": 136.8,
+   "end": 136.84
+  },
+  {
+   "word": "made",
+   "start": 136.84,
+   "end": 137.0
+  },
+  {
+   "word": "enemies",
+   "start": 137.0,
+   "end": 137.46
+  },
+  {
+   "word": "everywhere",
+   "start": 137.46,
+   "end": 137.92
+  },
+  {
+   "word": "with",
+   "start": 137.92,
+   "end": 138.26
+  },
+  {
+   "word": "his",
+   "start": 138.26,
+   "end": 138.42
+  },
+  {
+   "word": "vicious",
+   "start": 138.42,
+   "end": 138.82
+  },
+  {
+   "word": "criticism.",
+   "start": 138.82,
+   "end": 139.44
+  },
+  {
+   "word": "And",
+   "start": 139.94,
+   "end": 140.06
+  },
+  {
+   "word": "in",
+   "start": 140.06,
+   "end": 140.18
+  },
+  {
+   "word": "between,",
+   "start": 140.18,
+   "end": 140.56
+  },
+  {
+   "word": "he",
+   "start": 140.96,
+   "end": 141.04
+  },
+  {
+   "word": "wrote",
+   "start": 141.04,
+   "end": 141.24
+  },
+  {
+   "word": "stories",
+   "start": 141.24,
+   "end": 141.68
+  },
+  {
+   "word": "nobody",
+   "start": 141.68,
+   "end": 142.1
+  },
+  {
+   "word": "had",
+   "start": 142.1,
+   "end": 142.44
+  },
+  {
+   "word": "ever",
+   "start": 142.44,
+   "end": 142.8
+  },
+  {
+   "word": "written",
+   "start": 142.8,
+   "end": 143.1
+  },
+  {
+   "word": "before.",
+   "start": 143.1,
+   "end": 143.58
+  },
+  {
+   "word": "In",
+   "start": 144.1,
+   "end": 144.22
+  },
+  {
+   "word": "1841,",
+   "start": 144.22,
+   "end": 144.98
+  },
+  {
+   "word": "he",
+   "start": 145.3,
+   "end": 145.36
+  },
+  {
+   "word": "published",
+   "start": 145.36,
+   "end": 145.78
+  },
+  {
+   "word": "\"The",
+   "start": 145.78,
+   "end": 146.14
+  },
+  {
+   "word": "Murders",
+   "start": 146.14,
+   "end": 146.6
+  },
+  {
+   "word": "in",
+   "start": 146.6,
+   "end": 146.72
+  },
+  {
+   "word": "the",
+   "start": 146.72,
+   "end": 146.86
+  },
+  {
+   "word": "Rue",
+   "start": 146.86,
+   "end": 147.08
+  },
+  {
+   "word": "Morgue.\"",
+   "start": 147.08,
+   "end": 147.5
+  },
+  {
+   "word": "A",
+   "start": 147.92,
+   "end": 148.04
+  },
+  {
+   "word": "brilliant",
+   "start": 148.04,
+   "end": 148.46
+  },
+  {
+   "word": "amateur",
+   "start": 148.46,
+   "end": 148.94
+  },
+  {
+   "word": "named",
+   "start": 148.94,
+   "end": 149.2
+  },
+  {
+   "word": "Dupin",
+   "start": 149.2,
+   "end": 149.72
+  },
+  {
+   "word": "solves",
+   "start": 149.72,
+   "end": 150.12
+  },
+  {
+   "word": "an",
+   "start": 150.12,
+   "end": 150.28
+  },
+  {
+   "word": "impossible",
+   "start": 150.28,
+   "end": 150.74
+  },
+  {
+   "word": "crime",
+   "start": 150.74,
+   "end": 151.28
+  },
+  {
+   "word": "using",
+   "start": 151.28,
+   "end": 151.58
+  },
+  {
+   "word": "nothing",
+   "start": 151.58,
+   "end": 152.0
+  },
+  {
+   "word": "but",
+   "start": 152.0,
+   "end": 152.24
+  },
+  {
+   "word": "logic.",
+   "start": 152.24,
+   "end": 152.64
+  },
+  {
+   "word": "It's",
+   "start": 153.14,
+   "end": 153.32
+  },
+  {
+   "word": "widely",
+   "start": 153.32,
+   "end": 153.64
+  },
+  {
+   "word": "considered",
+   "start": 153.64,
+   "end": 154.08
+  },
+  {
+   "word": "the",
+   "start": 154.08,
+   "end": 154.32
+  },
+  {
+   "word": "first",
+   "start": 154.32,
+   "end": 154.68
+  },
+  {
+   "word": "modern",
+   "start": 154.68,
+   "end": 155.1
+  },
+  {
+   "word": "detective",
+   "start": 155.1,
+   "end": 155.48
+  },
+  {
+   "word": "story.",
+   "start": 155.48,
+   "end": 155.96
+  },
+  {
+   "word": "Decades",
+   "start": 156.36,
+   "end": 156.7
+  },
+  {
+   "word": "later,",
+   "start": 156.7,
+   "end": 157.08
+  },
+  {
+   "word": "Arthur",
+   "start": 157.42,
+   "end": 157.64
+  },
+  {
+   "word": "Conan",
+   "start": 157.64,
+   "end": 157.96
+  },
+  {
+   "word": "Doyle",
+   "start": 157.96,
+   "end": 158.24
+  },
+  {
+   "word": "would",
+   "start": 158.24,
+   "end": 158.52
+  },
+  {
+   "word": "admit",
+   "start": 158.52,
+   "end": 158.86
+  },
+  {
+   "word": "that",
+   "start": 158.86,
+   "end": 159.12
+  },
+  {
+   "word": "Sherlock",
+   "start": 159.12,
+   "end": 159.46
+  },
+  {
+   "word": "Holmes",
+   "start": 159.46,
+   "end": 159.86
+  },
+  {
+   "word": "owed",
+   "start": 159.86,
+   "end": 160.22
+  },
+  {
+   "word": "everything",
+   "start": 160.22,
+   "end": 160.84
+  },
+  {
+   "word": "to",
+   "start": 160.84,
+   "end": 161.12
+  },
+  {
+   "word": "Dupin.",
+   "start": 161.12,
+   "end": 162.16
+  },
+  {
+   "word": "Poe",
+   "start": 162.16,
+   "end": 162.3
+  },
+  {
+   "word": "wrote",
+   "start": 162.3,
+   "end": 162.56
+  },
+  {
+   "word": "about",
+   "start": 162.56,
+   "end": 162.84
+  },
+  {
+   "word": "premature",
+   "start": 162.84,
+   "end": 163.36
+  },
+  {
+   "word": "burial,",
+   "start": 163.36,
+   "end": 163.92
+  },
+  {
+   "word": "about",
+   "start": 164.3,
+   "end": 164.52
+  },
+  {
+   "word": "a",
+   "start": 164.52,
+   "end": 164.66
+  },
+  {
+   "word": "man",
+   "start": 164.66,
+   "end": 164.94
+  },
+  {
+   "word": "walled",
+   "start": 164.94,
+   "end": 165.44
+  },
+  {
+   "word": "up",
+   "start": 165.44,
+   "end": 165.54
+  },
+  {
+   "word": "alive,",
+   "start": 165.54,
+   "end": 166.0
+  },
+  {
+   "word": "about",
+   "start": 166.48,
+   "end": 166.68
+  },
+  {
+   "word": "a",
+   "start": 166.68,
+   "end": 166.84
+  },
+  {
+   "word": "murderer",
+   "start": 166.84,
+   "end": 167.18
+  },
+  {
+   "word": "driven",
+   "start": 167.18,
+   "end": 167.62
+  },
+  {
+   "word": "mad",
+   "start": 167.62,
+   "end": 168.04
+  },
+  {
+   "word": "by",
+   "start": 168.04,
+   "end": 168.28
+  },
+  {
+   "word": "the",
+   "start": 168.28,
+   "end": 168.46
+  },
+  {
+   "word": "sound",
+   "start": 168.46,
+   "end": 168.72
+  },
+  {
+   "word": "of",
+   "start": 168.72,
+   "end": 168.9
+  },
+  {
+   "word": "his",
+   "start": 168.9,
+   "end": 169.04
+  },
+  {
+   "word": "victim's",
+   "start": 169.04,
+   "end": 169.52
+  },
+  {
+   "word": "heart,",
+   "start": 169.52,
+   "end": 169.82
+  },
+  {
+   "word": "still",
+   "start": 169.82,
+   "end": 170.42
+  },
+  {
+   "word": "beating",
+   "start": 170.42,
+   "end": 170.8
+  },
+  {
+   "word": "beneath",
+   "start": 170.8,
+   "end": 171.18
+  },
+  {
+   "word": "the",
+   "start": 171.18,
+   "end": 171.4
+  },
+  {
+   "word": "floorboards.",
+   "start": 171.4,
+   "end": 171.98
+  },
+  {
+   "word": "Where",
+   "start": 172.7,
+   "end": 172.82
+  },
+  {
+   "word": "did",
+   "start": 172.82,
+   "end": 172.96
+  },
+  {
+   "word": "all",
+   "start": 172.96,
+   "end": 173.12
+  },
+  {
+   "word": "that",
+   "start": 173.12,
+   "end": 173.3
+  },
+  {
+   "word": "darkness",
+   "start": 173.3,
+   "end": 173.72
+  },
+  {
+   "word": "come",
+   "start": 173.72,
+   "end": 174.04
+  },
+  {
+   "word": "from?",
+   "start": 174.04,
+   "end": 174.38
+  },
+  {
+   "word": "Some",
+   "start": 174.92,
+   "end": 175.08
+  },
+  {
+   "word": "of",
+   "start": 175.08,
+   "end": 175.24
+  },
+  {
+   "word": "it",
+   "start": 175.24,
+   "end": 175.42
+  },
+  {
+   "word": "came",
+   "start": 175.42,
+   "end": 175.78
+  },
+  {
+   "word": "from",
+   "start": 175.78,
+   "end": 176.0
+  },
+  {
+   "word": "home.",
+   "start": 176.0,
+   "end": 176.3
+  },
+  {
+   "word": "In",
+   "start": 176.96,
+   "end": 177.08
+  },
+  {
+   "word": "1842,",
+   "start": 177.08,
+   "end": 178.04
+  },
+  {
+   "word": "Virginia",
+   "start": 178.4,
+   "end": 178.7
+  },
+  {
+   "word": "was",
+   "start": 178.7,
+   "end": 178.98
+  },
+  {
+   "word": "singing",
+   "start": 178.98,
+   "end": 179.26
+  },
+  {
+   "word": "for",
+   "start": 179.26,
+   "end": 179.58
+  },
+  {
+   "word": "friends",
+   "start": 179.58,
+   "end": 179.96
+  },
+  {
+   "word": "when",
+   "start": 179.96,
+   "end": 180.18
+  },
+  {
+   "word": "she",
+   "start": 180.18,
+   "end": 180.34
+  },
+  {
+   "word": "began",
+   "start": 180.34,
+   "end": 180.6
+  },
+  {
+   "word": "to",
+   "start": 180.6,
+   "end": 180.82
+  },
+  {
+   "word": "cough",
+   "start": 180.82,
+   "end": 181.02
+  },
+  {
+   "word": "up",
+   "start": 181.02,
+   "end": 181.24
+  },
+  {
+   "word": "blood.",
+   "start": 181.24,
+   "end": 181.54
+  },
+  {
+   "word": "It",
+   "start": 181.54,
+   "end": 182.18
+  },
+  {
+   "word": "was",
+   "start": 182.18,
+   "end": 182.32
+  },
+  {
+   "word": "tuberculosis,",
+   "start": 182.32,
+   "end": 182.92
+  },
+  {
+   "word": "the",
+   "start": 183.62,
+   "end": 183.72
+  },
+  {
+   "word": "same",
+   "start": 183.72,
+   "end": 183.98
+  },
+  {
+   "word": "disease",
+   "start": 183.98,
+   "end": 184.34
+  },
+  {
+   "word": "that",
+   "start": 184.34,
+   "end": 184.58
+  },
+  {
+   "word": "had",
+   "start": 184.58,
+   "end": 184.76
+  },
+  {
+   "word": "killed",
+   "start": 184.76,
+   "end": 185.12
+  },
+  {
+   "word": "Poe's",
+   "start": 185.12,
+   "end": 185.48
+  },
+  {
+   "word": "mother.",
+   "start": 185.48,
+   "end": 185.76
+  },
+  {
+   "word": "For",
+   "start": 186.32,
+   "end": 186.4
+  },
+  {
+   "word": "five",
+   "start": 186.4,
+   "end": 186.72
+  },
+  {
+   "word": "years,",
+   "start": 186.72,
+   "end": 187.14
+  },
+  {
+   "word": "she",
+   "start": 187.24,
+   "end": 187.46
+  },
+  {
+   "word": "got",
+   "start": 187.46,
+   "end": 187.66
+  },
+  {
+   "word": "better,",
+   "start": 187.66,
+   "end": 188.0
+  },
+  {
+   "word": "then",
+   "start": 188.0,
+   "end": 188.42
+  },
+  {
+   "word": "worse,",
+   "start": 188.42,
+   "end": 188.78
+  },
+  {
+   "word": "then",
+   "start": 188.78,
+   "end": 189.32
+  },
+  {
+   "word": "better",
+   "start": 189.32,
+   "end": 189.58
+  },
+  {
+   "word": "again.",
+   "start": 189.58,
+   "end": 189.94
+  },
+  {
+   "word": "And",
+   "start": 190.42,
+   "end": 190.6
+  },
+  {
+   "word": "Poe",
+   "start": 190.6,
+   "end": 190.9
+  },
+  {
+   "word": "watched",
+   "start": 190.9,
+   "end": 191.3
+  },
+  {
+   "word": "it",
+   "start": 191.3,
+   "end": 191.52
+  },
+  {
+   "word": "happen.",
+   "start": 191.52,
+   "end": 191.78
+  },
+  {
+   "word": "In",
+   "start": 192.38,
+   "end": 192.52
+  },
+  {
+   "word": "January",
+   "start": 192.52,
+   "end": 192.96
+  },
+  {
+   "word": "1845,",
+   "start": 192.96,
+   "end": 194.18
+  },
+  {
+   "word": "he",
+   "start": 194.64,
+   "end": 194.7
+  },
+  {
+   "word": "published",
+   "start": 194.7,
+   "end": 195.02
+  },
+  {
+   "word": "a",
+   "start": 195.02,
+   "end": 195.24
+  },
+  {
+   "word": "poem",
+   "start": 195.24,
+   "end": 195.5
+  },
+  {
+   "word": "about",
+   "start": 195.5,
+   "end": 195.82
+  },
+  {
+   "word": "a",
+   "start": 195.82,
+   "end": 195.96
+  },
+  {
+   "word": "grieving",
+   "start": 195.96,
+   "end": 196.26
+  },
+  {
+   "word": "man",
+   "start": 196.26,
+   "end": 196.66
+  },
+  {
+   "word": "visited",
+   "start": 196.66,
+   "end": 197.04
+  },
+  {
+   "word": "by",
+   "start": 197.04,
+   "end": 197.36
+  },
+  {
+   "word": "a",
+   "start": 197.36,
+   "end": 197.52
+  },
+  {
+   "word": "raven",
+   "start": 197.52,
+   "end": 197.86
+  },
+  {
+   "word": "that",
+   "start": 197.86,
+   "end": 198.12
+  },
+  {
+   "word": "will",
+   "start": 198.12,
+   "end": 198.28
+  },
+  {
+   "word": "only",
+   "start": 198.28,
+   "end": 198.62
+  },
+  {
+   "word": "say",
+   "start": 198.62,
+   "end": 198.92
+  },
+  {
+   "word": "one",
+   "start": 198.92,
+   "end": 199.26
+  },
+  {
+   "word": "word.",
+   "start": 199.26,
+   "end": 199.72
+  },
+  {
+   "word": "\"The",
+   "start": 200.28,
+   "end": 200.38
+  },
+  {
+   "word": "Raven\"",
+   "start": 200.38,
+   "end": 200.78
+  },
+  {
+   "word": "made",
+   "start": 200.78,
+   "end": 201.16
+  },
+  {
+   "word": "Edgar",
+   "start": 201.16,
+   "end": 201.56
+  },
+  {
+   "word": "Allan",
+   "start": 201.56,
+   "end": 201.86
+  },
+  {
+   "word": "Poe",
+   "start": 201.86,
+   "end": 202.12
+  },
+  {
+   "word": "famous",
+   "start": 202.12,
+   "end": 202.66
+  },
+  {
+   "word": "overnight.",
+   "start": 202.66,
+   "end": 203.2
+  },
+  {
+   "word": "It",
+   "start": 203.72,
+   "end": 203.82
+  },
+  {
+   "word": "was",
+   "start": 203.82,
+   "end": 203.94
+  },
+  {
+   "word": "reprinted",
+   "start": 203.94,
+   "end": 204.42
+  },
+  {
+   "word": "across",
+   "start": 204.42,
+   "end": 204.9
+  },
+  {
+   "word": "the",
+   "start": 204.9,
+   "end": 205.18
+  },
+  {
+   "word": "country.",
+   "start": 205.18,
+   "end": 205.52
+  },
+  {
+   "word": "People",
+   "start": 205.94,
+   "end": 206.14
+  },
+  {
+   "word": "recited",
+   "start": 206.14,
+   "end": 206.64
+  },
+  {
+   "word": "it",
+   "start": 206.64,
+   "end": 206.82
+  },
+  {
+   "word": "in",
+   "start": 206.82,
+   "end": 207.04
+  },
+  {
+   "word": "theaters.",
+   "start": 207.04,
+   "end": 207.3
+  },
+  {
+   "word": "Strangers",
+   "start": 208.12,
+   "end": 208.38
+  },
+  {
+   "word": "called",
+   "start": 208.38,
+   "end": 208.68
+  },
+  {
+   "word": "him",
+   "start": 208.68,
+   "end": 208.9
+  },
+  {
+   "word": "\"The",
+   "start": 208.9,
+   "end": 209.12
+  },
+  {
+   "word": "Raven\"",
+   "start": 209.12,
+   "end": 209.5
+  },
+  {
+   "word": "in",
+   "start": 209.5,
+   "end": 209.7
+  },
+  {
+   "word": "the",
+   "start": 209.7,
+   "end": 209.8
+  },
+  {
+   "word": "street.",
+   "start": 209.8,
+   "end": 210.1
+  },
+  {
+   "word": "He",
+   "start": 210.1,
+   "end": 210.72
+  },
+  {
+   "word": "was",
+   "start": 210.72,
+   "end": 210.82
+  },
+  {
+   "word": "reportedly",
+   "start": 210.82,
+   "end": 211.26
+  },
+  {
+   "word": "paid",
+   "start": 211.26,
+   "end": 211.64
+  },
+  {
+   "word": "about",
+   "start": 211.64,
+   "end": 211.9
+  },
+  {
+   "word": "nine",
+   "start": 211.9,
+   "end": 212.12
+  },
+  {
+   "word": "dollars",
+   "start": 212.12,
+   "end": 212.34
+  },
+  {
+   "word": "for",
+   "start": 212.34,
+   "end": 212.88
+  },
+  {
+   "word": "it.",
+   "start": 212.88,
+   "end": 213.28
+  },
+  {
+   "word": "Fame",
+   "start": 213.84,
+   "end": 213.84
+  },
+  {
+   "word": "didn't",
+   "start": 213.84,
+   "end": 214.3
+  },
+  {
+   "word": "make",
+   "start": 214.3,
+   "end": 214.5
+  },
+  {
+   "word": "him",
+   "start": 214.5,
+   "end": 214.68
+  },
+  {
+   "word": "rich.",
+   "start": 214.68,
+   "end": 214.98
+  },
+  {
+   "word": "And",
+   "start": 215.44,
+   "end": 215.54
+  },
+  {
+   "word": "it",
+   "start": 215.54,
+   "end": 215.68
+  },
+  {
+   "word": "couldn't",
+   "start": 215.68,
+   "end": 216.0
+  },
+  {
+   "word": "save",
+   "start": 216.0,
+   "end": 216.26
+  },
+  {
+   "word": "Virginia.",
+   "start": 216.26,
+   "end": 216.7
+  },
+  {
+   "word": "In",
+   "start": 217.28,
+   "end": 217.42
+  },
+  {
+   "word": "January",
+   "start": 217.42,
+   "end": 217.86
+  },
+  {
+   "word": "1847,",
+   "start": 217.86,
+   "end": 219.0
+  },
+  {
+   "word": "in",
+   "start": 219.34,
+   "end": 219.48
+  },
+  {
+   "word": "a",
+   "start": 219.48,
+   "end": 219.62
+  },
+  {
+   "word": "freezing",
+   "start": 219.62,
+   "end": 219.98
+  },
+  {
+   "word": "cottage",
+   "start": 219.98,
+   "end": 220.42
+  },
+  {
+   "word": "outside",
+   "start": 220.42,
+   "end": 220.86
+  },
+  {
+   "word": "New",
+   "start": 220.86,
+   "end": 221.12
+  },
+  {
+   "word": "York,",
+   "start": 221.12,
+   "end": 221.46
+  },
+  {
+   "word": "she",
+   "start": 221.8,
+   "end": 221.98
+  },
+  {
+   "word": "died.",
+   "start": 221.98,
+   "end": 222.3
+  },
+  {
+   "word": "She",
+   "start": 222.8,
+   "end": 222.98
+  },
+  {
+   "word": "was",
+   "start": 222.98,
+   "end": 223.12
+  },
+  {
+   "word": "twenty-four.",
+   "start": 223.12,
+   "end": 224.28
+  },
+  {
+   "word": "They",
+   "start": 224.28,
+   "end": 224.38
+  },
+  {
+   "word": "were",
+   "start": 224.38,
+   "end": 224.5
+  },
+  {
+   "word": "so",
+   "start": 224.5,
+   "end": 224.78
+  },
+  {
+   "word": "poor",
+   "start": 224.78,
+   "end": 225.18
+  },
+  {
+   "word": "that,",
+   "start": 225.18,
+   "end": 225.44
+  },
+  {
+   "word": "as",
+   "start": 225.5,
+   "end": 225.8
+  },
+  {
+   "word": "she",
+   "start": 225.8,
+   "end": 225.96
+  },
+  {
+   "word": "lay",
+   "start": 225.96,
+   "end": 226.14
+  },
+  {
+   "word": "dying,",
+   "start": 226.14,
+   "end": 226.52
+  },
+  {
+   "word": "her",
+   "start": 226.88,
+   "end": 227.0
+  },
+  {
+   "word": "husband's",
+   "start": 227.0,
+   "end": 227.5
+  },
+  {
+   "word": "old",
+   "start": 227.5,
+   "end": 227.76
+  },
+  {
+   "word": "military",
+   "start": 227.76,
+   "end": 228.28
+  },
+  {
+   "word": "coat",
+   "start": 228.28,
+   "end": 228.6
+  },
+  {
+   "word": "served",
+   "start": 228.6,
+   "end": 228.94
+  },
+  {
+   "word": "as",
+   "start": 228.94,
+   "end": 229.14
+  },
+  {
+   "word": "her",
+   "start": 229.14,
+   "end": 229.28
+  },
+  {
+   "word": "blanket.",
+   "start": 229.28,
+   "end": 229.58
+  },
+  {
+   "word": "After",
+   "start": 230.22,
+   "end": 230.5
+  },
+  {
+   "word": "Virginia's",
+   "start": 230.5,
+   "end": 231.04
+  },
+  {
+   "word": "death,",
+   "start": 231.04,
+   "end": 231.38
+  },
+  {
+   "word": "Poe",
+   "start": 231.82,
+   "end": 231.88
+  },
+  {
+   "word": "fell",
+   "start": 231.88,
+   "end": 232.24
+  },
+  {
+   "word": "apart.",
+   "start": 232.24,
+   "end": 232.64
+  },
+  {
+   "word": "He",
+   "start": 233.04,
+   "end": 233.22
+  },
+  {
+   "word": "drank.",
+   "start": 233.22,
+   "end": 233.56
+  },
+  {
+   "word": "He",
+   "start": 233.94,
+   "end": 234.02
+  },
+  {
+   "word": "traveled.",
+   "start": 234.02,
+   "end": 234.38
+  },
+  {
+   "word": "He",
+   "start": 234.84,
+   "end": 234.94
+  },
+  {
+   "word": "proposed",
+   "start": 234.94,
+   "end": 235.34
+  },
+  {
+   "word": "to",
+   "start": 235.34,
+   "end": 235.6
+  },
+  {
+   "word": "more",
+   "start": 235.6,
+   "end": 235.78
+  },
+  {
+   "word": "than",
+   "start": 235.78,
+   "end": 235.94
+  },
+  {
+   "word": "one",
+   "start": 235.94,
+   "end": 236.14
+  },
+  {
+   "word": "woman.",
+   "start": 236.14,
+   "end": 236.5
+  },
+  {
+   "word": "And",
+   "start": 236.86,
+   "end": 237.04
+  },
+  {
+   "word": "in",
+   "start": 237.04,
+   "end": 237.12
+  },
+  {
+   "word": "1849,",
+   "start": 237.12,
+   "end": 238.08
+  },
+  {
+   "word": "he",
+   "start": 238.08,
+   "end": 238.54
+  },
+  {
+   "word": "went",
+   "start": 238.54,
+   "end": 238.72
+  },
+  {
+   "word": "back",
+   "start": 238.72,
+   "end": 238.94
+  },
+  {
+   "word": "to",
+   "start": 238.94,
+   "end": 239.12
+  },
+  {
+   "word": "Richmond",
+   "start": 239.12,
+   "end": 239.44
+  },
+  {
+   "word": "and",
+   "start": 239.44,
+   "end": 239.8
+  },
+  {
+   "word": "found",
+   "start": 239.8,
+   "end": 240.04
+  },
+  {
+   "word": "his",
+   "start": 240.04,
+   "end": 240.28
+  },
+  {
+   "word": "childhood",
+   "start": 240.28,
+   "end": 240.74
+  },
+  {
+   "word": "sweetheart,",
+   "start": 240.74,
+   "end": 241.38
+  },
+  {
+   "word": "Elmira",
+   "start": 241.68,
+   "end": 242.06
+  },
+  {
+   "word": "Shelton,",
+   "start": 242.06,
+   "end": 242.54
+  },
+  {
+   "word": "now",
+   "start": 242.88,
+   "end": 243.0
+  },
+  {
+   "word": "a",
+   "start": 243.0,
+   "end": 243.2
+  },
+  {
+   "word": "widow.",
+   "start": 243.2,
+   "end": 243.38
+  },
+  {
+   "word": "They",
+   "start": 243.86,
+   "end": 244.04
+  },
+  {
+   "word": "became",
+   "start": 244.04,
+   "end": 244.3
+  },
+  {
+   "word": "engaged.",
+   "start": 244.3,
+   "end": 244.86
+  },
+  {
+   "word": "For",
+   "start": 245.48,
+   "end": 245.64
+  },
+  {
+   "word": "a",
+   "start": 245.64,
+   "end": 245.78
+  },
+  {
+   "word": "moment,",
+   "start": 245.78,
+   "end": 246.1
+  },
+  {
+   "word": "it",
+   "start": 246.28,
+   "end": 246.46
+  },
+  {
+   "word": "looked",
+   "start": 246.46,
+   "end": 246.66
+  },
+  {
+   "word": "like",
+   "start": 246.66,
+   "end": 246.88
+  },
+  {
+   "word": "Edgar",
+   "start": 246.88,
+   "end": 247.22
+  },
+  {
+   "word": "Allan",
+   "start": 247.22,
+   "end": 247.52
+  },
+  {
+   "word": "Poe",
+   "start": 247.52,
+   "end": 247.76
+  },
+  {
+   "word": "might",
+   "start": 247.76,
+   "end": 248.08
+  },
+  {
+   "word": "get",
+   "start": 248.08,
+   "end": 248.28
+  },
+  {
+   "word": "a",
+   "start": 248.28,
+   "end": 248.4
+  },
+  {
+   "word": "happy",
+   "start": 248.4,
+   "end": 248.62
+  },
+  {
+   "word": "ending.",
+   "start": 248.62,
+   "end": 248.98
+  },
+  {
+   "word": "On",
+   "start": 249.5,
+   "end": 249.64
+  },
+  {
+   "word": "September",
+   "start": 249.64,
+   "end": 249.94
+  },
+  {
+   "word": "27th,",
+   "start": 249.94,
+   "end": 250.92
+  },
+  {
+   "word": "1849,",
+   "start": 250.92,
+   "end": 251.82
+  },
+  {
+   "word": "he",
+   "start": 252.22,
+   "end": 252.34
+  },
+  {
+   "word": "left",
+   "start": 252.34,
+   "end": 252.58
+  },
+  {
+   "word": "Richmond",
+   "start": 252.58,
+   "end": 252.98
+  },
+  {
+   "word": "by",
+   "start": 252.98,
+   "end": 253.22
+  },
+  {
+   "word": "boat,",
+   "start": 253.22,
+   "end": 253.56
+  },
+  {
+   "word": "heading",
+   "start": 253.8,
+   "end": 254.02
+  },
+  {
+   "word": "north",
+   "start": 254.02,
+   "end": 254.3
+  },
+  {
+   "word": "on",
+   "start": 254.3,
+   "end": 254.56
+  },
+  {
+   "word": "business,",
+   "start": 254.56,
+   "end": 254.94
+  },
+  {
+   "word": "planning",
+   "start": 255.28,
+   "end": 255.48
+  },
+  {
+   "word": "to",
+   "start": 255.48,
+   "end": 255.72
+  },
+  {
+   "word": "come",
+   "start": 255.72,
+   "end": 255.88
+  },
+  {
+   "word": "back",
+   "start": 255.88,
+   "end": 256.1
+  },
+  {
+   "word": "and",
+   "start": 256.1,
+   "end": 256.26
+  },
+  {
+   "word": "marry",
+   "start": 256.26,
+   "end": 256.46
+  },
+  {
+   "word": "her.",
+   "start": 256.46,
+   "end": 256.72
+  },
+  {
+   "word": "He",
+   "start": 257.22,
+   "end": 257.38
+  },
+  {
+   "word": "never",
+   "start": 257.38,
+   "end": 257.6
+  },
+  {
+   "word": "arrived.",
+   "start": 257.6,
+   "end": 258.14
+  },
+  {
+   "word": "For",
+   "start": 258.68,
+   "end": 258.84
+  },
+  {
+   "word": "five",
+   "start": 258.84,
+   "end": 259.18
+  },
+  {
+   "word": "days,",
+   "start": 259.18,
+   "end": 259.64
+  },
+  {
+   "word": "nobody",
+   "start": 260.02,
+   "end": 260.2
+  },
+  {
+   "word": "knows",
+   "start": 260.2,
+   "end": 260.56
+  },
+  {
+   "word": "where",
+   "start": 260.56,
+   "end": 260.8
+  },
+  {
+   "word": "he",
+   "start": 260.8,
+   "end": 260.94
+  },
+  {
+   "word": "was.",
+   "start": 260.94,
+   "end": 261.26
+  },
+  {
+   "word": "Then,",
+   "start": 261.8,
+   "end": 262.12
+  },
+  {
+   "word": "on",
+   "start": 262.22,
+   "end": 262.44
+  },
+  {
+   "word": "October",
+   "start": 262.44,
+   "end": 262.76
+  },
+  {
+   "word": "3rd,",
+   "start": 262.76,
+   "end": 263.44
+  },
+  {
+   "word": "a",
+   "start": 263.44,
+   "end": 263.68
+  },
+  {
+   "word": "printer",
+   "start": 263.68,
+   "end": 263.96
+  },
+  {
+   "word": "named",
+   "start": 263.96,
+   "end": 264.26
+  },
+  {
+   "word": "Joseph",
+   "start": 264.26,
+   "end": 264.68
+  },
+  {
+   "word": "Walker",
+   "start": 264.68,
+   "end": 265.06
+  },
+  {
+   "word": "found",
+   "start": 265.06,
+   "end": 265.42
+  },
+  {
+   "word": "him",
+   "start": 265.42,
+   "end": 265.64
+  },
+  {
+   "word": "outside",
+   "start": 265.64,
+   "end": 266.06
+  },
+  {
+   "word": "a",
+   "start": 266.06,
+   "end": 266.3
+  },
+  {
+   "word": "Baltimore",
+   "start": 266.3,
+   "end": 266.68
+  },
+  {
+   "word": "tavern",
+   "start": 266.68,
+   "end": 267.06
+  },
+  {
+   "word": "that",
+   "start": 267.06,
+   "end": 267.36
+  },
+  {
+   "word": "was",
+   "start": 267.36,
+   "end": 267.48
+  },
+  {
+   "word": "being",
+   "start": 267.48,
+   "end": 267.68
+  },
+  {
+   "word": "used",
+   "start": 267.68,
+   "end": 268.02
+  },
+  {
+   "word": "as",
+   "start": 268.02,
+   "end": 268.18
+  },
+  {
+   "word": "a",
+   "start": 268.18,
+   "end": 268.32
+  },
+  {
+   "word": "polling",
+   "start": 268.32,
+   "end": 268.56
+  },
+  {
+   "word": "place.",
+   "start": 268.56,
+   "end": 269.08
+  },
+  {
+   "word": "Walker",
+   "start": 269.8,
+   "end": 269.8
+  },
+  {
+   "word": "wrote",
+   "start": 269.8,
+   "end": 270.08
+  },
+  {
+   "word": "to",
+   "start": 270.08,
+   "end": 270.24
+  },
+  {
+   "word": "one",
+   "start": 270.24,
+   "end": 270.38
+  },
+  {
+   "word": "of",
+   "start": 270.38,
+   "end": 270.64
+  },
+  {
+   "word": "Poe's",
+   "start": 270.64,
+   "end": 270.82
+  },
+  {
+   "word": "acquaintances",
+   "start": 270.82,
+   "end": 271.26
+  },
+  {
+   "word": "that",
+   "start": 271.26,
+   "end": 271.66
+  },
+  {
+   "word": "the",
+   "start": 271.66,
+   "end": 271.8
+  },
+  {
+   "word": "poet",
+   "start": 271.8,
+   "end": 272.06
+  },
+  {
+   "word": "was",
+   "start": 272.06,
+   "end": 272.26
+  },
+  {
+   "word": "in",
+   "start": 272.26,
+   "end": 272.44
+  },
+  {
+   "word": "great",
+   "start": 272.44,
+   "end": 272.7
+  },
+  {
+   "word": "distress,",
+   "start": 272.7,
+   "end": 273.22
+  },
+  {
+   "word": "and",
+   "start": 273.22,
+   "end": 273.66
+  },
+  {
+   "word": "needed",
+   "start": 273.66,
+   "end": 273.92
+  },
+  {
+   "word": "immediate",
+   "start": 273.92,
+   "end": 274.44
+  },
+  {
+   "word": "help.",
+   "start": 274.44,
+   "end": 274.82
+  },
+  {
+   "word": "Poe",
+   "start": 275.46,
+   "end": 275.48
+  },
+  {
+   "word": "was",
+   "start": 275.48,
+   "end": 275.72
+  },
+  {
+   "word": "taken",
+   "start": 275.72,
+   "end": 275.9
+  },
+  {
+   "word": "to",
+   "start": 275.9,
+   "end": 276.14
+  },
+  {
+   "word": "a",
+   "start": 276.14,
+   "end": 276.26
+  },
+  {
+   "word": "hospital.",
+   "start": 276.26,
+   "end": 276.66
+  },
+  {
+   "word": "For",
+   "start": 277.18,
+   "end": 277.3
+  },
+  {
+   "word": "four",
+   "start": 277.3,
+   "end": 277.64
+  },
+  {
+   "word": "days,",
+   "start": 277.64,
+   "end": 278.02
+  },
+  {
+   "word": "he",
+   "start": 278.02,
+   "end": 278.3
+  },
+  {
+   "word": "drifted",
+   "start": 278.3,
+   "end": 278.58
+  },
+  {
+   "word": "in",
+   "start": 278.58,
+   "end": 278.98
+  },
+  {
+   "word": "and",
+   "start": 278.98,
+   "end": 279.1
+  },
+  {
+   "word": "out",
+   "start": 279.1,
+   "end": 279.28
+  },
+  {
+   "word": "of",
+   "start": 279.28,
+   "end": 279.44
+  },
+  {
+   "word": "delirium,",
+   "start": 279.44,
+   "end": 279.96
+  },
+  {
+   "word": "hallucinating,",
+   "start": 280.28,
+   "end": 280.84
+  },
+  {
+   "word": "talking",
+   "start": 281.12,
+   "end": 281.42
+  },
+  {
+   "word": "to",
+   "start": 281.42,
+   "end": 281.64
+  },
+  {
+   "word": "things",
+   "start": 281.64,
+   "end": 281.88
+  },
+  {
+   "word": "that",
+   "start": 281.88,
+   "end": 282.08
+  },
+  {
+   "word": "weren't",
+   "start": 282.08,
+   "end": 282.3
+  },
+  {
+   "word": "there.",
+   "start": 282.3,
+   "end": 282.64
+  },
+  {
+   "word": "According",
+   "start": 283.18,
+   "end": 283.36
+  },
+  {
+   "word": "to",
+   "start": 283.36,
+   "end": 283.6
+  },
+  {
+   "word": "his",
+   "start": 283.6,
+   "end": 283.74
+  },
+  {
+   "word": "doctor,",
+   "start": 283.74,
+   "end": 284.1
+  },
+  {
+   "word": "on",
+   "start": 284.44,
+   "end": 284.54
+  },
+  {
+   "word": "his",
+   "start": 284.54,
+   "end": 284.68
+  },
+  {
+   "word": "last",
+   "start": 284.68,
+   "end": 285.02
+  },
+  {
+   "word": "night,",
+   "start": 285.02,
+   "end": 285.38
+  },
+  {
+   "word": "he",
+   "start": 285.62,
+   "end": 285.76
+  },
+  {
+   "word": "called",
+   "start": 285.76,
+   "end": 286.02
+  },
+  {
+   "word": "out",
+   "start": 286.02,
+   "end": 286.24
+  },
+  {
+   "word": "a",
+   "start": 286.24,
+   "end": 286.4
+  },
+  {
+   "word": "name,",
+   "start": 286.4,
+   "end": 286.74
+  },
+  {
+   "word": "over",
+   "start": 286.74,
+   "end": 287.32
+  },
+  {
+   "word": "and",
+   "start": 287.32,
+   "end": 287.72
+  },
+  {
+   "word": "over:",
+   "start": 287.72,
+   "end": 288.16
+  },
+  {
+   "word": "\"Reynolds.\"",
+   "start": 289.14,
+   "end": 289.14
+  },
+  {
+   "word": "Nobody",
+   "start": 290.02,
+   "end": 290.18
+  },
+  {
+   "word": "knows",
+   "start": 290.18,
+   "end": 290.56
+  },
+  {
+   "word": "who",
+   "start": 290.56,
+   "end": 290.92
+  },
+  {
+   "word": "Reynolds",
+   "start": 290.92,
+   "end": 291.2
+  },
+  {
+   "word": "was.",
+   "start": 291.2,
+   "end": 291.72
+  },
+  {
+   "word": "On",
+   "start": 292.4,
+   "end": 292.46
+  },
+  {
+   "word": "October",
+   "start": 292.46,
+   "end": 292.74
+  },
+  {
+   "word": "7th,",
+   "start": 292.74,
+   "end": 293.44
+  },
+  {
+   "word": "1849,",
+   "start": 293.44,
+   "end": 294.42
+  },
+  {
+   "word": "Edgar",
+   "start": 294.94,
+   "end": 295.12
+  },
+  {
+   "word": "Allan",
+   "start": 295.12,
+   "end": 295.44
+  },
+  {
+   "word": "Poe",
+   "start": 295.44,
+   "end": 295.68
+  },
+  {
+   "word": "died.",
+   "start": 295.68,
+   "end": 296.12
+  },
+  {
+   "word": "He",
+   "start": 296.68,
+   "end": 296.76
+  },
+  {
+   "word": "was",
+   "start": 296.76,
+   "end": 296.9
+  },
+  {
+   "word": "forty",
+   "start": 296.9,
+   "end": 297.26
+  },
+  {
+   "word": "years",
+   "start": 297.26,
+   "end": 297.48
+  },
+  {
+   "word": "old.",
+   "start": 297.48,
+   "end": 297.86
+  },
+  {
+   "word": "His",
+   "start": 298.3,
+   "end": 298.46
+  },
+  {
+   "word": "death",
+   "start": 298.46,
+   "end": 298.68
+  },
+  {
+   "word": "certificate",
+   "start": 298.68,
+   "end": 299.16
+  },
+  {
+   "word": "has",
+   "start": 299.16,
+   "end": 299.6
+  },
+  {
+   "word": "never",
+   "start": 299.6,
+   "end": 299.88
+  },
+  {
+   "word": "been",
+   "start": 299.88,
+   "end": 300.08
+  },
+  {
+   "word": "found.",
+   "start": 300.08,
+   "end": 300.52
+  },
+  {
+   "word": "So",
+   "start": 301.02,
+   "end": 301.26
+  },
+  {
+   "word": "what",
+   "start": 301.26,
+   "end": 301.52
+  },
+  {
+   "word": "killed",
+   "start": 301.52,
+   "end": 301.82
+  },
+  {
+   "word": "him?",
+   "start": 301.82,
+   "end": 302.1
+  },
+  {
+   "word": "The",
+   "start": 302.48,
+   "end": 302.66
+  },
+  {
+   "word": "most",
+   "start": 302.66,
+   "end": 302.84
+  },
+  {
+   "word": "famous",
+   "start": 302.84,
+   "end": 303.2
+  },
+  {
+   "word": "theory",
+   "start": 303.2,
+   "end": 303.58
+  },
+  {
+   "word": "is",
+   "start": 303.58,
+   "end": 303.88
+  },
+  {
+   "word": "called",
+   "start": 303.88,
+   "end": 304.2
+  },
+  {
+   "word": "cooping.",
+   "start": 304.2,
+   "end": 304.76
+  },
+  {
+   "word": "In",
+   "start": 305.12,
+   "end": 305.26
+  },
+  {
+   "word": "nineteenth-century",
+   "start": 305.26,
+   "end": 306.1
+  },
+  {
+   "word": "Baltimore,",
+   "start": 306.1,
+   "end": 306.64
+  },
+  {
+   "word": "gangs",
+   "start": 307.14,
+   "end": 307.26
+  },
+  {
+   "word": "would",
+   "start": 307.26,
+   "end": 307.52
+  },
+  {
+   "word": "kidnap",
+   "start": 307.52,
+   "end": 307.88
+  },
+  {
+   "word": "strangers",
+   "start": 307.88,
+   "end": 308.42
+  },
+  {
+   "word": "on",
+   "start": 308.42,
+   "end": 308.68
+  },
+  {
+   "word": "election",
+   "start": 308.68,
+   "end": 308.98
+  },
+  {
+   "word": "day,",
+   "start": 308.98,
+   "end": 309.32
+  },
+  {
+   "word": "get",
+   "start": 309.54,
+   "end": 309.72
+  },
+  {
+   "word": "them",
+   "start": 309.72,
+   "end": 309.88
+  },
+  {
+   "word": "drunk,",
+   "start": 309.88,
+   "end": 310.18
+  },
+  {
+   "word": "change",
+   "start": 310.54,
+   "end": 310.74
+  },
+  {
+   "word": "their",
+   "start": 310.74,
+   "end": 311.0
+  },
+  {
+   "word": "clothes,",
+   "start": 311.0,
+   "end": 311.3
+  },
+  {
+   "word": "and",
+   "start": 311.48,
+   "end": 311.86
+  },
+  {
+   "word": "drag",
+   "start": 311.86,
+   "end": 312.14
+  },
+  {
+   "word": "them",
+   "start": 312.14,
+   "end": 312.36
+  },
+  {
+   "word": "from",
+   "start": 312.36,
+   "end": 312.6
+  },
+  {
+   "word": "polling",
+   "start": 312.6,
+   "end": 312.9
+  },
+  {
+   "word": "place",
+   "start": 312.9,
+   "end": 313.22
+  },
+  {
+   "word": "to",
+   "start": 313.22,
+   "end": 313.46
+  },
+  {
+   "word": "polling",
+   "start": 313.46,
+   "end": 313.74
+  },
+  {
+   "word": "place",
+   "start": 313.74,
+   "end": 314.12
+  },
+  {
+   "word": "to",
+   "start": 314.12,
+   "end": 314.34
+  },
+  {
+   "word": "vote",
+   "start": 314.34,
+   "end": 314.58
+  },
+  {
+   "word": "again",
+   "start": 314.58,
+   "end": 315.06
+  },
+  {
+   "word": "and",
+   "start": 315.06,
+   "end": 315.32
+  },
+  {
+   "word": "again.",
+   "start": 315.32,
+   "end": 315.7
+  },
+  {
+   "word": "Poe",
+   "start": 316.26,
+   "end": 316.56
+  },
+  {
+   "word": "was",
+   "start": 316.56,
+   "end": 316.74
+  },
+  {
+   "word": "found",
+   "start": 316.74,
+   "end": 317.02
+  },
+  {
+   "word": "at",
+   "start": 317.02,
+   "end": 317.18
+  },
+  {
+   "word": "a",
+   "start": 317.18,
+   "end": 317.3
+  },
+  {
+   "word": "polling",
+   "start": 317.3,
+   "end": 317.52
+  },
+  {
+   "word": "place,",
+   "start": 317.52,
+   "end": 317.96
+  },
+  {
+   "word": "on",
+   "start": 317.96,
+   "end": 318.32
+  },
+  {
+   "word": "election",
+   "start": 318.32,
+   "end": 318.62
+  },
+  {
+   "word": "day,",
+   "start": 318.62,
+   "end": 318.98
+  },
+  {
+   "word": "in",
+   "start": 318.98,
+   "end": 319.42
+  },
+  {
+   "word": "clothes",
+   "start": 319.42,
+   "end": 319.76
+  },
+  {
+   "word": "that",
+   "start": 319.76,
+   "end": 320.04
+  },
+  {
+   "word": "weren't",
+   "start": 320.04,
+   "end": 320.34
+  },
+  {
+   "word": "his.",
+   "start": 320.34,
+   "end": 320.66
+  },
+  {
+   "word": "But",
+   "start": 321.32,
+   "end": 321.4
+  },
+  {
+   "word": "there",
+   "start": 321.4,
+   "end": 321.56
+  },
+  {
+   "word": "are",
+   "start": 321.56,
+   "end": 321.74
+  },
+  {
+   "word": "other",
+   "start": 321.74,
+   "end": 321.92
+  },
+  {
+   "word": "theories.",
+   "start": 321.92,
+   "end": 322.38
+  },
+  {
+   "word": "Alcohol.",
+   "start": 323.12,
+   "end": 323.3
+  },
+  {
+   "word": "A",
+   "start": 324.0,
+   "end": 324.02
+  },
+  {
+   "word": "beating.",
+   "start": 324.02,
+   "end": 324.28
+  },
+  {
+   "word": "A",
+   "start": 324.78,
+   "end": 324.88
+  },
+  {
+   "word": "brain",
+   "start": 324.88,
+   "end": 325.16
+  },
+  {
+   "word": "tumor.",
+   "start": 325.16,
+   "end": 325.52
+  },
+  {
+   "word": "Carbon",
+   "start": 325.96,
+   "end": 326.12
+  },
+  {
+   "word": "monoxide.",
+   "start": 326.12,
+   "end": 326.76
+  },
+  {
+   "word": "Flu.",
+   "start": 327.08,
+   "end": 327.42
+  },
+  {
+   "word": "In",
+   "start": 328.12,
+   "end": 328.24
+  },
+  {
+   "word": "1996,",
+   "start": 328.24,
+   "end": 328.94
+  },
+  {
+   "word": "a",
+   "start": 329.36,
+   "end": 329.52
+  },
+  {
+   "word": "doctor",
+   "start": 329.52,
+   "end": 329.76
+  },
+  {
+   "word": "reviewing",
+   "start": 329.76,
+   "end": 330.22
+  },
+  {
+   "word": "his",
+   "start": 330.22,
+   "end": 330.48
+  },
+  {
+   "word": "symptoms",
+   "start": 330.48,
+   "end": 330.92
+  },
+  {
+   "word": "argued",
+   "start": 330.92,
+   "end": 331.32
+  },
+  {
+   "word": "that",
+   "start": 331.32,
+   "end": 331.56
+  },
+  {
+   "word": "Poe",
+   "start": 331.56,
+   "end": 331.82
+  },
+  {
+   "word": "died",
+   "start": 331.82,
+   "end": 332.16
+  },
+  {
+   "word": "of",
+   "start": 332.16,
+   "end": 332.36
+  },
+  {
+   "word": "rabies.",
+   "start": 332.36,
+   "end": 332.94
+  },
+  {
+   "word": "None",
+   "start": 333.64,
+   "end": 333.72
+  },
+  {
+   "word": "of",
+   "start": 333.72,
+   "end": 333.86
+  },
+  {
+   "word": "them",
+   "start": 333.86,
+   "end": 334.0
+  },
+  {
+   "word": "can",
+   "start": 334.0,
+   "end": 334.18
+  },
+  {
+   "word": "be",
+   "start": 334.18,
+   "end": 334.36
+  },
+  {
+   "word": "proven.",
+   "start": 334.36,
+   "end": 334.66
+  },
+  {
+   "word": "And",
+   "start": 335.28,
+   "end": 335.48
+  },
+  {
+   "word": "then",
+   "start": 335.48,
+   "end": 335.78
+  },
+  {
+   "word": "the",
+   "start": 335.78,
+   "end": 336.08
+  },
+  {
+   "word": "lore",
+   "start": 336.08,
+   "end": 336.32
+  },
+  {
+   "word": "gets",
+   "start": 336.32,
+   "end": 336.62
+  },
+  {
+   "word": "even",
+   "start": 336.62,
+   "end": 337.02
+  },
+  {
+   "word": "darker.",
+   "start": 337.02,
+   "end": 337.48
+  },
+  {
+   "word": "Because",
+   "start": 337.92,
+   "end": 338.3
+  },
+  {
+   "word": "after",
+   "start": 338.3,
+   "end": 338.68
+  },
+  {
+   "word": "Poe",
+   "start": 338.68,
+   "end": 338.94
+  },
+  {
+   "word": "died,",
+   "start": 338.94,
+   "end": 339.4
+  },
+  {
+   "word": "his",
+   "start": 339.64,
+   "end": 339.78
+  },
+  {
+   "word": "reputation",
+   "start": 339.78,
+   "end": 340.36
+  },
+  {
+   "word": "was",
+   "start": 340.36,
+   "end": 340.76
+  },
+  {
+   "word": "murdered",
+   "start": 340.76,
+   "end": 341.08
+  },
+  {
+   "word": "too.",
+   "start": 341.52,
+   "end": 341.56
+  },
+  {
+   "word": "A",
+   "start": 342.16,
+   "end": 342.24
+  },
+  {
+   "word": "rival",
+   "start": 342.24,
+   "end": 342.54
+  },
+  {
+   "word": "editor",
+   "start": 342.54,
+   "end": 342.98
+  },
+  {
+   "word": "named",
+   "start": 342.98,
+   "end": 343.26
+  },
+  {
+   "word": "Rufus",
+   "start": 343.26,
+   "end": 343.72
+  },
+  {
+   "word": "Griswold,",
+   "start": 343.72,
+   "end": 344.26
+  },
+  {
+   "word": "a",
+   "start": 344.48,
+   "end": 344.62
+  },
+  {
+   "word": "man",
+   "start": 344.62,
+   "end": 344.86
+  },
+  {
+   "word": "Poe",
+   "start": 344.86,
+   "end": 345.06
+  },
+  {
+   "word": "had",
+   "start": 345.06,
+   "end": 345.24
+  },
+  {
+   "word": "once",
+   "start": 345.24,
+   "end": 345.46
+  },
+  {
+   "word": "criticized,",
+   "start": 345.46,
+   "end": 346.02
+  },
+  {
+   "word": "published",
+   "start": 346.58,
+   "end": 346.78
+  },
+  {
+   "word": "an",
+   "start": 346.78,
+   "end": 346.98
+  },
+  {
+   "word": "obituary",
+   "start": 346.98,
+   "end": 347.54
+  },
+  {
+   "word": "that",
+   "start": 347.54,
+   "end": 347.76
+  },
+  {
+   "word": "began:",
+   "start": 347.76,
+   "end": 348.14
+  },
+  {
+   "word": "\"Edgar",
+   "start": 348.8,
+   "end": 348.98
+  },
+  {
+   "word": "Allan",
+   "start": 348.98,
+   "end": 349.34
+  },
+  {
+   "word": "Poe",
+   "start": 349.34,
+   "end": 349.7
+  },
+  {
+   "word": "is",
+   "start": 349.7,
+   "end": 350.02
+  },
+  {
+   "word": "dead.",
+   "start": 350.02,
+   "end": 350.32
+  },
+  {
+   "word": "This",
+   "start": 350.86,
+   "end": 350.98
+  },
+  {
+   "word": "announcement",
+   "start": 350.98,
+   "end": 351.34
+  },
+  {
+   "word": "will",
+   "start": 351.34,
+   "end": 351.62
+  },
+  {
+   "word": "startle",
+   "start": 351.62,
+   "end": 352.08
+  },
+  {
+   "word": "many,",
+   "start": 352.08,
+   "end": 352.36
+  },
+  {
+   "word": "but",
+   "start": 352.68,
+   "end": 352.86
+  },
+  {
+   "word": "few",
+   "start": 352.86,
+   "end": 353.18
+  },
+  {
+   "word": "will",
+   "start": 353.18,
+   "end": 353.4
+  },
+  {
+   "word": "be",
+   "start": 353.4,
+   "end": 353.56
+  },
+  {
+   "word": "grieved",
+   "start": 353.56,
+   "end": 353.84
+  },
+  {
+   "word": "by",
+   "start": 353.84,
+   "end": 354.14
+  },
+  {
+   "word": "it.\"",
+   "start": 354.14,
+   "end": 354.34
+  },
+  {
+   "word": "Then",
+   "start": 354.84,
+   "end": 355.12
+  },
+  {
+   "word": "Griswold",
+   "start": 355.12,
+   "end": 355.74
+  },
+  {
+   "word": "somehow",
+   "start": 355.74,
+   "end": 356.22
+  },
+  {
+   "word": "became",
+   "start": 356.22,
+   "end": 356.6
+  },
+  {
+   "word": "Poe's",
+   "start": 356.6,
+   "end": 357.52
+  },
+  {
+   "word": "literary",
+   "start": 357.52,
+   "end": 357.52
+  },
+  {
+   "word": "executor.",
+   "start": 357.52,
+   "end": 358.22
+  },
+  {
+   "word": "He",
+   "start": 358.58,
+   "end": 358.76
+  },
+  {
+   "word": "wrote",
+   "start": 358.76,
+   "end": 358.94
+  },
+  {
+   "word": "a",
+   "start": 358.94,
+   "end": 359.06
+  },
+  {
+   "word": "biography",
+   "start": 359.06,
+   "end": 359.52
+  },
+  {
+   "word": "that",
+   "start": 359.52,
+   "end": 359.86
+  },
+  {
+   "word": "painted",
+   "start": 359.86,
+   "end": 360.12
+  },
+  {
+   "word": "Poe",
+   "start": 360.12,
+   "end": 360.48
+  },
+  {
+   "word": "as",
+   "start": 360.48,
+   "end": 360.66
+  },
+  {
+   "word": "a",
+   "start": 360.66,
+   "end": 360.84
+  },
+  {
+   "word": "drunk,",
+   "start": 360.84,
+   "end": 361.14
+  },
+  {
+   "word": "a",
+   "start": 361.42,
+   "end": 361.54
+  },
+  {
+   "word": "madman,",
+   "start": 361.54,
+   "end": 362.04
+  },
+  {
+   "word": "and",
+   "start": 362.2,
+   "end": 362.4
+  },
+  {
+   "word": "a",
+   "start": 362.4,
+   "end": 362.52
+  },
+  {
+   "word": "man",
+   "start": 362.52,
+   "end": 362.72
+  },
+  {
+   "word": "without",
+   "start": 362.72,
+   "end": 363.02
+  },
+  {
+   "word": "friends,",
+   "start": 363.02,
+   "end": 363.48
+  },
+  {
+   "word": "and",
+   "start": 363.94,
+   "end": 364.08
+  },
+  {
+   "word": "he",
+   "start": 364.08,
+   "end": 364.18
+  },
+  {
+   "word": "forged",
+   "start": 364.18,
+   "end": 364.5
+  },
+  {
+   "word": "letters",
+   "start": 364.5,
+   "end": 364.88
+  },
+  {
+   "word": "to",
+   "start": 364.88,
+   "end": 365.16
+  },
+  {
+   "word": "prove",
+   "start": 365.16,
+   "end": 365.42
+  },
+  {
+   "word": "it.",
+   "start": 365.42,
+   "end": 365.66
+  },
+  {
+   "word": "It",
+   "start": 366.12,
+   "end": 366.3
+  },
+  {
+   "word": "backfired.",
+   "start": 366.3,
+   "end": 366.82
+  },
+  {
+   "word": "Griswold's",
+   "start": 367.48,
+   "end": 367.98
+  },
+  {
+   "word": "lies",
+   "start": 367.98,
+   "end": 368.28
+  },
+  {
+   "word": "made",
+   "start": 368.28,
+   "end": 368.62
+  },
+  {
+   "word": "Poe",
+   "start": 368.62,
+   "end": 368.88
+  },
+  {
+   "word": "sound",
+   "start": 368.88,
+   "end": 369.16
+  },
+  {
+   "word": "exactly",
+   "start": 369.16,
+   "end": 369.6
+  },
+  {
+   "word": "like",
+   "start": 369.6,
+   "end": 369.96
+  },
+  {
+   "word": "one",
+   "start": 369.96,
+   "end": 370.14
+  },
+  {
+   "word": "of",
+   "start": 370.14,
+   "end": 370.24
+  },
+  {
+   "word": "his",
+   "start": 370.24,
+   "end": 370.34
+  },
+  {
+   "word": "own",
+   "start": 370.34,
+   "end": 370.54
+  },
+  {
+   "word": "characters.",
+   "start": 370.54,
+   "end": 371.04
+  },
+  {
+   "word": "The",
+   "start": 371.58,
+   "end": 371.68
+  },
+  {
+   "word": "tortured",
+   "start": 371.68,
+   "end": 372.12
+  },
+  {
+   "word": "genius.",
+   "start": 372.12,
+   "end": 372.62
+  },
+  {
+   "word": "The",
+   "start": 373.1,
+   "end": 373.14
+  },
+  {
+   "word": "madman",
+   "start": 373.14,
+   "end": 373.64
+  },
+  {
+   "word": "in",
+   "start": 373.64,
+   "end": 373.82
+  },
+  {
+   "word": "the",
+   "start": 373.82,
+   "end": 373.92
+  },
+  {
+   "word": "dark.",
+   "start": 373.92,
+   "end": 374.24
+  },
+  {
+   "word": "And",
+   "start": 374.8,
+   "end": 374.9
+  },
+  {
+   "word": "readers",
+   "start": 374.9,
+   "end": 375.26
+  },
+  {
+   "word": "couldn't",
+   "start": 375.26,
+   "end": 375.78
+  },
+  {
+   "word": "get",
+   "start": 375.78,
+   "end": 375.94
+  },
+  {
+   "word": "enough.",
+   "start": 375.94,
+   "end": 376.22
+  },
+  {
+   "word": "The",
+   "start": 376.88,
+   "end": 377.04
+  },
+  {
+   "word": "legend",
+   "start": 377.04,
+   "end": 377.3
+  },
+  {
+   "word": "kept",
+   "start": 377.3,
+   "end": 377.72
+  },
+  {
+   "word": "growing,",
+   "start": 377.72,
+   "end": 378.24
+  },
+  {
+   "word": "even",
+   "start": 378.52,
+   "end": 378.76
+  },
+  {
+   "word": "at",
+   "start": 378.76,
+   "end": 378.94
+  },
+  {
+   "word": "his",
+   "start": 378.94,
+   "end": 379.08
+  },
+  {
+   "word": "grave.",
+   "start": 379.08,
+   "end": 379.48
+  },
+  {
+   "word": "For",
+   "start": 379.94,
+   "end": 380.2
+  },
+  {
+   "word": "sixty",
+   "start": 380.2,
+   "end": 380.6
+  },
+  {
+   "word": "years,",
+   "start": 380.6,
+   "end": 381.0
+  },
+  {
+   "word": "from",
+   "start": 381.28,
+   "end": 381.42
+  },
+  {
+   "word": "1949",
+   "start": 381.42,
+   "end": 382.14
+  },
+  {
+   "word": "to",
+   "start": 382.14,
+   "end": 382.58
+  },
+  {
+   "word": "2009,",
+   "start": 382.58,
+   "end": 383.44
+  },
+  {
+   "word": "every",
+   "start": 383.9,
+   "end": 384.2
+  },
+  {
+   "word": "year",
+   "start": 384.2,
+   "end": 384.46
+  },
+  {
+   "word": "on",
+   "start": 384.46,
+   "end": 384.82
+  },
+  {
+   "word": "Poe's",
+   "start": 384.82,
+   "end": 385.04
+  },
+  {
+   "word": "birthday,",
+   "start": 385.04,
+   "end": 385.46
+  },
+  {
+   "word": "a",
+   "start": 385.8,
+   "end": 385.94
+  },
+  {
+   "word": "mysterious",
+   "start": 385.94,
+   "end": 386.34
+  },
+  {
+   "word": "figure",
+   "start": 386.34,
+   "end": 386.96
+  },
+  {
+   "word": "dressed",
+   "start": 386.96,
+   "end": 387.24
+  },
+  {
+   "word": "in",
+   "start": 387.24,
+   "end": 387.52
+  },
+  {
+   "word": "black",
+   "start": 387.52,
+   "end": 387.86
+  },
+  {
+   "word": "slipped",
+   "start": 387.86,
+   "end": 388.24
+  },
+  {
+   "word": "into",
+   "start": 388.24,
+   "end": 388.54
+  },
+  {
+   "word": "the",
+   "start": 388.54,
+   "end": 388.7
+  },
+  {
+   "word": "cemetery",
+   "start": 388.7,
+   "end": 389.04
+  },
+  {
+   "word": "in",
+   "start": 389.04,
+   "end": 389.42
+  },
+  {
+   "word": "Baltimore",
+   "start": 389.42,
+   "end": 389.78
+  },
+  {
+   "word": "and",
+   "start": 389.78,
+   "end": 390.34
+  },
+  {
+   "word": "left",
+   "start": 390.34,
+   "end": 390.52
+  },
+  {
+   "word": "three",
+   "start": 390.52,
+   "end": 390.92
+  },
+  {
+   "word": "roses",
+   "start": 390.92,
+   "end": 391.28
+  },
+  {
+   "word": "and",
+   "start": 391.28,
+   "end": 391.66
+  },
+  {
+   "word": "a",
+   "start": 391.66,
+   "end": 391.8
+  },
+  {
+   "word": "half-empty",
+   "start": 391.8,
+   "end": 392.28
+  },
+  {
+   "word": "bottle",
+   "start": 392.28,
+   "end": 392.54
+  },
+  {
+   "word": "of",
+   "start": 392.54,
+   "end": 392.84
+  },
+  {
+   "word": "cognac.",
+   "start": 392.84,
+   "end": 393.24
+  },
+  {
+   "word": "People",
+   "start": 393.78,
+   "end": 394.1
+  },
+  {
+   "word": "staked",
+   "start": 394.1,
+   "end": 394.48
+  },
+  {
+   "word": "out",
+   "start": 394.48,
+   "end": 394.66
+  },
+  {
+   "word": "the",
+   "start": 394.66,
+   "end": 394.82
+  },
+  {
+   "word": "grave",
+   "start": 394.82,
+   "end": 395.1
+  },
+  {
+   "word": "for",
+   "start": 395.1,
+   "end": 395.34
+  },
+  {
+   "word": "decades.",
+   "start": 395.34,
+   "end": 395.8
+  },
+  {
+   "word": "Nobody",
+   "start": 396.56,
+   "end": 396.78
+  },
+  {
+   "word": "ever",
+   "start": 396.78,
+   "end": 397.26
+  },
+  {
+   "word": "unmasked",
+   "start": 397.26,
+   "end": 398.06
+  },
+  {
+   "word": "the",
+   "start": 398.06,
+   "end": 398.2
+  },
+  {
+   "word": "Poe",
+   "start": 398.2,
+   "end": 398.5
+  },
+  {
+   "word": "Toaster.",
+   "start": 398.5,
+   "end": 399.0
+  },
+  {
+   "word": "So",
+   "start": 399.16,
+   "end": 399.78
+  },
+  {
+   "word": "here's",
+   "start": 399.78,
+   "end": 400.18
+  },
+  {
+   "word": "the",
+   "start": 400.18,
+   "end": 400.3
+  },
+  {
+   "word": "lore",
+   "start": 400.3,
+   "end": 400.58
+  },
+  {
+   "word": "of",
+   "start": 400.58,
+   "end": 400.88
+  },
+  {
+   "word": "Edgar",
+   "start": 400.88,
+   "end": 401.26
+  },
+  {
+   "word": "Allan",
+   "start": 401.26,
+   "end": 401.6
+  },
+  {
+   "word": "Poe.",
+   "start": 401.6,
+   "end": 401.92
+  },
+  {
+   "word": "An",
+   "start": 402.58,
+   "end": 402.68
+  },
+  {
+   "word": "orphan",
+   "start": 402.68,
+   "end": 403.06
+  },
+  {
+   "word": "who",
+   "start": 403.06,
+   "end": 403.38
+  },
+  {
+   "word": "took",
+   "start": 403.38,
+   "end": 403.54
+  },
+  {
+   "word": "his",
+   "start": 403.54,
+   "end": 403.76
+  },
+  {
+   "word": "name",
+   "start": 403.76,
+   "end": 403.96
+  },
+  {
+   "word": "from",
+   "start": 403.96,
+   "end": 404.2
+  },
+  {
+   "word": "a",
+   "start": 404.2,
+   "end": 404.36
+  },
+  {
+   "word": "man",
+   "start": 404.36,
+   "end": 404.56
+  },
+  {
+   "word": "who",
+   "start": 404.56,
+   "end": 404.78
+  },
+  {
+   "word": "rejected",
+   "start": 404.78,
+   "end": 405.16
+  },
+  {
+   "word": "him.",
+   "start": 405.16,
+   "end": 405.58
+  },
+  {
+   "word": "A",
+   "start": 405.98,
+   "end": 406.1
+  },
+  {
+   "word": "poet",
+   "start": 406.1,
+   "end": 406.42
+  },
+  {
+   "word": "who",
+   "start": 406.42,
+   "end": 406.7
+  },
+  {
+   "word": "sold",
+   "start": 406.7,
+   "end": 406.96
+  },
+  {
+   "word": "his",
+   "start": 406.96,
+   "end": 407.12
+  },
+  {
+   "word": "most",
+   "start": 407.12,
+   "end": 407.34
+  },
+  {
+   "word": "famous",
+   "start": 407.34,
+   "end": 407.68
+  },
+  {
+   "word": "poem",
+   "start": 407.68,
+   "end": 408.12
+  },
+  {
+   "word": "for",
+   "start": 408.12,
+   "end": 408.4
+  },
+  {
+   "word": "almost",
+   "start": 408.4,
+   "end": 408.74
+  },
+  {
+   "word": "nothing.",
+   "start": 408.74,
+   "end": 409.28
+  },
+  {
+   "word": "A",
+   "start": 409.8,
+   "end": 409.98
+  },
+  {
+   "word": "husband",
+   "start": 409.98,
+   "end": 410.26
+  },
+  {
+   "word": "who",
+   "start": 410.26,
+   "end": 410.62
+  },
+  {
+   "word": "lost",
+   "start": 410.62,
+   "end": 410.86
+  },
+  {
+   "word": "everyone",
+   "start": 410.86,
+   "end": 411.44
+  },
+  {
+   "word": "he",
+   "start": 411.44,
+   "end": 411.64
+  },
+  {
+   "word": "loved",
+   "start": 411.64,
+   "end": 411.94
+  },
+  {
+   "word": "to",
+   "start": 411.94,
+   "end": 412.22
+  },
+  {
+   "word": "the",
+   "start": 412.22,
+   "end": 412.34
+  },
+  {
+   "word": "same",
+   "start": 412.34,
+   "end": 412.64
+  },
+  {
+   "word": "disease.",
+   "start": 412.64,
+   "end": 413.06
+  },
+  {
+   "word": "A",
+   "start": 413.76,
+   "end": 413.86
+  },
+  {
+   "word": "man",
+   "start": 413.86,
+   "end": 414.1
+  },
+  {
+   "word": "who",
+   "start": 414.1,
+   "end": 414.3
+  },
+  {
+   "word": "invented",
+   "start": 414.3,
+   "end": 414.66
+  },
+  {
+   "word": "the",
+   "start": 414.66,
+   "end": 414.9
+  },
+  {
+   "word": "detective",
+   "start": 414.9,
+   "end": 415.28
+  },
+  {
+   "word": "story,",
+   "start": 415.28,
+   "end": 415.72
+  },
+  {
+   "word": "and",
+   "start": 415.72,
+   "end": 416.2
+  },
+  {
+   "word": "then",
+   "start": 416.2,
+   "end": 416.42
+  },
+  {
+   "word": "disappeared",
+   "start": 416.42,
+   "end": 417.08
+  },
+  {
+   "word": "into",
+   "start": 417.08,
+   "end": 417.4
+  },
+  {
+   "word": "a",
+   "start": 417.4,
+   "end": 417.6
+  },
+  {
+   "word": "mystery",
+   "start": 417.6,
+   "end": 417.92
+  },
+  {
+   "word": "that",
+   "start": 417.92,
+   "end": 418.16
+  },
+  {
+   "word": "the",
+   "start": 418.16,
+   "end": 418.32
+  },
+  {
+   "word": "greatest",
+   "start": 418.32,
+   "end": 418.68
+  },
+  {
+   "word": "detectives",
+   "start": 418.68,
+   "end": 419.18
+  },
+  {
+   "word": "in",
+   "start": 419.18,
+   "end": 419.42
+  },
+  {
+   "word": "history",
+   "start": 419.42,
+   "end": 419.82
+  },
+  {
+   "word": "still",
+   "start": 419.82,
+   "end": 420.32
+  },
+  {
+   "word": "can't",
+   "start": 420.32,
+   "end": 420.74
+  },
+  {
+   "word": "solve.",
+   "start": 420.74,
+   "end": 421.18
+  },
+  {
+   "word": "Quoth",
+   "start": 421.84,
+   "end": 422.0
+  },
+  {
+   "word": "the",
+   "start": 422.0,
+   "end": 422.2
+  },
+  {
+   "word": "raven:",
+   "start": 422.2,
+   "end": 422.48
+  },
+  {
+   "word": "nevermore.",
+   "start": 423.24,
+   "end": 423.82
+  }
+ ]
+}

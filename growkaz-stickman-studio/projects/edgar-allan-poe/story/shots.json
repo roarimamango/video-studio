@@ -1,0 +1,4630 @@
+{
+ "title": "The Lore Behind Edgar Allan Poe",
+ "duration": 425.32,
+ "shots": [
+  {
+   "id": "s001",
+   "start": 0.0,
+   "end": 5.78,
+   "line": "On October 3rd, 1849, a man was found slumped outside a tavern in Baltimore.",
+   "scene": "Neon Baltimore street at night, Poe slumped; chaos camera",
+   "set": null,
+   "bars": "none",
+   "in": {
+    "type": "fade",
+    "dur": 0.5
+   },
+   "sfx": [],
+   "params": {
+    "world": "street",
+    "figs": [
+     {
+      "who": "POE",
+      "x": 0.5,
+      "p": "kneel",
+      "f": 1,
+      "s": 1.4
+     }
+    ],
+    "ov": {
+     "tags": [
+      {
+       "str": "BALTIMORE \u00b7 OCTOBER 3, 1849",
+       "at": 0.4,
+       "y": 0.86
+      }
+     ]
+    },
+    "chaos": true,
+    "seed": 1,
+    "type": "world"
+   },
+   "notes": "s001"
+  },
+  {
+   "id": "s002",
+   "start": 5.78,
+   "end": 7.15,
+   "line": "It was election day.",
+   "scene": "Tavern used as a polling place; voters stream in",
+   "set": null,
+   "bars": "none",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "params": {
+    "bg": "checker",
+    "props": [
+     {
+      "k": "tavern",
+      "x": 0.62,
+      "s": 0.9
+     },
+     {
+      "k": "ballot",
+      "x": 0.3
+     }
+    ],
+    "figs": [
+     {
+      "who": "MAN",
+      "x": 0.1,
+      "p": "stand",
+      "f": 1,
+      "s": 1.5,
+      "walk": [
+       0.05,
+       0.5,
+       0,
+       2
+      ]
+     },
+     {
+      "who": "GENT",
+      "x": 0.0,
+      "p": "stand",
+      "f": 1,
+      "s": 1.5,
+      "walk": [
+       -0.05,
+       0.42,
+       0,
+       2
+      ]
+     }
+    ],
+    "ov": {
+     "tags": [
+      {
+       "str": "ELECTION DAY",
+       "at": 0.2,
+       "fill": "magenta",
+       "color": "bone"
+      }
+     ]
+    },
+    "chaos": true,
+    "seed": 2,
+    "type": "stage"
+   },
+   "notes": "s001"
+  },
+  {
+   "id": "s003",
+   "start": 7.15,
+   "end": 12.53,
+   "line": "He was delirious, he couldn't explain where he'd been, and he was wearing someone else's clothes.",
+   "scene": "Poe spins in someone else's clothes amid staring eyes",
+   "set": null,
+   "bars": "none",
+   "in": {
+    "type": "flash",
+    "dur": 0.25
+   },
+   "sfx": [],
+   "params": {
+    "bg": "rings",
+    "big": [
+     {
+      "k": "eyes",
+      "x": 0.5,
+      "y": 0.5,
+      "s": 1,
+      "n": 16
+     }
+    ],
+    "figs": [
+     {
+      "who": "POE",
+      "x": 0.5,
+      "p": "fall",
+      "f": 1,
+      "s": 1.6,
+      "rot": 0.6,
+      "spin": true,
+      "color": "#3a0a5a"
+     }
+    ],
+    "ov": {
+     "tags": [
+      {
+       "str": "SOMEONE ELSE'S CLOTHES",
+       "at": 3.51,
+       "fill": "acid"
+      }
+     ]
+    },
+    "chaos": true,
+    "seed": 3,
+    "type": "stage"
+   },
+   "notes": "s002"
+  },
+  {
+   "id": "s004",
+   "start": 12.53,
+   "end": 14.89,
+   "line": "He had been missing for five days.",
+   "scene": "Missing: 5 days",
+   "set": null,
+   "bars": "none",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "params": {
+    "to": 5,
+    "suffix": " DAYS",
+    "sub": "MISSING",
+    "chaos": true,
+    "seed": 4,
+    "type": "count"
+   },
+   "notes": "s003"
+  },
+  {
+   "id": "s005",
+   "start": 14.89,
+   "end": 17.19,
+   "line": "Four days later, he was dead.",
+   "scene": "A graveyard under a bone-white moon",
+   "set": null,
+   "bars": "none",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "params": {
+    "world": "grave",
+    "ov": {
+     "tags": [
+      {
+       "str": "OCTOBER 7, 1849",
+       "at": 0.6
+      }
+     ]
+    },
+    "chaos": true,
+    "seed": 5,
+    "L": 0.4,
+    "type": "world"
+   },
+   "notes": "s004"
+  },
+  {
+   "id": "s006",
+   "start": 17.19,
+   "end": 19.63,
+   "line": "His name was Edgar Allan Poe.",
+   "scene": "Kaleidoscope of Poe faces around his bust",
+   "set": null,
+   "bars": "none",
+   "in": {
+    "type": "flash",
+    "dur": 0.25
+   },
+   "sfx": [],
+   "params": {
+    "chaos": true,
+    "seed": 6,
+    "type": "kaleido"
+   },
+   "notes": "s005"
+  },
+  {
+   "id": "s007",
+   "start": 19.63,
+   "end": 21.65,
+   "line": "He invented the detective story.",
+   "scene": "The first detective story",
+   "set": null,
+   "bars": "none",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "params": {
+    "title": "THE MURDERS IN THE RUE MORGUE",
+    "titleSize": 50,
+    "mast": "GRAHAM'S MAGAZINE",
+    "stamp": "THE FIRST",
+    "stampAt": 0.6,
+    "chaos": true,
+    "seed": 7,
+    "L": 0.35,
+    "type": "doc"
+   },
+   "notes": "s006"
+  },
+  {
+   "id": "s008",
+   "start": 21.65,
+   "end": 25.59,
+   "line": "And he left behind the one mystery nobody has ever solved.",
+   "scene": "An endless corridor of doors; Poe walks into it",
+   "set": null,
+   "bars": "none",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "params": {
+    "world": "corridor",
+    "figs": [
+     {
+      "who": "POE",
+      "x": 0.5,
+      "p": "stand",
+      "f": 1,
+      "s": 1.2,
+      "walk": [
+       0.42,
+       0.55,
+       0,
+       3
+      ]
+     }
+    ],
+    "ov": {
+     "tags": [
+      {
+       "str": "NEVER SOLVED",
+       "at": 1.2,
+       "fill": "magenta",
+       "color": "bone"
+      }
+     ]
+    },
+    "chaos": true,
+    "seed": 8,
+    "type": "world"
+   },
+   "notes": "s007"
+  },
+  {
+   "id": "s009",
+   "start": 25.59,
+   "end": 28.73,
+   "line": "This is the lore behind Edgar Allan Poe.",
+   "scene": "Title in ransom letters",
+   "set": null,
+   "bars": "none",
+   "in": {
+    "type": "flash",
+    "dur": 0.25
+   },
+   "sfx": [],
+   "params": {
+    "bg": "spiralAcid",
+    "lines": [
+     "THE LORE BEHIND",
+     "EDGAR ALLAN POE"
+    ],
+    "size": 70,
+    "chaos": true,
+    "seed": 9,
+    "L": 0.35,
+    "type": "card"
+   },
+   "notes": "s008"
+  },
+  {
+   "id": "s010",
+   "start": 28.73,
+   "end": 33.49,
+   "line": "He was born in Boston in 1809, to a family of traveling actors.",
+   "scene": "A stage with curtains; two actors perform",
+   "set": null,
+   "bars": "none",
+   "in": {
+    "type": "fade",
+    "dur": 0.7
+   },
+   "sfx": [],
+   "params": {
+    "bg": "void",
+    "props": [
+     {
+      "k": "stage",
+      "y": 0.82
+     }
+    ],
+    "figs": [
+     {
+      "who": "MAN",
+      "x": 0.4,
+      "p": [
+       [
+        0,
+        "explain"
+       ],
+       [
+        1.5,
+        "point"
+       ]
+      ],
+      "f": 1,
+      "s": 1.5
+     },
+     {
+      "who": "WOMAN",
+      "x": 0.6,
+      "p": [
+       [
+        0,
+        "wave"
+       ],
+       [
+        1.8,
+        "explain"
+       ]
+      ],
+      "f": -1,
+      "s": 1.5
+     }
+    ],
+    "ov": {
+     "tags": [
+      {
+       "str": "BOSTON \u00b7 1809",
+       "at": 0.4
+      }
+     ]
+    },
+    "type": "stage"
+   },
+   "notes": "s009"
+  },
+  {
+   "id": "s011",
+   "start": 33.49,
+   "end": 35.75,
+   "line": "His father walked out when he was a baby.",
+   "scene": "The father walks out",
+   "set": null,
+   "bars": "none",
+   "in": {
+    "type": "zoom",
+    "dur": 0.45
+   },
+   "sfx": [],
+   "params": {
+    "bg": "void",
+    "props": [
+     {
+      "k": "stage",
+      "y": 0.82
+     }
+    ],
+    "figs": [
+     {
+      "who": "WOMAN",
+      "x": 0.4,
+      "p": "holdFront",
+      "f": 1,
+      "s": 1.5
+     },
+     {
+      "who": "MAN",
+      "x": 0.55,
+      "p": "stand",
+      "f": 1,
+      "s": 1.5,
+      "walk": [
+       0.55,
+       1.1,
+       0.2,
+       2.2
+      ]
+     }
+    ],
+    "type": "stage"
+   },
+   "notes": "s010"
+  },
+  {
+   "id": "s012",
+   "start": 35.75,
+   "end": 40.99,
+   "line": "When Edgar was two, his mother died of tuberculosis in a rented room in Richmond, Virginia.",
+   "scene": "A dim rented room; the mother fades",
+   "set": null,
+   "bars": "none",
+   "in": {
+    "type": "zoom",
+    "dur": 0.45
+   },
+   "sfx": [],
+   "params": {
+    "bg": "void",
+    "c1": "#2a0a3a",
+    "ground": true,
+    "props": [
+     {
+      "k": "window",
+      "x": 0.25
+     },
+     {
+      "k": "bed",
+      "x": 0.62
+     }
+    ],
+    "figs": [
+     {
+      "who": "WOMAN",
+      "x": 0.62,
+      "p": "sad",
+      "f": 1,
+      "s": 1.5,
+      "fadeOut": 2.6
+     },
+     {
+      "who": "BABY",
+      "x": 0.42,
+      "p": "stand",
+      "f": 1,
+      "s": 1.3
+     }
+    ],
+    "ov": {
+     "tags": [
+      {
+       "str": "RICHMOND \u00b7 1811",
+       "at": 0.4
+      }
+     ]
+    },
+    "type": "stage"
+   },
+   "notes": "s011"
+  },
+  {
+   "id": "s013",
+   "start": 40.99,
+   "end": 45.71,
+   "line": "A wealthy tobacco merchant named John Allan and his wife Frances took the boy in.",
+   "scene": "John and Frances Allan take him in; coins rain",
+   "set": null,
+   "bars": "none",
+   "in": {
+    "type": "zoom",
+    "dur": 0.45
+   },
+   "sfx": [],
+   "params": {
+    "bg": "checker",
+    "props": [
+     {
+      "k": "coins",
+      "x": 0.5,
+      "y": 0.9
+     }
+    ],
+    "figs": [
+     {
+      "who": "GENT",
+      "x": 0.38,
+      "p": "crossArms",
+      "f": 1,
+      "s": 1.5
+     },
+     {
+      "who": "WOMAN",
+      "x": 0.55,
+      "p": "holdFront",
+      "f": -1,
+      "s": 1.5
+     },
+     {
+      "who": "BABY",
+      "x": 0.47,
+      "p": "stand",
+      "f": 1,
+      "s": 1.3
+     }
+    ],
+    "ov": {
+     "tags": [
+      {
+       "str": "JOHN & FRANCES ALLAN",
+       "at": 0.8
+      }
+     ]
+    },
+    "type": "stage"
+   },
+   "notes": "s012"
+  },
+  {
+   "id": "s014",
+   "start": 45.71,
+   "end": 47.49,
+   "line": "They never formally adopted him.",
+   "scene": "Adoption papers, never signed",
+   "set": null,
+   "bars": "none",
+   "in": {
+    "type": "zoom",
+    "dur": 0.45
+   },
+   "sfx": [],
+   "params": {
+    "title": "ADOPTION PAPERS",
+    "stamp": "NEVER SIGNED",
+    "stampAt": 0.6,
+    "w": 900,
+    "h": 600,
+    "type": "doc"
+   },
+   "notes": "s013"
+  },
+  {
+   "id": "s015",
+   "start": 47.49,
+   "end": 51.0,
+   "line": "But they gave him a home, an education, and a new middle name.",
+   "scene": "A home, an education, a new name",
+   "set": null,
+   "bars": "none",
+   "in": {
+    "type": "zoom",
+    "dur": 0.45
+   },
+   "sfx": [],
+   "params": {
+    "bg": "spiral",
+    "figs": [
+     {
+      "who": "GENT",
+      "x": 0.35,
+      "p": "stand",
+      "f": 1,
+      "s": 1.5
+     },
+     {
+      "who": "WOMAN",
+      "x": 0.5,
+      "p": "holdFront",
+      "f": -1,
+      "s": 1.5
+     },
+     {
+      "who": "BABY",
+      "x": 0.62,
+      "p": "stand",
+      "f": 1,
+      "s": 1.4
+     }
+    ],
+    "ov": {
+     "tags": [
+      {
+       "str": "A HOME",
+       "at": 0.89,
+       "x": 0.25,
+       "y": 0.2
+      },
+      {
+       "str": "AN EDUCATION",
+       "at": 1.55,
+       "x": 0.5,
+       "y": 0.3,
+       "fill": "magenta",
+       "color": "bone"
+      },
+      {
+       "str": "A NEW NAME",
+       "at": 2.75,
+       "x": 0.75,
+       "y": 0.2,
+       "fill": "bone"
+      }
+     ]
+    },
+    "type": "stage"
+   },
+   "notes": "s014"
+  },
+  {
+   "id": "s016",
+   "start": 51.0,
+   "end": 55.51,
+   "line": "Allan. A-L-L-A-N.",
+   "scene": "A-L-L-A-N spelled out",
+   "set": null,
+   "bars": "none",
+   "in": {
+    "type": "zoom",
+    "dur": 0.45
+   },
+   "sfx": [],
+   "params": {
+    "word": "ALLAN",
+    "times": [
+     0.6,
+     1.0,
+     1.4,
+     1.8,
+     2.2
+    ],
+    "type": "spell"
+   },
+   "notes": "s014"
+  },
+  {
+   "id": "s017",
+   "start": 55.51,
+   "end": 56.15,
+   "line": "Not Allen.",
+   "scene": "ALLEN crossed out",
+   "set": null,
+   "bars": "none",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "params": {
+    "word": "ALLAN",
+    "times": [
+     0,
+     0,
+     0,
+     0,
+     0
+    ],
+    "wrong": "ALLEN",
+    "wrongAt": 0.0,
+    "type": "spell"
+   },
+   "notes": "s015"
+  },
+  {
+   "id": "s018",
+   "start": 56.15,
+   "end": 59.87,
+   "line": "That middle name is the only thing of John Allan's that Poe would keep.",
+   "scene": "Poe and John Allan, back to back",
+   "set": null,
+   "bars": "none",
+   "in": {
+    "type": "zoom",
+    "dur": 0.45
+   },
+   "sfx": [],
+   "params": {
+    "bg": "void",
+    "figs": [
+     {
+      "who": "GENT",
+      "x": 0.4,
+      "p": "crossArms",
+      "f": -1,
+      "s": 1.5
+     },
+     {
+      "who": "POE",
+      "x": 0.6,
+      "p": "crossArms",
+      "f": 1,
+      "s": 1.5
+     }
+    ],
+    "type": "stage"
+   },
+   "notes": "s016"
+  },
+  {
+   "id": "s019",
+   "start": 59.87,
+   "end": 62.35,
+   "line": "Because the two of them hated each other.",
+   "scene": "They hated each other",
+   "set": null,
+   "bars": "none",
+   "in": {
+    "type": "zoom",
+    "dur": 0.45
+   },
+   "sfx": [],
+   "params": {
+    "bg": "blood",
+    "figs": [
+     {
+      "who": "GENT",
+      "x": 0.38,
+      "p": "point",
+      "f": 1,
+      "s": 1.5
+     },
+     {
+      "who": "POE",
+      "x": 0.62,
+      "p": "crossArms",
+      "f": -1,
+      "s": 1.5
+     }
+    ],
+    "type": "stage"
+   },
+   "notes": "s017"
+  },
+  {
+   "id": "s020",
+   "start": 62.35,
+   "end": 64.39,
+   "line": "John Allan wanted a businessman.",
+   "scene": "John Allan wanted a businessman",
+   "set": null,
+   "bars": "none",
+   "in": {
+    "type": "zoom",
+    "dur": 0.45
+   },
+   "sfx": [],
+   "params": {
+    "bg": "checker",
+    "props": [
+     {
+      "k": "coins",
+      "x": 0.4,
+      "y": 0.9
+     }
+    ],
+    "figs": [
+     {
+      "who": "GENT",
+      "x": 0.4,
+      "p": "explain",
+      "f": 1,
+      "s": 1.5
+     }
+    ],
+    "ov": {
+     "tags": [
+      {
+       "str": "A BUSINESSMAN",
+       "at": 0.4
+      }
+     ]
+    },
+    "type": "stage"
+   },
+   "notes": "s018"
+  },
+  {
+   "id": "s021",
+   "start": 64.39,
+   "end": 66.25,
+   "line": "Edgar wanted to be a poet.",
+   "scene": "Edgar wanted to be a poet",
+   "set": null,
+   "bars": "none",
+   "in": {
+    "type": "zoom",
+    "dur": 0.45
+   },
+   "sfx": [],
+   "params": {
+    "bg": "spiral",
+    "figs": [
+     {
+      "who": "POE",
+      "x": 0.5,
+      "p": "holdFront",
+      "f": 1,
+      "s": 1.7,
+      "prop": "quill"
+     }
+    ],
+    "ov": {
+     "tags": [
+      {
+       "str": "A POET",
+       "at": 0.3,
+       "fill": "magenta",
+       "color": "bone"
+      }
+     ]
+    },
+    "type": "stage"
+   },
+   "notes": "s019"
+  },
+  {
+   "id": "s022",
+   "start": 66.25,
+   "end": 71.07,
+   "line": "When Poe went to the University of Virginia, Allan sent him barely enough money to survive.",
+   "scene": "University of Virginia: Poe at a desk, barely any money",
+   "set": null,
+   "bars": "none",
+   "in": {
+    "type": "zoom",
+    "dur": 0.45
+   },
+   "sfx": [],
+   "params": {
+    "bg": "void",
+    "ground": true,
+    "props": [
+     {
+      "k": "desk",
+      "x": 0.5
+     }
+    ],
+    "figs": [
+     {
+      "who": "POE",
+      "x": 0.4,
+      "p": "sit",
+      "f": 1,
+      "s": 1.5
+     }
+    ],
+    "ov": {
+     "tags": [
+      {
+       "str": "UNIVERSITY OF VIRGINIA \u00b7 1826",
+       "at": 0.4
+      }
+     ]
+    },
+    "type": "stage"
+   },
+   "notes": "s020"
+  },
+  {
+   "id": "s023",
+   "start": 71.07,
+   "end": 74.43,
+   "line": "So Poe gambled to cover the difference, and lost.",
+   "scene": "Gambling frenzy: cards whirl",
+   "set": null,
+   "bars": "none",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "params": {
+    "bg": "rings",
+    "props": [
+     {
+      "k": "cards",
+      "x": 0.5,
+      "y": 0.45,
+      "s": 1.6
+     }
+    ],
+    "figs": [
+     {
+      "who": "POE",
+      "x": 0.5,
+      "p": [
+       [
+        0,
+        "reach"
+       ],
+       [
+        1.6,
+        "facepalm"
+       ]
+      ],
+      "f": 1,
+      "s": 1.7
+     }
+    ],
+    "chaos": true,
+    "seed": 21,
+    "L": 0.3,
+    "type": "stage"
+   },
+   "notes": "s021"
+  },
+  {
+   "id": "s024",
+   "start": 74.43,
+   "end": 79.43,
+   "line": "He left after one year, buried in debt, and Allan refused to pay it.",
+   "scene": "Gambling debt counter",
+   "set": null,
+   "bars": "none",
+   "in": {
+    "type": "zoom",
+    "dur": 0.45
+   },
+   "sfx": [],
+   "params": {
+    "to": 2000,
+    "prefix": "$",
+    "sub": "IN DEBT (APPROX.)",
+    "dur": 2,
+    "type": "count"
+   },
+   "notes": "s022"
+  },
+  {
+   "id": "s025",
+   "start": 79.43,
+   "end": 83.49,
+   "line": "At eighteen, broke and furious, Poe did something strange.",
+   "scene": "Poe, furious, close-up",
+   "set": null,
+   "bars": "none",
+   "in": {
+    "type": "zoom",
+    "dur": 0.45
+   },
+   "sfx": [],
+   "params": {
+    "bg": "blood",
+    "big": [
+     {
+      "k": "bust",
+      "x": 0.5,
+      "y": 0.55,
+      "s": 1.15
+     }
+    ],
+    "type": "stage"
+   },
+   "notes": "s023"
+  },
+  {
+   "id": "s026",
+   "start": 83.49,
+   "end": 88.37,
+   "line": "He joined the United States Army under a fake name: Edgar A. Perry.",
+   "scene": "Soldiers marching; Poe enlists under a fake name",
+   "set": null,
+   "bars": "none",
+   "in": {
+    "type": "zoom",
+    "dur": 0.45
+   },
+   "sfx": [],
+   "params": {
+    "bg": "checker",
+    "figs": [
+     {
+      "who": "SOLDIER",
+      "x": 0.2,
+      "p": "stand",
+      "f": 1,
+      "s": 1.5,
+      "walk": [
+       0.0,
+       0.30000000000000004,
+       0,
+       4
+      ]
+     },
+     {
+      "who": "SOLDIER",
+      "x": 0.35,
+      "p": "stand",
+      "f": 1,
+      "s": 1.5,
+      "walk": [
+       0.14999999999999997,
+       0.44999999999999996,
+       0,
+       4
+      ]
+     },
+     {
+      "who": "SOLDIER",
+      "x": 0.5,
+      "p": "stand",
+      "f": 1,
+      "s": 1.5,
+      "walk": [
+       0.3,
+       0.6,
+       0,
+       4
+      ]
+     },
+     {
+      "who": "SOLDIER",
+      "x": 0.65,
+      "p": "stand",
+      "f": 1,
+      "s": 1.5,
+      "walk": [
+       0.45,
+       0.75,
+       0,
+       4
+      ]
+     }
+    ],
+    "ov": {
+     "tags": [
+      {
+       "str": "\"EDGAR A. PERRY\"",
+       "at": 3.73,
+       "fill": "magenta",
+       "color": "bone"
+      }
+     ]
+    },
+    "type": "stage"
+   },
+   "notes": "s024"
+  },
+  {
+   "id": "s027",
+   "start": 88.37,
+   "end": 91.49,
+   "line": "That same year, he published his first book of poems.",
+   "scene": "His first book",
+   "set": null,
+   "bars": "none",
+   "in": {
+    "type": "zoom",
+    "dur": 0.45
+   },
+   "sfx": [],
+   "params": {
+    "title": "TAMERLANE",
+    "titleSize": 80,
+    "w": 640,
+    "h": 820,
+    "rot": 0.03,
+    "type": "doc"
+   },
+   "notes": "s025"
+  },
+  {
+   "id": "s028",
+   "start": 91.49,
+   "end": 93.85,
+   "line": "It didn't say Edgar Allan Poe on the cover.",
+   "scene": "Not Edgar Allan Poe",
+   "set": null,
+   "bars": "none",
+   "in": {
+    "type": "zoom",
+    "dur": 0.45
+   },
+   "sfx": [],
+   "params": {
+    "title": "TAMERLANE",
+    "titleSize": 80,
+    "w": 640,
+    "h": 820,
+    "rot": 0.03,
+    "body": "EDGAR ALLAN POE",
+    "bodyAt": 0.0,
+    "strike": true,
+    "strikeAt": 1.0,
+    "strikeY": -150,
+    "type": "doc"
+   },
+   "notes": "s026"
+  },
+  {
+   "id": "s029",
+   "start": 93.85,
+   "end": 96.17,
+   "line": "It said, \"by a Bostonian.\"",
+   "scene": "\"by a Bostonian\"",
+   "set": null,
+   "bars": "none",
+   "in": {
+    "type": "zoom",
+    "dur": 0.45
+   },
+   "sfx": [],
+   "params": {
+    "title": "TAMERLANE",
+    "titleSize": 80,
+    "w": 640,
+    "h": 820,
+    "rot": 0.03,
+    "body": "BY A BOSTONIAN.",
+    "bodyAt": 0.3,
+    "type": "doc"
+   },
+   "notes": "s027"
+  },
+  {
+   "id": "s030",
+   "start": 96.17,
+   "end": 97.86,
+   "line": "Almost nobody bought it.",
+   "scene": "Almost nobody bought it",
+   "set": null,
+   "bars": "none",
+   "in": {
+    "type": "zoom",
+    "dur": 0.45
+   },
+   "sfx": [],
+   "params": {
+    "bg": "void",
+    "big": [
+     {
+      "k": "raven",
+      "x": 0.5,
+      "y": 0.45,
+      "s": 0.8,
+      "perched": true
+     }
+    ],
+    "ov": {
+     "tags": [
+      {
+       "str": "ALMOST NOBODY BOUGHT IT",
+       "at": 0.2
+      }
+     ]
+    },
+    "type": "stage"
+   },
+   "notes": "s028"
+  },
+  {
+   "id": "s031",
+   "start": 97.86,
+   "end": 99.39,
+   "line": "He made it to West Point.",
+   "scene": "West Point cadets in shakos",
+   "set": null,
+   "bars": "none",
+   "in": {
+    "type": "zoom",
+    "dur": 0.45
+   },
+   "sfx": [],
+   "params": {
+    "bg": "checker",
+    "figs": [
+     {
+      "who": "SOLDIER",
+      "x": 0.2,
+      "p": "stand",
+      "f": 1,
+      "s": 1.5
+     },
+     {
+      "who": "SOLDIER",
+      "x": 0.32,
+      "p": "stand",
+      "f": 1,
+      "s": 1.5
+     },
+     {
+      "who": "SOLDIER",
+      "x": 0.44,
+      "p": "stand",
+      "f": 1,
+      "s": 1.5
+     },
+     {
+      "who": "SOLDIER",
+      "x": 0.56,
+      "p": "stand",
+      "f": 1,
+      "s": 1.5
+     },
+     {
+      "who": "SOLDIER",
+      "x": 0.68,
+      "p": "stand",
+      "f": 1,
+      "s": 1.5
+     },
+     {
+      "who": "SOLDIER",
+      "x": 0.8,
+      "p": "stand",
+      "f": 1,
+      "s": 1.5
+     }
+    ],
+    "ov": {
+     "tags": [
+      {
+       "str": "WEST POINT \u00b7 1830",
+       "at": 0.3
+      }
+     ]
+    },
+    "type": "stage"
+   },
+   "notes": "s028"
+  },
+  {
+   "id": "s032",
+   "start": 99.39,
+   "end": 104.31,
+   "line": "Then, when John Allan finally cut him off for good, Poe got himself thrown out on purpose.",
+   "scene": "John Allan turns away for good",
+   "set": null,
+   "bars": "none",
+   "in": {
+    "type": "zoom",
+    "dur": 0.45
+   },
+   "sfx": [],
+   "params": {
+    "bg": "void",
+    "figs": [
+     {
+      "who": "POE",
+      "x": 0.38,
+      "p": "reach",
+      "f": 1,
+      "s": 1.5
+     },
+     {
+      "who": "GENT",
+      "x": 0.55,
+      "p": "stand",
+      "f": 1,
+      "s": 1.5,
+      "walk": [
+       0.55,
+       1.05,
+       0.4,
+       3
+      ]
+     }
+    ],
+    "ov": {
+     "tags": [
+      {
+       "str": "CUT OFF",
+       "at": 1.63,
+       "fill": "magenta",
+       "color": "bone"
+      }
+     ]
+    },
+    "type": "stage"
+   },
+   "notes": "s029"
+  },
+  {
+   "id": "s033",
+   "start": 104.31,
+   "end": 107.77,
+   "line": "He simply stopped showing up to class, to drills,",
+   "scene": "Stopped showing up: class, drills",
+   "set": null,
+   "bars": "none",
+   "in": {
+    "type": "zoom",
+    "dur": 0.45
+   },
+   "sfx": [],
+   "params": {
+    "bg": "checker",
+    "items": [
+     {
+      "str": "NO CLASS",
+      "at": 2.09
+     },
+     {
+      "str": "NO DRILLS",
+      "at": 2.87
+     }
+    ],
+    "type": "list"
+   },
+   "notes": "s030"
+  },
+  {
+   "id": "s034",
+   "start": 107.77,
+   "end": 111.57,
+   "line": "to church, until the academy had no choice but to expel him.",
+   "scene": "...church. EXPELLED.",
+   "set": null,
+   "bars": "none",
+   "in": {
+    "type": "zoom",
+    "dur": 0.45
+   },
+   "sfx": [],
+   "params": {
+    "bg": "checker",
+    "items": [
+     {
+      "str": "NO CLASS",
+      "at": 0
+     },
+     {
+      "str": "NO DRILLS",
+      "at": 0
+     },
+     {
+      "str": "NO CHURCH",
+      "at": 0.23
+     },
+     {
+      "str": "EXPELLED",
+      "at": 3.01,
+      "size": 90,
+      "fill": "magenta",
+      "y": 0.72
+     }
+    ],
+    "type": "list"
+   },
+   "notes": "s031"
+  },
+  {
+   "id": "s035",
+   "start": 111.57,
+   "end": 115.87,
+   "line": "He was twenty-two, with no money, no family, and no name.",
+   "scene": "Alone: no money, no family, no name",
+   "set": null,
+   "bars": "none",
+   "in": {
+    "type": "zoom",
+    "dur": 0.45
+   },
+   "sfx": [],
+   "params": {
+    "bg": "void",
+    "figs": [
+     {
+      "who": "POE",
+      "x": 0.5,
+      "p": "stand",
+      "f": 1,
+      "s": 1.2,
+      "walk": [
+       0.3,
+       0.65,
+       0,
+       4
+      ]
+     }
+    ],
+    "ov": {
+     "tags": [
+      {
+       "str": "NO MONEY",
+       "at": 1.77,
+       "x": 0.25,
+       "y": 0.2
+      },
+      {
+       "str": "NO FAMILY",
+       "at": 2.59,
+       "x": 0.5,
+       "y": 0.3,
+       "fill": "magenta",
+       "color": "bone"
+      },
+      {
+       "str": "NO NAME",
+       "at": 3.69,
+       "x": 0.75,
+       "y": 0.2,
+       "fill": "bone"
+      }
+     ]
+    },
+    "type": "stage"
+   },
+   "notes": "s032"
+  },
+  {
+   "id": "s036",
+   "start": 115.87,
+   "end": 118.09,
+   "line": "All he had was his writing.",
+   "scene": "All he had was his writing",
+   "set": null,
+   "bars": "none",
+   "in": {
+    "type": "zoom",
+    "dur": 0.45
+   },
+   "sfx": [],
+   "params": {
+    "bg": "spiral",
+    "ground": true,
+    "props": [
+     {
+      "k": "desk",
+      "x": 0.55
+     }
+    ],
+    "figs": [
+     {
+      "who": "POE",
+      "x": 0.45,
+      "p": "sit",
+      "f": 1,
+      "s": 1.5,
+      "prop": "quill"
+     }
+    ],
+    "type": "stage"
+   },
+   "notes": "s033"
+  },
+  {
+   "id": "s037",
+   "start": 118.09,
+   "end": 123.11,
+   "line": "In Baltimore, he moved in with his aunt, Maria Clemm, and her young daughter, Virginia.",
+   "scene": "Baltimore street; aunt Maria and young Virginia",
+   "set": null,
+   "bars": "none",
+   "in": {
+    "type": "fade",
+    "dur": 0.7
+   },
+   "sfx": [],
+   "params": {
+    "world": "street",
+    "figs": [
+     {
+      "who": "WOMAN",
+      "x": 0.4,
+      "p": "holdFront",
+      "f": 1,
+      "s": 1.5
+     },
+     {
+      "who": "VIRGINIA",
+      "x": 0.5,
+      "p": "stand",
+      "f": 1,
+      "s": 1.15
+     },
+     {
+      "who": "POE",
+      "x": 0.62,
+      "p": "stand",
+      "f": -1,
+      "s": 1.5
+     }
+    ],
+    "ov": {
+     "tags": [
+      {
+       "str": "MARIA CLEMM & VIRGINIA",
+       "at": 0.6
+      }
+     ]
+    },
+    "type": "world"
+   },
+   "notes": "s034"
+  },
+  {
+   "id": "s038",
+   "start": 123.11,
+   "end": 125.87,
+   "line": "In 1836, Poe married Virginia.",
+   "scene": "Poe marries Virginia, 1836",
+   "set": null,
+   "bars": "none",
+   "in": {
+    "type": "zoom",
+    "dur": 0.45
+   },
+   "sfx": [],
+   "params": {
+    "bg": "rings",
+    "figs": [
+     {
+      "who": "POE",
+      "x": 0.42,
+      "p": "stand",
+      "f": 1,
+      "s": 1.5
+     },
+     {
+      "who": "VIRGINIA",
+      "x": 0.56,
+      "p": "stand",
+      "f": -1,
+      "s": 1.15
+     }
+    ],
+    "ov": {
+     "tags": [
+      {
+       "str": "1836",
+       "at": 0.3
+      }
+     ]
+    },
+    "type": "stage"
+   },
+   "notes": "s035"
+  },
+  {
+   "id": "s039",
+   "start": 125.87,
+   "end": 127.23,
+   "line": "He was twenty-seven.",
+   "scene": "He was 27",
+   "set": null,
+   "bars": "none",
+   "in": {
+    "type": "zoom",
+    "dur": 0.45
+   },
+   "sfx": [],
+   "params": {
+    "bg": "rings",
+    "figs": [
+     {
+      "who": "POE",
+      "x": 0.42,
+      "p": "stand",
+      "f": 1,
+      "s": 1.5
+     },
+     {
+      "who": "VIRGINIA",
+      "x": 0.56,
+      "p": "stand",
+      "f": -1,
+      "s": 1.15
+     }
+    ],
+    "ov": {
+     "tags": [
+      {
+       "str": "HE: 27",
+       "at": 0.1,
+       "x": 0.3,
+       "y": 0.25,
+       "size": 60
+      }
+     ]
+    },
+    "type": "stage"
+   },
+   "notes": "s036"
+  },
+  {
+   "id": "s040",
+   "start": 127.23,
+   "end": 128.85,
+   "line": "She was thirteen.",
+   "scene": "She was 13",
+   "set": null,
+   "bars": "none",
+   "in": {
+    "type": "zoom",
+    "dur": 0.45
+   },
+   "sfx": [],
+   "params": {
+    "bg": "rings",
+    "figs": [
+     {
+      "who": "POE",
+      "x": 0.42,
+      "p": "stand",
+      "f": 1,
+      "s": 1.5
+     },
+     {
+      "who": "VIRGINIA",
+      "x": 0.56,
+      "p": "stand",
+      "f": -1,
+      "s": 1.15
+     }
+    ],
+    "ov": {
+     "tags": [
+      {
+       "str": "HE: 27",
+       "at": 0,
+       "x": 0.3,
+       "y": 0.25,
+       "size": 60
+      },
+      {
+       "str": "SHE: 13",
+       "at": 0.1,
+       "x": 0.7,
+       "y": 0.25,
+       "size": 60,
+       "fill": "magenta",
+       "color": "bone"
+      }
+     ]
+    },
+    "type": "stage"
+   },
+   "notes": "s037"
+  },
+  {
+   "id": "s041",
+   "start": 128.85,
+   "end": 132.37,
+   "line": "On the marriage bond, her age was listed as twenty-one.",
+   "scene": "The marriage bond: age listed as 21",
+   "set": null,
+   "bars": "none",
+   "in": {
+    "type": "zoom",
+    "dur": 0.45
+   },
+   "sfx": [],
+   "params": {
+    "title": "MARRIAGE BOND \u00b7 1836",
+    "body": "AGE: TWENTY-ONE",
+    "bodyAt": 0.4,
+    "stamp": "FALSE",
+    "stampAt": 2.49,
+    "type": "doc"
+   },
+   "notes": "s038"
+  },
+  {
+   "id": "s042",
+   "start": 132.37,
+   "end": 134.33,
+   "line": "They were desperately poor.",
+   "scene": "Desperately poor: a bare room",
+   "set": null,
+   "bars": "none",
+   "in": {
+    "type": "zoom",
+    "dur": 0.45
+   },
+   "sfx": [],
+   "params": {
+    "bg": "void",
+    "c1": "#2a0a3a",
+    "ground": true,
+    "props": [
+     {
+      "k": "window",
+      "x": 0.3
+     }
+    ],
+    "figs": [
+     {
+      "who": "WOMAN",
+      "x": 0.5,
+      "p": "sad",
+      "f": 1,
+      "s": 1.5
+     },
+     {
+      "who": "VIRGINIA",
+      "x": 0.6,
+      "p": "sad",
+      "f": 1,
+      "s": 1.15
+     },
+     {
+      "who": "POE",
+      "x": 0.72,
+      "p": "sad",
+      "f": -1,
+      "s": 1.5
+     }
+    ],
+    "type": "stage"
+   },
+   "notes": "s039"
+  },
+  {
+   "id": "s043",
+   "start": 134.33,
+   "end": 139.79,
+   "line": "Poe worked as an editor, wrote reviews, and made enemies everywhere with his vicious criticism.",
+   "scene": "Editor and vicious critic; enemies gather",
+   "set": null,
+   "bars": "none",
+   "in": {
+    "type": "zoom",
+    "dur": 0.45
+   },
+   "sfx": [],
+   "params": {
+    "bg": "void",
+    "ground": true,
+    "props": [
+     {
+      "k": "desk",
+      "x": 0.35
+     }
+    ],
+    "figs": [
+     {
+      "who": "POE",
+      "x": 0.27,
+      "p": "sit",
+      "f": 1,
+      "s": 1.5,
+      "prop": "quill"
+     },
+     {
+      "who": "GENT",
+      "x": 0.65,
+      "p": "point",
+      "f": -1,
+      "s": 1.5,
+      "fadeIn": 1.5
+     },
+     {
+      "who": "GENT",
+      "x": 0.78,
+      "p": "crossArms",
+      "f": -1,
+      "s": 1.5,
+      "fadeIn": 2.6
+     }
+    ],
+    "ov": {
+     "tags": [
+      {
+       "str": "VICIOUS CRITIC",
+       "at": 4.09,
+       "fill": "magenta",
+       "color": "bone"
+      }
+     ]
+    },
+    "type": "stage"
+   },
+   "notes": "s040"
+  },
+  {
+   "id": "s044",
+   "start": 139.79,
+   "end": 143.95,
+   "line": "And in between, he wrote stories nobody had ever written before.",
+   "scene": "Stories nobody had written: eyes kaleidoscope",
+   "set": null,
+   "bars": "none",
+   "in": {
+    "type": "zoom",
+    "dur": 0.45
+   },
+   "sfx": [],
+   "params": {
+    "subject": "eye",
+    "spin": 0.5,
+    "type": "kaleido"
+   },
+   "notes": "s041"
+  },
+  {
+   "id": "s045",
+   "start": 143.95,
+   "end": 147.77,
+   "line": "In 1841, he published \"The Murders in the Rue Morgue.\"",
+   "scene": "The Murders in the Rue Morgue, 1841",
+   "set": null,
+   "bars": "none",
+   "in": {
+    "type": "zoom",
+    "dur": 0.45
+   },
+   "sfx": [],
+   "params": {
+    "mast": "GRAHAM'S MAGAZINE \u00b7 1841",
+    "title": "THE MURDERS IN THE RUE MORGUE",
+    "titleSize": 50,
+    "type": "doc"
+   },
+   "notes": "s042"
+  },
+  {
+   "id": "s046",
+   "start": 147.77,
+   "end": 152.99,
+   "line": "A brilliant amateur named Dupin solves an impossible crime using nothing but logic.",
+   "scene": "Dupin, the brilliant amateur, thinking",
+   "set": null,
+   "bars": "none",
+   "in": {
+    "type": "zoom",
+    "dur": 0.45
+   },
+   "sfx": [],
+   "params": {
+    "bg": "checker",
+    "big": [
+     {
+      "k": "eye",
+      "x": 0.72,
+      "y": 0.35,
+      "s": 1.6
+     }
+    ],
+    "figs": [
+     {
+      "who": "GENT",
+      "x": 0.35,
+      "p": "think",
+      "f": 1,
+      "s": 1.7
+     }
+    ],
+    "ov": {
+     "tags": [
+      {
+       "str": "C. AUGUSTE DUPIN",
+       "at": 0.5
+      }
+     ]
+    },
+    "type": "stage"
+   },
+   "notes": "s043"
+  },
+  {
+   "id": "s047",
+   "start": 152.99,
+   "end": 156.21,
+   "line": "It's widely considered the first modern detective story.",
+   "scene": "The first modern detective story",
+   "set": null,
+   "bars": "none",
+   "in": {
+    "type": "zoom",
+    "dur": 0.45
+   },
+   "sfx": [],
+   "params": {
+    "bg": "spiral",
+    "lines": [
+     "THE FIRST MODERN",
+     "DETECTIVE STORY"
+    ],
+    "size": 64,
+    "type": "card"
+   },
+   "notes": "s044"
+  },
+  {
+   "id": "s048",
+   "start": 156.21,
+   "end": 162.01,
+   "line": "Decades later, Arthur Conan Doyle would admit that Sherlock Holmes owed everything to Dupin.",
+   "scene": "Sherlock Holmes owed everything to Dupin",
+   "set": null,
+   "bars": "none",
+   "in": {
+    "type": "zoom",
+    "dur": 0.45
+   },
+   "sfx": [],
+   "params": {
+    "bg": "checker",
+    "figs": [
+     {
+      "who": "GENT",
+      "x": 0.35,
+      "p": "think",
+      "f": 1,
+      "s": 1.5
+     },
+     {
+      "who": "MAN",
+      "x": 0.65,
+      "p": "point",
+      "f": -1,
+      "s": 1.5
+     }
+    ],
+    "ov": {
+     "tags": [
+      {
+       "str": "DUPIN",
+       "at": 0.2,
+       "x": 0.35,
+       "y": 0.25
+      },
+      {
+       "str": "\u2192 SHERLOCK HOLMES",
+       "at": 2.91,
+       "x": 0.65,
+       "y": 0.25,
+       "fill": "magenta",
+       "color": "bone"
+      }
+     ]
+    },
+    "type": "stage"
+   },
+   "notes": "s045"
+  },
+  {
+   "id": "s049",
+   "start": 162.01,
+   "end": 166.33,
+   "line": "Poe wrote about premature burial, about a man walled up alive,",
+   "scene": "Premature burial; walled up alive",
+   "set": null,
+   "bars": "none",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "params": {
+    "bg": "rings",
+    "big": [
+     {
+      "k": "eyes",
+      "x": 0.5,
+      "y": 0.5,
+      "s": 1,
+      "n": 10,
+      "seed": 7
+     }
+    ],
+    "figs": [
+     {
+      "who": "POE",
+      "x": 0.5,
+      "p": "handsOnHead",
+      "f": 1,
+      "s": 1.6,
+      "color": "#3a0a5a"
+     }
+    ],
+    "ov": {
+     "tags": [
+      {
+       "str": "PREMATURE BURIAL",
+       "at": 0.2,
+       "x": 0.3,
+       "y": 0.2
+      },
+      {
+       "str": "WALLED UP ALIVE",
+       "at": 2.93,
+       "x": 0.7,
+       "y": 0.3,
+       "fill": "magenta",
+       "color": "bone"
+      }
+     ]
+    },
+    "chaos": true,
+    "seed": 46,
+    "L": 0.35,
+    "type": "stage"
+   },
+   "notes": "s046"
+  },
+  {
+   "id": "s050",
+   "start": 166.33,
+   "end": 172.55,
+   "line": "about a murderer driven mad by the sound of his victim's heart, still beating beneath the floorboards.",
+   "scene": "The tell-tale heart beating under the floorboards",
+   "set": null,
+   "bars": "none",
+   "in": {
+    "type": "flash",
+    "dur": 0.25
+   },
+   "sfx": [],
+   "params": {
+    "bg": "checker",
+    "big": [
+     {
+      "k": "heart",
+      "x": 0.5,
+      "y": 0.55,
+      "s": 1.1
+     }
+    ],
+    "ov": {
+     "tags": [
+      {
+       "str": "THE TELL-TALE HEART",
+       "at": 1.0,
+       "fill": "bone"
+      }
+     ]
+    },
+    "chaos": true,
+    "seed": 47,
+    "L": 0.35,
+    "type": "stage"
+   },
+   "notes": "s047"
+  },
+  {
+   "id": "s051",
+   "start": 172.55,
+   "end": 174.77,
+   "line": "Where did all that darkness come from?",
+   "scene": "Where did the darkness come from? corridor",
+   "set": null,
+   "bars": "none",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "params": {
+    "world": "corridor",
+    "big": [
+     {
+      "k": "bust",
+      "x": 0.5,
+      "y": 0.55,
+      "s": 0.6,
+      "fadeIn": 0.5
+     }
+    ],
+    "type": "world"
+   },
+   "notes": "s048"
+  },
+  {
+   "id": "s052",
+   "start": 174.77,
+   "end": 176.81,
+   "line": "Some of it came from home.",
+   "scene": "Home: Virginia sings for friends",
+   "set": null,
+   "bars": "none",
+   "in": {
+    "type": "fade",
+    "dur": 0.7
+   },
+   "sfx": [],
+   "params": {
+    "bg": "void",
+    "ground": true,
+    "props": [
+     {
+      "k": "window",
+      "x": 0.25
+     }
+    ],
+    "figs": [
+     {
+      "who": "VIRGINIA",
+      "x": 0.5,
+      "p": "explain",
+      "f": 1,
+      "s": 1.2
+     },
+     {
+      "who": "WOMAN",
+      "x": 0.68,
+      "p": "stand",
+      "f": -1,
+      "s": 1.5
+     },
+     {
+      "who": "POE",
+      "x": 0.82,
+      "p": "stand",
+      "f": -1,
+      "s": 1.5
+     }
+    ],
+    "type": "stage"
+   },
+   "notes": "s049"
+  },
+  {
+   "id": "s053",
+   "start": 176.81,
+   "end": 181.39,
+   "line": "In 1842, Virginia was singing for friends when she began to cough up blood.",
+   "scene": "She coughs up blood",
+   "set": null,
+   "bars": "none",
+   "in": {
+    "type": "zoom",
+    "dur": 0.45
+   },
+   "sfx": [],
+   "params": {
+    "bg": "void",
+    "ground": true,
+    "props": [
+     {
+      "k": "window",
+      "x": 0.25
+     }
+    ],
+    "figs": [
+     {
+      "who": "VIRGINIA",
+      "x": 0.5,
+      "p": [
+       [
+        0,
+        "explain"
+       ],
+       [
+        4.01,
+        "sad"
+       ]
+      ],
+      "f": 1,
+      "s": 1.2
+     },
+     {
+      "who": "POE",
+      "x": 0.75,
+      "p": [
+       [
+        0,
+        "stand"
+       ],
+       [
+        4.31,
+        "reach"
+       ]
+      ],
+      "f": -1,
+      "s": 1.5
+     }
+    ],
+    "ov": {
+     "tags": [
+      {
+       "str": "1842",
+       "at": 0.2
+      }
+     ],
+     "flash": false
+    },
+    "type": "stage"
+   },
+   "notes": "s050"
+  },
+  {
+   "id": "s054",
+   "start": 181.39,
+   "end": 183.47,
+   "line": "It was tuberculosis,",
+   "scene": "Tuberculosis",
+   "set": null,
+   "bars": "none",
+   "in": {
+    "type": "zoom",
+    "dur": 0.45
+   },
+   "sfx": [],
+   "params": {
+    "bg": "blood",
+    "lines": [
+     "TUBERCULOSIS"
+    ],
+    "bigLine": 0,
+    "size": 110,
+    "y": 0.42,
+    "type": "card"
+   },
+   "notes": "s051"
+  },
+  {
+   "id": "s055",
+   "start": 183.47,
+   "end": 186.17,
+   "line": "the same disease that had killed Poe's mother.",
+   "scene": "The same disease that killed Poe's mother",
+   "set": null,
+   "bars": "none",
+   "in": {
+    "type": "zoom",
+    "dur": 0.45
+   },
+   "sfx": [],
+   "params": {
+    "bg": "void",
+    "figs": [
+     {
+      "who": "WOMAN",
+      "x": 0.4,
+      "p": "sad",
+      "f": 1,
+      "s": 1.5,
+      "fadeIn": 0.3,
+      "color": "#4a1a6a"
+     },
+     {
+      "who": "VIRGINIA",
+      "x": 0.6,
+      "p": "sad",
+      "f": -1,
+      "s": 1.2
+     }
+    ],
+    "type": "stage"
+   },
+   "notes": "s052"
+  },
+  {
+   "id": "s056",
+   "start": 186.17,
+   "end": 190.27,
+   "line": "For five years, she got better, then worse, then better again.",
+   "scene": "Better, worse, better",
+   "set": null,
+   "bars": "none",
+   "in": {
+    "type": "zoom",
+    "dur": 0.45
+   },
+   "sfx": [],
+   "params": {
+    "bg": "rings",
+    "items": [
+     {
+      "str": "BETTER",
+      "at": 1.49
+     },
+     {
+      "str": "WORSE",
+      "at": 2.25,
+      "fill": "magenta"
+     },
+     {
+      "str": "BETTER AGAIN",
+      "at": 2.61
+     }
+    ],
+    "type": "list"
+   },
+   "notes": "s053"
+  },
+  {
+   "id": "s057",
+   "start": 190.27,
+   "end": 192.23,
+   "line": "And Poe watched it happen.",
+   "scene": "Poe watches",
+   "set": null,
+   "bars": "none",
+   "in": {
+    "type": "zoom",
+    "dur": 0.45
+   },
+   "sfx": [],
+   "params": {
+    "bg": "void",
+    "big": [
+     {
+      "k": "bust",
+      "x": 0.5,
+      "y": 0.55,
+      "s": 1.0
+     }
+    ],
+    "type": "stage"
+   },
+   "notes": "s054"
+  },
+  {
+   "id": "s058",
+   "start": 192.23,
+   "end": 194.49,
+   "line": "In January 1845,",
+   "scene": "January 1845",
+   "set": null,
+   "bars": "none",
+   "in": {
+    "type": "flash",
+    "dur": 0.25
+   },
+   "sfx": [],
+   "params": {
+    "bg": "spiralAcid",
+    "lines": [
+     "JANUARY 1845"
+    ],
+    "bigLine": 0,
+    "size": 100,
+    "y": 0.42,
+    "chaos": true,
+    "seed": 55,
+    "L": 0.35,
+    "type": "card"
+   },
+   "notes": "s055"
+  },
+  {
+   "id": "s059",
+   "start": 194.49,
+   "end": 200.13,
+   "line": "he published a poem about a grieving man visited by a raven that will only say one word.",
+   "scene": "The pendulum hall; a raven sweeps through",
+   "set": null,
+   "bars": "none",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "params": {
+    "world": "pendulum",
+    "big": [
+     {
+      "k": "raven",
+      "x": 0.3,
+      "y": 0.42,
+      "s": 1.4,
+      "vx": 0.25
+     }
+    ],
+    "chaos": true,
+    "seed": 56,
+    "type": "world"
+   },
+   "notes": "s056"
+  },
+  {
+   "id": "s060",
+   "start": 200.13,
+   "end": 203.57,
+   "line": "\"The Raven\" made Edgar Allan Poe famous overnight.",
+   "scene": "Raven kaleidoscope: famous overnight",
+   "set": null,
+   "bars": "none",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "params": {
+    "subject": "raven",
+    "center": {
+     "k": "raven",
+     "x": 0.5,
+     "y": 0.5,
+     "s": 1.2
+    },
+    "invert": true,
+    "chaos": true,
+    "seed": 57,
+    "type": "kaleido"
+   },
+   "notes": "s057"
+  },
+  {
+   "id": "s061",
+   "start": 203.57,
+   "end": 205.79,
+   "line": "It was reprinted across the country.",
+   "scene": "Reprinted everywhere",
+   "set": null,
+   "bars": "none",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "params": {
+    "mast": "EVENING MIRROR \u00b7 1845",
+    "title": "THE RAVEN",
+    "titleSize": 90,
+    "chaos": true,
+    "seed": 58,
+    "L": 0.4,
+    "type": "doc"
+   },
+   "notes": "s058"
+  },
+  {
+   "id": "s062",
+   "start": 205.79,
+   "end": 207.97,
+   "line": "People recited it in theaters.",
+   "scene": "Recited in theaters",
+   "set": null,
+   "bars": "none",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "params": {
+    "bg": "void",
+    "props": [
+     {
+      "k": "stage",
+      "y": 0.82
+     }
+    ],
+    "big": [
+     {
+      "k": "raven",
+      "x": 0.72,
+      "y": 0.4,
+      "s": 0.8,
+      "perched": true
+     }
+    ],
+    "figs": [
+     {
+      "who": "MAN",
+      "x": 0.42,
+      "p": [
+       [
+        0,
+        "explain"
+       ],
+       [
+        1.2,
+        "pointUp"
+       ]
+      ],
+      "f": 1,
+      "s": 1.5
+     }
+    ],
+    "type": "stage"
+   },
+   "notes": "s059"
+  },
+  {
+   "id": "s063",
+   "start": 207.97,
+   "end": 209.95,
+   "line": "Strangers called him \"The Raven\" in the street.",
+   "scene": "Strangers call him \"The Raven\" in the street",
+   "set": null,
+   "bars": "none",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "params": {
+    "world": "street",
+    "figs": [
+     {
+      "who": "POE",
+      "x": 0.42,
+      "p": "stand",
+      "f": 1,
+      "s": 1.5,
+      "walk": [
+       0.3,
+       0.5,
+       0,
+       2
+      ]
+     },
+     {
+      "who": "MAN",
+      "x": 0.7,
+      "p": "point",
+      "f": -1,
+      "s": 1.5
+     }
+    ],
+    "ov": {
+     "tags": [
+      {
+       "str": "\"THE RAVEN!\"",
+       "at": 0.93,
+       "fill": "magenta",
+       "color": "bone"
+      }
+     ]
+    },
+    "type": "world"
+   },
+   "notes": "s060"
+  },
+  {
+   "id": "s064",
+   "start": 209.95,
+   "end": 213.74,
+   "line": "He was reportedly paid about nine dollars for it.",
+   "scene": "Paid about $9",
+   "set": null,
+   "bars": "none",
+   "in": {
+    "type": "zoom",
+    "dur": 0.45
+   },
+   "sfx": [],
+   "params": {
+    "to": 9,
+    "prefix": "$",
+    "sub": "REPORTEDLY",
+    "dur": 0.8,
+    "type": "count"
+   },
+   "notes": "s061"
+  },
+  {
+   "id": "s065",
+   "start": 213.74,
+   "end": 215.29,
+   "line": "Fame didn't make him rich.",
+   "scene": "Fame didn't make him rich",
+   "set": null,
+   "bars": "none",
+   "in": {
+    "type": "zoom",
+    "dur": 0.45
+   },
+   "sfx": [],
+   "params": {
+    "bg": "void",
+    "figs": [
+     {
+      "who": "POE",
+      "x": 0.5,
+      "p": "shrug",
+      "f": 1,
+      "s": 1.7
+     }
+    ],
+    "type": "stage"
+   },
+   "notes": "s061"
+  },
+  {
+   "id": "s066",
+   "start": 215.29,
+   "end": 217.13,
+   "line": "And it couldn't save Virginia.",
+   "scene": "It couldn't save Virginia",
+   "set": null,
+   "bars": "none",
+   "in": {
+    "type": "fade",
+    "dur": 0.7
+   },
+   "sfx": [],
+   "params": {
+    "bg": "void",
+    "c1": "#2a0a3a",
+    "ground": true,
+    "props": [
+     {
+      "k": "bed",
+      "x": 0.55
+     }
+    ],
+    "figs": [
+     {
+      "who": "POE",
+      "x": 0.32,
+      "p": "kneel",
+      "f": 1,
+      "s": 1.5
+     }
+    ],
+    "type": "stage"
+   },
+   "notes": "s062"
+  },
+  {
+   "id": "s067",
+   "start": 217.13,
+   "end": 222.65,
+   "line": "In January 1847, in a freezing cottage outside New York, she died.",
+   "scene": "Freezing cottage, January 1847: she dies",
+   "set": null,
+   "bars": "none",
+   "in": {
+    "type": "fade",
+    "dur": 0.7
+   },
+   "sfx": [],
+   "params": {
+    "bg": "void",
+    "c1": "#1a0a2a",
+    "ground": true,
+    "props": [
+     {
+      "k": "window",
+      "x": 0.25
+     },
+     {
+      "k": "bed",
+      "x": 0.6
+     }
+    ],
+    "figs": [
+     {
+      "who": "POE",
+      "x": 0.38,
+      "p": "kneel",
+      "f": 1,
+      "s": 1.5
+     }
+    ],
+    "ov": {
+     "tags": [
+      {
+       "str": "FORDHAM, NEW YORK \u00b7 JANUARY 1847",
+       "at": 0.5
+      }
+     ]
+    },
+    "type": "stage"
+   },
+   "notes": "s063"
+  },
+  {
+   "id": "s068",
+   "start": 222.65,
+   "end": 224.13,
+   "line": "She was twenty-four.",
+   "scene": "Virginia Poe, 1822-1847",
+   "set": null,
+   "bars": "none",
+   "in": {
+    "type": "fade",
+    "dur": 0.7
+   },
+   "sfx": [],
+   "params": {
+    "bg": "void",
+    "lines": [
+     "VIRGINIA POE",
+     "1822 - 1847"
+    ],
+    "size": 64,
+    "type": "card"
+   },
+   "notes": "s064"
+  },
+  {
+   "id": "s069",
+   "start": 224.13,
+   "end": 230.07,
+   "line": "They were so poor that, as she lay dying, her husband's old military coat served as her blanket.",
+   "scene": "His old army coat as her blanket",
+   "set": null,
+   "bars": "none",
+   "in": {
+    "type": "fade",
+    "dur": 0.7
+   },
+   "sfx": [],
+   "params": {
+    "bg": "void",
+    "c1": "#1a0a2a",
+    "ground": true,
+    "props": [
+     {
+      "k": "bed",
+      "x": 0.5
+     }
+    ],
+    "ov": {
+     "tags": [
+      {
+       "str": "HIS OLD ARMY COAT",
+       "at": 1.5
+      }
+     ]
+    },
+    "type": "stage"
+   },
+   "notes": "s065"
+  },
+  {
+   "id": "s070",
+   "start": 230.07,
+   "end": 234.69,
+   "line": "After Virginia's death, Poe fell apart. He drank. He traveled.",
+   "scene": "He fell apart: drinking, traveling",
+   "set": null,
+   "bars": "none",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "params": {
+    "bg": "rings",
+    "figs": [
+     {
+      "who": "POE",
+      "x": 0.5,
+      "p": [
+       [
+        0,
+        "sad"
+       ],
+       [
+        1.4,
+        "fall"
+       ]
+      ],
+      "f": 1,
+      "s": 1.6,
+      "prop": "bottle",
+      "rot": 0.3
+     }
+    ],
+    "ov": {
+     "tags": [
+      {
+       "str": "HE DRANK",
+       "at": 3.15,
+       "x": 0.3,
+       "y": 0.22
+      },
+      {
+       "str": "HE TRAVELED",
+       "at": 3.95,
+       "x": 0.7,
+       "y": 0.22,
+       "fill": "magenta",
+       "color": "bone"
+      }
+     ]
+    },
+    "chaos": true,
+    "seed": 66,
+    "L": 0.35,
+    "type": "stage"
+   },
+   "notes": "s066"
+  },
+  {
+   "id": "s071",
+   "start": 234.69,
+   "end": 236.71,
+   "line": "He proposed to more than one woman.",
+   "scene": "Proposals",
+   "set": null,
+   "bars": "none",
+   "in": {
+    "type": "zoom",
+    "dur": 0.45
+   },
+   "sfx": [],
+   "params": {
+    "bg": "void",
+    "figs": [
+     {
+      "who": "POE",
+      "x": 0.4,
+      "p": "kneel",
+      "f": 1,
+      "s": 1.5
+     },
+     {
+      "who": "WOMAN",
+      "x": 0.6,
+      "p": "stand",
+      "f": -1,
+      "s": 1.5,
+      "fadeIn": 0.3
+     },
+     {
+      "who": "WOMAN",
+      "x": 0.75,
+      "p": "crossArms",
+      "f": -1,
+      "s": 1.5,
+      "fadeIn": 1.0
+     }
+    ],
+    "type": "stage"
+   },
+   "notes": "s067"
+  },
+  {
+   "id": "s072",
+   "start": 236.71,
+   "end": 239.29,
+   "line": "And in 1849, he went back to Richmond",
+   "scene": "Back to Richmond, 1849",
+   "set": null,
+   "bars": "none",
+   "in": {
+    "type": "zoom",
+    "dur": 0.45
+   },
+   "sfx": [],
+   "params": {
+    "world": "street",
+    "figs": [
+     {
+      "who": "POE",
+      "x": 0.45,
+      "p": "stand",
+      "f": 1,
+      "s": 1.5,
+      "walk": [
+       0.3,
+       0.5,
+       0,
+       2.6
+      ]
+     }
+    ],
+    "ov": {
+     "tags": [
+      {
+       "str": "RICHMOND \u00b7 1849",
+       "at": 0.4
+      }
+     ]
+    },
+    "type": "world"
+   },
+   "notes": "s068"
+  },
+  {
+   "id": "s073",
+   "start": 239.29,
+   "end": 245.33,
+   "line": "and found his childhood sweetheart, Elmira Shelton, now a widow. They became engaged.",
+   "scene": "Elmira Shelton: engaged",
+   "set": null,
+   "bars": "none",
+   "in": {
+    "type": "zoom",
+    "dur": 0.45
+   },
+   "sfx": [],
+   "params": {
+    "bg": "bone",
+    "big": [
+     {
+      "k": "heart",
+      "x": 0.5,
+      "y": 0.35,
+      "s": 0.35
+     }
+    ],
+    "figs": [
+     {
+      "who": "POE",
+      "x": 0.4,
+      "p": "stand",
+      "f": 1,
+      "s": 1.5
+     },
+     {
+      "who": "WOMAN",
+      "x": 0.6,
+      "p": "stand",
+      "f": -1,
+      "s": 1.5
+     }
+    ],
+    "ov": {
+     "tags": [
+      {
+       "str": "ELMIRA SHELTON",
+       "at": 2.39,
+       "fill": "magenta",
+       "color": "bone"
+      }
+     ]
+    },
+    "type": "stage"
+   },
+   "notes": "s069"
+  },
+  {
+   "id": "s074",
+   "start": 245.33,
+   "end": 249.35,
+   "line": "For a moment, it looked like Edgar Allan Poe might get a happy ending.",
+   "scene": "A happy ending?",
+   "set": null,
+   "bars": "none",
+   "in": {
+    "type": "zoom",
+    "dur": 0.45
+   },
+   "sfx": [],
+   "params": {
+    "bg": "bone",
+    "figs": [
+     {
+      "who": "POE",
+      "x": 0.42,
+      "p": "relaxed",
+      "f": 1,
+      "s": 1.5
+     },
+     {
+      "who": "WOMAN",
+      "x": 0.58,
+      "p": "relaxed",
+      "f": -1,
+      "s": 1.5
+     }
+    ],
+    "ov": {
+     "tags": [
+      {
+       "str": "A HAPPY ENDING?",
+       "at": 1.6,
+       "fill": "bone"
+      }
+     ]
+    },
+    "type": "stage"
+   },
+   "notes": "s070"
+  },
+  {
+   "id": "s075",
+   "start": 249.35,
+   "end": 253.65,
+   "line": "On September 27th, 1849, he left Richmond by boat,",
+   "scene": "He leaves Richmond by boat",
+   "set": null,
+   "bars": "none",
+   "in": {
+    "type": "fade",
+    "dur": 0.7
+   },
+   "sfx": [],
+   "params": {
+    "world": "sea",
+    "ov": {
+     "tags": [
+      {
+       "str": "SEPTEMBER 27, 1849",
+       "at": 0.4
+      }
+     ]
+    },
+    "type": "world"
+   },
+   "notes": "s071"
+  },
+  {
+   "id": "s076",
+   "start": 253.65,
+   "end": 257.12,
+   "line": "heading north on business, planning to come back and marry her.",
+   "scene": "Heading north, planning to return",
+   "set": null,
+   "bars": "none",
+   "in": {
+    "type": "zoom",
+    "dur": 0.45
+   },
+   "sfx": [],
+   "params": {
+    "bg": "void",
+    "props": [
+     {
+      "k": "boat",
+      "x": 0.5,
+      "y": 0.8
+     }
+    ],
+    "ov": {
+     "tags": [
+      {
+       "str": "TO MARRY HER",
+       "at": 2.61,
+       "fill": "magenta",
+       "color": "bone"
+      }
+     ]
+    },
+    "type": "stage"
+   },
+   "notes": "s072"
+  },
+  {
+   "id": "s077",
+   "start": 257.12,
+   "end": 258.53,
+   "line": "He never arrived.",
+   "scene": "He never arrived",
+   "set": null,
+   "bars": "none",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "params": {
+    "bg": "blood",
+    "lines": [
+     "HE NEVER ARRIVED"
+    ],
+    "bigLine": 0,
+    "size": 90,
+    "y": 0.42,
+    "chaos": true,
+    "seed": 72,
+    "type": "card"
+   },
+   "notes": "s072"
+  },
+  {
+   "id": "s078",
+   "start": 258.53,
+   "end": 261.65,
+   "line": "For five days, nobody knows where he was.",
+   "scene": "Five lost days: the corridor of doors",
+   "set": null,
+   "bars": "none",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "params": {
+    "world": "corridor",
+    "figs": [
+     {
+      "who": "POE",
+      "x": 0.5,
+      "p": "fall",
+      "f": 1,
+      "s": 1.3,
+      "rot": 1.0,
+      "spin": true
+     }
+    ],
+    "ov": {
+     "tags": [
+      {
+       "str": "5 DAYS \u00b7 WHERE WAS HE?",
+       "at": 0.5,
+       "fill": "magenta",
+       "color": "bone"
+      }
+     ]
+    },
+    "chaos": true,
+    "seed": 73,
+    "type": "world"
+   },
+   "notes": "s073"
+  },
+  {
+   "id": "s079",
+   "start": 261.65,
+   "end": 263.29,
+   "line": "Then, on October 3rd,",
+   "scene": "October 3",
+   "set": null,
+   "bars": "none",
+   "in": {
+    "type": "flash",
+    "dur": 0.25
+   },
+   "sfx": [],
+   "params": {
+    "bg": "spiralAcid",
+    "lines": [
+     "OCTOBER 3RD"
+    ],
+    "bigLine": 0,
+    "size": 100,
+    "y": 0.42,
+    "chaos": true,
+    "seed": 74,
+    "L": 0.35,
+    "type": "card"
+   },
+   "notes": "s074"
+  },
+  {
+   "id": "s080",
+   "start": 263.29,
+   "end": 269.65,
+   "line": "a printer named Joseph Walker found him outside a Baltimore tavern that was being used as a polling place.",
+   "scene": "Joseph Walker finds Poe outside the polling-place tavern",
+   "set": null,
+   "bars": "none",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "params": {
+    "bg": "checker",
+    "props": [
+     {
+      "k": "tavern",
+      "x": 0.68,
+      "s": 0.9
+     },
+     {
+      "k": "ballot",
+      "x": 0.35
+     }
+    ],
+    "figs": [
+     {
+      "who": "POE",
+      "x": 0.5,
+      "p": "kneel",
+      "f": 1,
+      "s": 1.5
+     },
+     {
+      "who": "MAN",
+      "x": 0.32,
+      "p": "reach",
+      "f": 1,
+      "s": 1.5
+     }
+    ],
+    "ov": {
+     "tags": [
+      {
+       "str": "JOSEPH WALKER, PRINTER",
+       "at": 0.97
+      }
+     ]
+    },
+    "chaos": true,
+    "seed": 75,
+    "L": 0.4,
+    "type": "stage"
+   },
+   "notes": "s075"
+  },
+  {
+   "id": "s081",
+   "start": 269.65,
+   "end": 275.31,
+   "line": "Walker wrote to one of Poe's acquaintances that the poet was in great distress, and needed immediate help.",
+   "scene": "Walker's note: in great distress",
+   "set": null,
+   "bars": "none",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "params": {
+    "title": "BALTIMORE CITY, OCT. 3RD",
+    "titleSize": 44,
+    "body": "\"...in great distress... in need of immediate assistance.\"",
+    "bodyAt": 0.6,
+    "type": "doc"
+   },
+   "notes": "s076"
+  },
+  {
+   "id": "s082",
+   "start": 275.31,
+   "end": 277.03,
+   "line": "Poe was taken to a hospital.",
+   "scene": "Taken to a hospital",
+   "set": null,
+   "bars": "none",
+   "in": {
+    "type": "fade",
+    "dur": 0.7
+   },
+   "sfx": [],
+   "params": {
+    "bg": "void",
+    "c1": "#1a0a2a",
+    "ground": true,
+    "props": [
+     {
+      "k": "bed",
+      "x": 0.5
+     }
+    ],
+    "figs": [
+     {
+      "who": "POE",
+      "x": 0.5,
+      "p": "stand",
+      "f": 1,
+      "s": 1.2,
+      "rot": -1.57,
+      "y": 0.66
+     }
+    ],
+    "type": "stage"
+   },
+   "notes": "s077"
+  },
+  {
+   "id": "s083",
+   "start": 277.03,
+   "end": 283.03,
+   "line": "For four days, he drifted in and out of delirium, hallucinating, talking to things that weren't there.",
+   "scene": "Delirium: a vortex of staring eyes",
+   "set": null,
+   "bars": "none",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "params": {
+    "world": "eyes",
+    "big": [
+     {
+      "k": "bust",
+      "x": 0.5,
+      "y": 0.55,
+      "s": 0.65,
+      "closed": true
+     }
+    ],
+    "chaos": true,
+    "seed": 78,
+    "type": "world"
+   },
+   "notes": "s078"
+  },
+  {
+   "id": "s084",
+   "start": 283.03,
+   "end": 289.87,
+   "line": "According to his doctor, on his last night, he called out a name, over and over: \"Reynolds.\"",
+   "scene": "\"Reynolds!\" he cries, over and over",
+   "set": null,
+   "bars": "none",
+   "in": {
+    "type": "flash",
+    "dur": 0.25
+   },
+   "sfx": [],
+   "params": {
+    "bg": "spiralAcid",
+    "big": [
+     {
+      "k": "bust",
+      "x": 0.5,
+      "y": 0.58,
+      "s": 0.95
+     }
+    ],
+    "ov": {
+     "ransom": [
+      "REYNOLDS!"
+     ],
+     "at": 6.11,
+     "y": 0.18,
+     "size": 90,
+     "bigLine": 0
+    },
+    "chaos": true,
+    "seed": 79,
+    "L": 0.3,
+    "type": "stage"
+   },
+   "notes": "s079"
+  },
+  {
+   "id": "s085",
+   "start": 289.87,
+   "end": 292.25,
+   "line": "Nobody knows who Reynolds was.",
+   "scene": "Who was Reynolds?",
+   "set": null,
+   "bars": "none",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "params": {
+    "bg": "rings",
+    "lines": [
+     "WHO WAS",
+     "REYNOLDS?"
+    ],
+    "size": 80,
+    "chaos": true,
+    "seed": 80,
+    "type": "card"
+   },
+   "notes": "s080"
+  },
+  {
+   "id": "s086",
+   "start": 292.25,
+   "end": 298.15,
+   "line": "On October 7th, 1849, Edgar Allan Poe died. He was forty years old.",
+   "scene": "The graveyard: October 7, 1849",
+   "set": null,
+   "bars": "none",
+   "in": {
+    "type": "fade",
+    "dur": 0.7
+   },
+   "sfx": [],
+   "params": {
+    "world": "grave",
+    "ov": {
+     "tags": [
+      {
+       "str": "OCTOBER 7, 1849 \u00b7 AGE 40",
+       "at": 0.6
+      }
+     ]
+    },
+    "type": "world"
+   },
+   "notes": "s081"
+  },
+  {
+   "id": "s087",
+   "start": 298.15,
+   "end": 300.92,
+   "line": "His death certificate has never been found.",
+   "scene": "Death certificate: missing",
+   "set": null,
+   "bars": "none",
+   "in": {
+    "type": "zoom",
+    "dur": 0.45
+   },
+   "sfx": [],
+   "params": {
+    "title": "DEATH CERTIFICATE",
+    "stamp": "MISSING",
+    "stampAt": 0.8,
+    "type": "doc"
+   },
+   "notes": "s082"
+  },
+  {
+   "id": "s088",
+   "start": 300.92,
+   "end": 302.33,
+   "line": "So what killed him?",
+   "scene": "So what killed him?",
+   "set": null,
+   "bars": "none",
+   "in": {
+    "type": "zoom",
+    "dur": 0.45
+   },
+   "sfx": [],
+   "params": {
+    "bg": "spiral",
+    "lines": [
+     "SO WHAT",
+     "KILLED HIM?"
+    ],
+    "size": 80,
+    "type": "card"
+   },
+   "notes": "s082"
+  },
+  {
+   "id": "s089",
+   "start": 302.33,
+   "end": 304.97,
+   "line": "The most famous theory is called cooping.",
+   "scene": "Cooping",
+   "set": null,
+   "bars": "none",
+   "in": {
+    "type": "zoom",
+    "dur": 0.45
+   },
+   "sfx": [],
+   "params": {
+    "bg": "checker",
+    "lines": [
+     "COOPING"
+    ],
+    "bigLine": 0,
+    "size": 130,
+    "y": 0.42,
+    "type": "card"
+   },
+   "notes": "s083"
+  },
+  {
+   "id": "s090",
+   "start": 304.97,
+   "end": 310.39,
+   "line": "In nineteenth-century Baltimore, gangs would kidnap strangers on election day, get them drunk,",
+   "scene": "Election-day gangs grab strangers and get them drunk",
+   "set": null,
+   "bars": "none",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "params": {
+    "bg": "checker",
+    "props": [
+     {
+      "k": "tavern",
+      "x": 0.75,
+      "s": 0.8
+     }
+    ],
+    "figs": [
+     {
+      "who": "MAN",
+      "x": 0.3,
+      "p": "reach",
+      "f": 1,
+      "s": 1.5
+     },
+     {
+      "who": "POE",
+      "x": 0.45,
+      "p": "fall",
+      "f": 1,
+      "s": 1.5,
+      "prop": "bottle"
+     },
+     {
+      "who": "MAN",
+      "x": 0.6,
+      "p": "reach",
+      "f": -1,
+      "s": 1.5
+     }
+    ],
+    "chaos": true,
+    "seed": 84,
+    "L": 0.35,
+    "type": "stage"
+   },
+   "notes": "s084"
+  },
+  {
+   "id": "s091",
+   "start": 310.39,
+   "end": 316.11,
+   "line": "change their clothes, and drag them from polling place to polling place to vote again and again.",
+   "scene": "Dragged from polling place to polling place",
+   "set": null,
+   "bars": "none",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "params": {
+    "bg": "rings",
+    "props": [
+     {
+      "k": "ballot",
+      "x": 0.2
+     },
+     {
+      "k": "ballot",
+      "x": 0.5
+     },
+     {
+      "k": "ballot",
+      "x": 0.8
+     }
+    ],
+    "figs": [
+     {
+      "who": "MAN",
+      "x": 0.1,
+      "p": "stand",
+      "f": 1,
+      "s": 1.5,
+      "walk": [
+       0.0,
+       0.9,
+       0,
+       5.5
+      ]
+     },
+     {
+      "who": "POE",
+      "x": 0.0,
+      "p": "stand",
+      "f": 1,
+      "s": 1.5,
+      "walk": [
+       -0.08,
+       0.82,
+       0,
+       5.5
+      ]
+     }
+    ],
+    "ov": {
+     "tags": [
+      {
+       "str": "VOTE",
+       "at": 3.95,
+       "x": 0.2,
+       "y": 0.2
+      },
+      {
+       "str": "AGAIN",
+       "at": 4.19,
+       "x": 0.5,
+       "y": 0.3,
+       "fill": "magenta",
+       "color": "bone"
+      },
+      {
+       "str": "AND AGAIN",
+       "at": 4.67,
+       "x": 0.8,
+       "y": 0.2,
+       "fill": "bone"
+      }
+     ]
+    },
+    "chaos": true,
+    "seed": 85,
+    "L": 0.35,
+    "type": "stage"
+   },
+   "notes": "s085"
+  },
+  {
+   "id": "s092",
+   "start": 316.11,
+   "end": 321.22,
+   "line": "Poe was found at a polling place, on election day, in clothes that weren't his.",
+   "scene": "Polling place, election day, not his clothes",
+   "set": null,
+   "bars": "none",
+   "in": {
+    "type": "zoom",
+    "dur": 0.45
+   },
+   "sfx": [],
+   "params": {
+    "bg": "checker",
+    "items": [
+     {
+      "str": "POLLING PLACE",
+      "at": 1.19
+     },
+     {
+      "str": "ELECTION DAY",
+      "at": 2.21
+     },
+     {
+      "str": "NOT HIS CLOTHES",
+      "at": 3.31,
+      "fill": "magenta"
+     }
+    ],
+    "type": "list"
+   },
+   "notes": "s086"
+  },
+  {
+   "id": "s093",
+   "start": 321.22,
+   "end": 323.85,
+   "line": "But there are other theories. Alcohol.",
+   "scene": "Other theories: alcohol",
+   "set": null,
+   "bars": "none",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "params": {
+    "bg": "rings",
+    "items": [
+     {
+      "str": "ALCOHOL",
+      "at": 1.9,
+      "x": 0.3,
+      "y": 0.25
+     }
+    ],
+    "type": "list"
+   },
+   "notes": "s086"
+  },
+  {
+   "id": "s094",
+   "start": 323.85,
+   "end": 327.97,
+   "line": "A beating. A brain tumor. Carbon monoxide. Flu.",
+   "scene": "A beating, a tumor, carbon monoxide, flu",
+   "set": null,
+   "bars": "none",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "params": {
+    "bg": "rings",
+    "items": [
+     {
+      "str": "ALCOHOL",
+      "at": 0,
+      "x": 0.3,
+      "y": 0.25
+     },
+     {
+      "str": "A BEATING",
+      "at": 0.17,
+      "x": 0.7,
+      "y": 0.25
+     },
+     {
+      "str": "BRAIN TUMOR",
+      "at": 1.03,
+      "x": 0.3,
+      "y": 0.45
+     },
+     {
+      "str": "CARBON MONOXIDE",
+      "at": 2.11,
+      "x": 0.7,
+      "y": 0.45
+     },
+     {
+      "str": "FLU",
+      "at": 3.23,
+      "x": 0.5,
+      "y": 0.62
+     }
+    ],
+    "chaos": true,
+    "seed": 87,
+    "L": 0.4,
+    "type": "list"
+   },
+   "notes": "s087"
+  },
+  {
+   "id": "s095",
+   "start": 327.97,
+   "end": 333.54,
+   "line": "In 1996, a doctor reviewing his symptoms argued that Poe died of rabies.",
+   "scene": "Rabies (1996)",
+   "set": null,
+   "bars": "none",
+   "in": {
+    "type": "zoom",
+    "dur": 0.45
+   },
+   "sfx": [],
+   "params": {
+    "bg": "rings",
+    "items": [
+     {
+      "str": "ALCOHOL",
+      "at": 0,
+      "x": 0.3,
+      "y": 0.25
+     },
+     {
+      "str": "A BEATING",
+      "at": 0,
+      "x": 0.7,
+      "y": 0.25
+     },
+     {
+      "str": "BRAIN TUMOR",
+      "at": 0,
+      "x": 0.3,
+      "y": 0.45
+     },
+     {
+      "str": "CARBON MONOXIDE",
+      "at": 0,
+      "x": 0.7,
+      "y": 0.45
+     },
+     {
+      "str": "FLU",
+      "at": 0,
+      "x": 0.5,
+      "y": 0.62
+     },
+     {
+      "str": "RABIES? (1996)",
+      "at": 4.39,
+      "x": 0.5,
+      "y": 0.8,
+      "fill": "magenta",
+      "size": 70
+     }
+    ],
+    "type": "list"
+   },
+   "notes": "s088"
+  },
+  {
+   "id": "s096",
+   "start": 333.54,
+   "end": 335.13,
+   "line": "None of them can be proven.",
+   "scene": "None can be proven",
+   "set": null,
+   "bars": "none",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "params": {
+    "bg": "blood",
+    "lines": [
+     "NONE OF THEM",
+     "CAN BE PROVEN"
+    ],
+    "size": 70,
+    "type": "card"
+   },
+   "notes": "s088"
+  },
+  {
+   "id": "s097",
+   "start": 335.13,
+   "end": 337.77,
+   "line": "And then the lore gets even darker.",
+   "scene": "It gets darker",
+   "set": null,
+   "bars": "none",
+   "in": {
+    "type": "fade",
+    "dur": 0.7
+   },
+   "sfx": [],
+   "params": {
+    "world": "corridor",
+    "type": "world"
+   },
+   "notes": "s089"
+  },
+  {
+   "id": "s098",
+   "start": 337.77,
+   "end": 342.01,
+   "line": "Because after Poe died, his reputation was murdered too.",
+   "scene": "His reputation, murdered",
+   "set": null,
+   "bars": "none",
+   "in": {
+    "type": "zoom",
+    "dur": 0.45
+   },
+   "sfx": [],
+   "params": {
+    "bg": "blood",
+    "big": [
+     {
+      "k": "bust",
+      "x": 0.5,
+      "y": 0.55,
+      "s": 1.0
+     }
+    ],
+    "ov": {
+     "tags": [
+      {
+       "str": "HIS REPUTATION",
+       "at": 2.01,
+       "fill": "bone"
+      }
+     ]
+    },
+    "type": "stage"
+   },
+   "notes": "s090"
+  },
+  {
+   "id": "s099",
+   "start": 342.01,
+   "end": 348.65,
+   "line": "A rival editor named Rufus Griswold, a man Poe had once criticized, published an obituary that began:",
+   "scene": "Rufus Griswold writes the obituary",
+   "set": null,
+   "bars": "none",
+   "in": {
+    "type": "zoom",
+    "dur": 0.45
+   },
+   "sfx": [],
+   "params": {
+    "bg": "void",
+    "ground": true,
+    "props": [
+     {
+      "k": "desk",
+      "x": 0.55
+     }
+    ],
+    "figs": [
+     {
+      "who": "GENT",
+      "x": 0.45,
+      "p": "sit",
+      "f": 1,
+      "s": 1.5,
+      "prop": "quill"
+     }
+    ],
+    "ov": {
+     "tags": [
+      {
+       "str": "RUFUS GRISWOLD",
+       "at": 1.25,
+       "fill": "magenta",
+       "color": "bone"
+      }
+     ]
+    },
+    "type": "stage"
+   },
+   "notes": "s091"
+  },
+  {
+   "id": "s100",
+   "start": 348.65,
+   "end": 350.71,
+   "line": "\"Edgar Allan Poe is dead.",
+   "scene": "\"Edgar Allan Poe is dead.\"",
+   "set": null,
+   "bars": "none",
+   "in": {
+    "type": "zoom",
+    "dur": 0.45
+   },
+   "sfx": [],
+   "params": {
+    "mast": "NEW-YORK TRIBUNE \u00b7 OCT. 9, 1849",
+    "title": "DEATH OF EDGAR A. POE",
+    "titleSize": 48,
+    "body": "\"Edgar Allan Poe is dead.",
+    "bodyAt": 0.0,
+    "bodySize": 48,
+    "type": "doc"
+   },
+   "notes": "s092"
+  },
+  {
+   "id": "s101",
+   "start": 350.71,
+   "end": 354.69,
+   "line": "This announcement will startle many, but few will be grieved by it.\"",
+   "scene": "\"...few will be grieved by it.\"",
+   "set": null,
+   "bars": "none",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "params": {
+    "mast": "NEW-YORK TRIBUNE \u00b7 OCT. 9, 1849",
+    "title": "DEATH OF EDGAR A. POE",
+    "titleSize": 48,
+    "body": "\"Edgar Allan Poe is dead. This announcement will startle many, but few will be grieved by it.\"",
+    "bodyAt": 0.0,
+    "bodySize": 48,
+    "type": "doc"
+   },
+   "notes": "s093"
+  },
+  {
+   "id": "s102",
+   "start": 354.69,
+   "end": 358.43,
+   "line": "Then Griswold somehow became Poe's literary executor.",
+   "scene": "Griswold, literary executor, holding the papers",
+   "set": null,
+   "bars": "none",
+   "in": {
+    "type": "zoom",
+    "dur": 0.45
+   },
+   "sfx": [],
+   "params": {
+    "bg": "checker",
+    "figs": [
+     {
+      "who": "GENT",
+      "x": 0.45,
+      "p": "holdFront",
+      "f": 1,
+      "s": 1.7,
+      "prop": "paper"
+     }
+    ],
+    "ov": {
+     "tags": [
+      {
+       "str": "LITERARY EXECUTOR",
+       "at": 0.8
+      }
+     ]
+    },
+    "type": "stage"
+   },
+   "notes": "s094"
+  },
+  {
+   "id": "s103",
+   "start": 358.43,
+   "end": 362.05,
+   "line": "He wrote a biography that painted Poe as a drunk, a madman,",
+   "scene": "A drunk, a madman",
+   "set": null,
+   "bars": "none",
+   "in": {
+    "type": "zoom",
+    "dur": 0.45
+   },
+   "sfx": [],
+   "params": {
+    "bg": "rings",
+    "items": [
+     {
+      "str": "A DRUNK",
+      "at": 2.41
+     },
+     {
+      "str": "A MADMAN",
+      "at": 3.11,
+      "fill": "magenta"
+     }
+    ],
+    "type": "list"
+   },
+   "notes": "s095"
+  },
+  {
+   "id": "s104",
+   "start": 362.05,
+   "end": 366.02,
+   "line": "and a man without friends, and he forged letters to prove it.",
+   "scene": "Forged letters",
+   "set": null,
+   "bars": "none",
+   "in": {
+    "type": "zoom",
+    "dur": 0.45
+   },
+   "sfx": [],
+   "params": {
+    "title": "LETTERS OF E. A. POE",
+    "stamp": "FORGED",
+    "stampAt": 1.4,
+    "type": "doc"
+   },
+   "notes": "s096"
+  },
+  {
+   "id": "s105",
+   "start": 366.02,
+   "end": 367.33,
+   "line": "It backfired.",
+   "scene": "It backfired",
+   "set": null,
+   "bars": "none",
+   "in": {
+    "type": "flash",
+    "dur": 0.25
+   },
+   "sfx": [],
+   "params": {
+    "bg": "spiralAcid",
+    "lines": [
+     "IT BACKFIRED"
+    ],
+    "bigLine": 0,
+    "size": 100,
+    "y": 0.42,
+    "chaos": true,
+    "seed": 96,
+    "type": "card"
+   },
+   "notes": "s096"
+  },
+  {
+   "id": "s106",
+   "start": 367.33,
+   "end": 374.65,
+   "line": "Griswold's lies made Poe sound exactly like one of his own characters. The tortured genius. The madman in the dark.",
+   "scene": "The tortured genius, the madman in the dark",
+   "set": null,
+   "bars": "none",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "params": {
+    "invert": true,
+    "ov": {
+     "tags": [
+      {
+       "str": "THE TORTURED GENIUS",
+       "at": 4.25,
+       "y": 0.12,
+       "fill": "bone"
+      },
+      {
+       "str": "THE MADMAN IN THE DARK",
+       "at": 5.77,
+       "y": 0.88,
+       "fill": "magenta",
+       "color": "bone"
+      }
+     ]
+    },
+    "chaos": true,
+    "seed": 97,
+    "type": "kaleido"
+   },
+   "notes": "s097"
+  },
+  {
+   "id": "s107",
+   "start": 374.65,
+   "end": 376.73,
+   "line": "And readers couldn't get enough.",
+   "scene": "Readers couldn't get enough",
+   "set": null,
+   "bars": "none",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "params": {
+    "bg": "spiral",
+    "figs": [
+     {
+      "who": "MAN",
+      "x": 0.15,
+      "p": "holdFront",
+      "f": 1,
+      "s": 1.1,
+      "prop": "paper"
+     },
+     {
+      "who": "MAN",
+      "x": 0.3,
+      "p": "holdFront",
+      "f": 1,
+      "s": 1.1,
+      "prop": "paper"
+     },
+     {
+      "who": "MAN",
+      "x": 0.45,
+      "p": "holdFront",
+      "f": 1,
+      "s": 1.1,
+      "prop": "paper"
+     },
+     {
+      "who": "MAN",
+      "x": 0.6,
+      "p": "holdFront",
+      "f": 1,
+      "s": 1.1,
+      "prop": "paper"
+     },
+     {
+      "who": "MAN",
+      "x": 0.75,
+      "p": "holdFront",
+      "f": 1,
+      "s": 1.1,
+      "prop": "paper"
+     },
+     {
+      "who": "MAN",
+      "x": 0.9,
+      "p": "holdFront",
+      "f": 1,
+      "s": 1.1,
+      "prop": "paper"
+     }
+    ],
+    "type": "stage"
+   },
+   "notes": "s098"
+  },
+  {
+   "id": "s108",
+   "start": 376.73,
+   "end": 379.79,
+   "line": "The legend kept growing, even at his grave.",
+   "scene": "The legend at his grave",
+   "set": null,
+   "bars": "none",
+   "in": {
+    "type": "fade",
+    "dur": 0.7
+   },
+   "sfx": [],
+   "params": {
+    "world": "grave",
+    "type": "world"
+   },
+   "notes": "s099"
+  },
+  {
+   "id": "s109",
+   "start": 379.79,
+   "end": 385.65,
+   "line": "For sixty years, from 1949 to 2009, every year on Poe's birthday,",
+   "scene": "60 years",
+   "set": null,
+   "bars": "none",
+   "in": {
+    "type": "zoom",
+    "dur": 0.45
+   },
+   "sfx": [],
+   "params": {
+    "to": 60,
+    "suffix": " YEARS",
+    "sub": "1949 - 2009",
+    "bg": "void",
+    "dur": 1.5,
+    "type": "count"
+   },
+   "notes": "s100"
+  },
+  {
+   "id": "s110",
+   "start": 385.65,
+   "end": 389.63,
+   "line": "a mysterious figure dressed in black slipped into the cemetery in Baltimore",
+   "scene": "A figure in black slips into the cemetery",
+   "set": null,
+   "bars": "none",
+   "in": {
+    "type": "zoom",
+    "dur": 0.45
+   },
+   "sfx": [],
+   "params": {
+    "world": "grave",
+    "figs": [
+     {
+      "who": "GENT",
+      "x": 0.3,
+      "p": "stand",
+      "f": 1,
+      "s": 1.3,
+      "walk": [
+       0.2,
+       0.55,
+       0,
+       3.8
+      ]
+     }
+    ],
+    "type": "world"
+   },
+   "notes": "s101"
+  },
+  {
+   "id": "s111",
+   "start": 389.63,
+   "end": 393.63,
+   "line": "and left three roses and a half-empty bottle of cognac.",
+   "scene": "Three roses and cognac on the grave",
+   "set": null,
+   "bars": "none",
+   "in": {
+    "type": "zoom",
+    "dur": 0.45
+   },
+   "sfx": [],
+   "params": {
+    "bg": "void",
+    "ground": true,
+    "props": [
+     {
+      "k": "grave",
+      "x": 0.5,
+      "s": 1.4
+     },
+     {
+      "k": "roses",
+      "x": 0.62,
+      "s": 1.2
+     }
+    ],
+    "ov": {
+     "tags": [
+      {
+       "str": "THREE ROSES \u00b7 COGNAC",
+       "at": 0.8
+      }
+     ]
+    },
+    "type": "stage"
+   },
+   "notes": "s102"
+  },
+  {
+   "id": "s112",
+   "start": 393.63,
+   "end": 396.41,
+   "line": "People staked out the grave for decades.",
+   "scene": "Watchers in the dark",
+   "set": null,
+   "bars": "none",
+   "in": {
+    "type": "zoom",
+    "dur": 0.45
+   },
+   "sfx": [],
+   "params": {
+    "bg": "void",
+    "ground": true,
+    "big": [
+     {
+      "k": "eyes",
+      "x": 0.5,
+      "y": 0.5,
+      "s": 1,
+      "n": 12,
+      "seed": 9
+     }
+    ],
+    "props": [
+     {
+      "k": "grave",
+      "x": 0.5,
+      "s": 1.2
+     }
+    ],
+    "type": "stage"
+   },
+   "notes": "s103"
+  },
+  {
+   "id": "s113",
+   "start": 396.41,
+   "end": 399.01,
+   "line": "Nobody ever unmasked the Poe Toaster.",
+   "scene": "The Poe Toaster, never unmasked",
+   "set": null,
+   "bars": "none",
+   "in": {
+    "type": "zoom",
+    "dur": 0.45
+   },
+   "sfx": [],
+   "params": {
+    "bg": "rings",
+    "lines": [
+     "THE POE TOASTER"
+    ],
+    "bigLine": 0,
+    "size": 90,
+    "y": 0.4,
+    "sub": "NEVER UNMASKED",
+    "type": "card"
+   },
+   "notes": "s104"
+  },
+  {
+   "id": "s114",
+   "start": 399.01,
+   "end": 402.43,
+   "line": "So here's the lore of Edgar Allan Poe.",
+   "scene": "Here's the lore of Edgar Allan Poe",
+   "set": null,
+   "bars": "none",
+   "in": {
+    "type": "fade",
+    "dur": 0.7
+   },
+   "sfx": [],
+   "params": {
+    "spin": 0.4,
+    "type": "kaleido"
+   },
+   "notes": "s105"
+  },
+  {
+   "id": "s115",
+   "start": 402.43,
+   "end": 405.83,
+   "line": "An orphan who took his name from a man who rejected him.",
+   "scene": "An orphan, rejected",
+   "set": null,
+   "bars": "none",
+   "in": {
+    "type": "zoom",
+    "dur": 0.45
+   },
+   "sfx": [],
+   "params": {
+    "bg": "void",
+    "figs": [
+     {
+      "who": "BABY",
+      "x": 0.42,
+      "p": "stand",
+      "f": 1,
+      "s": 1.5
+     },
+     {
+      "who": "GENT",
+      "x": 0.62,
+      "p": "crossArms",
+      "f": -1,
+      "s": 1.5
+     }
+    ],
+    "type": "stage"
+   },
+   "notes": "s106"
+  },
+  {
+   "id": "s116",
+   "start": 405.83,
+   "end": 409.65,
+   "line": "A poet who sold his most famous poem for almost nothing.",
+   "scene": "A poem sold for almost nothing",
+   "set": null,
+   "bars": "none",
+   "in": {
+    "type": "zoom",
+    "dur": 0.45
+   },
+   "sfx": [],
+   "params": {
+    "bg": "void",
+    "big": [
+     {
+      "k": "raven",
+      "x": 0.5,
+      "y": 0.45,
+      "s": 1.0,
+      "perched": true
+     }
+    ],
+    "ov": {
+     "tags": [
+      {
+       "str": "$9",
+       "at": 0.4,
+       "size": 70
+      }
+     ]
+    },
+    "type": "stage"
+   },
+   "notes": "s107"
+  },
+  {
+   "id": "s117",
+   "start": 409.65,
+   "end": 413.61,
+   "line": "A husband who lost everyone he loved to the same disease.",
+   "scene": "Everyone he loved, lost",
+   "set": null,
+   "bars": "none",
+   "in": {
+    "type": "zoom",
+    "dur": 0.45
+   },
+   "sfx": [],
+   "params": {
+    "bg": "void",
+    "figs": [
+     {
+      "who": "WOMAN",
+      "x": 0.3,
+      "p": "stand",
+      "f": 1,
+      "s": 1.5,
+      "fadeOut": 0.8,
+      "color": "#4a1a6a"
+     },
+     {
+      "who": "VIRGINIA",
+      "x": 0.45,
+      "p": "stand",
+      "f": 1,
+      "s": 1.2,
+      "fadeOut": 1.6,
+      "color": "#4a1a6a"
+     },
+     {
+      "who": "POE",
+      "x": 0.65,
+      "p": "sad",
+      "f": -1,
+      "s": 1.5
+     }
+    ],
+    "type": "stage"
+   },
+   "notes": "s108"
+  },
+  {
+   "id": "s118",
+   "start": 413.61,
+   "end": 416.05,
+   "line": "A man who invented the detective story, and",
+   "scene": "He invented the detective story",
+   "set": null,
+   "bars": "none",
+   "in": {
+    "type": "zoom",
+    "dur": 0.45
+   },
+   "sfx": [],
+   "params": {
+    "bg": "checker",
+    "big": [
+     {
+      "k": "eye",
+      "x": 0.5,
+      "y": 0.4,
+      "s": 2.0
+     }
+    ],
+    "type": "stage"
+   },
+   "notes": "s109"
+  },
+  {
+   "id": "s119",
+   "start": 416.05,
+   "end": 423.09,
+   "line": "then disappeared into a mystery that the greatest detectives in history still can't solve. Quoth the raven:",
+   "scene": "Falling into the spiral staircase; QUOTH THE RAVEN",
+   "set": null,
+   "bars": "none",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "params": {
+    "world": "stairs",
+    "figs": [
+     {
+      "who": "POE",
+      "x": 0.5,
+      "p": "fall",
+      "f": 1,
+      "s": 1.0,
+      "rot": 1,
+      "spin": true,
+      "y": 0.6
+     }
+    ],
+    "ov": {
+     "ransom": [
+      "QUOTH THE RAVEN"
+     ],
+     "at": 5.79,
+     "y": 0.18,
+     "size": 70,
+     "bigLine": 0
+    },
+    "chaos": true,
+    "seed": 110,
+    "type": "world"
+   },
+   "notes": "s110"
+  },
+  {
+   "id": "s120",
+   "start": 423.09,
+   "end": 425.32,
+   "line": "nevermore.",
+   "scene": "NEVERMORE",
+   "set": null,
+   "bars": "none",
+   "in": {
+    "type": "flash",
+    "dur": 0.25
+   },
+   "sfx": [],
+   "params": {
+    "bg": "spiralAcid",
+    "lines": [
+     "NEVERMORE"
+    ],
+    "bigLine": 0,
+    "size": 120,
+    "y": 0.4,
+    "big": [
+     {
+      "k": "raven",
+      "x": 0.5,
+      "y": 0.75,
+      "s": 0.8
+     }
+    ],
+    "chaos": true,
+    "seed": 111,
+    "L": 0.35,
+    "type": "card"
+   },
+   "notes": "s111"
+  }
+ ],
+ "music": [
+  {
+   "start": 0,
+   "end": 28.7,
+   "mood": "mystery",
+   "intensity": 0.9
+  },
+  {
+   "start": 28.7,
+   "end": 118,
+   "mood": "calm",
+   "intensity": 0.35
+  },
+  {
+   "start": 118,
+   "end": 176.8,
+   "mood": "mystery",
+   "intensity": 0.45
+  },
+  {
+   "start": 176.8,
+   "end": 192.2,
+   "mood": "sad",
+   "intensity": 0.4
+  },
+  {
+   "start": 192.2,
+   "end": 215.3,
+   "mood": "epic",
+   "intensity": 0.8
+  },
+  {
+   "start": 215.3,
+   "end": 249.4,
+   "mood": "sad",
+   "intensity": 0.45
+  },
+  {
+   "start": 249.4,
+   "end": 302.3,
+   "mood": "dark",
+   "intensity": 0.85
+  },
+  {
+   "start": 302.3,
+   "end": 335.1,
+   "mood": "tension",
+   "intensity": 0.7
+  },
+  {
+   "start": 335.1,
+   "end": 376.7,
+   "mood": "dark",
+   "intensity": 0.6
+  },
+  {
+   "start": 376.7,
+   "end": 399,
+   "mood": "mystery",
+   "intensity": 0.5
+  },
+  {
+   "start": 399,
+   "end": 425.32,
+   "mood": "dark",
+   "intensity": 0.8
+  }
+ ],
+ "sfx": []
+}

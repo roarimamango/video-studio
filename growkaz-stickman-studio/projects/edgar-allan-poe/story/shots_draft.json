@@ -1,0 +1,1561 @@
+{
+ "title": "The Lore Behind Edgar Allan Poe",
+ "duration": 425.32,
+ "shots": [
+  {
+   "id": "s001",
+   "start": 0.0,
+   "end": 7.15,
+   "line": "On October 3rd, 1849, a man was found slumped outside a tavern in Baltimore. It was election day.",
+   "scene": "TODO",
+   "set": null,
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": ""
+  },
+  {
+   "id": "s002",
+   "start": 7.15,
+   "end": 12.53,
+   "line": "He was delirious, he couldn't explain where he'd been, and he was wearing someone else's clothes.",
+   "scene": "TODO",
+   "set": null,
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": ""
+  },
+  {
+   "id": "s003",
+   "start": 12.53,
+   "end": 14.89,
+   "line": "He had been missing for five days.",
+   "scene": "TODO",
+   "set": null,
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": ""
+  },
+  {
+   "id": "s004",
+   "start": 14.89,
+   "end": 17.19,
+   "line": "Four days later, he was dead.",
+   "scene": "TODO",
+   "set": null,
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": ""
+  },
+  {
+   "id": "s005",
+   "start": 17.19,
+   "end": 19.63,
+   "line": "His name was Edgar Allan Poe.",
+   "scene": "TODO",
+   "set": null,
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": ""
+  },
+  {
+   "id": "s006",
+   "start": 19.63,
+   "end": 21.65,
+   "line": "He invented the detective story.",
+   "scene": "TODO",
+   "set": null,
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": ""
+  },
+  {
+   "id": "s007",
+   "start": 21.65,
+   "end": 25.59,
+   "line": "And he left behind the one mystery nobody has ever solved.",
+   "scene": "TODO",
+   "set": null,
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": ""
+  },
+  {
+   "id": "s008",
+   "start": 25.59,
+   "end": 28.73,
+   "line": "This is the lore behind Edgar Allan Poe.",
+   "scene": "TODO",
+   "set": null,
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": ""
+  },
+  {
+   "id": "s009",
+   "start": 28.73,
+   "end": 33.49,
+   "line": "He was born in Boston in 1809, to a family of traveling actors.",
+   "scene": "TODO",
+   "set": null,
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": ""
+  },
+  {
+   "id": "s010",
+   "start": 33.49,
+   "end": 35.75,
+   "line": "His father walked out when he was a baby.",
+   "scene": "TODO",
+   "set": null,
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": ""
+  },
+  {
+   "id": "s011",
+   "start": 35.75,
+   "end": 40.99,
+   "line": "When Edgar was two, his mother died of tuberculosis in a rented room in Richmond, Virginia.",
+   "scene": "TODO",
+   "set": null,
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": ""
+  },
+  {
+   "id": "s012",
+   "start": 40.99,
+   "end": 45.71,
+   "line": "A wealthy tobacco merchant named John Allan and his wife Frances took the boy in.",
+   "scene": "TODO",
+   "set": null,
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": ""
+  },
+  {
+   "id": "s013",
+   "start": 45.71,
+   "end": 47.49,
+   "line": "They never formally adopted him.",
+   "scene": "TODO",
+   "set": null,
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": ""
+  },
+  {
+   "id": "s014",
+   "start": 47.49,
+   "end": 55.51,
+   "line": "But they gave him a home, an education, and a new middle name. Allan. A-L-L-A-N.",
+   "scene": "TODO",
+   "set": null,
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": ""
+  },
+  {
+   "id": "s015",
+   "start": 55.51,
+   "end": 56.15,
+   "line": "Not Allen.",
+   "scene": "TODO",
+   "set": null,
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": ""
+  },
+  {
+   "id": "s016",
+   "start": 56.15,
+   "end": 59.87,
+   "line": "That middle name is the only thing of John Allan's that Poe would keep.",
+   "scene": "TODO",
+   "set": null,
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": ""
+  },
+  {
+   "id": "s017",
+   "start": 59.87,
+   "end": 62.35,
+   "line": "Because the two of them hated each other.",
+   "scene": "TODO",
+   "set": null,
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": ""
+  },
+  {
+   "id": "s018",
+   "start": 62.35,
+   "end": 64.39,
+   "line": "John Allan wanted a businessman.",
+   "scene": "TODO",
+   "set": null,
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": ""
+  },
+  {
+   "id": "s019",
+   "start": 64.39,
+   "end": 66.25,
+   "line": "Edgar wanted to be a poet.",
+   "scene": "TODO",
+   "set": null,
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": ""
+  },
+  {
+   "id": "s020",
+   "start": 66.25,
+   "end": 71.07,
+   "line": "When Poe went to the University of Virginia, Allan sent him barely enough money to survive.",
+   "scene": "TODO",
+   "set": null,
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": ""
+  },
+  {
+   "id": "s021",
+   "start": 71.07,
+   "end": 74.43,
+   "line": "So Poe gambled to cover the difference, and lost.",
+   "scene": "TODO",
+   "set": null,
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": ""
+  },
+  {
+   "id": "s022",
+   "start": 74.43,
+   "end": 79.43,
+   "line": "He left after one year, buried in debt, and Allan refused to pay it.",
+   "scene": "TODO",
+   "set": null,
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": ""
+  },
+  {
+   "id": "s023",
+   "start": 79.43,
+   "end": 83.49,
+   "line": "At eighteen, broke and furious, Poe did something strange.",
+   "scene": "TODO",
+   "set": null,
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": ""
+  },
+  {
+   "id": "s024",
+   "start": 83.49,
+   "end": 88.37,
+   "line": "He joined the United States Army under a fake name: Edgar A. Perry.",
+   "scene": "TODO",
+   "set": null,
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": ""
+  },
+  {
+   "id": "s025",
+   "start": 88.37,
+   "end": 91.49,
+   "line": "That same year, he published his first book of poems.",
+   "scene": "TODO",
+   "set": null,
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": ""
+  },
+  {
+   "id": "s026",
+   "start": 91.49,
+   "end": 93.85,
+   "line": "It didn't say Edgar Allan Poe on the cover.",
+   "scene": "TODO",
+   "set": null,
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": ""
+  },
+  {
+   "id": "s027",
+   "start": 93.85,
+   "end": 96.17,
+   "line": "It said, \"by a Bostonian.\"",
+   "scene": "TODO",
+   "set": null,
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": ""
+  },
+  {
+   "id": "s028",
+   "start": 96.17,
+   "end": 99.39,
+   "line": "Almost nobody bought it. He made it to West Point.",
+   "scene": "TODO",
+   "set": null,
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": ""
+  },
+  {
+   "id": "s029",
+   "start": 99.39,
+   "end": 104.31,
+   "line": "Then, when John Allan finally cut him off for good, Poe got himself thrown out on purpose.",
+   "scene": "TODO",
+   "set": null,
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": ""
+  },
+  {
+   "id": "s030",
+   "start": 104.31,
+   "end": 107.77,
+   "line": "He simply stopped showing up to class, to drills,",
+   "scene": "TODO",
+   "set": null,
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": ""
+  },
+  {
+   "id": "s031",
+   "start": 107.77,
+   "end": 111.57,
+   "line": "to church, until the academy had no choice but to expel him.",
+   "scene": "TODO",
+   "set": null,
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": ""
+  },
+  {
+   "id": "s032",
+   "start": 111.57,
+   "end": 115.87,
+   "line": "He was twenty-two, with no money, no family, and no name.",
+   "scene": "TODO",
+   "set": null,
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": ""
+  },
+  {
+   "id": "s033",
+   "start": 115.87,
+   "end": 118.09,
+   "line": "All he had was his writing.",
+   "scene": "TODO",
+   "set": null,
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": ""
+  },
+  {
+   "id": "s034",
+   "start": 118.09,
+   "end": 123.11,
+   "line": "In Baltimore, he moved in with his aunt, Maria Clemm, and her young daughter, Virginia.",
+   "scene": "TODO",
+   "set": null,
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": ""
+  },
+  {
+   "id": "s035",
+   "start": 123.11,
+   "end": 125.87,
+   "line": "In 1836, Poe married Virginia.",
+   "scene": "TODO",
+   "set": null,
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": ""
+  },
+  {
+   "id": "s036",
+   "start": 125.87,
+   "end": 127.23,
+   "line": "He was twenty-seven.",
+   "scene": "TODO",
+   "set": null,
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": ""
+  },
+  {
+   "id": "s037",
+   "start": 127.23,
+   "end": 128.85,
+   "line": "She was thirteen.",
+   "scene": "TODO",
+   "set": null,
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": ""
+  },
+  {
+   "id": "s038",
+   "start": 128.85,
+   "end": 132.37,
+   "line": "On the marriage bond, her age was listed as twenty-one.",
+   "scene": "TODO",
+   "set": null,
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": ""
+  },
+  {
+   "id": "s039",
+   "start": 132.37,
+   "end": 134.33,
+   "line": "They were desperately poor.",
+   "scene": "TODO",
+   "set": null,
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": ""
+  },
+  {
+   "id": "s040",
+   "start": 134.33,
+   "end": 139.79,
+   "line": "Poe worked as an editor, wrote reviews, and made enemies everywhere with his vicious criticism.",
+   "scene": "TODO",
+   "set": null,
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": ""
+  },
+  {
+   "id": "s041",
+   "start": 139.79,
+   "end": 143.95,
+   "line": "And in between, he wrote stories nobody had ever written before.",
+   "scene": "TODO",
+   "set": null,
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": ""
+  },
+  {
+   "id": "s042",
+   "start": 143.95,
+   "end": 147.77,
+   "line": "In 1841, he published \"The Murders in the Rue Morgue.\"",
+   "scene": "TODO",
+   "set": null,
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": ""
+  },
+  {
+   "id": "s043",
+   "start": 147.77,
+   "end": 152.99,
+   "line": "A brilliant amateur named Dupin solves an impossible crime using nothing but logic.",
+   "scene": "TODO",
+   "set": null,
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": ""
+  },
+  {
+   "id": "s044",
+   "start": 152.99,
+   "end": 156.21,
+   "line": "It's widely considered the first modern detective story.",
+   "scene": "TODO",
+   "set": null,
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": ""
+  },
+  {
+   "id": "s045",
+   "start": 156.21,
+   "end": 162.01,
+   "line": "Decades later, Arthur Conan Doyle would admit that Sherlock Holmes owed everything to Dupin.",
+   "scene": "TODO",
+   "set": null,
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": ""
+  },
+  {
+   "id": "s046",
+   "start": 162.01,
+   "end": 166.33,
+   "line": "Poe wrote about premature burial, about a man walled up alive,",
+   "scene": "TODO",
+   "set": null,
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": ""
+  },
+  {
+   "id": "s047",
+   "start": 166.33,
+   "end": 172.55,
+   "line": "about a murderer driven mad by the sound of his victim's heart, still beating beneath the floorboards.",
+   "scene": "TODO",
+   "set": null,
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": ""
+  },
+  {
+   "id": "s048",
+   "start": 172.55,
+   "end": 174.77,
+   "line": "Where did all that darkness come from?",
+   "scene": "TODO",
+   "set": null,
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": ""
+  },
+  {
+   "id": "s049",
+   "start": 174.77,
+   "end": 176.81,
+   "line": "Some of it came from home.",
+   "scene": "TODO",
+   "set": null,
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": ""
+  },
+  {
+   "id": "s050",
+   "start": 176.81,
+   "end": 181.39,
+   "line": "In 1842, Virginia was singing for friends when she began to cough up blood.",
+   "scene": "TODO",
+   "set": null,
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": ""
+  },
+  {
+   "id": "s051",
+   "start": 181.39,
+   "end": 183.47,
+   "line": "It was tuberculosis,",
+   "scene": "TODO",
+   "set": null,
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": ""
+  },
+  {
+   "id": "s052",
+   "start": 183.47,
+   "end": 186.17,
+   "line": "the same disease that had killed Poe's mother.",
+   "scene": "TODO",
+   "set": null,
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": ""
+  },
+  {
+   "id": "s053",
+   "start": 186.17,
+   "end": 190.27,
+   "line": "For five years, she got better, then worse, then better again.",
+   "scene": "TODO",
+   "set": null,
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": ""
+  },
+  {
+   "id": "s054",
+   "start": 190.27,
+   "end": 192.23,
+   "line": "And Poe watched it happen.",
+   "scene": "TODO",
+   "set": null,
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": ""
+  },
+  {
+   "id": "s055",
+   "start": 192.23,
+   "end": 194.49,
+   "line": "In January 1845,",
+   "scene": "TODO",
+   "set": null,
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": ""
+  },
+  {
+   "id": "s056",
+   "start": 194.49,
+   "end": 200.13,
+   "line": "he published a poem about a grieving man visited by a raven that will only say one word.",
+   "scene": "TODO",
+   "set": null,
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": ""
+  },
+  {
+   "id": "s057",
+   "start": 200.13,
+   "end": 203.57,
+   "line": "\"The Raven\" made Edgar Allan Poe famous overnight.",
+   "scene": "TODO",
+   "set": null,
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": ""
+  },
+  {
+   "id": "s058",
+   "start": 203.57,
+   "end": 205.79,
+   "line": "It was reprinted across the country.",
+   "scene": "TODO",
+   "set": null,
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": ""
+  },
+  {
+   "id": "s059",
+   "start": 205.79,
+   "end": 207.97,
+   "line": "People recited it in theaters.",
+   "scene": "TODO",
+   "set": null,
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": ""
+  },
+  {
+   "id": "s060",
+   "start": 207.97,
+   "end": 209.95,
+   "line": "Strangers called him \"The Raven\" in the street.",
+   "scene": "TODO",
+   "set": null,
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": ""
+  },
+  {
+   "id": "s061",
+   "start": 209.95,
+   "end": 215.29,
+   "line": "He was reportedly paid about nine dollars for it. Fame didn't make him rich.",
+   "scene": "TODO",
+   "set": null,
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": ""
+  },
+  {
+   "id": "s062",
+   "start": 215.29,
+   "end": 217.13,
+   "line": "And it couldn't save Virginia.",
+   "scene": "TODO",
+   "set": null,
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": ""
+  },
+  {
+   "id": "s063",
+   "start": 217.13,
+   "end": 222.65,
+   "line": "In January 1847, in a freezing cottage outside New York, she died.",
+   "scene": "TODO",
+   "set": null,
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": ""
+  },
+  {
+   "id": "s064",
+   "start": 222.65,
+   "end": 224.13,
+   "line": "She was twenty-four.",
+   "scene": "TODO",
+   "set": null,
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": ""
+  },
+  {
+   "id": "s065",
+   "start": 224.13,
+   "end": 230.07,
+   "line": "They were so poor that, as she lay dying, her husband's old military coat served as her blanket.",
+   "scene": "TODO",
+   "set": null,
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": ""
+  },
+  {
+   "id": "s066",
+   "start": 230.07,
+   "end": 234.69,
+   "line": "After Virginia's death, Poe fell apart. He drank. He traveled.",
+   "scene": "TODO",
+   "set": null,
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": ""
+  },
+  {
+   "id": "s067",
+   "start": 234.69,
+   "end": 236.71,
+   "line": "He proposed to more than one woman.",
+   "scene": "TODO",
+   "set": null,
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": ""
+  },
+  {
+   "id": "s068",
+   "start": 236.71,
+   "end": 239.29,
+   "line": "And in 1849, he went back to Richmond",
+   "scene": "TODO",
+   "set": null,
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": ""
+  },
+  {
+   "id": "s069",
+   "start": 239.29,
+   "end": 245.33,
+   "line": "and found his childhood sweetheart, Elmira Shelton, now a widow. They became engaged.",
+   "scene": "TODO",
+   "set": null,
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": ""
+  },
+  {
+   "id": "s070",
+   "start": 245.33,
+   "end": 249.35,
+   "line": "For a moment, it looked like Edgar Allan Poe might get a happy ending.",
+   "scene": "TODO",
+   "set": null,
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": ""
+  },
+  {
+   "id": "s071",
+   "start": 249.35,
+   "end": 253.65,
+   "line": "On September 27th, 1849, he left Richmond by boat,",
+   "scene": "TODO",
+   "set": null,
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": ""
+  },
+  {
+   "id": "s072",
+   "start": 253.65,
+   "end": 258.53,
+   "line": "heading north on business, planning to come back and marry her. He never arrived.",
+   "scene": "TODO",
+   "set": null,
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": ""
+  },
+  {
+   "id": "s073",
+   "start": 258.53,
+   "end": 261.65,
+   "line": "For five days, nobody knows where he was.",
+   "scene": "TODO",
+   "set": null,
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": ""
+  },
+  {
+   "id": "s074",
+   "start": 261.65,
+   "end": 263.29,
+   "line": "Then, on October 3rd,",
+   "scene": "TODO",
+   "set": null,
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": ""
+  },
+  {
+   "id": "s075",
+   "start": 263.29,
+   "end": 269.65,
+   "line": "a printer named Joseph Walker found him outside a Baltimore tavern that was being used as a polling place.",
+   "scene": "TODO",
+   "set": null,
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": ""
+  },
+  {
+   "id": "s076",
+   "start": 269.65,
+   "end": 275.31,
+   "line": "Walker wrote to one of Poe's acquaintances that the poet was in great distress, and needed immediate help.",
+   "scene": "TODO",
+   "set": null,
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": ""
+  },
+  {
+   "id": "s077",
+   "start": 275.31,
+   "end": 277.03,
+   "line": "Poe was taken to a hospital.",
+   "scene": "TODO",
+   "set": null,
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": ""
+  },
+  {
+   "id": "s078",
+   "start": 277.03,
+   "end": 283.03,
+   "line": "For four days, he drifted in and out of delirium, hallucinating, talking to things that weren't there.",
+   "scene": "TODO",
+   "set": null,
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": ""
+  },
+  {
+   "id": "s079",
+   "start": 283.03,
+   "end": 289.87,
+   "line": "According to his doctor, on his last night, he called out a name, over and over: \"Reynolds.\"",
+   "scene": "TODO",
+   "set": null,
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": ""
+  },
+  {
+   "id": "s080",
+   "start": 289.87,
+   "end": 292.25,
+   "line": "Nobody knows who Reynolds was.",
+   "scene": "TODO",
+   "set": null,
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": ""
+  },
+  {
+   "id": "s081",
+   "start": 292.25,
+   "end": 298.15,
+   "line": "On October 7th, 1849, Edgar Allan Poe died. He was forty years old.",
+   "scene": "TODO",
+   "set": null,
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": ""
+  },
+  {
+   "id": "s082",
+   "start": 298.15,
+   "end": 302.33,
+   "line": "His death certificate has never been found. So what killed him?",
+   "scene": "TODO",
+   "set": null,
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": ""
+  },
+  {
+   "id": "s083",
+   "start": 302.33,
+   "end": 304.97,
+   "line": "The most famous theory is called cooping.",
+   "scene": "TODO",
+   "set": null,
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": ""
+  },
+  {
+   "id": "s084",
+   "start": 304.97,
+   "end": 310.39,
+   "line": "In nineteenth-century Baltimore, gangs would kidnap strangers on election day, get them drunk,",
+   "scene": "TODO",
+   "set": null,
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": ""
+  },
+  {
+   "id": "s085",
+   "start": 310.39,
+   "end": 316.11,
+   "line": "change their clothes, and drag them from polling place to polling place to vote again and again.",
+   "scene": "TODO",
+   "set": null,
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": ""
+  },
+  {
+   "id": "s086",
+   "start": 316.11,
+   "end": 323.85,
+   "line": "Poe was found at a polling place, on election day, in clothes that weren't his. But there are other theories. Alcohol.",
+   "scene": "TODO",
+   "set": null,
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": ""
+  },
+  {
+   "id": "s087",
+   "start": 323.85,
+   "end": 327.97,
+   "line": "A beating. A brain tumor. Carbon monoxide. Flu.",
+   "scene": "TODO",
+   "set": null,
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": ""
+  },
+  {
+   "id": "s088",
+   "start": 327.97,
+   "end": 335.13,
+   "line": "In 1996, a doctor reviewing his symptoms argued that Poe died of rabies. None of them can be proven.",
+   "scene": "TODO",
+   "set": null,
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": ""
+  },
+  {
+   "id": "s089",
+   "start": 335.13,
+   "end": 337.77,
+   "line": "And then the lore gets even darker.",
+   "scene": "TODO",
+   "set": null,
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": ""
+  },
+  {
+   "id": "s090",
+   "start": 337.77,
+   "end": 342.01,
+   "line": "Because after Poe died, his reputation was murdered too.",
+   "scene": "TODO",
+   "set": null,
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": ""
+  },
+  {
+   "id": "s091",
+   "start": 342.01,
+   "end": 348.65,
+   "line": "A rival editor named Rufus Griswold, a man Poe had once criticized, published an obituary that began:",
+   "scene": "TODO",
+   "set": null,
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": ""
+  },
+  {
+   "id": "s092",
+   "start": 348.65,
+   "end": 350.71,
+   "line": "\"Edgar Allan Poe is dead.",
+   "scene": "TODO",
+   "set": null,
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": ""
+  },
+  {
+   "id": "s093",
+   "start": 350.71,
+   "end": 354.69,
+   "line": "This announcement will startle many, but few will be grieved by it.\"",
+   "scene": "TODO",
+   "set": null,
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": ""
+  },
+  {
+   "id": "s094",
+   "start": 354.69,
+   "end": 358.43,
+   "line": "Then Griswold somehow became Poe's literary executor.",
+   "scene": "TODO",
+   "set": null,
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": ""
+  },
+  {
+   "id": "s095",
+   "start": 358.43,
+   "end": 362.05,
+   "line": "He wrote a biography that painted Poe as a drunk, a madman,",
+   "scene": "TODO",
+   "set": null,
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": ""
+  },
+  {
+   "id": "s096",
+   "start": 362.05,
+   "end": 367.33,
+   "line": "and a man without friends, and he forged letters to prove it. It backfired.",
+   "scene": "TODO",
+   "set": null,
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": ""
+  },
+  {
+   "id": "s097",
+   "start": 367.33,
+   "end": 374.65,
+   "line": "Griswold's lies made Poe sound exactly like one of his own characters. The tortured genius. The madman in the dark.",
+   "scene": "TODO",
+   "set": null,
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": ""
+  },
+  {
+   "id": "s098",
+   "start": 374.65,
+   "end": 376.73,
+   "line": "And readers couldn't get enough.",
+   "scene": "TODO",
+   "set": null,
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": ""
+  },
+  {
+   "id": "s099",
+   "start": 376.73,
+   "end": 379.79,
+   "line": "The legend kept growing, even at his grave.",
+   "scene": "TODO",
+   "set": null,
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": ""
+  },
+  {
+   "id": "s100",
+   "start": 379.79,
+   "end": 385.65,
+   "line": "For sixty years, from 1949 to 2009, every year on Poe's birthday,",
+   "scene": "TODO",
+   "set": null,
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": ""
+  },
+  {
+   "id": "s101",
+   "start": 385.65,
+   "end": 389.63,
+   "line": "a mysterious figure dressed in black slipped into the cemetery in Baltimore",
+   "scene": "TODO",
+   "set": null,
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": ""
+  },
+  {
+   "id": "s102",
+   "start": 389.63,
+   "end": 393.63,
+   "line": "and left three roses and a half-empty bottle of cognac.",
+   "scene": "TODO",
+   "set": null,
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": ""
+  },
+  {
+   "id": "s103",
+   "start": 393.63,
+   "end": 396.41,
+   "line": "People staked out the grave for decades.",
+   "scene": "TODO",
+   "set": null,
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": ""
+  },
+  {
+   "id": "s104",
+   "start": 396.41,
+   "end": 399.01,
+   "line": "Nobody ever unmasked the Poe Toaster.",
+   "scene": "TODO",
+   "set": null,
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": ""
+  },
+  {
+   "id": "s105",
+   "start": 399.01,
+   "end": 402.43,
+   "line": "So here's the lore of Edgar Allan Poe.",
+   "scene": "TODO",
+   "set": null,
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": ""
+  },
+  {
+   "id": "s106",
+   "start": 402.43,
+   "end": 405.83,
+   "line": "An orphan who took his name from a man who rejected him.",
+   "scene": "TODO",
+   "set": null,
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": ""
+  },
+  {
+   "id": "s107",
+   "start": 405.83,
+   "end": 409.65,
+   "line": "A poet who sold his most famous poem for almost nothing.",
+   "scene": "TODO",
+   "set": null,
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": ""
+  },
+  {
+   "id": "s108",
+   "start": 409.65,
+   "end": 413.61,
+   "line": "A husband who lost everyone he loved to the same disease.",
+   "scene": "TODO",
+   "set": null,
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": ""
+  },
+  {
+   "id": "s109",
+   "start": 413.61,
+   "end": 416.05,
+   "line": "A man who invented the detective story, and",
+   "scene": "TODO",
+   "set": null,
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": ""
+  },
+  {
+   "id": "s110",
+   "start": 416.05,
+   "end": 423.09,
+   "line": "then disappeared into a mystery that the greatest detectives in history still can't solve. Quoth the raven:",
+   "scene": "TODO",
+   "set": null,
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": ""
+  },
+  {
+   "id": "s111",
+   "start": 423.09,
+   "end": 425.32,
+   "line": "nevermore.",
+   "scene": "TODO",
+   "set": null,
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": ""
+  }
+ ],
+ "music": []
+}
