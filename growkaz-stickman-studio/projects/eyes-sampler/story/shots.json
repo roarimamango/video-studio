@@ -1,0 +1,205 @@
+{
+ "title": "Eyes Sampler",
+ "duration": 24,
+ "music": [
+  {
+   "start": 0,
+   "end": 10,
+   "mood": "tension",
+   "intensity": 0.9
+  },
+  {
+   "start": 10,
+   "end": 24,
+   "mood": "dark",
+   "intensity": 1.0
+  }
+ ],
+ "sfx": [],
+ "shots": [
+  {
+   "id": "e01",
+   "start": 0,
+   "end": 3.5,
+   "line": "",
+   "scene": "3D flight through a tunnel of iris rings into the pupil; BE WARY OF YOUR EYES",
+   "set": null,
+   "bars": "none",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0,
+     "name": "riser",
+     "gain": -10,
+     "dur": 3.4
+    },
+    {
+     "at": 3.2,
+     "name": "impact",
+     "gain": -6
+    }
+   ],
+   "params": {}
+  },
+  {
+   "id": "e02",
+   "start": 3.5,
+   "end": 7,
+   "line": "",
+   "scene": "Medusa on op-art rings; a man turns to stone from the feet up",
+   "set": null,
+   "bars": "none",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.2,
+     "name": "whoosh",
+     "gain": -8
+    },
+    {
+     "at": 1.4,
+     "name": "stinger",
+     "gain": -10
+    }
+   ],
+   "params": {}
+  },
+  {
+   "id": "e03",
+   "start": 7,
+   "end": 10,
+   "line": "",
+   "scene": "3D storm of evil-eye amulets all turning to stare at the camera",
+   "set": null,
+   "bars": "none",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0,
+     "name": "glitch",
+     "gain": -10
+    },
+    {
+     "at": 0.5,
+     "name": "shimmer",
+     "gain": -12
+    }
+   ],
+   "params": {}
+  },
+  {
+   "id": "e04",
+   "start": 10,
+   "end": 13.5,
+   "line": "",
+   "scene": "Florence 1817: man faints before a swirling painting; heart-rate monitor spikes",
+   "set": null,
+   "bars": "none",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0,
+     "name": "heartbeat",
+     "gain": -6,
+     "dur": 3.4,
+     "bpm": 120
+    }
+   ],
+   "params": {}
+  },
+  {
+   "id": "e05",
+   "start": 13.5,
+   "end": 16.5,
+   "line": "",
+   "scene": "1957 cinema: audience from behind, hidden EAT POPCORN frames; was it a hoax?",
+   "set": null,
+   "bars": "none",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0,
+     "name": "hum",
+     "gain": -14,
+     "dur": 3
+    },
+    {
+     "at": 2.1,
+     "name": "hit",
+     "gain": -8
+    }
+   ],
+   "params": {}
+  },
+  {
+   "id": "e06",
+   "start": 16.5,
+   "end": 20.5,
+   "line": "",
+   "scene": "3D tunnel of glowing phone feeds; hypnotised face with spiral eyes; notifications swarm",
+   "set": null,
+   "bars": "none",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.1,
+     "name": "phonebuzz",
+     "gain": -10
+    },
+    {
+     "at": 1.5,
+     "name": "blip",
+     "gain": -10
+    },
+    {
+     "at": 2.2,
+     "name": "blip",
+     "gain": -10
+    },
+    {
+     "at": 2.8,
+     "name": "glitch",
+     "gain": -9
+    }
+   ],
+   "params": {}
+  },
+  {
+   "id": "e07",
+   "start": 20.5,
+   "end": 24,
+   "line": "",
+   "scene": "Giant eye, pupil dilates to show a phone, title card, eye slams shut",
+   "set": null,
+   "bars": "none",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.3,
+     "name": "whoosh",
+     "gain": -8
+    },
+    {
+     "at": 3.0,
+     "name": "impact",
+     "gain": -6
+    }
+   ],
+   "params": {}
+  }
+ ]
+}
