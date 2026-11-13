@@ -1,0 +1,91 @@
+{
+ "title": "Poe Sampler",
+ "duration": 12,
+ "shots": [
+  {
+   "id": "p01",
+   "start": 0,
+   "end": 2.5,
+   "line": "",
+   "scene": "3D corridor of doors; camera flies forward then rolls upside down; 2D Poe cut-out",
+   "set": null,
+   "bars": "none",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "params": {}
+  },
+  {
+   "id": "p02",
+   "start": 2.5,
+   "end": 4.5,
+   "line": "",
+   "scene": "3D pendulum over checkerboard, camera swinging upside down; 2D raven; NEVERMORE",
+   "set": null,
+   "bars": "none",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "params": {}
+  },
+  {
+   "id": "p03",
+   "start": 4.5,
+   "end": 6.5,
+   "line": "",
+   "scene": "3D vortex of floating eyes, camera lurching backwards; 2D tell-tale heart pulsing",
+   "set": null,
+   "bars": "none",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "params": {}
+  },
+  {
+   "id": "p04",
+   "start": 6.5,
+   "end": 8.5,
+   "line": "",
+   "scene": "2D collage chaos: kaleidoscope of Poe faces, halftone spirals, impact flips",
+   "set": null,
+   "bars": "none",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "params": {}
+  },
+  {
+   "id": "p05",
+   "start": 8.5,
+   "end": 12,
+   "line": "",
+   "scene": "3D spiral staircase vortex; Poe falls through; ransom title",
+   "set": null,
+   "bars": "none",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "params": {}
+  }
+ ],
+ "music": [
+  {
+   "start": 0,
+   "end": 6.5,
+   "mood": "mystery",
+   "intensity": 0.9
+  },
+  {
+   "start": 6.5,
+   "end": 12,
+   "mood": "dark",
+   "intensity": 1.0
+  }
+ ],
+ "sfx": []
+}

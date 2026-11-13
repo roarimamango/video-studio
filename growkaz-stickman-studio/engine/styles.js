@@ -67,6 +67,13 @@ export const STYLES = {
       interiorWarm: { rim: '#ffa0c8', wall: '#5a3448' },
     },
   },
+  psyche: {
+    name: 'Psychedelic Gothic', desc: 'Acid violet, toxic green and hot magenta over deep black; heavy bloom, high saturation, print misregistration.',
+    ink: '#07040c', inkFar: '#2a1040', feature: '#f4ffe8', rimWidth: 4,
+    ui: { ...UI, accent: '#ff2e9a', gold: '#c8ff3a', cream: '#f4ffe8' },
+    grade: { contrast: 1.15, sat: 1.35, lift: [0.02, 0.0, 0.04], gamma: [1, 1, 1], gain: [1.02, 1.0, 1.05], vignette: 0.45, grain: 0.05, bloom: 1.0 },
+    moods: {},
+  },
   collage: {
     name: 'Shadow Collage', desc: 'Paper, ink and blood red: toon-shaded 3D with hard black shadows, silhouette characters, cut-paper collage with grain and halftone.',
     ink: '#0c0a0a', inkFar: '#2a2420', feature: '#f2ead8', rimWidth: 3,
