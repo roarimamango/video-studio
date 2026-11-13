@@ -1,0 +1,3 @@
+{ "title": "thumb", "duration": 2, "shots": [
+  { "id": "t1", "start": 0, "end": 1, "line": "", "bars": "none", "in": {"type": "cut"}, "params": {} },
+  { "id": "t2", "start": 1, "end": 2, "line": "", "bars": "none", "in": {"type": "cut"}, "params": {} } ] }
