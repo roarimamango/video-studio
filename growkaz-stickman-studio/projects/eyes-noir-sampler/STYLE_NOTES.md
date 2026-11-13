@@ -9,3 +9,14 @@
   - dives about 1.3–1.6 s, iris transitions about 0.6–0.8 s
   - labels type slower (about 18 cps) and stay on screen longer
   - keep the rabbit-hole dive for chapter and exhibit changes; within an exhibit use slow pushes and dissolves
+
+## Clean frames (user feedback after the noir sampler)
+- The sampler felt too shadowy and cluttered. For the full video:
+  - brighter, readable sets: lift the ambient light, softer shadows, no near-black frames (except dives)
+  - at most one text element on screen at a time (no tag + typewriter + stamp together)
+  - lighter grain and very occasional film scratches; drop the constant scratches and dust
+  - fewer objects per set, with one clear subject per shot and a clean background behind it
+
+## Story thesis
+- The main point is MEDIA: what we see on screens becomes the norm ("from screen to norm").
+- History is the setup; media is the payoff and takes up most of the back half; the video ENDS on media.
