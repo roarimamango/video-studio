@@ -9,3 +9,4 @@ growkaz-stickman-studio/projects/*/shorts/out
 growkaz-stickman-studio/projects/*/shorts/check.png
 growkaz-stickman-studio/*.log
 growkaz-stickman-studio/projects/*/qc
+__pycache__/
