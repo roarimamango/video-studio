@@ -1,0 +1,23 @@
+{
+ "title": "The Lore Behind What You See",
+ "aspect": "16:9",
+ "resolution": "1080p",
+ "fps": 24,
+ "style": "noirClean",
+ "voiceover": "input/voiceover.mp3",
+ "script": "input/script.txt",
+ "duration": 573.466,
+ "captions": false,
+ "bars": null,
+ "fadeIn": 0.5,
+ "fadeOut": 1.5,
+ "music": {
+  "enabled": true,
+  "gainDb": -17
+ },
+ "sfx": {
+  "enabled": true,
+  "gainDb": -6
+ },
+ "loudness": -14
+}

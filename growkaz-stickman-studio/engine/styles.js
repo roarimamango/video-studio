@@ -81,6 +81,13 @@ export const STYLES = {
     grade: { contrast: 1.18, sat: 0.72, lift: [0.015, 0.018, 0.03], gamma: [1.02, 1, 0.97], gain: [1.04, 1.0, 0.95], vignette: 0.62, grain: 0.09, bloom: 0.45 },
     moods: {},
   },
+  noirClean: {
+    name: 'Noir Case File (clean)', desc: 'Brighter, cleaner noir: readable sets, soft shadows, lighter grain; amber practicals and one red accent.',
+    ink: '#0a0a0d', inkFar: '#2a3038', feature: '#ece4d0', rimWidth: 3,
+    ui: { ...UI, accent: '#c8102e', gold: '#e8a33a', cream: '#ece4d0' },
+    grade: { contrast: 1.08, sat: 0.8, lift: [0.035, 0.038, 0.05], gamma: [1.05, 1.04, 1.0], gain: [1.06, 1.02, 0.97], vignette: 0.38, grain: 0.045, bloom: 0.35 },
+    moods: {},
+  },
   collage: {
     name: 'Shadow Collage', desc: 'Paper, ink and blood red: toon-shaded 3D with hard black shadows, silhouette characters, cut-paper collage with grain and halftone.',
     ink: '#0c0a0a', inkFar: '#2a2420', feature: '#f2ead8', rimWidth: 3,
