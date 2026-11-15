@@ -1,0 +1,71 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+WrapStyle: 2
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Title,Anton,96,&H00D6E9F1,&H00D6E9F1,&H00120E0D,&H96000000,0,0,0,0,100,100,2,0,1,8,4,8,60,60,230,1
+Style: Title2,Anton,108,&H002B30E0,&H002B30E0,&H00120E0D,&H96000000,0,0,0,0,100,100,2,0,1,9,4,8,60,60,350,1
+Style: Cap,Anton,86,&H00D6E9F1,&H00D6E9F1,&H00120E0D,&H96000000,0,0,0,0,100,100,2,0,1,8,3,2,70,70,400,1
+Style: CTA,Special Elite,66,&H0016212A,&H0016212A,&H008FC0D9,&H008FC0D9,0,0,0,0,100,100,2,0,3,22,0,5,60,60,0,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 1,0:00:00.00,0:00:22.28,Title,,0,0,0,,{\fad(150,200)}THE NEW NORM
+Dialogue: 1,0:00:00.00,0:00:22.28,Title2,,0,0,0,,{\fad(150,200)}ISN'T A MOVIE STAR
+Dialogue: 0,0:00:00.30,0:00:00.46,Cap,,0,0,0,,{\c&H002B30E0&\fscx108\fscy108}AND{\c&H00D6E9F1&\fscx100\fscy100} NOW,
+Dialogue: 0,0:00:00.46,0:00:00.94,Cap,,0,0,0,,AND {\c&H002B30E0&\fscx108\fscy108}NOW,{\c&H00D6E9F1&\fscx100\fscy100}
+Dialogue: 0,0:00:00.94,0:00:01.14,Cap,,0,0,0,,{\c&H002B30E0&\fscx108\fscy108}THE{\c&H00D6E9F1&\fscx100\fscy100} SCREEN HAS
+Dialogue: 0,0:00:01.14,0:00:01.46,Cap,,0,0,0,,THE {\c&H002B30E0&\fscx108\fscy108}SCREEN{\c&H00D6E9F1&\fscx100\fscy100} HAS
+Dialogue: 0,0:00:01.46,0:00:01.68,Cap,,0,0,0,,THE SCREEN {\c&H002B30E0&\fscx108\fscy108}HAS{\c&H00D6E9F1&\fscx100\fscy100}
+Dialogue: 0,0:00:01.68,0:00:01.94,Cap,,0,0,0,,{\c&H002B30E0&\fscx108\fscy108}TURNED{\c&H00D6E9F1&\fscx100\fscy100} THE CAMERA
+Dialogue: 0,0:00:01.94,0:00:02.14,Cap,,0,0,0,,TURNED {\c&H002B30E0&\fscx108\fscy108}THE{\c&H00D6E9F1&\fscx100\fscy100} CAMERA
+Dialogue: 0,0:00:02.14,0:00:02.42,Cap,,0,0,0,,TURNED THE {\c&H002B30E0&\fscx108\fscy108}CAMERA{\c&H00D6E9F1&\fscx100\fscy100}
+Dialogue: 0,0:00:02.42,0:00:03.70,Cap,,0,0,0,,{\c&H002B30E0&\fscx108\fscy108}AROUND.{\c&H00D6E9F1&\fscx100\fscy100}
+Dialogue: 0,0:00:03.70,0:00:03.96,Cap,,0,0,0,,{\c&H002B30E0&\fscx108\fscy108}FILTERS{\c&H00D6E9F1&\fscx100\fscy100} SMOOTH YOUR
+Dialogue: 0,0:00:03.96,0:00:04.36,Cap,,0,0,0,,FILTERS {\c&H002B30E0&\fscx108\fscy108}SMOOTH{\c&H00D6E9F1&\fscx100\fscy100} YOUR
+Dialogue: 0,0:00:04.36,0:00:04.56,Cap,,0,0,0,,FILTERS SMOOTH {\c&H002B30E0&\fscx108\fscy108}YOUR{\c&H00D6E9F1&\fscx100\fscy100}
+Dialogue: 0,0:00:04.56,0:00:04.94,Cap,,0,0,0,,{\c&H002B30E0&\fscx108\fscy108}SKIN,{\c&H00D6E9F1&\fscx100\fscy100}
+Dialogue: 0,0:00:04.94,0:00:05.48,Cap,,0,0,0,,{\c&H002B30E0&\fscx108\fscy108}SLIM{\c&H00D6E9F1&\fscx100\fscy100} YOUR FACE,
+Dialogue: 0,0:00:05.48,0:00:05.72,Cap,,0,0,0,,SLIM {\c&H002B30E0&\fscx108\fscy108}YOUR{\c&H00D6E9F1&\fscx100\fscy100} FACE,
+Dialogue: 0,0:00:05.72,0:00:06.58,Cap,,0,0,0,,SLIM YOUR {\c&H002B30E0&\fscx108\fscy108}FACE,{\c&H00D6E9F1&\fscx100\fscy100}
+Dialogue: 0,0:00:06.58,0:00:06.80,Cap,,0,0,0,,{\c&H002B30E0&\fscx108\fscy108}BRIGHTEN{\c&H00D6E9F1&\fscx100\fscy100} YOUR EYES.
+Dialogue: 0,0:00:06.80,0:00:06.96,Cap,,0,0,0,,BRIGHTEN {\c&H002B30E0&\fscx108\fscy108}YOUR{\c&H00D6E9F1&\fscx100\fscy100} EYES.
+Dialogue: 0,0:00:06.96,0:00:08.28,Cap,,0,0,0,,BRIGHTEN YOUR {\c&H002B30E0&\fscx108\fscy108}EYES.{\c&H00D6E9F1&\fscx100\fscy100}
+Dialogue: 0,0:00:08.28,0:00:08.28,Cap,,0,0,0,,{\c&H002B30E0&\fscx108\fscy108}PLASTIC{\c&H00D6E9F1&\fscx100\fscy100} SURGEONS STARTED
+Dialogue: 0,0:00:08.28,0:00:08.70,Cap,,0,0,0,,PLASTIC {\c&H002B30E0&\fscx108\fscy108}SURGEONS{\c&H00D6E9F1&\fscx100\fscy100} STARTED
+Dialogue: 0,0:00:08.70,0:00:09.08,Cap,,0,0,0,,PLASTIC SURGEONS {\c&H002B30E0&\fscx108\fscy108}STARTED{\c&H00D6E9F1&\fscx100\fscy100}
+Dialogue: 0,0:00:09.08,0:00:09.56,Cap,,0,0,0,,{\c&H002B30E0&\fscx108\fscy108}REPORTING{\c&H00D6E9F1&\fscx100\fscy100} SOMETHING NEW.
+Dialogue: 0,0:00:09.56,0:00:09.88,Cap,,0,0,0,,REPORTING {\c&H002B30E0&\fscx108\fscy108}SOMETHING{\c&H00D6E9F1&\fscx100\fscy100} NEW.
+Dialogue: 0,0:00:09.88,0:00:10.90,Cap,,0,0,0,,REPORTING SOMETHING {\c&H002B30E0&\fscx108\fscy108}NEW.{\c&H00D6E9F1&\fscx100\fscy100}
+Dialogue: 0,0:00:10.90,0:00:11.14,Cap,,0,0,0,,{\c&H002B30E0&\fscx108\fscy108}PATIENTS{\c&H00D6E9F1&\fscx100\fscy100} WEREN'T BRINGING
+Dialogue: 0,0:00:11.14,0:00:11.44,Cap,,0,0,0,,PATIENTS {\c&H002B30E0&\fscx108\fscy108}WEREN'T{\c&H00D6E9F1&\fscx100\fscy100} BRINGING
+Dialogue: 0,0:00:11.44,0:00:11.66,Cap,,0,0,0,,PATIENTS WEREN'T {\c&H002B30E0&\fscx108\fscy108}BRINGING{\c&H00D6E9F1&\fscx100\fscy100}
+Dialogue: 0,0:00:11.66,0:00:11.88,Cap,,0,0,0,,{\c&H002B30E0&\fscx108\fscy108}IN{\c&H00D6E9F1&\fscx100\fscy100} PHOTOS OF
+Dialogue: 0,0:00:11.88,0:00:12.12,Cap,,0,0,0,,IN {\c&H002B30E0&\fscx108\fscy108}PHOTOS{\c&H00D6E9F1&\fscx100\fscy100} OF
+Dialogue: 0,0:00:12.12,0:00:12.40,Cap,,0,0,0,,IN PHOTOS {\c&H002B30E0&\fscx108\fscy108}OF{\c&H00D6E9F1&\fscx100\fscy100}
+Dialogue: 0,0:00:12.40,0:00:12.88,Cap,,0,0,0,,{\c&H002B30E0&\fscx108\fscy108}CELEBRITIES{\c&H00D6E9F1&\fscx100\fscy100} ANYMORE.
+Dialogue: 0,0:00:12.88,0:00:13.82,Cap,,0,0,0,,CELEBRITIES {\c&H002B30E0&\fscx108\fscy108}ANYMORE.{\c&H00D6E9F1&\fscx100\fscy100}
+Dialogue: 0,0:00:13.82,0:00:13.94,Cap,,0,0,0,,{\c&H002B30E0&\fscx108\fscy108}THEY{\c&H00D6E9F1&\fscx100\fscy100} WERE BRINGING
+Dialogue: 0,0:00:13.94,0:00:14.10,Cap,,0,0,0,,THEY {\c&H002B30E0&\fscx108\fscy108}WERE{\c&H00D6E9F1&\fscx100\fscy100} BRINGING
+Dialogue: 0,0:00:14.10,0:00:14.34,Cap,,0,0,0,,THEY WERE {\c&H002B30E0&\fscx108\fscy108}BRINGING{\c&H00D6E9F1&\fscx100\fscy100}
+Dialogue: 0,0:00:14.34,0:00:14.62,Cap,,0,0,0,,{\c&H002B30E0&\fscx108\fscy108}IN{\c&H00D6E9F1&\fscx100\fscy100} FILTERED PHOTOS
+Dialogue: 0,0:00:14.62,0:00:14.96,Cap,,0,0,0,,IN {\c&H002B30E0&\fscx108\fscy108}FILTERED{\c&H00D6E9F1&\fscx100\fscy100} PHOTOS
+Dialogue: 0,0:00:14.96,0:00:15.52,Cap,,0,0,0,,IN FILTERED {\c&H002B30E0&\fscx108\fscy108}PHOTOS{\c&H00D6E9F1&\fscx100\fscy100}
+Dialogue: 0,0:00:15.52,0:00:15.84,Cap,,0,0,0,,{\c&H002B30E0&\fscx108\fscy108}OF{\c&H00D6E9F1&\fscx100\fscy100} THEMSELVES.
+Dialogue: 0,0:00:15.84,0:00:17.26,Cap,,0,0,0,,OF {\c&H002B30E0&\fscx108\fscy108}THEMSELVES.{\c&H00D6E9F1&\fscx100\fscy100}
+Dialogue: 0,0:00:17.26,0:00:17.36,Cap,,0,0,0,,{\c&H002B30E0&\fscx108\fscy108}THE{\c&H00D6E9F1&\fscx100\fscy100} NORM ISN'T
+Dialogue: 0,0:00:17.36,0:00:17.62,Cap,,0,0,0,,THE {\c&H002B30E0&\fscx108\fscy108}NORM{\c&H00D6E9F1&\fscx100\fscy100} ISN'T
+Dialogue: 0,0:00:17.62,0:00:18.04,Cap,,0,0,0,,THE NORM {\c&H002B30E0&\fscx108\fscy108}ISN'T{\c&H00D6E9F1&\fscx100\fscy100}
+Dialogue: 0,0:00:18.04,0:00:18.18,Cap,,0,0,0,,{\c&H002B30E0&\fscx108\fscy108}A{\c&H00D6E9F1&\fscx100\fscy100} MOVIE STAR
+Dialogue: 0,0:00:18.18,0:00:18.42,Cap,,0,0,0,,A {\c&H002B30E0&\fscx108\fscy108}MOVIE{\c&H00D6E9F1&\fscx100\fscy100} STAR
+Dialogue: 0,0:00:18.42,0:00:18.68,Cap,,0,0,0,,A MOVIE {\c&H002B30E0&\fscx108\fscy108}STAR{\c&H00D6E9F1&\fscx100\fscy100}
+Dialogue: 0,0:00:18.68,0:00:19.52,Cap,,0,0,0,,{\c&H002B30E0&\fscx108\fscy108}NOW.{\c&H00D6E9F1&\fscx100\fscy100}
+Dialogue: 0,0:00:19.52,0:00:19.66,Cap,,0,0,0,,{\c&H002B30E0&\fscx108\fscy108}THE{\c&H00D6E9F1&\fscx100\fscy100} NORM IS
+Dialogue: 0,0:00:19.66,0:00:19.98,Cap,,0,0,0,,THE {\c&H002B30E0&\fscx108\fscy108}NORM{\c&H00D6E9F1&\fscx100\fscy100} IS
+Dialogue: 0,0:00:19.98,0:00:20.50,Cap,,0,0,0,,THE NORM {\c&H002B30E0&\fscx108\fscy108}IS{\c&H00D6E9F1&\fscx100\fscy100}
+Dialogue: 0,0:00:20.50,0:00:21.84,Cap,,0,0,0,,{\c&H002B30E0&\fscx108\fscy108}YOU.{\c&H00D6E9F1&\fscx100\fscy100}
+Dialogue: 0,0:00:21.84,0:00:22.28,Cap,,0,0,0,,{\c&H002B30E0&\fscx108\fscy108}EDITED.{\c&H00D6E9F1&\fscx100\fscy100}
+Dialogue: 2,0:00:22.28,0:00:23.88,CTA,,0,0,0,,{\fad(200,0)}FULL CASE FILE\NON THE CHANNEL

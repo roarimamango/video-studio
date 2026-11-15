@@ -1,0 +1,97 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+WrapStyle: 2
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Title,Anton,96,&H00D6E9F1,&H00D6E9F1,&H00120E0D,&H96000000,0,0,0,0,100,100,2,0,1,8,4,8,60,60,230,1
+Style: Title2,Anton,108,&H002B30E0,&H002B30E0,&H00120E0D,&H96000000,0,0,0,0,100,100,2,0,1,9,4,8,60,60,350,1
+Style: Cap,Anton,86,&H00D6E9F1,&H00D6E9F1,&H00120E0D,&H96000000,0,0,0,0,100,100,2,0,1,8,3,2,70,70,400,1
+Style: CTA,Special Elite,66,&H0016212A,&H0016212A,&H008FC0D9,&H008FC0D9,0,0,0,0,100,100,2,0,3,22,0,5,60,60,0,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 1,0:00:00.00,0:00:29.28,Title,,0,0,0,,{\fad(150,200)}TRY THIS TONIGHT
+Dialogue: 1,0:00:00.00,0:00:29.28,Title2,,0,0,0,,{\fad(150,200)}(IF YOU DARE)
+Dialogue: 0,0:00:00.30,0:00:00.48,Cap,,0,0,0,,{\c&H002B30E0&\fscx108\fscy108}THERE'S{\c&H00D6E9F1&\fscx100\fscy100} AN EXPERIMENT
+Dialogue: 0,0:00:00.48,0:00:00.56,Cap,,0,0,0,,THERE'S {\c&H002B30E0&\fscx108\fscy108}AN{\c&H00D6E9F1&\fscx100\fscy100} EXPERIMENT
+Dialogue: 0,0:00:00.56,0:00:01.00,Cap,,0,0,0,,THERE'S AN {\c&H002B30E0&\fscx108\fscy108}EXPERIMENT{\c&H00D6E9F1&\fscx100\fscy100}
+Dialogue: 0,0:00:01.00,0:00:01.22,Cap,,0,0,0,,{\c&H002B30E0&\fscx108\fscy108}YOU{\c&H00D6E9F1&\fscx100\fscy100} CAN DO
+Dialogue: 0,0:00:01.22,0:00:01.36,Cap,,0,0,0,,YOU {\c&H002B30E0&\fscx108\fscy108}CAN{\c&H00D6E9F1&\fscx100\fscy100} DO
+Dialogue: 0,0:00:01.36,0:00:01.54,Cap,,0,0,0,,YOU CAN {\c&H002B30E0&\fscx108\fscy108}DO{\c&H00D6E9F1&\fscx100\fscy100}
+Dialogue: 0,0:00:01.54,0:00:02.34,Cap,,0,0,0,,{\c&H002B30E0&\fscx108\fscy108}TONIGHT.{\c&H00D6E9F1&\fscx100\fscy100}
+Dialogue: 0,0:00:02.34,0:00:02.42,Cap,,0,0,0,,{\c&H002B30E0&\fscx108\fscy108}AN{\c&H00D6E9F1&\fscx100\fscy100} ITALIAN PSYCHOLOGIST
+Dialogue: 0,0:00:02.42,0:00:02.80,Cap,,0,0,0,,AN {\c&H002B30E0&\fscx108\fscy108}ITALIAN{\c&H00D6E9F1&\fscx100\fscy100} PSYCHOLOGIST
+Dialogue: 0,0:00:02.80,0:00:03.42,Cap,,0,0,0,,AN ITALIAN {\c&H002B30E0&\fscx108\fscy108}PSYCHOLOGIST{\c&H00D6E9F1&\fscx100\fscy100}
+Dialogue: 0,0:00:03.42,0:00:03.74,Cap,,0,0,0,,{\c&H002B30E0&\fscx108\fscy108}MADE{\c&H00D6E9F1&\fscx100\fscy100} IT FAMOUS.
+Dialogue: 0,0:00:03.74,0:00:03.92,Cap,,0,0,0,,MADE {\c&H002B30E0&\fscx108\fscy108}IT{\c&H00D6E9F1&\fscx100\fscy100} FAMOUS.
+Dialogue: 0,0:00:03.92,0:00:04.98,Cap,,0,0,0,,MADE IT {\c&H002B30E0&\fscx108\fscy108}FAMOUS.{\c&H00D6E9F1&\fscx100\fscy100}
+Dialogue: 0,0:00:04.98,0:00:05.14,Cap,,0,0,0,,{\c&H002B30E0&\fscx108\fscy108}SIT{\c&H00D6E9F1&\fscx100\fscy100} IN FRONT
+Dialogue: 0,0:00:05.14,0:00:05.30,Cap,,0,0,0,,SIT {\c&H002B30E0&\fscx108\fscy108}IN{\c&H00D6E9F1&\fscx100\fscy100} FRONT
+Dialogue: 0,0:00:05.30,0:00:05.46,Cap,,0,0,0,,SIT IN {\c&H002B30E0&\fscx108\fscy108}FRONT{\c&H00D6E9F1&\fscx100\fscy100}
+Dialogue: 0,0:00:05.46,0:00:05.58,Cap,,0,0,0,,{\c&H002B30E0&\fscx108\fscy108}OF{\c&H00D6E9F1&\fscx100\fscy100} A MIRROR
+Dialogue: 0,0:00:05.58,0:00:05.72,Cap,,0,0,0,,OF {\c&H002B30E0&\fscx108\fscy108}A{\c&H00D6E9F1&\fscx100\fscy100} MIRROR
+Dialogue: 0,0:00:05.72,0:00:05.94,Cap,,0,0,0,,OF A {\c&H002B30E0&\fscx108\fscy108}MIRROR{\c&H00D6E9F1&\fscx100\fscy100}
+Dialogue: 0,0:00:05.94,0:00:06.24,Cap,,0,0,0,,{\c&H002B30E0&\fscx108\fscy108}IN{\c&H00D6E9F1&\fscx100\fscy100} A DIM
+Dialogue: 0,0:00:06.24,0:00:06.36,Cap,,0,0,0,,IN {\c&H002B30E0&\fscx108\fscy108}A{\c&H00D6E9F1&\fscx100\fscy100} DIM
+Dialogue: 0,0:00:06.36,0:00:06.56,Cap,,0,0,0,,IN A {\c&H002B30E0&\fscx108\fscy108}DIM{\c&H00D6E9F1&\fscx100\fscy100}
+Dialogue: 0,0:00:06.56,0:00:07.32,Cap,,0,0,0,,{\c&H002B30E0&\fscx108\fscy108}ROOM.{\c&H00D6E9F1&\fscx100\fscy100}
+Dialogue: 0,0:00:07.32,0:00:07.70,Cap,,0,0,0,,{\c&H002B30E0&\fscx108\fscy108}STARE{\c&H00D6E9F1&\fscx100\fscy100} INTO YOUR
+Dialogue: 0,0:00:07.70,0:00:07.90,Cap,,0,0,0,,STARE {\c&H002B30E0&\fscx108\fscy108}INTO{\c&H00D6E9F1&\fscx100\fscy100} YOUR
+Dialogue: 0,0:00:07.90,0:00:08.06,Cap,,0,0,0,,STARE INTO {\c&H002B30E0&\fscx108\fscy108}YOUR{\c&H00D6E9F1&\fscx100\fscy100}
+Dialogue: 0,0:00:08.06,0:00:08.34,Cap,,0,0,0,,{\c&H002B30E0&\fscx108\fscy108}OWN{\c&H00D6E9F1&\fscx100\fscy100} EYES FOR
+Dialogue: 0,0:00:08.34,0:00:08.66,Cap,,0,0,0,,OWN {\c&H002B30E0&\fscx108\fscy108}EYES{\c&H00D6E9F1&\fscx100\fscy100} FOR
+Dialogue: 0,0:00:08.66,0:00:08.92,Cap,,0,0,0,,OWN EYES {\c&H002B30E0&\fscx108\fscy108}FOR{\c&H00D6E9F1&\fscx100\fscy100}
+Dialogue: 0,0:00:08.92,0:00:09.20,Cap,,0,0,0,,{\c&H002B30E0&\fscx108\fscy108}TEN{\c&H00D6E9F1&\fscx100\fscy100} MINUTES.
+Dialogue: 0,0:00:09.20,0:00:10.16,Cap,,0,0,0,,TEN {\c&H002B30E0&\fscx108\fscy108}MINUTES.{\c&H00D6E9F1&\fscx100\fscy100}
+Dialogue: 0,0:00:10.16,0:00:10.36,Cap,,0,0,0,,{\c&H002B30E0&\fscx108\fscy108}MOST{\c&H00D6E9F1&\fscx100\fscy100} PEOPLE START
+Dialogue: 0,0:00:10.36,0:00:10.66,Cap,,0,0,0,,MOST {\c&H002B30E0&\fscx108\fscy108}PEOPLE{\c&H00D6E9F1&\fscx100\fscy100} START
+Dialogue: 0,0:00:10.66,0:00:10.98,Cap,,0,0,0,,MOST PEOPLE {\c&H002B30E0&\fscx108\fscy108}START{\c&H00D6E9F1&\fscx100\fscy100}
+Dialogue: 0,0:00:10.98,0:00:11.18,Cap,,0,0,0,,{\c&H002B30E0&\fscx108\fscy108}TO{\c&H00D6E9F1&\fscx100\fscy100} SEE THEIR
+Dialogue: 0,0:00:11.18,0:00:11.32,Cap,,0,0,0,,TO {\c&H002B30E0&\fscx108\fscy108}SEE{\c&H00D6E9F1&\fscx100\fscy100} THEIR
+Dialogue: 0,0:00:11.32,0:00:11.52,Cap,,0,0,0,,TO SEE {\c&H002B30E0&\fscx108\fscy108}THEIR{\c&H00D6E9F1&\fscx100\fscy100}
+Dialogue: 0,0:00:11.52,0:00:11.78,Cap,,0,0,0,,{\c&H002B30E0&\fscx108\fscy108}FACE{\c&H00D6E9F1&\fscx100\fscy100} CHANGE.
+Dialogue: 0,0:00:11.78,0:00:12.66,Cap,,0,0,0,,FACE {\c&H002B30E0&\fscx108\fscy108}CHANGE.{\c&H00D6E9F1&\fscx100\fscy100}
+Dialogue: 0,0:00:12.66,0:00:12.80,Cap,,0,0,0,,{\c&H002B30E0&\fscx108\fscy108}IT{\c&H00D6E9F1&\fscx100\fscy100} STRETCHES.
+Dialogue: 0,0:00:12.80,0:00:13.84,Cap,,0,0,0,,IT {\c&H002B30E0&\fscx108\fscy108}STRETCHES.{\c&H00D6E9F1&\fscx100\fscy100}
+Dialogue: 0,0:00:13.84,0:00:13.88,Cap,,0,0,0,,{\c&H002B30E0&\fscx108\fscy108}IT{\c&H00D6E9F1&\fscx100\fscy100} WARPS.
+Dialogue: 0,0:00:13.88,0:00:15.00,Cap,,0,0,0,,IT {\c&H002B30E0&\fscx108\fscy108}WARPS.{\c&H00D6E9F1&\fscx100\fscy100}
+Dialogue: 0,0:00:15.00,0:00:15.12,Cap,,0,0,0,,{\c&H002B30E0&\fscx108\fscy108}SOME{\c&H00D6E9F1&\fscx100\fscy100} SEE A
+Dialogue: 0,0:00:15.12,0:00:15.44,Cap,,0,0,0,,SOME {\c&H002B30E0&\fscx108\fscy108}SEE{\c&H00D6E9F1&\fscx100\fscy100} A
+Dialogue: 0,0:00:15.44,0:00:15.56,Cap,,0,0,0,,SOME SEE {\c&H002B30E0&\fscx108\fscy108}A{\c&H00D6E9F1&\fscx100\fscy100}
+Dialogue: 0,0:00:15.56,0:00:16.58,Cap,,0,0,0,,{\c&H002B30E0&\fscx108\fscy108}STRANGER.{\c&H00D6E9F1&\fscx100\fscy100}
+Dialogue: 0,0:00:16.58,0:00:16.86,Cap,,0,0,0,,{\c&H002B30E0&\fscx108\fscy108}BECAUSE{\c&H00D6E9F1&\fscx100\fscy100} EVEN YOUR
+Dialogue: 0,0:00:16.86,0:00:17.18,Cap,,0,0,0,,BECAUSE {\c&H002B30E0&\fscx108\fscy108}EVEN{\c&H00D6E9F1&\fscx100\fscy100} YOUR
+Dialogue: 0,0:00:17.18,0:00:17.42,Cap,,0,0,0,,BECAUSE EVEN {\c&H002B30E0&\fscx108\fscy108}YOUR{\c&H00D6E9F1&\fscx100\fscy100}
+Dialogue: 0,0:00:17.42,0:00:17.66,Cap,,0,0,0,,{\c&H002B30E0&\fscx108\fscy108}OWN{\c&H00D6E9F1&\fscx100\fscy100} REFLECTION ISN'T
+Dialogue: 0,0:00:17.66,0:00:18.18,Cap,,0,0,0,,OWN {\c&H002B30E0&\fscx108\fscy108}REFLECTION{\c&H00D6E9F1&\fscx100\fscy100} ISN'T
+Dialogue: 0,0:00:18.18,0:00:18.70,Cap,,0,0,0,,OWN REFLECTION {\c&H002B30E0&\fscx108\fscy108}ISN'T{\c&H00D6E9F1&\fscx100\fscy100}
+Dialogue: 0,0:00:18.70,0:00:19.02,Cap,,0,0,0,,{\c&H002B30E0&\fscx108\fscy108}SOMETHING{\c&H00D6E9F1&\fscx100\fscy100} YOU JUST
+Dialogue: 0,0:00:19.02,0:00:19.22,Cap,,0,0,0,,SOMETHING {\c&H002B30E0&\fscx108\fscy108}YOU{\c&H00D6E9F1&\fscx100\fscy100} JUST
+Dialogue: 0,0:00:19.22,0:00:19.44,Cap,,0,0,0,,SOMETHING YOU {\c&H002B30E0&\fscx108\fscy108}JUST{\c&H00D6E9F1&\fscx100\fscy100}
+Dialogue: 0,0:00:19.44,0:00:20.46,Cap,,0,0,0,,{\c&H002B30E0&\fscx108\fscy108}SEE.{\c&H00D6E9F1&\fscx100\fscy100}
+Dialogue: 0,0:00:20.46,0:00:20.64,Cap,,0,0,0,,{\c&H002B30E0&\fscx108\fscy108}IT'S{\c&H00D6E9F1&\fscx100\fscy100} SOMETHING YOUR
+Dialogue: 0,0:00:20.64,0:00:20.86,Cap,,0,0,0,,IT'S {\c&H002B30E0&\fscx108\fscy108}SOMETHING{\c&H00D6E9F1&\fscx100\fscy100} YOUR
+Dialogue: 0,0:00:20.86,0:00:21.12,Cap,,0,0,0,,IT'S SOMETHING {\c&H002B30E0&\fscx108\fscy108}YOUR{\c&H00D6E9F1&\fscx100\fscy100}
+Dialogue: 0,0:00:21.12,0:00:21.52,Cap,,0,0,0,,{\c&H002B30E0&\fscx108\fscy108}MIND{\c&H00D6E9F1&\fscx100\fscy100} BUILDS.
+Dialogue: 0,0:00:21.52,0:00:22.92,Cap,,0,0,0,,MIND {\c&H002B30E0&\fscx108\fscy108}BUILDS.{\c&H00D6E9F1&\fscx100\fscy100}
+Dialogue: 0,0:00:22.92,0:00:22.94,Cap,,0,0,0,,{\c&H002B30E0&\fscx108\fscy108}SO{\c&H00D6E9F1&\fscx100\fscy100} WHO'S BUILDING
+Dialogue: 0,0:00:22.94,0:00:23.24,Cap,,0,0,0,,SO {\c&H002B30E0&\fscx108\fscy108}WHO'S{\c&H00D6E9F1&\fscx100\fscy100} BUILDING
+Dialogue: 0,0:00:23.24,0:00:23.48,Cap,,0,0,0,,SO WHO'S {\c&H002B30E0&\fscx108\fscy108}BUILDING{\c&H00D6E9F1&\fscx100\fscy100}
+Dialogue: 0,0:00:23.48,0:00:23.66,Cap,,0,0,0,,{\c&H002B30E0&\fscx108\fscy108}IT{\c&H00D6E9F1&\fscx100\fscy100} NOW?
+Dialogue: 0,0:00:23.66,0:00:24.72,Cap,,0,0,0,,IT {\c&H002B30E0&\fscx108\fscy108}NOW?{\c&H00D6E9F1&\fscx100\fscy100}
+Dialogue: 0,0:00:24.72,0:00:25.00,Cap,,0,0,0,,{\c&H002B30E0&\fscx108\fscy108}EVERY{\c&H00D6E9F1&\fscx100\fscy100} NORM YOU
+Dialogue: 0,0:00:25.00,0:00:25.26,Cap,,0,0,0,,EVERY {\c&H002B30E0&\fscx108\fscy108}NORM{\c&H00D6E9F1&\fscx100\fscy100} YOU
+Dialogue: 0,0:00:25.26,0:00:25.50,Cap,,0,0,0,,EVERY NORM {\c&H002B30E0&\fscx108\fscy108}YOU{\c&H00D6E9F1&\fscx100\fscy100}
+Dialogue: 0,0:00:25.50,0:00:26.22,Cap,,0,0,0,,{\c&H002B30E0&\fscx108\fscy108}HAVE,{\c&H00D6E9F1&\fscx100\fscy100}
+Dialogue: 0,0:00:26.22,0:00:26.40,Cap,,0,0,0,,{\c&H002B30E0&\fscx108\fscy108}YOU{\c&H00D6E9F1&\fscx100\fscy100} SAW FIRST.
+Dialogue: 0,0:00:26.40,0:00:26.76,Cap,,0,0,0,,YOU {\c&H002B30E0&\fscx108\fscy108}SAW{\c&H00D6E9F1&\fscx100\fscy100} FIRST.
+Dialogue: 0,0:00:26.76,0:00:27.92,Cap,,0,0,0,,YOU SAW {\c&H002B30E0&\fscx108\fscy108}FIRST.{\c&H00D6E9F1&\fscx100\fscy100}
+Dialogue: 0,0:00:27.92,0:00:28.04,Cap,,0,0,0,,{\c&H002B30E0&\fscx108\fscy108}BE{\c&H00D6E9F1&\fscx100\fscy100} WARY OF
+Dialogue: 0,0:00:28.04,0:00:28.34,Cap,,0,0,0,,BE {\c&H002B30E0&\fscx108\fscy108}WARY{\c&H00D6E9F1&\fscx100\fscy100} OF
+Dialogue: 0,0:00:28.34,0:00:28.62,Cap,,0,0,0,,BE WARY {\c&H002B30E0&\fscx108\fscy108}OF{\c&H00D6E9F1&\fscx100\fscy100}
+Dialogue: 0,0:00:28.62,0:00:28.76,Cap,,0,0,0,,{\c&H002B30E0&\fscx108\fscy108}YOUR{\c&H00D6E9F1&\fscx100\fscy100} EYES.
+Dialogue: 0,0:00:28.76,0:00:29.28,Cap,,0,0,0,,YOUR {\c&H002B30E0&\fscx108\fscy108}EYES.{\c&H00D6E9F1&\fscx100\fscy100}
+Dialogue: 2,0:00:29.28,0:00:30.88,CTA,,0,0,0,,{\fad(200,0)}FULL CASE FILE\NON THE CHANNEL
