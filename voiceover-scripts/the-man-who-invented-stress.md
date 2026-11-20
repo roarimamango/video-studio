@@ -1,6 +1,6 @@
 # The Man Who Invented Stress
 
-**Length:** about 1,450 spoken words, roughly 10 minutes.
+**Length:** about 1,000 spoken words, roughly 7–8 minutes with pauses and character beats.
 **Format:** a cast, not a lecture. The narrator tells the story; real people from the story step in with short lines.
 
 Lines marked *(dramatized)* are dramatizations based on documented accounts, not verbatim quotes. A note in the video description should say so, e.g. "Some dialogue is dramatized from historical accounts."
