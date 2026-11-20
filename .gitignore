@@ -10,3 +10,4 @@ growkaz-stickman-studio/projects/*/shorts/check.png
 growkaz-stickman-studio/*.log
 growkaz-stickman-studio/projects/*/qc
 __pycache__/
+style-tests/**/*.log
