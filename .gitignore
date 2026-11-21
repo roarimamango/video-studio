@@ -11,3 +11,5 @@ growkaz-stickman-studio/*.log
 growkaz-stickman-studio/projects/*/qc
 __pycache__/
 style-tests/**/*.log
+growkaz-stickman-studio/projects/*/art/*.log
+growkaz-stickman-studio/projects/*/art/raw/*.tmp.png
