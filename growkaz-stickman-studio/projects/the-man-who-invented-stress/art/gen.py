@@ -3,7 +3,7 @@ import torch, time, os, sys
 from diffusers import StableDiffusionXLPipeline, EulerAncestralDiscreteScheduler
 from shots import SHOTS, STYLE, NEG
 HERE = os.path.dirname(os.path.abspath(__file__)); OUT = os.path.join(HERE, 'raw')
-want = [s for s in SHOTS if not sys.argv[1:] or any(s[0].startswith(a) for a in sys.argv[1:])]
+want = [s for s in SHOTS if s[0] not in DROPPED and (not sys.argv[1:] or any(s[0].startswith(a) for a in sys.argv[1:]))]
 todo = [s for s in want if not os.path.exists(os.path.join(OUT, s[0] + '.png'))]
 print(f"{len(todo)} to generate", flush=True)
 if not todo: sys.exit()

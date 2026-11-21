@@ -74,3 +74,9 @@ SHOTS = [
  ("56_you_dawn", "end", YOU+", sitting by a window at dawn, warm morning light, small tired smile", 156, 0),
  ("57_you_stand", "end", YOU+", adult, tall, standing up from bed, determined expression, morning light, window, full body", 257, 1),
 ]
+
+# Dropped after 3 failed attempts each; covered in the edit instead:
+#   21_rat_wheel  -> reuse 11_rat_run / 17_cages with a cold blue grade ("Cold. Exhaustion.")
+#   43_envelope   -> hold on 42_oldselye_letter, then 41_archive
+#   51_two_people -> split screen: 03_you_knees (tense) | 56_you_dawn (calm), "Same pressure. Different story."
+DROPPED = {"21_rat_wheel", "43_envelope", "51_two_people"}
