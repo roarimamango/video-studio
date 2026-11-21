@@ -3,14 +3,14 @@ STYLE = "sketch, ink (medium), watercolor (medium), traditional media, rough lin
 NEG = ("cel shading, anime coloring, 3d, realistic, shiny, digital painting, dark background, heavy ink splatter, cluttered, "
        "text, letters, watermark, signature, lowres, bad anatomy, bad hands, extra fingers, worst quality, low quality")
 # locked character descriptions
-YOU = "1girl, young woman, short messy dark hair, oversized cream sweater"
+YOU = "1girl, young woman, short messy dark hair, oversized cream sweater, baggy pants"
 SELYE = "1boy, young man, slicked-back dark hair, round glasses, white lab coat, necktie, 1930s"
 OLDSELYE = "1man, older man, white hair, round glasses, suit and tie, 1950s"
 UPH = "1man, middle-aged man, flat cap, mustache, rolled-up sleeves, work apron"
 FRIED = "1man, middle-aged doctor, receding dark hair, white coat over suit, 1950s"
 SHOTS = [
  # COLD OPEN
- ("01_you_bed", "open", YOU+", lying in bed at night, eyes wide open, staring at ceiling, phone glowing on pillow, blue night wash", 101, 0),
+ ("01_you_bed", "open", YOU+", lying on her back in bed, eyes wide open, awake, staring up, holding glowing smartphone, night", 201, 0),
  ("02_you_chest", "open", YOU+", close-up, hand pressed to her chest, anxious, breathing hard, night", 102, 0),
  ("03_you_knees", "open", YOU+", sitting on edge of bed hugging knees, papers and phone scattered on floor, night, worried", 103, 0),
  ("04_you_window", "open", YOU+", from behind, standing at dark window, city lights far away, night, alone", 104, 0),
