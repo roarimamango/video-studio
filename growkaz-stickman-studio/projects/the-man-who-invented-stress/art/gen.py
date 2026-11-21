@@ -1,7 +1,7 @@
 # Resumable batch: generates art/raw/<id>.png for every shot that doesn't exist yet.  usage: python3 gen.py [id-prefix ...]
 import torch, time, os, sys
 from diffusers import StableDiffusionXLPipeline, EulerAncestralDiscreteScheduler
-from shots import SHOTS, STYLE, NEG
+from shots import SHOTS, STYLE, NEG, DROPPED
 HERE = os.path.dirname(os.path.abspath(__file__)); OUT = os.path.join(HERE, 'raw')
 want = [s for s in SHOTS if s[0] not in DROPPED and (not sys.argv[1:] or any(s[0].startswith(a) for a in sys.argv[1:]))]
 todo = [s for s in want if not os.path.exists(os.path.join(OUT, s[0] + '.png'))]
