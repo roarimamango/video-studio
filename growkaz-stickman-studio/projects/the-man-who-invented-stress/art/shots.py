@@ -31,7 +31,7 @@ SHOTS = [
  ("18_selye_shock", "act1", SELYE+", close-up, shocked, holding his glasses in his hand, wide eyes", 118, 0),
  ("19_selye_cradle", "act1", SELYE+", close-up, cupped hands holding a white rat, rat in focus, looking down at rat, gentle", 219, 0),
  ("20_rat_snow", "act1", "no humans, small white rat shivering in falling snow, alone, cold", 120, 0),
- ("21_rat_wheel", "act1", "no humans, white rat inside a small metal hamster wheel, running, side view, close-up", 421, 0),
+ ("21_rat_wheel", "act1", "no humans, small white rat running in circles inside a wire cage, exhausted, motion lines, top view", 521, 0),
  ("22_selye_typewriter", "act1", SELYE+", typing on an old typewriter at night, lamp light, determined", 122, 0),
  ("23_oldselye_lecture", "act1", OLDSELYE+", lecturing to an audience, gesturing, lecture hall, spotlight", 123, 0),
  # ACT 2
@@ -56,7 +56,7 @@ SHOTS = [
  ("40_ad_man", "act4", "1man, 1950s man in suit relaxing in armchair, smoking a cigarette, contented smile, vintage advertisement style", 140, 0),
  ("41_archive", "act4", "1person, small figure reading in a huge archive, towering stacks of documents and boxes", 141, 0),
  ("42_oldselye_letter", "act4", OLDSELYE+", writing a letter at his desk, envelope, 1958, lamp", 142, 0),
- ("43_envelope", "act4", "close-up, hand passing a thick envelope of money across a desk to another hand, banknotes visible, 1950s", 243, 0),
+ ("43_envelope", "act4", "no humans, still life, open envelope stuffed with banknotes on a wooden desk, cigarette pack beside it, 1950s", 343, 0),
  ("44_courtroom", "act4", "1960s courtroom, lawyer in suit gesturing to the jury, wooden benches", 144, 0),
  ("45_you_stunned", "act4", YOU+", stunned, hand over her mouth, wide eyes", 145, 0),
  ("46_cig_hand", "act4", "close-up, hand holding a cigarette, smoke rising, ink wash", 146, 0),
@@ -65,7 +65,7 @@ SHOTS = [
  ("48_crowd", "act5", "many tiny people standing scattered across an empty white field, minimalist, wide shot", 148, 0),
  ("49_bench", "act5", "no humans, empty park bench, autumn, falling leaves, passing of time", 149, 0),
  ("50_you_whisper", "act5", YOU+", close-up, worried, eyes glistening, whispering", 150, 0),
- ("51_two_people", "act5", "2people, two adults on a park bench, side by side, one hunched with head in hands, one sitting upright and calm, full body", 251, 0),
+ ("51_two_people", "act5", "2people, park bench, left man slumped with head in hands, right woman leaning back relaxed, smiling, arms resting on bench, full body", 351, 0),
  ("52_you_think", "act5", YOU+", sitting on the floor, looking up, thinking, soft light", 152, 0),
  # ENDING
  ("53_heart_glow", "end", YOU+", adult, upper body, eyes closed, hand on chest, calm, soft red glow on chest, lots of empty space", 253, 0),
