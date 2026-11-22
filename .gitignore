@@ -14,3 +14,5 @@ style-tests/**/*.log
 growkaz-stickman-studio/projects/*/art/*.log
 growkaz-stickman-studio/projects/*/art/raw/*.tmp.png
 growkaz-stickman-studio/projects/*/art/rejected/
+# Local secrets written by `elevenlabs onboard`
+/.env.local
