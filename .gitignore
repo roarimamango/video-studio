@@ -17,3 +17,4 @@ growkaz-stickman-studio/projects/*/art/rejected/
 # Local secrets written by `elevenlabs onboard`
 /.env.local
 growkaz-stickman-studio/projects/*/voice/scenes/*_woven.wav
+growkaz-stickman-studio/projects/*/build/

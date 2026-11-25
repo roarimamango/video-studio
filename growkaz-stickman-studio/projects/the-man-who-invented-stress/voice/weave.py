@@ -53,6 +53,7 @@ for f in sys.argv[1:]:
             cuts[k] = (lo + int(e.argmin()) + win // 2) / SR
     cuts = [max(cuts[k], cuts[k - 1] + 0.05) if k else cuts[k] for k in range(len(cuts))]
     out, timing, cursor, prev_end_out = np.zeros(int((dur * 1.3 + 10) * SR), np.float32), [], 0.0, 0.0
+    ad = np.zeros_like(out)   # AD VOICE stem (gets the old-radio treatment in the mix)
     for i, l in enumerate(lines):
         a, b = cuts[i], cuts[i + 1]
         seg = audio[int(a * SR):int(b * SR)].copy()
@@ -67,16 +68,19 @@ for f in sys.argv[1:]:
             elif l.get("hold"):  gap = min(max(g + 0.9, 1.1), 1.8)
             else:                gap = min(max(g, 0.15), MAXGAP)
             place = prev_end_out + gap - (span[i][0] - a)
-        s0 = int(place * SR); out[s0:s0 + len(seg)] += seg
+        s0 = int(place * SR); (ad if l['speaker'] == 'AD VOICE' else out)[s0:s0 + len(seg)] += seg
         cursor = max(cursor, place + (b - a))
         ws, we = span[i] if span[i] else (a, b)
         timing.append({"line": i, "speaker": l["speaker"], "text": l["text"], "start": round(place + ws - a, 3), "end": round(place + we - a, 3)})
         prev_end_out = place + we - a
-    out = out[:int((cursor + 0.05) * SR)]
-    out /= max(1.0, np.abs(out).max() / 0.98)
+    n = int((cursor + 0.05) * SR); out, ad = out[:n], ad[:n]
+    k = max(1.0, np.abs(out + ad).max() / 0.98); out /= k; ad /= k
     base = f"scenes/{scene}_t{take}"
     subprocess.run(["ffmpeg", "-v", "error", "-y", "-f", "f32le", "-ar", str(SR), "-ac", "1", "-i", "-", f"{base}_woven.wav"],
                    input=out.tobytes(), check=True)
+    if np.abs(ad).max() > 0:
+        subprocess.run(["ffmpeg", "-v", "error", "-y", "-f", "f32le", "-ar", str(SR), "-ac", "1", "-i", "-", f"{base}_woven_ad.wav"],
+                       input=ad.tobytes(), check=True)
     json.dump(timing, open(f"{base}_timing.json", "w"), indent=1)
     missing = [i for i in range(len(lines)) if not span[i]]
     print(f"{scene}: {dur:.1f}s -> {cursor:.1f}s, overlaps {sum(l['overlap'] for l in lines)}, wordless lines {missing}")
