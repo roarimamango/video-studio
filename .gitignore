@@ -18,3 +18,4 @@ growkaz-stickman-studio/projects/*/art/rejected/
 /.env.local
 growkaz-stickman-studio/projects/*/voice/scenes/*_woven.wav
 growkaz-stickman-studio/projects/*/build/
+growkaz-stickman-studio/projects/*/voice/scenes/*_woven_ad.wav
