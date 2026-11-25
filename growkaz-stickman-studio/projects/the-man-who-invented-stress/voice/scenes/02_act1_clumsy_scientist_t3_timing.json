@@ -1,0 +1,170 @@
+[
+ {
+  "line": 0,
+  "speaker": "NARRATOR",
+  "text": "[storyteller, brisk] Montreal, the 1930s. A young researcher at McGill named Hans Selye is hunting for the thing that'll make his name: a brand-new hormone.",
+  "start": 0.0,
+  "end": 9.86
+ },
+ {
+  "line": 1,
+  "speaker": "SELYE",
+  "text": "[eager, muttering to himself, fast] If I inject the extract and the rats change, it's something new. It MUST be something new.",
+  "start": 10.46,
+  "end": 16.24
+ },
+ {
+  "line": 2,
+  "speaker": "NARRATOR",
+  "text": "[amused] Every day he injects his rats with extract from cow ovaries. And, as the story is usually told, he is TERRIBLE at it.",
+  "start": 16.58,
+  "end": 25.04
+ },
+ {
+  "line": 3,
+  "speaker": "SELYE",
+  "text": "[offended] I am not terrible, I am\u2014 [gasps] No, no, no, no\u2014!",
+  "start": 24.74,
+  "end": 29.52
+ },
+ {
+  "line": 4,
+  "speaker": "NARRATOR",
+  "text": "[laughing, fast] He fumbles the injections. He drops the rats. They escape.",
+  "start": 29.37,
+  "end": 33.09
+ },
+ {
+  "line": 5,
+  "speaker": "SELYE",
+  "text": "[breathless, chasing, panicked] Come back\u2014! Come back here\u2014!",
+  "start": 33.51,
+  "end": 35.33
+ },
+ {
+  "line": 6,
+  "speaker": "NARRATOR",
+  "text": "[barely holding in a laugh] And Hans Selye ends up chasing them around the lab. With a broom.",
+  "start": 35.18,
+  "end": 39.5
+ },
+ {
+  "line": 7,
+  "speaker": "YOU",
+  "text": "[laughs] A broom?",
+  "start": 39.62,
+  "end": 40.54
+ },
+ {
+  "line": 8,
+  "speaker": "NARRATOR",
+  "text": "[laughs softly] A broom. [deadpan] For months.",
+  "start": 40.66,
+  "end": 43.06
+ },
+ {
+  "line": 9,
+  "speaker": "NARRATOR",
+  "text": "[shift, quieter, serious] Then he opens the rats up. And there it is. Swollen adrenal glands. A shrunken immune system. Bleeding ulcers in the stomach.",
+  "start": 44.86,
+  "end": 54.72
+ },
+ {
+  "line": 10,
+  "speaker": "SELYE",
+  "text": "[hushed, thrilled, almost giggling] It worked. It WORKED.",
+  "start": 55.14,
+  "end": 57.2
+ },
+ {
+  "line": 11,
+  "speaker": "NARRATOR",
+  "text": "He'd found his hormone. [pause] [dry] Except he hadn't.",
+  "start": 57.88,
+  "end": 62.9
+ },
+ {
+  "line": 12,
+  "speaker": "NARRATOR",
+  "text": "[explaining, steady] Because he also had a control group: rats he'd injected with nothing but salt water. Completely harmless.",
+  "start": 63.48,
+  "end": 69.72
+ },
+ {
+  "line": 13,
+  "speaker": "NARRATOR",
+  "text": "[slowly] And they had the exact. Same. Damage.",
+  "start": 70.42,
+  "end": 74.04
+ },
+ {
+  "line": 14,
+  "speaker": "YOU",
+  "text": "[quietly] Wait \u2014 the salt water ones too?",
+  "start": 74.16,
+  "end": 76.28
+ },
+ {
+  "line": 15,
+  "speaker": "SELYE",
+  "text": "[quiet, deflated] That's not possible.",
+  "start": 76.92,
+  "end": 78.48
+ },
+ {
+  "line": 16,
+  "speaker": "NARRATOR",
+  "text": "[gently, piecing it together] It wasn't the extract. It wasn't anything he injected. What every rat had in common was the EXPERIENCE. [quicker, listing] The needles, the dropping, the chasing, the broom.",
+  "start": 80.0,
+  "end": 90.76
+ },
+ {
+  "line": 17,
+  "speaker": "NARRATOR",
+  "text": "[softly] Their bodies weren't reacting to a chemical. They were reacting to life going badly.",
+  "start": 91.46,
+  "end": 96.68
+ },
+ {
+  "line": 18,
+  "speaker": "NARRATOR",
+  "text": "[brisk] So he tested it.",
+  "start": 97.38,
+  "end": 98.54
+ },
+ {
+  "line": 19,
+  "speaker": "SELYE",
+  "text": "[scribbling notes, muttering, faster each time] Cold \u2014 same. Exhaustion \u2014 same. Injury \u2014 [stunned] same.",
+  "start": 98.66,
+  "end": 102.92
+ },
+ {
+  "line": 20,
+  "speaker": "NARRATOR",
+  "text": "Different ordeals. Same response. Every single time.",
+  "start": 103.54,
+  "end": 107.96
+ },
+ {
+  "line": 21,
+  "speaker": "NARRATOR",
+  "text": "[informative, flowing] In 1936 he published it, a short letter in the journal Nature, which didn't even use the word \"stress\" yet. That came later.",
+  "start": 108.58,
+  "end": 116.72
+ },
+ {
+  "line": 22,
+  "speaker": "NARRATOR",
+  "text": "But when it came, Selye reached for the engineering word. Pressure on a structure. Load on a frame.",
+  "start": 117.32,
+  "end": 123.98
+ },
+ {
+  "line": 23,
+  "speaker": "NARRATOR",
+  "text": "[warm, a touch of awe] And he spent the rest of his life carrying it around the world.",
+  "start": 124.54,
+  "end": 128.24
+ }
+]

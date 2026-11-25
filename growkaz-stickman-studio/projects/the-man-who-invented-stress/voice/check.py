@@ -1,6 +1,6 @@
 import json, re, sys, glob, difflib
 from faster_whisper import WhisperModel
-norm = lambda s: re.sub(r"[^a-z0-9' ]", " ", re.sub(r"\[[^\]]*\]", " ", s.lower()).replace("—"," ").replace("2 a.m.","two am").replace("two a.m.","two am")).split()
+norm = lambda s: re.sub(r"[^a-z0-9' ]", " ", re.sub(r"\[[^\]]*\]", " ", s.lower()).replace("—"," ").replace("2 a.m.","two am").replace("two a.m.","two am").replace("forty-three","43")).split()
 m = WhisperModel("small", device="cpu", compute_type="int8")
 for f in sorted(sys.argv[1:]):
     scene = re.sub(r"_t\d+\.mp3$", "", f.split("/")[-1])

@@ -4,7 +4,8 @@ Writes scenes/<scene>_t<N>_woven.wav and scenes/<scene>_t<N>_timing.json (line s
 import json, re, sys, subprocess, difflib, numpy as np
 from faster_whisper import WhisperModel
 SR = 44100
-OVERLAP, CUTOFF = 0.30, 0.15     # seconds the next voice starts before the previous one ends
+OVERLAP, CUTOFF = 0.30, 0.15
+QUICK, MAXGAP = 0.12, 0.70     # snap-in gap; cap on ordinary gaps     # seconds the next voice starts before the previous one ends
 norm = lambda s: re.sub(r"[^a-z0-9' ]", " ", re.sub(r"\[[^\]]*\]", " ", s.lower()).replace("—", " ")
                         .replace("two a.m.", "two am").replace("2 a.m.", "two am")).split()
 def load(f):
@@ -51,7 +52,7 @@ for f in sys.argv[1:]:
             e = np.convolve(audio[lo:hi] ** 2, np.ones(win), "valid")
             cuts[k] = (lo + int(e.argmin()) + win // 2) / SR
     cuts = [max(cuts[k], cuts[k - 1] + 0.05) if k else cuts[k] for k in range(len(cuts))]
-    out, timing, cursor, prev_end_out = np.zeros(int((dur + 2) * SR), np.float32), [], 0.0, 0.0
+    out, timing, cursor, prev_end_out = np.zeros(int((dur * 1.3 + 10) * SR), np.float32), [], 0.0, 0.0
     for i, l in enumerate(lines):
         a, b = cuts[i], cuts[i + 1]
         seg = audio[int(a * SR):int(b * SR)].copy()
@@ -59,11 +60,15 @@ for f in sys.argv[1:]:
         if fade: seg[:fade] *= np.linspace(0, 1, fade); seg[-fade:] *= np.linspace(1, 0, fade)
         place = cursor
         if i and span[i] and span[i - 1]:
-            pull = OVERLAP if l["overlap"] else CUTOFF if lines[i - 1]["text"].rstrip().endswith(("—", "—!")) else None
-            if pull is not None:   # put this line's first word `pull` s before the previous line's last word ends
-                place = prev_end_out - pull - (span[i][0] - a)
+            g = span[i][0] - span[i - 1][1]                 # gap the model left
+            if l.get("overlap"): gap = -OVERLAP
+            elif lines[i - 1]["text"].rstrip().endswith(("—", "—!")): gap = -CUTOFF
+            elif l.get("quick"): gap = QUICK
+            elif l.get("hold"):  gap = min(max(g + 0.9, 1.1), 1.8)
+            else:                gap = min(max(g, 0.15), MAXGAP)
+            place = prev_end_out + gap - (span[i][0] - a)
         s0 = int(place * SR); out[s0:s0 + len(seg)] += seg
-        cursor = place + (b - a)
+        cursor = max(cursor, place + (b - a))
         ws, we = span[i] if span[i] else (a, b)
         timing.append({"line": i, "speaker": l["speaker"], "text": l["text"], "start": round(place + ws - a, 3), "end": round(place + we - a, 3)})
         prev_end_out = place + we - a

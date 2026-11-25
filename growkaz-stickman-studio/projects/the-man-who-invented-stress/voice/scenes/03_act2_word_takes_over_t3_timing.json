@@ -1,0 +1,44 @@
+[
+ {
+  "line": 0,
+  "speaker": "NARRATOR",
+  "text": "[wry] It caught on. Maybe a little too well.",
+  "start": 0.0,
+  "end": 2.8
+ },
+ {
+  "line": 1,
+  "speaker": "NARRATOR",
+  "text": "[quick, building] By the 1950s, \"stress\" was everywhere \u2014 magazines, medical journals, kitchen tables.",
+  "start": 3.3,
+  "end": 8.72
+ },
+ {
+  "line": 2,
+  "speaker": "YOU",
+  "text": "[dry] So this is his fault.",
+  "start": 8.84,
+  "end": 10.42
+ },
+ {
+  "line": 3,
+  "speaker": "NARRATOR",
+  "text": "[laughs softly] Not quite. Selye gave us a word for something real. Your body really does respond to pressure \u2014 that part was a genuine discovery.",
+  "start": 10.12,
+  "end": 18.74
+ },
+ {
+  "line": 4,
+  "speaker": "YOU",
+  "text": "[cautious] ...But?",
+  "start": 18.86,
+  "end": 19.5
+ },
+ {
+  "line": 5,
+  "speaker": "NARRATOR",
+  "text": "[lower, knowing] But a word that powerful is useful to people. And not only to scientists.",
+  "start": 19.62,
+  "end": 24.68
+ }
+]
