@@ -13,14 +13,17 @@ for line in open(SHEET):
     if m: cur = m.group(1); scenes[cur] = []; continue
     if line.startswith("**") or line.startswith("---"): cur = None if line.startswith("---") else cur
     m = re.match(r"(NARRATOR|YOU|SELYE|UPHOLSTERER|FRIEDMAN|AD VOICE): (.+)", line.strip())
-    if cur and m: scenes[cur].append({"text": m.group(2), "voice_id": CAST[m.group(1)]})
+    if cur and m:
+        t = m.group(2)
+        scenes[cur].append({"text": t.lstrip("~"), "voice_id": CAST[m.group(1)], "speaker": m.group(1),
+                            "overlap": t.startswith("~")})
 os.makedirs("scenes", exist_ok=True)
-json.dump(scenes, open("scenes/lines.json", "w"), indent=1)
+json.dump(scenes, open(f"scenes/lines_t{take}.json", "w"), indent=1)
 for name, inputs in scenes.items():
     if args and not any(name.startswith(a) for a in args): continue
     out = f"scenes/{name}_t{take}.mp3"
     if os.path.exists(out): continue
-    body = {"inputs": inputs, "model_id": "eleven_v3", "settings": {"stability": 0.5}}
+    body = {"inputs": [{"text": i["text"], "voice_id": i["voice_id"]} for i in inputs], "model_id": "eleven_v3", "settings": {"stability": 0.5}}
     code = subprocess.run(["curl", "-s", "-o", out + ".part", "-w", "%{http_code}", "-X", "POST",
                            "https://api.elevenlabs.io/v1/text-to-dialogue?output_format=mp3_44100_128",
                            "-H", "Content-Type: application/json", "-d", json.dumps(body)],

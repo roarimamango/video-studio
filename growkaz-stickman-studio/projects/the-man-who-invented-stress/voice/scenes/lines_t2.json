@@ -1,0 +1,580 @@
+{
+ "01_cold_open": [
+  {
+   "text": "[whispering, tense] It's two a.m. [pause] Why is my heart going this fast?",
+   "voice_id": "3YXAuwCx7wB8kSkKCqsu",
+   "speaker": "YOU",
+   "overlap": false
+  },
+  {
+   "text": "[faster, anxious] I have the meeting. And the rent. And I didn't answer her text. And\u2014",
+   "voice_id": "3YXAuwCx7wB8kSkKCqsu",
+   "speaker": "YOU",
+   "overlap": false
+  },
+  {
+   "text": "[softly, cutting in gently] Hey. Hey. You know this feeling.",
+   "voice_id": "dSByRdUbTGloB7TFA1qD",
+   "speaker": "NARRATOR",
+   "overlap": true
+  },
+  {
+   "text": "[small shaky laugh] ...Yeah.",
+   "voice_id": "3YXAuwCx7wB8kSkKCqsu",
+   "speaker": "YOU",
+   "overlap": false
+  },
+  {
+   "text": "Everyone does. Tight chest. Racing thoughts. That hum under everything.",
+   "voice_id": "dSByRdUbTGloB7TFA1qD",
+   "speaker": "NARRATOR",
+   "overlap": false
+  },
+  {
+   "text": "We even have one word for it.",
+   "voice_id": "dSByRdUbTGloB7TFA1qD",
+   "speaker": "NARRATOR",
+   "overlap": false
+  },
+  {
+   "text": "[exhales] ...Stress.",
+   "voice_id": "3YXAuwCx7wB8kSkKCqsu",
+   "speaker": "YOU",
+   "overlap": false
+  },
+  {
+   "text": "Here's the strange part. A hundred years ago, if you'd told most doctors you were \"stressed\"... they'd have pictured a bridge.",
+   "voice_id": "dSByRdUbTGloB7TFA1qD",
+   "speaker": "NARRATOR",
+   "overlap": false
+  },
+  {
+   "text": "[confused] ...A bridge?",
+   "voice_id": "3YXAuwCx7wB8kSkKCqsu",
+   "speaker": "YOU",
+   "overlap": false
+  },
+  {
+   "text": "Not a person. \"Stress\" was an engineering word. The load on a steel beam. The strain on a cable. [pause] Then one clumsy young scientist borrowed it... and gave it to all of us.",
+   "voice_id": "dSByRdUbTGloB7TFA1qD",
+   "speaker": "NARRATOR",
+   "overlap": false
+  },
+  {
+   "text": "[suspicious] ...Gave it?",
+   "voice_id": "3YXAuwCx7wB8kSkKCqsu",
+   "speaker": "YOU",
+   "overlap": false
+  },
+  {
+   "text": "And somebody paid for him to keep saying it.",
+   "voice_id": "dSByRdUbTGloB7TFA1qD",
+   "speaker": "NARRATOR",
+   "overlap": false
+  },
+  {
+   "text": "[beat] This is the story of the man who invented stress. And why, the way you were taught about it... might be part of the problem.",
+   "voice_id": "dSByRdUbTGloB7TFA1qD",
+   "speaker": "NARRATOR",
+   "overlap": false
+  }
+ ],
+ "02_act1_clumsy_scientist": [
+  {
+   "text": "Montreal. The 1930s. A young researcher at McGill University named Hans Selye is hunting for something that would make his name. A brand-new hormone.",
+   "voice_id": "dSByRdUbTGloB7TFA1qD",
+   "speaker": "NARRATOR",
+   "overlap": false
+  },
+  {
+   "text": "[eager, muttering to himself] If I inject the extract... and the rats change... it's something new. It must be something new.",
+   "voice_id": "tMSJwjBGNGcJ7WVIJhg4",
+   "speaker": "SELYE",
+   "overlap": false
+  },
+  {
+   "text": "Every day, he injects his rats with extract from cow ovaries. And, as the story is usually told... [amused] he's terrible at it.",
+   "voice_id": "dSByRdUbTGloB7TFA1qD",
+   "speaker": "NARRATOR",
+   "overlap": false
+  },
+  {
+   "text": "[offended] I am not terrible, I am\u2014 [gasps] No, no, no, no\u2014!",
+   "voice_id": "tMSJwjBGNGcJ7WVIJhg4",
+   "speaker": "SELYE",
+   "overlap": true
+  },
+  {
+   "text": "[laughing] He fumbles the injections. He drops the rats. They escape.",
+   "voice_id": "dSByRdUbTGloB7TFA1qD",
+   "speaker": "NARRATOR",
+   "overlap": false
+  },
+  {
+   "text": "[breathless, chasing, panicked] Come back\u2014! Come back here\u2014!",
+   "voice_id": "tMSJwjBGNGcJ7WVIJhg4",
+   "speaker": "SELYE",
+   "overlap": false
+  },
+  {
+   "text": "And Hans Selye ends up chasing them around the lab... with a broom.",
+   "voice_id": "dSByRdUbTGloB7TFA1qD",
+   "speaker": "NARRATOR",
+   "overlap": false
+  },
+  {
+   "text": "[laughs] A broom?",
+   "voice_id": "3YXAuwCx7wB8kSkKCqsu",
+   "speaker": "YOU",
+   "overlap": false
+  },
+  {
+   "text": "[laughs softly] A broom. Months of this.",
+   "voice_id": "dSByRdUbTGloB7TFA1qD",
+   "speaker": "NARRATOR",
+   "overlap": false
+  },
+  {
+   "text": "Then he opens the rats up. And there it is. Swollen adrenal glands. A shrunken immune system. Bleeding ulcers in the stomach.",
+   "voice_id": "dSByRdUbTGloB7TFA1qD",
+   "speaker": "NARRATOR",
+   "overlap": false
+  },
+  {
+   "text": "[hushed, thrilled] It worked.",
+   "voice_id": "tMSJwjBGNGcJ7WVIJhg4",
+   "speaker": "SELYE",
+   "overlap": false
+  },
+  {
+   "text": "He'd found his hormone. [pause] Except... he hadn't.",
+   "voice_id": "dSByRdUbTGloB7TFA1qD",
+   "speaker": "NARRATOR",
+   "overlap": false
+  },
+  {
+   "text": "Because he also had a control group. Rats he'd injected with nothing but salt water. Harmless.",
+   "voice_id": "dSByRdUbTGloB7TFA1qD",
+   "speaker": "NARRATOR",
+   "overlap": false
+  },
+  {
+   "text": "And they had the exact same damage.",
+   "voice_id": "dSByRdUbTGloB7TFA1qD",
+   "speaker": "NARRATOR",
+   "overlap": false
+  },
+  {
+   "text": "[quietly] Wait. The salt water ones too?",
+   "voice_id": "3YXAuwCx7wB8kSkKCqsu",
+   "speaker": "YOU",
+   "overlap": false
+  },
+  {
+   "text": "[quiet, deflated] ...That's not possible.",
+   "voice_id": "tMSJwjBGNGcJ7WVIJhg4",
+   "speaker": "SELYE",
+   "overlap": false
+  },
+  {
+   "text": "It wasn't the extract. It wasn't anything he injected. What every rat had in common... was the experience. The needles. The dropping. The chasing. The broom.",
+   "voice_id": "dSByRdUbTGloB7TFA1qD",
+   "speaker": "NARRATOR",
+   "overlap": false
+  },
+  {
+   "text": "[slower] Their bodies weren't reacting to a chemical. They were reacting to... life going badly.",
+   "voice_id": "dSByRdUbTGloB7TFA1qD",
+   "speaker": "NARRATOR",
+   "overlap": false
+  },
+  {
+   "text": "So he tested it.",
+   "voice_id": "dSByRdUbTGloB7TFA1qD",
+   "speaker": "NARRATOR",
+   "overlap": false
+  },
+  {
+   "text": "[scribbling notes, muttering, faster each time] Cold... same. Exhaustion... same. Injury... [stunned] ...same.",
+   "voice_id": "tMSJwjBGNGcJ7WVIJhg4",
+   "speaker": "SELYE",
+   "overlap": false
+  },
+  {
+   "text": "Different ordeals. Same response, every time.",
+   "voice_id": "dSByRdUbTGloB7TFA1qD",
+   "speaker": "NARRATOR",
+   "overlap": false
+  },
+  {
+   "text": "In 1936, he published it, a short letter in the journal Nature. It didn't even use the word \"stress\" yet. That came later.",
+   "voice_id": "dSByRdUbTGloB7TFA1qD",
+   "speaker": "NARRATOR",
+   "overlap": false
+  },
+  {
+   "text": "But when it came, Selye reached for the engineering word. Pressure on a structure. Load on a frame.",
+   "voice_id": "dSByRdUbTGloB7TFA1qD",
+   "speaker": "NARRATOR",
+   "overlap": false
+  },
+  {
+   "text": "And he spent the rest of his life carrying it around the world.",
+   "voice_id": "dSByRdUbTGloB7TFA1qD",
+   "speaker": "NARRATOR",
+   "overlap": false
+  }
+ ],
+ "03_act2_word_takes_over": [
+  {
+   "text": "It worked. Maybe too well.",
+   "voice_id": "dSByRdUbTGloB7TFA1qD",
+   "speaker": "NARRATOR",
+   "overlap": false
+  },
+  {
+   "text": "By the 1950s, \"stress\" was everywhere. Magazines. Medical journals. Kitchen tables.",
+   "voice_id": "dSByRdUbTGloB7TFA1qD",
+   "speaker": "NARRATOR",
+   "overlap": false
+  },
+  {
+   "text": "[dry] So... this is his fault.",
+   "voice_id": "3YXAuwCx7wB8kSkKCqsu",
+   "speaker": "YOU",
+   "overlap": false
+  },
+  {
+   "text": "[laughs softly] Not quite. Selye gave us a word for something real. Your body really does respond to pressure. That part was a genuine discovery.",
+   "voice_id": "dSByRdUbTGloB7TFA1qD",
+   "speaker": "NARRATOR",
+   "overlap": true
+  },
+  {
+   "text": "[cautious] ...But?",
+   "voice_id": "3YXAuwCx7wB8kSkKCqsu",
+   "speaker": "YOU",
+   "overlap": false
+  },
+  {
+   "text": "But a word that powerful... is useful to people. And not only to scientists.",
+   "voice_id": "dSByRdUbTGloB7TFA1qD",
+   "speaker": "NARRATOR",
+   "overlap": false
+  }
+ ],
+ "04_act3_waiting_room": [
+  {
+   "text": "San Francisco. The 1950s. Two heart doctors, Meyer Friedman and Ray Rosenman, have a waiting room problem.",
+   "voice_id": "dSByRdUbTGloB7TFA1qD",
+   "speaker": "NARRATOR",
+   "overlap": false
+  },
+  {
+   "text": "Their chairs need fixing. So they call in an upholsterer.",
+   "voice_id": "dSByRdUbTGloB7TFA1qD",
+   "speaker": "NARRATOR",
+   "overlap": false
+  },
+  {
+   "text": "[looking the chairs over, puzzled] Huh. [beat] What kind of patients do you got in here, doc?",
+   "voice_id": "TTyZrDYo6LQowrH8mixJ",
+   "speaker": "UPHOLSTERER",
+   "overlap": false
+  },
+  {
+   "text": "[busy, clipped, not looking up] Heart patients. Why?",
+   "voice_id": "pNInz6obpgDQGcFmaJgB",
+   "speaker": "FRIEDMAN",
+   "overlap": true
+  },
+  {
+   "text": "[matter-of-fact] 'Cause they only wear out the front of the seat. [taps the chair] Look. Nobody in here ever sits back.",
+   "voice_id": "TTyZrDYo6LQowrH8mixJ",
+   "speaker": "UPHOLSTERER",
+   "overlap": false
+  },
+  {
+   "text": "[small laugh] ...That's me in every waiting room.",
+   "voice_id": "3YXAuwCx7wB8kSkKCqsu",
+   "speaker": "YOU",
+   "overlap": false
+  },
+  {
+   "text": "Nobody sat back. They perched. On the edge. Ready to spring up.",
+   "voice_id": "dSByRdUbTGloB7TFA1qD",
+   "speaker": "NARRATOR",
+   "overlap": false
+  },
+  {
+   "text": "As Friedman later told the story, that was the moment it clicked. Maybe the people getting heart disease... had something in common.",
+   "voice_id": "dSByRdUbTGloB7TFA1qD",
+   "speaker": "NARRATOR",
+   "overlap": false
+  },
+  {
+   "text": "[rapid-fire] Rushed. Driven. Impatient.",
+   "voice_id": "pNInz6obpgDQGcFmaJgB",
+   "speaker": "FRIEDMAN",
+   "overlap": true
+  },
+  {
+   "text": "Always on the edge of the seat.",
+   "voice_id": "dSByRdUbTGloB7TFA1qD",
+   "speaker": "NARRATOR",
+   "overlap": false
+  },
+  {
+   "text": "They gave it a name you've definitely heard.",
+   "voice_id": "dSByRdUbTGloB7TFA1qD",
+   "speaker": "NARRATOR",
+   "overlap": false
+  },
+  {
+   "text": "[crisp, pleased with himself] Type A.",
+   "voice_id": "pNInz6obpgDQGcFmaJgB",
+   "speaker": "FRIEDMAN",
+   "overlap": false
+  },
+  {
+   "text": "And for a while... it looked like a breakthrough.",
+   "voice_id": "dSByRdUbTGloB7TFA1qD",
+   "speaker": "NARRATOR",
+   "overlap": false
+  }
+ ],
+ "05_act4_who_paid": [
+  {
+   "text": "[darker, lower] Now. Think about who loves the idea that heart disease comes from your personality... and your stress.",
+   "voice_id": "dSByRdUbTGloB7TFA1qD",
+   "speaker": "NARRATOR",
+   "overlap": false
+  },
+  {
+   "text": "And not from, say... smoking.",
+   "voice_id": "dSByRdUbTGloB7TFA1qD",
+   "speaker": "NARRATOR",
+   "overlap": false
+  },
+  {
+   "text": "[bright, polished, too smooth] Tense? Wound up? Long day at the office? [beat] Take a moment. Light up. Relax.",
+   "voice_id": "QMJTqaMXmGnG8TCm8WQG",
+   "speaker": "AD VOICE",
+   "overlap": false
+  },
+  {
+   "text": "Decades later, researchers dug through millions of pages of tobacco industry documents. And they found something.",
+   "voice_id": "dSByRdUbTGloB7TFA1qD",
+   "speaker": "NARRATOR",
+   "overlap": false
+  },
+  {
+   "text": "In 1958, Hans Selye, the father of stress, wrote to a tobacco company asking for money.",
+   "voice_id": "dSByRdUbTGloB7TFA1qD",
+   "speaker": "NARRATOR",
+   "overlap": false
+  },
+  {
+   "text": "[uneasy] ...Did he get it?",
+   "voice_id": "3YXAuwCx7wB8kSkKCqsu",
+   "speaker": "YOU",
+   "overlap": false
+  },
+  {
+   "text": "He got it. A lot of it. Over the years, the industry funded his work, and it used stress research in court, to argue that something else was making people sick.",
+   "voice_id": "dSByRdUbTGloB7TFA1qD",
+   "speaker": "NARRATOR",
+   "overlap": false
+  },
+  {
+   "text": "He didn't publicly declare those ties.",
+   "voice_id": "dSByRdUbTGloB7TFA1qD",
+   "speaker": "NARRATOR",
+   "overlap": false
+  },
+  {
+   "text": "And Type A? A later study found the tobacco industry had been a major funder of that research too.",
+   "voice_id": "dSByRdUbTGloB7TFA1qD",
+   "speaker": "NARRATOR",
+   "overlap": false
+  },
+  {
+   "text": "[quiet, stunned] ...So the cigarette companies helped sell me my stress.",
+   "voice_id": "3YXAuwCx7wB8kSkKCqsu",
+   "speaker": "YOU",
+   "overlap": false
+  },
+  {
+   "text": "[distant, fading, like a memory] ...Light up. Relax.",
+   "voice_id": "QMJTqaMXmGnG8TCm8WQG",
+   "speaker": "AD VOICE",
+   "overlap": true
+  },
+  {
+   "text": "[gently] They helped sell you a story about it. That stress is a thing that happens to you. A thing that breaks you. And that you need something to take the edge off.",
+   "voice_id": "dSByRdUbTGloB7TFA1qD",
+   "speaker": "NARRATOR",
+   "overlap": false
+  },
+  {
+   "text": "[pause] And that story might be doing more harm than the stress itself.",
+   "voice_id": "dSByRdUbTGloB7TFA1qD",
+   "speaker": "NARRATOR",
+   "overlap": false
+  }
+ ],
+ "06_act5_twist": [
+  {
+   "text": "In 2012, researchers looked at data on nearly thirty thousand American adults. They'd been asked two simple questions.",
+   "voice_id": "dSByRdUbTGloB7TFA1qD",
+   "speaker": "NARRATOR",
+   "overlap": false
+  },
+  {
+   "text": "How much stress do you have?",
+   "voice_id": "dSByRdUbTGloB7TFA1qD",
+   "speaker": "NARRATOR",
+   "overlap": false
+  },
+  {
+   "text": "[dry, tired] ...A lot.",
+   "voice_id": "3YXAuwCx7wB8kSkKCqsu",
+   "speaker": "YOU",
+   "overlap": false
+  },
+  {
+   "text": "And do you believe stress is hurting your health?",
+   "voice_id": "dSByRdUbTGloB7TFA1qD",
+   "speaker": "NARRATOR",
+   "overlap": false
+  },
+  {
+   "text": "[obviously] ...Yes?",
+   "voice_id": "3YXAuwCx7wB8kSkKCqsu",
+   "speaker": "YOU",
+   "overlap": false
+  },
+  {
+   "text": "Then the researchers waited, and looked at who had died over the following years.",
+   "voice_id": "dSByRdUbTGloB7TFA1qD",
+   "speaker": "NARRATOR",
+   "overlap": false
+  },
+  {
+   "text": "The people with a lot of stress, who believed it was harming them... had a 43 percent higher risk of dying early.",
+   "voice_id": "dSByRdUbTGloB7TFA1qD",
+   "speaker": "NARRATOR",
+   "overlap": false
+  },
+  {
+   "text": "[whispering, small] That's me.",
+   "voice_id": "3YXAuwCx7wB8kSkKCqsu",
+   "speaker": "YOU",
+   "overlap": false
+  },
+  {
+   "text": "[warmer, leaning in] But here's what nobody expected. People with just as much stress... who didn't see it as harmful... didn't show that risk at all. In fact, they had some of the lowest risk in the whole study.",
+   "voice_id": "dSByRdUbTGloB7TFA1qD",
+   "speaker": "NARRATOR",
+   "overlap": false
+  },
+  {
+   "text": "[barely a whisper] ...What?",
+   "voice_id": "3YXAuwCx7wB8kSkKCqsu",
+   "speaker": "YOU",
+   "overlap": false
+  },
+  {
+   "text": "[slow] Same pressure. Different story. Different outcome.",
+   "voice_id": "dSByRdUbTGloB7TFA1qD",
+   "speaker": "NARRATOR",
+   "overlap": false
+  },
+  {
+   "text": "It's one study. It can't prove the belief itself caused it. But it raises a question worth sitting with.",
+   "voice_id": "dSByRdUbTGloB7TFA1qD",
+   "speaker": "NARRATOR",
+   "overlap": false
+  },
+  {
+   "text": "What if part of what hurts us... is the way we were taught to see it?",
+   "voice_id": "dSByRdUbTGloB7TFA1qD",
+   "speaker": "NARRATOR",
+   "overlap": false
+  }
+ ],
+ "07_ending": [
+  {
+   "text": "Hans Selye's rats got sick because their lives were being turned upside down by a clumsy man with a broom. That's real. Pressure is real.",
+   "voice_id": "dSByRdUbTGloB7TFA1qD",
+   "speaker": "NARRATOR",
+   "overlap": false
+  },
+  {
+   "text": "But think about what your body actually does.",
+   "voice_id": "dSByRdUbTGloB7TFA1qD",
+   "speaker": "NARRATOR",
+   "overlap": false
+  },
+  {
+   "text": "Your heart speeds up to send you more energy.",
+   "voice_id": "dSByRdUbTGloB7TFA1qD",
+   "speaker": "NARRATOR",
+   "overlap": false
+  },
+  {
+   "text": "[slow breath in] Hhh...",
+   "voice_id": "3YXAuwCx7wB8kSkKCqsu",
+   "speaker": "YOU",
+   "overlap": false
+  },
+  {
+   "text": "Your breathing quickens to bring in more air.",
+   "voice_id": "dSByRdUbTGloB7TFA1qD",
+   "speaker": "NARRATOR",
+   "overlap": false
+  },
+  {
+   "text": "[breath out, steadier] Hhhhh.",
+   "voice_id": "3YXAuwCx7wB8kSkKCqsu",
+   "speaker": "YOU",
+   "overlap": false
+  },
+  {
+   "text": "Your focus sharpens.",
+   "voice_id": "dSByRdUbTGloB7TFA1qD",
+   "speaker": "NARRATOR",
+   "overlap": false
+  },
+  {
+   "text": "[warmly] That's not a body breaking down.",
+   "voice_id": "dSByRdUbTGloB7TFA1qD",
+   "speaker": "NARRATOR",
+   "overlap": false
+  },
+  {
+   "text": "That's a body getting ready.",
+   "voice_id": "dSByRdUbTGloB7TFA1qD",
+   "speaker": "NARRATOR",
+   "overlap": false
+  },
+  {
+   "text": "[quiet, slower now] It's two a.m. [breath] My heart's still going fast.",
+   "voice_id": "3YXAuwCx7wB8kSkKCqsu",
+   "speaker": "YOU",
+   "overlap": false
+  },
+  {
+   "text": "[a small, tired smile in the voice] ...Okay. [beat] Okay. I'm getting ready.",
+   "voice_id": "3YXAuwCx7wB8kSkKCqsu",
+   "speaker": "YOU",
+   "overlap": false
+  },
+  {
+   "text": "[softly] The word was invented. [pause] What you do with it... is still up to you.",
+   "voice_id": "dSByRdUbTGloB7TFA1qD",
+   "speaker": "NARRATOR",
+   "overlap": false
+  }
+ ]
+}

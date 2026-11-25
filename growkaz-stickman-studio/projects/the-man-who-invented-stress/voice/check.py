@@ -1,10 +1,10 @@
 import json, re, sys, glob, difflib
 from faster_whisper import WhisperModel
-lines = json.load(open("scenes/lines.json"))
 norm = lambda s: re.sub(r"[^a-z0-9' ]", " ", re.sub(r"\[[^\]]*\]", " ", s.lower()).replace("—"," ").replace("2 a.m.","two am").replace("two a.m.","two am")).split()
 m = WhisperModel("small", device="cpu", compute_type="int8")
 for f in sorted(sys.argv[1:]):
     scene = re.sub(r"_t\d+\.mp3$", "", f.split("/")[-1])
+    lines = json.load(open(f"scenes/lines_t{re.search(r'_t(\d+)\.mp3$', f).group(1)}.json"))
     segs, info = m.transcribe(f, language="en", word_timestamps=True)
     words = [w for s in segs for w in s.words]
     got = norm(" ".join(w.word for w in words).replace("2 a.m.","two am").replace("2am","two am"))

@@ -1,0 +1,44 @@
+[
+ {
+  "line": 0,
+  "speaker": "NARRATOR",
+  "text": "It worked. Maybe too well.",
+  "start": 0.0,
+  "end": 2.4
+ },
+ {
+  "line": 1,
+  "speaker": "NARRATOR",
+  "text": "By the 1950s, \"stress\" was everywhere. Magazines. Medical journals. Kitchen tables.",
+  "start": 3.44,
+  "end": 10.16
+ },
+ {
+  "line": 2,
+  "speaker": "YOU",
+  "text": "[dry] So... this is his fault.",
+  "start": 11.14,
+  "end": 14.16
+ },
+ {
+  "line": 3,
+  "speaker": "NARRATOR",
+  "text": "[laughs softly] Not quite. Selye gave us a word for something real. Your body really does respond to pressure. That part was a genuine discovery.",
+  "start": 13.86,
+  "end": 22.74
+ },
+ {
+  "line": 4,
+  "speaker": "YOU",
+  "text": "[cautious] ...But?",
+  "start": 23.68,
+  "end": 24.44
+ },
+ {
+  "line": 5,
+  "speaker": "NARRATOR",
+  "text": "But a word that powerful... is useful to people. And not only to scientists.",
+  "start": 24.44,
+  "end": 29.12
+ }
+]
