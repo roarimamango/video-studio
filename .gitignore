@@ -19,3 +19,4 @@ growkaz-stickman-studio/projects/*/art/rejected/
 growkaz-stickman-studio/projects/*/voice/scenes/*_woven.wav
 growkaz-stickman-studio/projects/*/build/
 growkaz-stickman-studio/projects/*/voice/scenes/*_woven_ad.wav
+style-tests/**/*.mp4
